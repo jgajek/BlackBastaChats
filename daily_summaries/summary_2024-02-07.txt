@@ -1,0 +1,29 @@
+**1. Main Topics Discussed:**
+
+*   **Exploiting Vulnerabilities:** Discussion about a FortiSIEM vulnerability, searching for related exploits and sources.
+*   **Data Collection & Processing:**  Gathering and managing email/password combinations, OWA data, and RD Web access. This includes building tools for searching these databases.
+*   **Malware & Payload Testing:** Testing JS payloads, cryptors, and other malware against different AV solutions and email filters, including discussion about file types (exe, dll, js).
+*   **Infection Strategies:** Experimenting with different methods to bypass email security (attachments, links, varying email content), targeting specific companies. Discussion to exploit with or without admin rights.
+*   **Cobalt Strike:** Setting up and licensing Cobalt Strike servers, migrating beacons between servers. Issues with version compatibility.
+*   **Network & Infrastructure:** Discussion about network infrastructure, server hardware, and potential hardware failures. Securing network access (Romann VLAN, migration to Last's DC).
+*   **Negotiation:** Discussions about past payments, target response, and a new technique for targeted lock notes.
+*   **Recruiting:** Recruting "чел" to help with cobalt strike themes and finding and coordinating with potential talent (e.g. with a "killer AV").
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Developing an Exploit:** Attempt to create an exploit for a FortiSIEM vulnerability
+*   **Improve data extraction tool:** Tool for searching base
+*   **Credential Harvesting:** Data collection with OWA and other credentials.
+*   **Testing new payloads:** Send JS payload as zip as attachment to test their success and detection rates.
+*   **Create more unique links** to bypass current defenses.
+*   **Customization** of Cobalt Strike, particularly theme
+*   **Migrate Cobolt Strike** from 4.8 to 4.9 and from a unstable to stable server.
+*   **Move hardware** from vulnerable datacenter.
+*   **Make blog** on newly attacked organization
+
+**3. Notable Interactions Between Participants:**
+
+*   **`lapa` and `usernamegg`:** Frequent interaction around email filter testing, payload delivery, and data gathering.  `lapa` is testing the effectiveness of email delivery methods while `usernamegg` provides targets and tests from compromised systems. They also discuss the value of an account @ attluk.
+*   **`muaddib6` and `usernamemm`:**  Collaboration on payload development and testing against AV.
+*   **`usernamenn` and `usernamegg`:** Discussing about Cobalt Strike and other infrastructure
+*   **`tinker` and `usernamegg`:** Discussing targets, negotiating, and a new approach to customize lock messages. `tinker` voices frustration about workload and a possible lack of context about the state of an operation.

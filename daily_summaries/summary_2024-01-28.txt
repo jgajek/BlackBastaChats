@@ -1,0 +1,21 @@
+Here's a breakdown of the chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Cobalt Strike C2 Obfuscation:** The group is discussing and sharing a tool called "GraphStrike" that helps obfuscate Cobalt Strike command and control (C2) traffic by using the Microsoft Graph API. This makes it harder to detect.
+*   **Build Development and Bug Fixing:** User `n3auxaxl` is working on building and fixing bugs in a software component (likely related to their malicious activities).  They are working locally and plan to release a new build soon.
+*   **RDI/SRDI Loaders:** The group is referencing (and already knowledgeable about) a technique for writing custom Reflective DLL Injection (RDI) or Shellcode Reflective DLL Injection (SRDI) loaders using C and ASM.
+*   **Credential Data/Password Cracking:**  User `usernamess` shares what appear to be hashed credentials or password dumps. `usernameboy` replies to one of those hashes with a possible plaintext password, suggesting they were successful in cracking it.
+
+**2. Key Decisions or Actions Planned:**
+
+*   `n3auxaxl` will release new builds of their software component the following morning.
+*   `n3auxaxl` will take time off but might be available later that evening.
+*   The group seems to be actively evaluating and implementing GraphStrike for C2 obfuscation.
+*   Further password cracking attempts are likely to continue based on the shared hashes.
+
+**3. Notable Interactions Between Participants:**
+
+*   `@usernamegg` seems to be a supervisor, and the comment from `n3auxaxl` "@usernamegg збс ты сидишь фиксишь баги конечно" suggests that they are being asked about bug fixes.
+*   `n3auxaxl` references a blog post sent by  `<@usernamegg:matrix.bestflowers247.online>`, indicating collaboration and knowledge sharing.
+*   `usernamess` provides password hashes. `usernameboy` attempts to crack them, demonstrating a division of labor or a shared goal in credential harvesting/cracking.

@@ -1,0 +1,29 @@
+Here's a concise summary of the cybercrime group chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Troubleshooting Infrastructure:** Initial server access issues ("брута" server freezing).
+*   **Developing and Deploying Malware:** Discussing different malware components (droppers, crypters, loaders), encoding (UTF8 vs ASCII), and injection methods (DLL vs EXE). Includes specific file names and passwords. Concern about antivirus (Symantec) detecting the files.
+*   **Spam Campaigns and Target Identification:** Identifying potential targets (companies like Fujifilm, BYD, others located in Europe and the US), analyzing the success of spam campaigns (number of downloads, reverse engineering attempts), and iterating on techniques (using JS, bypassing cmd/PowerShell, using curl, testing new domains/links, and identifying and mitigating anti-reverse engineering efforts).
+*   **Credential Harvesting and Brute-Forcing:**  Sharing harvested credentials (usernames, passwords, cookies) and techniques for exploiting remote access tools like RDWeb, Citrix, and Cisco. Attempts to brute-force admin credentials.
+*   **EDR Bypass Testing:** Testing a new "killer EDR" (Endpoint Detection and Response) tool.
+*   **Logistics & Finances:** Paying coders, and managing infrastructure
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Shift Focus to New Techniques:** Moving away from JS-based attacks that rely on cmd/PowerShell and explore new methods for delivering malware.
+*   **Testing and Iteration:** Continuously testing different malware builds, encryption methods, and delivery techniques to bypass security measures. Emphasizing checking the validity of the output from tools before deployment.
+*   **Targeting New Geographic Regions:** Plans to target Europe.
+*   **Securing new VPS servers with new accounts and adding them to the Botnet.**
+*   **Address the Failing Bot**
+*    **Payment to coders**
+*   **Address the issues with the crypter**
+
+**3. Notable Interactions Between Participants:**
+
+*   **Problem Solving:** Collaboration on troubleshooting server issues, debugging malware components, and finding methods to bypass security measures.
+*   **Task Delegation:** Assigning specific tasks to different members, such as coding, testing, creating "builds," distributing payloads, and providing infrastructure.
+*   **Code Review & Feedback:** Critiquing the code from the "killer EDR" developer.
+*   **Incentivizing Work:** Payment of 3k every two weeks for coder's work.
+*   **Alert regarding public notice of attack** - One participant is concerned how "bleepingcomputer" news got early information about the ransomware attack on hyundai motor europe.
+*   **Distrust & Concern Regarding Public Attention:** Concern over information leaks and potentially compromised team members.

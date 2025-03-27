@@ -1,0 +1,29 @@
+**1. Main Topics Discussed:**
+
+*   **Credential Harvesting and Brute-forcing:** A significant portion of the discussion revolves around harvesting credentials (usernames, passwords, hashes) from various sources, including compromised systems, email dumps, and Fortinet VPNs. The group is actively working on brute-forcing hashes to recover passwords.
+*   **Network Access and Exploitation:** The group discusses gaining access to internal networks through VPNs, Citrix, RDP, and compromised credentials. They are focused on identifying valuable targets (e.g., Exchange servers) for data extraction and potential ransomware attacks.
+*   **Malware Development and Deployment:** There is a conversation about developing and testing malware, specifically DLLs (for easier execution and less detection) and a customized ransomware variant with a "Black Saw" theme (a reference to the Black Basta ransomware). This includes discussions about payload delivery, cryptors, and anti-detection measures.
+*   **Target Analysis and Prioritization:** The group analyzes potential targets, using ZoomInfo and Apollo.io to assess company size and revenue. They also discuss verifying the accuracy of data and prioritizing targets with valuable assets and limited security.
+*   **Negotiation Strategy (Ransomware):** Discussions revolve around ransom demands, negotiation tactics, and how to handle victims without cyber insurance.
+*   **Cryptor Development** They're actively testing ways to avoid anti-virus.
+*   **General Information Sharing:** The group shares links to relevant resources, such as vulnerability reports and tools for network scanning.
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Credential Brute-forcing:** Continue to focus on brute-forcing harvested hashes, especially for Fortinet VPNs.
+*   **Exploit Network Access:** Manually check identified credentials against VPNs, RDP, Citrix and Fortinet devices. Focus on network intrusion.
+*   **Develop and Deploy "Black Saw" Ransomware:** Develop a new ransomware variant with a "Black Saw" theme for targeted attacks. Ensure music plays after encryption
+*   **Automate credential validation:** 'Lapa' to work on automating credential validation to see which accounts lead to something of value.
+*   **Data collection and Analysis:** continue to collect email address and password combinations for more targets.
+*  **Target IT sector:** "Remember that IT network".
+*  **Preparation of builds**: Creation of malicious builds in various formats.
+
+**3. Notable Interactions Between Participants:**
+
+*   **`usernamegg` is a key figure:** Directs tasks, analyzes targets, sets strategic goals, and manages negotiations.
+*   **`lapa` focuses on credential harvesting:** Collects and processes credentials from various sources, including email dumps and web scraping.
+*   **`n3auxaxl`, `burito` and `muaddib6` focus on malware development and crypting:**  Work on developing and testing payloads, cryptors, and anti-detection techniques.
+*   **`tinker`** assists with negotiation.
+*   **`usernameyy`** is another coder who created the "black saw" ransomware variant
+
+The group operates with a clear division of labor, with different members specializing in credential harvesting, network intrusion, malware development, and negotiation. `usernamegg` appears to be a central figure, providing leadership and direction to the group's activities. They are focused on automating the process of identifying and exploiting vulnerabilities to maximize their profits.

@@ -1,0 +1,26 @@
+Here's a breakdown of the chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Target Identification and Exploitation:** Focus on finding and compromising specific targets (individuals, systems, companies) using VPNs, RDWeb, and other access points. Sharing of credentials (usernames, passwords, IPs), file paths, server information, and tools to aid in exploitation. Discussion of bypassing 2FA.
+*   **Tool Development and Testing:**  Creating and refining tools (e.g., "Killer EDR" updates, cobalt strike payloads (x86 and x64), cryptors ("quak bot") to gain access and maintain persistence on compromised systems.  Testing these tools against AV.
+*   **VPN/Credential Brute-forcing and Phishing:** The group discusses brute-forcing VPNs and phishing techniques to harvest credentials. The value of corporate mail/pass databases and using domain information from certificates is explored.
+*   **Cobalt Strike Issues:** There are issues and debugging of a Cobalt Strike kit, in particluar with running the x64 versions and reflectives
+*   **Ransomware/Data Exfiltration:**  Mentions of moving laterally to steal data. RMM is quickly put on computers that are compromised
+*   **Payment and Team Management:** One member ("tinker") mentions falling off for two days due to a "family emergency" involving tax law enforcment, is seeking to be penalized for lost time.
+*   **Okta Infrastructure Exploitation:** They disuss exploitins okta
+*  **Business planning** There was discussin of making good revenue and targeting companies with revenue up to a billion dollars
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Target specific companies.** They try to identify high-value targets with substantial revenue.
+*   **Develop phishing campaigns** The plan to phish Okta logins.
+*   **Use the phone to steal 2FA codes** Plan to use the phone to phish those that uses 2FA
+*   **Test exploits on targets:** Test a cisco remote desktop exploit with valid accounts
+
+**3. Notable Interactions Between Participants:**
+
+*   **`usernamegg` as a Leader/Expert:** Acts as a central figure, providing credentials, exploits, instructions, and assigning tasks. Often seems to be mentoring or guiding other members.
+*   **Collaboration on Tool Development:** `n3auxaxl` provides Cobalt Strike payloads and fixes errors when the x64 version fail.
+*   **`nickolas` as a Partner:** A person who is working with another group to compromise the systems that have Cobalt Strike installed
+

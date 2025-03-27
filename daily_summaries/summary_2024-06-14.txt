@@ -1,0 +1,35 @@
+Here's a summary of the cybercrime group's chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Target Preparation:** Initial target preparation and validation for upcoming campaigns.
+*   **Data Acquisition & Validation:** Sharing and validating lists of credentials (RDWeb, Cisco, SonicWall, Fortinet, WireGuard - "VALID" files), email accounts (especially for Teams), and Kerberos tickets.
+*   **Infection & Password Extraction:** Discussing methods of infecting systems and extracting credentials, specifically using phone calls ("звоном"). They also praised a new "phone man/dialer" for successfully infecting multiple companies.
+*   **SOCKS Proxy Issues:** Troubleshoot the SOCKS proxy bot. Different versions are being tested for stability and load capacity. There are concerns about memory usage and the ability to handle the load.
+*   **VM/Fake Machine Creation:** A complex discussion about creating a "fake" machine within a domain, likely for evading security measures. User "usernamegg" wants to automate this process via an executable file. They mention using LDAP shells for this purpose.
+*   **Campaign Planning:** Planning specific campaigns targeting Germany (DE), Austria, Switzerland, the UK (.co.uk), and the US/Canada. They are focused on companies with revenue exceeding 200 million.
+*   **AV Evasion:** Addressing issues with anti-virus software (Trend Micro) detecting their tools, specifically a file linked with malicious content. They are seeking cleaner solutions.
+*   **Operator Onboarding and Communication:** Discussing training and performance of new operators. Mention of difficulties onboarding a new operator who might be too slow or unclear.
+*   **Division of Labor:** Lapa focuses on providing lists and scraping info, usernamegg focuses on managing the operators, and usernameyy focuses on the programming/software side.
+*   **Operational Closure:** Discussing closing operations for the day, with "usernamehunter" handling closing transactions and providing Bitcoin address.
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Continue Campaign Preparations:** Focus on preparing targets for specific countries (Germany, UK, US/Canada).
+*   **Hire Talented Phone Man:** Attempt to recruit the highly successful "phone man" (dialer) into the team.
+*   **Develop Automated VM Creation:** Continue working on creating an executable to automate the creation of fake VMs within domains. This is a key area of focus.
+*   **Improve SOCKS Proxy Bot:** Continue debugging and improving the SOCKS proxy bot, focusing on load capacity and stability. Testing a new build.
+*   **Test a new update for soxs**
+*   **Postpone US Operations:** Postponed USA campaign operation for Monday.
+*   **Focus on the UK** The UK campaign is set to begin with operators working during specific hours.
+*   **Address AV Detection Issues:** Find a cleaner version of the tools, to avoid detection by trendmicro.
+*   **Address connection issues for phone man**
+*   **Lapa needs to focus on scraping info for spheres**
+
+**3. Notable Interactions:**
+
+*   **usernamegg & usernameyy (Programmer):** A tense exchange around the VM creation tool. usernamegg is frustrated with usernameyy's understanding of the requirements and lack of progress. usernameyy, in turn, is demanding clear specifications and documentation.
+*   **usernamegg & usernameugway (Manager):** Close coordination regarding campaign execution, operator training, and addressing issues with new recruits.
+*   **usernamegg & Lapa (Data Provider):** Communication regarding data gathering and validation.
+*    **Group and Muaddib6:** Interaction regarding AV (Trend Micro) detection, sharing potential causes and need for cleaner code. Muaddib6 tries to help usernamegg on detection analysis.
+*   **Lincoln & ugw:** A discussion about past exploits, scams, and methods to scam victims into paying more. They talk of opening an independent site to appear legit.

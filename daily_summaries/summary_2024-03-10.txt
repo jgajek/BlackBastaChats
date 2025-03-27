@@ -1,0 +1,27 @@
+Here's a breakdown of the cybercrime group's chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Malware Development:** Focus on developing or improving malware. Discussions include rewriting a portion of an artifact, resolving process spawning issues, spoofing parent processes, and making a "beacon" independent of the initial entry point.
+*   **Evasion Techniques:** Discussions around anti-virus (AV) evasion, raw file generation, encryption, obfuscation of communications, and injecting code into processes ("as cats").
+*   **Post-Exploitation:** Discussions on killing the old beacon process after injecting into a new one to avoid detection.
+*   **Reconnaissance:** The importance of perimeter reconnaissance using tools like Censys and Shodan, and monitoring the victim's IP addresses.
+*   **ssmnlaw.com domain:** There's a mention of this domain, seemingly relating to a decision or action Tinker needs to take.
+*   **Video Sharing:** A user shares a YouTube video (likely related to their activities).
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Testing on Monday:** @n3auxaxl plans to begin testing their malware development progress on Monday.
+*   **Completing Artifact Rewrite:** @n3auxaxl aims to finish rewriting a portion of the malware artifact.
+*   **Process Spawning Solution:** @n3auxaxl needs to resolve an issue with process spawning.
+*   **Implementing Spoofing Techniques:** Adding techniques to spoof parent processes within the malware.
+*   **Generating Raw Files and Encryption:** The group needs a system for generating raw executable files, encrypting them well, and communicating through a profile to avoid detection.
+*   **Moving Files and Injection:** They want to be able to move executables (EXE) or DLLs across the network and inject them into processes.
+*   **Killing Old Beacon:** After injection, they agree to kill the old beacon process to avoid detection.
+*   **Perimeter Reconnaissance:** Emphasizing and performing perimeter reconnaissance using Censys and Shodan and monitor victim IPs.
+
+**3. Notable Interactions Between Participants:**
+
+*   **@n3auxaxl and @usernamegg:** A back-and-forth between these two users, with @usernamegg asking for clarifications and elaborating on requirements for the malware. He references specific lines from @n3auxaxl indicating he's closely following the developer's work. @usernamegg sets the priorities, especially concerning file generation, encryption and injection.
+*   **@usernamegg and @tinker:** @usernamegg mentions ssmnlaw.com and indicates Tinker is responsible for a decision related to it, deferring to Tinker's judgement.
+*   **General Agreement on Security Practices:** The group seems to agree on the importance of hiding their activities (killing old beacons, using encryption, etc.) and conducting thorough reconnaissance.

@@ -1,0 +1,28 @@
+Here's a summary of the chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Ransomware Operations:** The group is actively engaged in ransomware attacks, discussing victims like navitaspet.com, sipicorp.com, agc.com, pecofoods.com, and Hyundai. They are extracting data from compromised systems.
+*   **Data Exfiltration & File Retrieval:** They focus on locating and retrieving specific files from the compromised networks of their victims, using tools and techniques to search through backups. Tinker is specifically tasked with locating and extracting files to send to victims after a breach.
+*   **Negotiations:** There's mention of ongoing negotiations with victims, the importance of not underselling the stolen data, and the need for accurate file paths from the victims themselves.
+*   **Infrastructure:** Discussion of obtaining corporate emails for Falcon trial accounts, setting up servers, using socks for spam and brute-forcing OWA accounts, and testing build quality agains Falcon.
+*   **Payments & Profit Sharing:** A significant portion of the chat revolves around payments to team members, percentages ("20%", "30-35%"), and disputes over the distribution of profits, particularly the role of someone called "Makar."
+*   **Evading Security Measures:** There's discussion about evading Falcon security by using OWA accounts.
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Continuing Attacks:** They will continue targeting and extracting data from victims.
+*   **Data Delivery:** Tinker is instructed to package and deliver extracted files to the victims as proof of the breach.
+*   **Falcon Trial:** Secure a Falcon trial account to test new malware build quality against Falcon
+*   **Negotiation Strategy:** Continue negotiations with the identified targets in early January.
+*   **Payment & Profit Distribution:** Settle the dispute with "ssd" regarding the profit percentage split, while considering the share for "Makar."
+*    **OWA Bruteforce:** Begin the process of brute-forcing OWA credentials.
+
+**3. Notable Interactions Between Participants:**
+
+*   **`usernamegg` (Leader/Organizer):** Appears to be the leader, delegating tasks, providing instructions (especially to `tinker`), handling payments, and making key decisions.
+*   **`tinker` (Data Exfiltration):** Relatively new to the group, tasked with finding specific files on compromised systems. They are receiving guidance from `usernamegg` on how to use search tools and package data for victims.
+*   **`ssd` (Affiliate):** Involved in traffic generation and has a financial dispute with `usernamegg` over profit percentages.
+*   **`usernamenn` (Security Tester):** Concerned about evading security solutions on victim networks, is requesting new socks for spam.
+*   **`cameron777`:** Primarily relaying messages about companies writing the group.
+*   **`cob_crypt_ward`:** Focused on getting Falcon trial accounts, and interested in their actions on locked systems.

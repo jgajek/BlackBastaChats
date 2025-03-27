@@ -1,0 +1,31 @@
+Here's a breakdown of the cybercrime group's chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Credential Stuffing/Bruteforcing:** The group shares files containing lists of usernames, passwords, and URLs associated with services like Cisco, Fortinet, SonicWall, RD Web, Citrix, and others. The terms "VALID_BRUT" suggest these are likely the results of brute-forcing attempts.
+*   **Ransomware Operations:** A significant portion of the discussion revolves around ransomware attacks. They discuss potential targets, current payment rates, victim negotiations, and the development/improvement of their locker (ransomware) software.
+*   **Target Selection and Validation:** Members evaluate potential victims, discussing their revenue, industry, security measures (backups, cloud storage), and likelihood of payment. They are considering adjusting their tactics based on the current economic climate ("recession") affecting ransom payments.
+*   **Phishing and Social Engineering:** The group discusses sending out phishing emails (referred to as "разводки", or "divorces" in Russian) to harvest credentials, specifically targeting Citrix users. They are also exploring the use of Android bots for this purpose.
+*   **Cobalt Strike Usage & Obfuscation:** Discussion around Cobalt Strike payloads, including crypting them to avoid detection and using "GetModuleProp" for execution.
+*   **Infrastructure and Security:** Conversations about the stability of their DNS, proxy servers (SOCKS), and the use of VPNs. They also address the security of their own wallets, recommending 2FA and new wallet creation.
+*   **Internal Issues:** Discussions regarding wallet recovery issues, problems with Microsoft reverser, building of cobal strike payloads, and so on.
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Continue credential stuffing/bruteforcing efforts:** The group plans to continue their brute-forcing activities and use the harvested credentials to gain access to target systems.
+*   **Improve Locker (Ransomware):** They are actively developing and testing their ransomware (locker) software, with plans to add safe mode functionality and support for Linux and ESXi systems.
+*   **Explore Android Bot for Phishing:** They are seriously considering using Android bots to deliver phishing attacks and bypass 2FA.
+*   **Test New Delivery Methods:** Test the new payload to make the code work, focus on delivery methods, and prioritize Windows payloads.
+*   **Shift focus to companies with linux OS systems:** The discussion involved making ransomware for linux systems including exsi.
+
+**3. Notable Interactions Between Participants:**
+
+*   **@lapa and @usernamegg:** Regular communication about credentials, targets, and overall strategy. @lapa seems responsible for generating/acquiring credentials, while @usernamegg appears to be a decision-maker and coordinator.
+*   **@usernamegg and @n3auxaxl:** Collaboration on ransomware development, particularly the Linux/ESXi version.
+*   **@usernamegg and @tinker:** A conversation about ransomware market trends, the financial health of victims, and the performance of different ransomware groups. This reveals insight into the economics of ransomware.
+*   **@usernamegg and @chuck & @nickolas:** Coordination of target information and initial exploitation with additional targets being forwarded to @usernamegg.
+*   **@usernameyy and @usernamegg:** Collaboration on wallet recovery which includes funds being transferred.
+*   **@usernamegg and @cameron777:** Discusses ways to best get citrix.
+*  **General collaboration:** The group shares hashes, cracked passwords, and domain administrator accounts with each other.
+
+**In summary, this chat log showcases a cybercrime group actively engaged in credential theft and ransomware operations. They are continuously working to improve their tools, refine their targeting strategies, and adapt to the evolving security landscape. The group members are collaborating on various aspects of their operations, including development, testing, and target assessment.**

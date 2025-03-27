@@ -1,0 +1,29 @@
+Here's a breakdown of the cybercrime group's chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Infrastructure Scaling:**  The group is actively scaling up their infrastructure. They are discussing procuring more servers (specifically, 6 additional servers from BEARHOST) to increase their processing capacity (target of 200k threads).  They're also discussing server configurations (Ubuntu 20), costs, and optimizing server resource usage (RAM).
+*   **Socks and Proxy Management:**  A significant amount of discussion revolves around obtaining reliable SOCKS proxies, particularly those allowing SMTP port usage. They are exploring various SOCKS providers (iproxy.shop, proxies.fo, truesocks.net), trialing daily plans, and discussing the problems of SOCKS getting blocked or failing after a short period. They debate purchasing SOCKS in bulk versus raising their own, and are looking at methods for scraping and validating proxies using Python scripts.
+*   **Credential Brute-forcing and Validation:** They are actively involved in brute-forcing accounts (cPanel, RDWEB, Cisco, SonicWall, Fortinet, etc.) and validating the obtained credentials. "Lapa" seems to be the expert in validating these items. Several file names like `FORTI_VALID.txt`, `AUTH_VALID.txt`, `VALID_BRUT_RDWEB.txt` suggest their operation is focused on specific types of services.
+*   **Malware Development & Crypting:** There are discussions about malware ("koba" is mentioned), and someone named n3auxaxl is working on improving their build: adding dynamic winapi, random keys, polymorphic builds, code morphing, and anti-reverse engineering techniques.  They are trying to evade AV detection.
+*   **Targeting and Probing:** Specific targets are discussed. `provencherroy.ca` is investigated, and financial information about it was shared, they are generating PDFs and links for a large scale send out, looking for valid Azure accounts.
+*   **Team Coordination & Payouts:**  There's evidence of team structure, delegation of tasks (e.g., "Lapa" managing SOCKS, "n3auxaxl" developing malware), and discussions about payouts (request for "clean Bitcoin" for SOCKS payments, providing BTC wallets, and discussing revenue generated from breaches). They discuss which members are responsible for different types of work, including running the bruting, and which tools they should use.
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Purchase More Servers:** Decide to acquire 6-8 additional servers from BEARHOST, and get 1 server working as the testing server.
+*   **Secure Reliable SOCKS:** Lapa to choose and implement SOCKS for SMTP validation.
+*   **Targeted Campaign:** To deliver links or PDFs for 100k - 200k users, and start an Azure account brute.
+*   **Improve Malware:**  n3auxaxl will continue improving the malware builds (anti-reverse, polymorphism, better anti-virus evasion).
+*   **Test and Fix:** Improve the breacher script, debug why some modules are not working, such as the MT function.
+
+**3. Notable Interactions Between Participants:**
+
+*   **`usernamegg` and `lapa`:** Frequent, task-oriented communication about infrastructure, SOCKS, and credential management.  `usernamegg` provides resources and coordinates, while `lapa` focuses on validation and technical aspects.
+*   **`usernamegg` and `n3auxaxl`:** Discussion about malware development and testing, as well as a request for a new version of Cobalt Strike.
+*   **`usernamegg` and `usernameyy`**: This exchange reveals coordination on setting up Cobalt Strike and discussing troubleshooting, specifically regarding the failure of VPS beacons.
+*   **`usernamegg` and `usernameugway`:** Discuss about the preparation of the Azure campaign.
+*   **Task Delegation & Supervision:**  `usernamegg` appears to be in a leadership role, delegating tasks, providing resources, and following up on progress.
+*   **Technical Help Requests:** There are several requests for technical assistance (e.g., help configuring the private network, troubleshooting malware issues).
+
+In summary, this chat log provides a glimpse into a cybercrime group actively expanding its infrastructure, coordinating various attack vectors (credential brute-forcing, malware deployment), and managing resources to achieve their objectives. They are working to get as many valid credentials for access, as well as improve the evasion of AV software to improve their reach.

@@ -1,0 +1,30 @@
+Here's a summary of the chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Payment:** An initial query regarding payment for work done.
+*   **Data Availability/Backup:** Checking the availability and integrity of data backups ("сетка").
+*   **Fortinet Phishing Campaign:** Extensive discussion around launching a phishing campaign targeting Fortinet VPN users to steal credentials. This includes:
+    *   Brainstorming effective phishing email subjects/content (e.g., "1 notification from Forti", "Finish Forti setup", "License renewal")
+    *   Creating a convincing fake Fortinet login page.
+    *   Using the stolen credentials to access VPNs.
+    *   Addressing concerns about unique hostnames and potential difficulties in using generic login pages.
+*   **EDR Killer:** Sharing a new build of an "EDR killer" (build.008.tar.zip) with a password.
+*   **Calculation:** One user saying they will "calculate" another, which could refer to either salary or contribution.
+*   **Cracking:** One user providing a hash and its cracked password.
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Fortinet Phishing:**
+    *   Launch a phishing campaign targeting Fortinet users to harvest VPN credentials.
+    *   "lapa" to create a fake Fortinet login form/page.
+    *   "tinker" to assist with writing phishing email content.
+    *   Test the phishing campaign on "мелки" (small targets, possibly for testing) before targeting "китам" (large targets).
+*   **EDR Killer:** Share build with the group.
+
+**3. Notable Interactions Between Participants:**
+
+*   **iamnurnazarov & manager880:** Transactional exchange regarding payment. "iamnurnazarov" inquires about payment, "manager880" acknowledges the transaction with a receipt ("✅") and an account hash.
+*   **usernamecc & usernamegg:** Collaboration on data availability and the Fortinet phishing campaign. "usernamecc" provides files/links ("STAR-ITALIA_FILE"), confirms backup integrity, and "usernamegg" investigates technical aspects and suggests campaign strategies.
+*   **lapa & usernamegg:** A discussion where the idea for the phishing attack starts to be fleshed out, including how to create the attack and how to effectively send the malicious email.
+*   **tinker & others:** "tinker" is brought in to help with writing convincing phishing email content and offers suggestions based on past experience with similar phishing campaigns. He's described as a "lawyer" who helps with writing "tests", implying experience with creating believable content for scams or other illegal activities.

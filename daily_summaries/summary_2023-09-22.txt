@@ -1,0 +1,25 @@
+Here's a concise summary of the chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Infrastructure Setup:** Sharing server IPs (Baccarat), setting up SOCKS bots, discussing loader issues, and server problems.
+*   **Targeting Websites:** Discussions of specific websites being targeted (edwardian.com, stantonwilliams.com, baccarat.com), likely for malicious activity.
+*   **Malware Distribution (Sending/"Shipping"):** Generating and cleaning VBS scripts, discussing sending or postponing sending malware ("ship"), and checking file detections. PDF and HLL files are also mentioned.
+*   **Code Injection:** Discusses injecting shellcode into files.
+*   **Access Rights & Server Management:** Granting admin rights on a system.
+*   **Financial Matters:** Discussing costs associated with software ("50ml rubles" for the software) and potential payouts (including Bitcoin), and also discusses receiving money.
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Postponing Sending:** Decided *not* to "ship" or send out malware today, postponing to Monday due to fatigue and file detection issues.
+*   **Cleaning VBS Scripts:** Focused on creating "clean" VBS scripts using a template for bot distribution.
+*   **Revoking SOCKS bot:** The group decided to remove a SOCKS bot.
+*   **Continue Lock the target's networks:** Lock the target networks and wait for it.
+
+**3. Notable Interactions Between Participants:**
+
+*   **`usernamegg` and `lapa`**: Frequent collaboration on sending files, including checking file cleanliness. `usernamegg` appears to be in charge of the operation, but is tired. `lapa` responsible for delivering links to team.
+*   **`usernamegg` and `w`**: Discussing generating and cleaning VBS scripts, and also discussed paymen
+*   **`usernamegg` and `usernameugway`:** Discussing the possibility of using the old tool, also about payment.
+
+In summary, the group is actively preparing for a malware campaign, focusing on cleaning their tools and making sure their infrastructure is in place. They are targeting a specific set of websites, and have a clear division of labor within the group. Because of some issues and tiredness, they decided to postpone the campaign till Monday.

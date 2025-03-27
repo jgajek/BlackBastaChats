@@ -1,0 +1,27 @@
+Here's a breakdown of the chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Exploit Delivery and Evasion:** The group is struggling with detection of their malware, primarily focusing on problems with their JavaScript (JS) droppers getting flagged by security software. They discuss various delivery methods, including ZIP archives with passwords, ISO images, LNK files, and MSI installers. There's a constant back-and-forth about whether the problem is the payload itself or the delivery method.
+*   **Infrastructure Stability and Performance:** The group is facing performance issues with their infrastructure, including slow download speeds from their blog and occasional downtime or sluggishness with their traffic direction system (BlackTDS). They discuss solutions like buying more servers and optimizing the blog for faster data retrieval.
+*   **Target and Victim Management:** There are discussions about obtaining and verifying email lists (especially those associated with Outlook/Office 365), organizing and displaying exfiltrated data on their blog, and setting access controls for different team members. Also identifying targets worth hitting
+*   **Tooling and Custom Development:** The team is working on custom tools and features, including a keylogger, a method for automatic extraction of kerberos tickets, a method for downloading files on the blog and adding it to their admin tool.
+*   **Opsec and Security Awareness:** There are hints of a shift towards security awareness.
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Shift to ZIP Archives with Passwords:** As a temporary solution to bypass detection, the group decides to use ZIP archives with password protection to deliver their JS payloads. The password will be included in the email.
+*   **Implement Better Download Functionality for the Blog:** They decide to rebuild their leak site to allow downloads of directories, not just single files.
+*   **Purchase More Infrastructure:** They make the decision to acquire servers with higher bandwidth and capacity to address performance issues and better support large data uploads and downloads.
+*   **Develop a New Dropper:** They intend to create an msi file to bypass detections.
+*   **Implement Screenshot Functionality in the DLL:** To have greater insight of infected computers, they decide to add a function to take screenshots of the users current desktop.
+
+**3. Notable Interactions Between Participants:**
+
+*   **`usernamegg` is the apparent leader or main coordinator:** They direct tasks, set priorities, and make key decisions. They also often complain about problems with the infrastructure and demand fixes.
+*   **`usernameyy` is a key technical person:** They are responsible for infrastructure management, code development, and resolving technical issues. They often interact with `usernamegg` to address performance bottlenecks and implement new features.
+*   **`lapa` seems to be focused on email spamming and traffic generation:** They report on the effectiveness of email campaigns, monitor download and execution rates, and work to evade email filters.
+*   **`w` is responsible for malware development and evasion:** They develop and test malware payloads, troubleshoot detection issues, and work to identify new techniques.
+*   **There are instances of frustration and disagreement, particularly regarding the best approaches to evade detection and improve infrastructure performance.** `usernamegg` is often critical of the current state and presses for immediate action, while others, like `usernameyy`, offer more pragmatic perspectives and explanations of technical limitations.
+*   **There are lighter, less technical discussions** Such as discussions about recent sporting event or the team's holiday plans
+

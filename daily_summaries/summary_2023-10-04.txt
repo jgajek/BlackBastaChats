@@ -1,0 +1,31 @@
+**1. Main topics discussed:**
+
+*   **Exploit Development and Delivery:** The group is actively discussing ways to deliver payloads (DLLs) to target systems, including the use of LNK files, SCT files, PDFs, and VBS scripts. They are also working on methods to bypass security measures like Mark of the Web (MOTW) and antivirus software. They're experimenting with embedding payloads directly in files and using less traceable methods of delivery, like avoiding external downloads.
+*   **Credential Harvesting and Lateral Movement:** There's significant discussion around obtaining credentials (especially for email accounts) and using them to move laterally within target networks.  They are trying to find accounts without 2FA.
+*   **Network Exploitation and Infrastructure:** Discussions revolve around exploiting vulnerabilities in systems like WS\_FTP Server and exploring new targets. There are also conversations about setting up and managing SMTP servers, VPNs, and infrastructure for their operations.
+*   **"RND" and Targeting:** The group seeks to develop new, creative methods to bypass security and infect systems. There's a focus on understanding how current security measures work so that they can find weaknesses.
+
+**2. Key decisions or actions planned:**
+
+*   **Payload delivery:** They decide to prioritize embedding the loader directly into attached files to bypass network restrictions that block external downloads.  They will create a PDF with an embedded LNK to deliver their payload.
+*   **Exploit:** They will create an exploit for the "WS\_FTP Server"
+*   **Testing payloads:** Deploy a new payload and monitor its effectiveness using tracking IPs.
+*   **Attack Time:** The team is going to launch the attack around 1 AM.
+*   **Distribution of labor:** Some team members are responsible for finding and testing IPs.
+*   **Team Member Roles:**
+    *   *usernamegg*: Oversees the operation, gets and gives intel, and drives strategic thinking.
+    *   *w*: A developer, creating payload delivery methods, bypassing security features, and doing exploit research.
+    *   *lapa*: Setting up and managing distribution infrastructure and analyzing data from payload attempts.
+    *   *usernamess*: Finding credentials and assisting in network traversal.
+    *   *usernameugway*: Developing/sourcing new exploit opportunities and possibly managing spam campaigns.
+    *   *usernamevv*: Assisting in network access and exfiltration.
+    *   *usernameyy*: Signing the MSI file.
+
+**3. Notable interactions between participants:**
+
+*   **usernamegg acts as a leader, coordinating the efforts of different team members and making key decisions.**  He provides guidance, task assignments, and feedback to others.
+*   **There are collaborative problem-solving sessions between developers (like *w*) and other members.** They exchange ideas and brainstorm solutions for bypassing security measures.
+*   **There are instances of internal conflict or tension.**  For example, usernamegg expresses frustration about LNK being used.
+*   **Participants share resources and information.** This includes sharing articles about vulnerabilities, lists of potential targets, and updates on the status of their work.
+*   **Concerns are voiced regarding the security of their methods.** There is conversation about MOTW which could potentially block downloads.
+*   **Financial aspects:** There is discussion about how one of the team members was helped financially to be able to continue on a particular task.

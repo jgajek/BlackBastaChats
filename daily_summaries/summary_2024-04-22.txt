@@ -1,0 +1,32 @@
+Here's a concise summary of the cybercrime group's chat log:
+
+**1. Main Topics Discussed:**
+
+*   **Financial Updates & LockBit Discussion:** A discussion about a BleepingComputer article on decreasing ransomware payments, and whether LockBit was being truthful.
+*   **Fortinet Phishing Campaign:** Primarily focuses on developing and testing a phishing campaign targeting Fortinet users to steal credentials. This includes:
+    *   Designing phishing emails (HTML templates) and landing pages.
+    *   Setting up a panel to manage credentials and potentially request 2FA.
+    *   Brainstorming domain names to mimic legitimate Fortinet login pages.
+    *   Troubleshooting issues with email display and delivery.
+*   **SOCKS Proxy Setup:**  Testing a PowerPick SOCKS server implementation.
+*   **Credential Harvesting:** Sharing cracked credentials and hashes from various sources.
+*   **Infrastructure:** Discussing server infrastructure, paying for servers, and setting up hosting (cPanel).
+*   **Workload Distribution:** Assigning tasks to different members: email template creation, panel setup, credential gathering.
+*	**Ivanti (Pulse Secure)** Brief discussion around Ivanti attacks and whether they've been bruteforcing this.
+*   **Citrix** Next focus on phishing campaigns after Fortinet.
+
+**2. Key Decisions or Actions Planned:**
+
+*   **Test and Refine Fortinet Phishing Campaign:** Testing the email delivery and landing page. They encounter formatting issues and possible blocking.
+*   **Set up Infrastructure** Setup cpanel, licenses and vps's.
+*	**Move on to Citrix after successful Fortinet Campaign.**
+*   **Experiment with load execution** Load test exe's and dlls on victim machine with potential online bot.
+
+**3. Notable Interactions Between Participants:**
+
+*   **usernameyy and others discuss LockBit and ransomware trends:** Suggesting the team is falling behind by using a bad new strategy.
+*   **usernamegg and lapa:** The primary discussion revolves around setting up the Fortinet phishing campaign. They bounce ideas off each other, troubleshoot problems, and divide tasks. A big conflict with whether or not they need cPanel.
+*   **usernamegg delegating tasks:** He assigns tasks like writing text for emails to a "юрист" (lawyer) and asks others to collect/provide data.
+*   **Nickolas and usernamegg:** Sharing attack tips and techniques. Nickolas expresses concern about targeting Citrix due to MFA, he suggests focus their effort on harvesting credentials from systems without MFA.
+
+In summary, the group is actively developing a Fortinet phishing campaign, sharing data, and coordinating their efforts, which involves discussions around campaign strategy, technical implementation, and infrastructure management.
