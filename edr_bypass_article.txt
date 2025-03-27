@@ -1,0 +1,112 @@
+Okay, I have reviewed and analyzed the provided chat logs. Here's a comprehensive breakdown organized as requested, focusing on EDR/AV targeting, bypass techniques, and challenges:
+
+**Article: Analyzing a Cybercrime Group's EDR/AV Evasion Strategies**
+
+This article analyzes chat logs from a cybercrime group, revealing their tactics, techniques, and procedures (TTPs) for evading Endpoint Detection and Response (EDR) and Antivirus (AV) solutions. The analysis focuses on the period from September 2023 to September 2024. The group frequently discusses commercial and custom tools for persistence, privilege escalation, and payload delivery. A key theme is the constant adaptation required to stay ahead of evolving security measures.
+
+**1. EDR/AV Products Targeted:**
+
+*   **Explicitly Named Products:** The chat logs reveal that the group is actively targeting the following EDR/AV solutions:
+    *   Windows Defender/Microsoft Defender for Endpoint (frequent mentions as "деф")
+    *   SentinelOne (frequent mentions)
+    *   CrowdStrike Falcon (frequent mentions)
+    *   Trend Micro (frequent mentions, often noting specific products like OfficeScan)
+    *   Symantec Endpoint Protection (frequent mentions)
+    *   ESET Endpoint Security (recurring mentions)
+    *   Sophos (recurring mentions)
+    *   Cylance (multiple mentions)
+    *   Kaspersky (some mentions)
+    *   Webroot (some mentions)
+    *   Quick Heal (one mention)
+    *   Comodo (one mention)
+    *   Fortinet (FortiClient Host Security, Fortinet Smart Security)
+
+*   **Implied Targeting:** Beyond explicitly named products, the group also references bypassing generic security features that are common to many EDR/AV solutions, like:
+    *   Mark-of-the-Web (MOTW)
+    *   Code Signing validation
+    *   Runtime detections
+    *   Fileless execution
+
+**2. Specific Bypass Tools and EDR Killers Mentioned:**
+
+*   **Cobalt Strike (Modified):** Cobalt Strike is a central tool for the group, but they acknowledge that the default framework is easily detected.  They frequently discuss modifying the Artifact Kit, C2 profiles, and loaders to improve stealth.
+*   **Brute Ratel C4 (BRC4):**  Brute Ratel is a commercial adversary simulation tool that is designed to bypass EDR systems. Mentions of it indicate a potential attempt to move away from Cobalt Strike for improved evasion.
+*    **DarkGate loader:** The group discusses using the DarkGate loader.
+*   **Lyapis/Bentli/Muaddib6 Crypters:** These appear to be individuals or services that provide custom crypters, which are tools to obfuscate malicious code. These are central for every attack, with frequent references to the need to pay.
+*   **Nighthawk:** A pentesting tool advertised as undetectable and stealthy.
+*   **dDef.ps1:** A PowerShell script used to disable Windows Defender.
+*   **Nidhogg:** Explicit mention to use the exploit for Cobalt Strike to disable the defender.
+*   **KeyScramblerIE:** Mentions finding `KeyScramblerIE` which could relate to AV/EDR bypass to inject malicious code into a clean executable.
+*    **NirCmd:** The name implies its use for stealthy operation.
+*   **AvCheck, Scanner.to, and VirusTotal:** These are external AV/EDR testing services used to determine whether malware is detectable. The group tests the malware with AvCheck.net, then adjusts the file for deployment.
+*   **Nirsoft tools:** such as `cports` is identified which is used for post-exploitation to gather machine information to avoid detections, which is used as a starting point for AV/EDR evasion.
+*   **`esxcli` commands:** These commands are used to disable security controls and potentially run malicious code within ESXi environments.
+*   **Known Malwares**: There are occasional references to Qbot.
+*   **"Брейкер" (Breaker):** Mentioned as internal tool, may related to EDR killer, or exploit that allows to disrupt AV/EDR solution.
+*   **"AVDieMS_wc.rar":** Described as having "driver process explorer".
+
+**3. Evasion Techniques and Methods Discussed:**
+
+The group utilizes a wide array of techniques, including but not limited to:
+
+*   **Code Signing:** Actively obtaining and managing code signing certificates (especially Extended Validation (EV) certificates) to sign malicious files, making them appear legitimate to Windows and security software. Frequently testing certificates and replacing when they become "dirty."
+*   **File Obfuscation and Encryption:** Extensive use of crypters, packers, and code obfuscation to alter the appearance of malicious files and avoid signature-based detection. Using techniques such as Polymorphism and Metamorphism.
+*   **DLL Injection/Sideloading:** Injecting malicious DLLs into legitimate processes or side-loading them to evade detection.
+*   **Process Hollowing:** Creating a suspended process, unmapping its memory, and replacing it with malicious code.
+*   **Userland Hooking Evasion:** Using syscalls to evade userland hooks often used by EDR/AVs.
+*   **Dynamic API Resolution:** Using dynamic API resolution to avoid relying on static imports that could be detected.
+*   **Memory-Only Execution:** Injecting shellcode into a legitimate process, avoiding writing files to disk.
+*   **Rootkit/HVNC Usage:** Using rootkit to hide files and DLLs. Also using hvncs for avoiding detection.
+*   **PowerShell Obfuscation and Bypass:** Using PowerShell encoding and potentially disabling AMSI (Anti-Malware Scan Interface).
+*   **String Obfuscation:** Breaking up static strings, particularly IP addresses, to avoid signature-based detection.
+*   **Payload Chaining/Staging:** Using LNK files to download and execute payloads (DLLs, VBS scripts) from remote servers.
+*   **File Type Masquerading:** Attempting to disguise malicious code as different file types (VBS, XLL, attaching a file to a PDF with a .lnk).
+*   **Proxying/Traffic Obfuscation:** Using proxy bots, VPNs, Tor, and potentially DNS for C2 communications to avoid network-based detection/blocking. Keytara also being used for C2 comms.
+*   **Web Browser Exploitation:** Targeting older browser versions or specific browser configurations to exploit vulnerabilities or bypass security checks.
+*   **Social Engineering:** Crafting believable phishing emails, using fake websites, and impersonating legitimate entities to trick users into downloading and executing malicious code.
+*   **IP rotation/cleaning:** Attempts to solve the issue of static IPs in AV databases.
+*   **Load Balancing:** Using load balancing as another evasion technique.
+*   **"Bypassing" detections with crypters:** The crypter is used as an AV bypass technique. The group knows the crypter must be constantly updated.
+*   **"Cleaning" techniques:** Discussions around cleaning tools to evade detections.
+*   **Rebuilding infrastructure**: to avoid detection related to infrastructure.
+*    **Module Stomping:** A specific process injection technique.
+*   **Parent Process Spoofing:** Faking the parent process of a malicious process to further conceal its origin.
+*   **Exclusion Addition:** Creating a directory, uploading the .exe to that directory and then setting it as an exception in anti-virus software on systems so that their processes aren't automatically flagged as malicious.
+*    **New Techniques with code reuse or manipulation to avoid full signature matches**:  The use of existing software and processes.
+*  **Anti Reverse engineering to avoid analysis:** By filtering out bots/reversers by user agent and other HTTP headers.
+*   **Defense Layering:** Multiple points of defense to avoid detections.
+*   **Using short URLs**: to obfuscate the destination and source of the malicious activity.
+*    **Disabling security related software when possible**: This included antivirus solutions like MS Defender.
+*   **Domain Reputation:** The threat actors propose getting VPNS with associated domains instead of IP addresses, likely to bypass these detection mechanisms. This represents an evasion tactic.
+* Cross-architecture injection
+* Legitimate Software Bundling
+
+**4. Common Problems or Challenges Encountered:**
+
+*   **Constant Detections:** The group struggles with consistent detections by AV and EDR solutions, requiring constant updates and modifications to their tools and techniques.
+*   **"Dirty" vs. "Clean" Payloads:** The concept of "dirty" vs. "clean" files is a recurring theme. A "dirty" file is easily detected, while a "clean" file has been modified to bypass these detections.
+*   **Certificate Revocation:** The group faces the risk of their code signing certificates being revoked, rendering them ineffective.
+*   **SmartScreen and MOTW:** Bypassing Windows SmartScreen and Mark-of-the-Web (MOTW) flags remains a challenge.
+*   **Sophistication of Security Products:** The group acknowledges that security vendors are improving their detection capabilities, making it harder to evade detection.
+*   **Reverse Engineering:** The threat of reverse engineering by security researchers is a constant concern, driving efforts to obfuscate and protect their code.
+*   **Win 11 API Changes:** Win 11 API changes and the group's ability to deal with those.
+*   **Finding clean executables:** Difficulties obtaining legitimate Windows binaries that do not trigger alerts.
+*   **Maintaining Infrastructure Integrity:** Keeping their infrastructure up and running while evading network-level detection.
+*   **Balancing Evasion and Functionality:** The group often faces tradeoffs between adding evasion techniques and maintaining the functionality of their malware.
+* Detection of Shellcode injection
+* Difficulties side-stepping using excel due to policies.
+
+**5. Interesting Longer Quotes by the Gang Members on the Subject of EDR/AV Evasion:**
+
+*   \[2023-09-21 08:22:15] `@usernamegg:matrix.bestflowers247.online`: _"ALWAYS утекают в облако на анализ and начинают получать детект быстро."_ (samples ALWAYS leak to the cloud for analysis and quickly start getting detection). This highlights the understanding that their samples are quickly submitted to cloud-based analysis services, leading to rapid detection. This emphasizes the need for frequent changes and obfuscation.
+*   \[2023-09-21 16:03:51] `@usernamegg:matrix.bestflowers247.online`: _"Единственное иногда деф предлагает отправить отчет на новый файл, но это он на любые файлы сейчас такие предложения может делать. Даже очень себе легальные. Это не мешает работоспособности, но думается мне что их такая техника быстрее даст детекты"_. Discussing Defender submitting "report" and if this new "technique" will result in faster detection. This shows the criminals are having concerns about Microsoft using samples to train and improve their products.
+*   `@w:matrixtcFJHPDblmt2rg.network [2023-09-28 15:26:40]`: _"палево идет именно на самой модификации процесса, поэтому инжект в уже легетимный процесс, который работает долго, хорошо работает, потому что там по сути ты не меняешь сам код в бинаре в памяти, ты можно сказать добавляешь или поток или длку"_ (The detection comes from the modification of the process itself, so injection into an already running process works well because you don't change the code in memory, you just add a thread or dll). This demonstrates an understanding of how EDRs focus on process modification and an effort to minimize the changes made to a legitimate process.
+*   `@w:matrixtcFJHPDblmt2rg.network [2023-10-26 18:35:59]: "Бот в полной боевой готовности, все сейчас работает через Syscall, прямые вызовы к ядру ( условно говоря ) динамик детектов нет, всего 1 детект на самом боте без крипта ( палит QuickHeal когда дропер инжектит самого бота, сам бот полностью чист )"`. This translates to "Bot is fully combat ready, everything is working via Syscall, direct calls to the kernel (relatively speaking), no dynamic detections, only 1 detection on the bot itself without a cryptor (QuickHeal detects when the dropper injects the bot itself, the bot itself is completely clean)". This means they are using syscalls to evade userland hooks often used by EDR/AVs, while mentioning the bot needs to be crypted to avoid detection.
+*   `@w:matrixtcFJHPDblmt2rg.network [2023-10-28 07:34:54]`: "если будет опять палится, я передалю алгоритм рандомизации и будет новый скелет и чисто опять" (if it gets caught again, I'll redo the randomization algorithm and there will be a new skeleton and clean again).  This highlights their commitment to code randomization and rebuilding the entire binary to evade future detections.
+*   `@lapa:matrix.bestflowers247.online [2023-10-28 15:26:40]`: "палево идет именно на самой модификации процесса, поэтому инжект в уже легетимный процесс, который работает долго, хорошо работает, потому что там по сути ты не меняешь сам код в бинаре в памяти, ты можно сказать добавляешь или поток или длку ну или модуль процесса module stomping называется" This quote emphasizes process injection and mentions that by injecting into a legit process they avoid modifying the binary in memory, instead adding a stream.
+*  `@w:matrixtcFJHPDblmt2rg.network [2023-10-28 09:53:44]`: "в активный же процесс инжектим бинарный шк /да, но это не инжект сейчас, это инжект в легит бинарник, но со спуфингом родительского процесса" - Highlights process injection in order to be more sneaky in target systems and spoof the parental process.
+*   `@w:matrixtcFJHPDblmt2rg.network [2023-10-28 15:24:33]`: "у меня бот даже в памяти работает то есть я создаю процесс и меняю память в этом процессе то есть делаю свой процесс, перемещаю его в explorer.exe или в любой другой, чтобы он был родительским и потом уже меняю байт код на входной точке"
+*   @usernamess:matrix.bestflowers247.online [2023-10-29 10:17:03]: Darkgate v5 [+] AU3 Method completly improved and recoded from 0 to bypass all runtime Avs again [!] Fixed: Windows Defender was sometimes detecting the startup method after some period of time This details that some techniques in DarkGate v5 are to specifically to bypass AV.
+*    @usernamegg [2023-10-29 12:51:30]: и сразу реверсеры посыпали User is suggesting an attack to help prevent reverse engineering.
+
+This analysis provides a detailed look into the techniques, challenges, and mindset of a cybercrime group actively engaged in developing and deploying malware while attempting to evade modern security solutions. The constant need to adapt and the awareness of detection mechanisms demonstrate the ongoing arms race between attackers and defenders.

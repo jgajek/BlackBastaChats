@@ -16,6 +16,8 @@ This repository contains tools and data for analyzing the leaked Black Basta ran
 - `analyze_daily_chats.py` - Script that processes daily chat files and generates summaries using Gemini AI
 - `extract_edr_content.py` - Script that analyzes daily chats for EDR/AV evasion content and saves findings to edr_bypass_content.txt
 - `edr_bypass_content.txt` - Consolidated file containing EDR/AV evasion related content extracted from daily chats
+- `generate_edr_article.py` - Script that generates a comprehensive article analyzing EDR evasion tools and techniques using Gemini AI
+- `edr_bypass_article.txt` - Generated article analyzing EDR evasion content from the chat logs
 
 ## Database Schema
 
