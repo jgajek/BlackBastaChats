@@ -11,6 +11,11 @@ This repository contains tools and data for analyzing the leaked Black Basta ran
 - `parse_bb.py` - Python script for parsing the raw chat logs into structured data
 - `translate_bb.py` - Python script for translating non-English messages using AWS Translate
 - `oversized.log` - Error log containing messages that exceeded AWS Translate size limits
+- `daily_chats/` - Directory containing daily chat log files (format: chat_YYYY-MM-DD.txt)
+- `daily_summaries/` - Directory containing AI-generated summaries of daily chat contents
+- `analyze_daily_chats.py` - Script that processes daily chat files and generates summaries using Gemini AI
+- `extract_edr_content.py` - Script that analyzes daily chats for EDR/AV evasion content and saves findings to edr_bypass_content.txt
+- `edr_bypass_content.txt` - Consolidated file containing EDR/AV evasion related content extracted from daily chats
 
 ## Database Schema
 
