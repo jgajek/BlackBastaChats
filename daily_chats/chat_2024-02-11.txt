@@ -1,0 +1,67 @@
+[2024-02-11 08:17:58] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> John Smith, [8 февр. 2024 г., 23:15:47]:
+> Доброе утро, ощущение что к вам кто-то ломится на сервер и убунту блокирует временно вход
+>
+> ИЗмените порт ССШ
+
+вот я тоже так думаю... но почему блочит вход с верным пассом
+--------------------
+[2024-02-11 08:21:28] @lapa:matrix.bestflowers247.online: ладно, поменял порт
+--------------------
+[2024-02-11 09:49:19] @usernamegg:matrix.bestflowers247.online: поменял порт ?
+--------------------
+[2024-02-11 16:25:23] @chuck:talks.icu: lpe для windows
+--------------------
+[2024-02-11 18:12:40] @usernameugway:matrix.bestflowers247.online: бро привет
+--------------------
+[2024-02-11 18:12:48] @usernameugway:matrix.bestflowers247.online: https://forum.exploit.in/topic/234982/?tab=comments#comment-1456893
+--------------------
+[2024-02-11 18:12:50] @usernameugway:matrix.bestflowers247.online: общаюсь с ним
+--------------------
+[2024-02-11 18:13:05] @usernameugway:matrix.bestflowers247.online: 15к мес чистейший стаб под едр обещает
+--------------------
+[2024-02-11 18:13:18] @usernameugway:matrix.bestflowers247.online: +LNK
+--------------------
+[2024-02-11 18:13:49] @usernameugway:matrix.bestflowers247.online: тесты дает на совместимость софтов и тд перед оплатой
+--------------------
+[2024-02-11 18:13:53] @usernameugway:matrix.bestflowers247.online: вроде адекватный парень..
+--------------------
+[2024-02-11 18:14:08] @usernameugway:matrix.bestflowers247.online: ----
+--------------------
+[2024-02-11 18:14:23] @usernameugway:matrix.bestflowers247.online: https://forum.exploit.in/topic/237296/
+--------------------
+[2024-02-11 18:14:25] @usernameugway:matrix.bestflowers247.online: с ним поговорил
+--------------------
+[2024-02-11 18:15:01] @usernameugway:matrix.bestflowers247.online: у него 4 на ЕДР детекта, но нужна буде еще нагрузка + дает только под таргеты
+--------------------
+[2024-02-11 18:15:15] @usernameugway:matrix.bestflowers247.online: * 15к мес чистейший стаб под едр обещает (скинул тест 1 детект на сканере)
+--------------------
+[2024-02-11 18:16:35] @usernameugway:matrix.bestflowers247.online: и это раста сто процентов
+--------------------
+[2024-02-11 18:16:41] @usernameugway:matrix.bestflowers247.online: фудовый лоадер )
+--------------------
+[2024-02-11 18:16:50] @usernameugway:matrix.bestflowers247.online: можно по одному слову понять что это он)
+--------------------
+[2024-02-11 21:46:25] @usernamegg:matrix.bestflowers247.online: ```
+LINK : https://rdp.exceedgulf.com/RDWeb/Pages/en-US/login.aspx
+username : kapilgul@exceedgulf.com
+password : Exc33d@090221
+```
+
+--------------------
+[2024-02-11 21:47:00] @usernamegg:matrix.bestflowers247.online: https://www.zoominfo.com/c/exceed-it-services/112333892
+Rdweb
+Download Icon Explore folders + CMD + Powershell
+Zoom/Rev = 48 Million$
+Industry = Software & Technical Consulting, Software
+Network = Domain, Systemininfo = Domain.com
+Level = User Rights
+Domain Computers = 900 ([adsisearcher]"(ObjectClass=computer)").FindAll().count
+Domain Controlers = 4
+Domain Trusts ( Primary )
+--------------------
+[2024-02-11 21:49:31] @usernamegg:matrix.bestflowers247.online: сейчас посмотрю
+--------------------
+[2024-02-11 21:51:16] @usernamegg:matrix.bestflowers247.online: вроде то что нужно но надо тестировать
+--------------------
+[2024-02-11 21:54:12] @usernamegg:matrix.bestflowers247.online: завтра гляну
+--------------------

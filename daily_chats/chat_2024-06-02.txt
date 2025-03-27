@@ -1,0 +1,70 @@
+[2024-06-02 07:16:57] @usernameugway:matrix.bestflowers247.online: бро привет
+--------------------
+[2024-06-02 07:17:01] @usernameugway:matrix.bestflowers247.online: я выдвигаюсь
+--------------------
+[2024-06-02 07:17:07] @usernameugway:matrix.bestflowers247.online: доберусь займсуь звонками
+--------------------
+[2024-06-02 07:17:56] @usernameugway:matrix.bestflowers247.online: надо потестить
+--------------------
+[2024-06-02 07:18:09] @usernameugway:matrix.bestflowers247.online: я же не звонил еще туда, но разберусь
+--------------------
+[2024-06-02 12:32:12] @lapa:matrix.bestflowers247.online: `https://nsocks.net` хах, тут соксы не покупаются навсегда
+--------------------
+[2024-06-02 12:33:41] @lapa:matrix.bestflowers247.online: ```
+Proxy auto-renewal
+
+Proxy auto-renewal will allow you to renew selected proxies every day, without daily manual renewal. You can use auto-renewal to keep the proxy port up longer than 24 hours.
+
+To do this:
+
+Go to History page.
+Select the proxy for which you want to activate auto-renewal.
+In the right block (or modal window) in the Autorenew paragraph, click the checkbox.
+In the list, proxies with auto-renewal are indicated by a green icon.
+
+The auto-renewal process:
+- If the proxy is online, auto-renewal buys it immediately after the paid period expires. Proxy is extended for 24 hours.
+- If the proxy is offline, the system will not buy it. The proxy will be renewed as soon as it becomes online.
+Your account balance will be debited as for a regular proxy purchase.
+```
+
+--------------------
+[2024-06-02 12:34:33] @lapa:matrix.bestflowers247.online: они походу покупаются на сутки
+--------------------
+[2024-06-02 12:35:21] @lapa:matrix.bestflowers247.online: вообще не прикольно конечно, будет дорого выходить
+--------------------
+[2024-06-02 12:47:15] @lapa:matrix.bestflowers247.online: да, короч они видимо на сутки покупаются, потом их нужно продливать
+--------------------
+[2024-06-02 12:47:22] @lapa:matrix.bestflowers247.online: можно конечно автопокупку поставить
+--------------------
+[2024-06-02 12:47:38] @lapa:matrix.bestflowers247.online: но даже если брать 100 соксов, это 50$ в день
+--------------------
+[2024-06-02 12:47:57] @lapa:matrix.bestflowers247.online: в месяц 1500$ и это только за 100 соксов
+--------------------
+[2024-06-02 12:48:15] @lapa:matrix.bestflowers247.online: * можно конечно автопродление поставить
+--------------------
+[2024-06-02 12:48:50] @lapa:matrix.bestflowers247.online: короч в пятницу запустил, и в субботу из-за соксов все стопнулось)
+--------------------
+[2024-06-02 12:48:57] @lapa:matrix.bestflowers247.online: * короч в пятницу запустил, и в субботу из-за соксов все стопнулось(
+--------------------
+[2024-06-02 12:49:47] @lapa:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> в месяц 1500$ и это только за 100 соксов
+
+но в целом 100 соксов мне хватит
+--------------------
+[2024-06-02 14:43:38] @usernameugway:matrix.bestflowers247.online: почему нельзя дозвониться на обычный тел?  ты говорил это проблема
+--------------------
+[2024-06-02 19:52:19] @usernameugway:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> хочу позвонить нескольким типам но показывает что звонок недоступен , как сделать так что бы я мог ему позвонить ?
+
+завтра дотестим, пока звонок не появляется, сегодня несколько вариантов пробовал
+
+но есть ряд теорий, завтра добьем
+--------------------
+[2024-06-02 19:52:29] @usernameugway:matrix.bestflowers247.online: у меня еще куча мелких коропв осталась с рассылки старой
+--------------------
+[2024-06-02 19:52:33] @usernameugway:matrix.bestflowers247.online: я на них проверяю
+--------------------
+[2024-06-02 21:47:01] @usernamehunter:matrix.bestflowers247.online: > <@usernamejj:matrix.bestflowers247.online> sent a file.
+
+$krb5tgs$23$*xIISAuth$MEADOWBROOK.COM$meadowbrook.com/xIISAuth*$b1c1d69f21e8b5fce8aa......bde48d716bb05a0:Citadel2021!!
+
+--------------------

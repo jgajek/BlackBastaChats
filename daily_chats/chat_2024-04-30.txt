@@ -1,0 +1,339 @@
+[2024-04-30 05:41:55] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-04-30 05:41:56] @usernamegg:matrix.bestflowers247.online: я тут
+--------------------
+[2024-04-30 05:41:58] @usernamegg:matrix.bestflowers247.online: норм
+--------------------
+[2024-04-30 05:42:14] @usernamegg:matrix.bestflowers247.online: что
+--------------------
+[2024-04-30 05:42:19] @usernamegg:matrix.bestflowers247.online: какую перекачку ?
+--------------------
+[2024-04-30 05:42:31] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-04-30 05:55:50] @usernamegg:matrix.bestflowers247.online: YY выходил
+--------------------
+[2024-04-30 05:55:55] @usernamegg:matrix.bestflowers247.online: все решил с ним ?
+--------------------
+[2024-04-30 07:54:08] @n3auxaxl:matrix.collectionofmanager.space: Привет, по поводу идеи угвея разобрался, но точно не знаю насколько хорошо мы сможем ее реализовать, так как есть сомнения по поводу этих пакетов, обычно сейчас все IDE чистят лишние пакеты
+--------------------
+[2024-04-30 07:54:13] @n3auxaxl:matrix.collectionofmanager.space: но посканить по идее можно
+--------------------
+[2024-04-30 07:54:38] @n3auxaxl:matrix.collectionofmanager.space: на по сути надо requirements.txt, packages.json
+--------------------
+[2024-04-30 07:54:44] @n3auxaxl:matrix.collectionofmanager.space: и подобные
+--------------------
+[2024-04-30 07:58:50] @n3auxaxl:matrix.collectionofmanager.space: и перед тем как сканить все это дело, я хочу сначало попробовать повторить это, действительно ли будет скачивание с паблика ресурса, если локального не найдено
+--------------------
+[2024-04-30 09:47:54] @usernameugway:matrix.bestflowers247.online: Ф локально собирает тест
+--------------------
+[2024-04-30 09:48:06] @usernameugway:matrix.bestflowers247.online: попозже отпишусь как прошло
+--------------------
+[2024-04-30 10:02:39] @blood:talks.icu: так и не договорили с тобой в тот раз
+ничего пока тебе не надо делать?
+--------------------
+[2024-04-30 10:44:51] @u123:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> какую перекачку ?
+
+с сервака куда выкачивали на прокладку
+--------------------
+[2024-04-30 10:48:08] @u123:matrix.bestflowers247.online: 1. MAIN: Id: b8289098-e43e-409f-a546-94fece30e0c8    PRIVATE: Id: 722eb006-730b-44a5-ab62-d232b5545663
+2. bray.com + https://www.zoominfo.com/c/bray-international-inc/5440035
+3. 320Gb
+4. SFTP/SSH	193.42.38.199
+SSH username: root
+SSH password: DvsJooWNRAhNJOZqEkAp123ssaxc
+SSH port: 22
+5. DIR /srv/bray
+--------------------
+[2024-04-30 11:49:16] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> YY выходил
+
+Да все заебись
+--------------------
+[2024-04-30 13:37:39] @iamnurnazarov:matrix.org: привет
+--------------------
+[2024-04-30 13:37:40] @iamnurnazarov:matrix.org: готов к работе
+--------------------
+[2024-04-30 13:39:02] @manager361:colorado.su: привет
+--------------------
+[2024-04-30 13:45:34] @usernamenn:matrix.bestflowers247.online: Han: на месте?
+--------------------
+[2024-04-30 13:48:18] @muaddib6:matrix.org: Да
+--------------------
+[2024-04-30 13:48:30] @muaddib6:matrix.org: Готов к работе )
+--------------------
+[2024-04-30 13:49:00] @tinker:matrix.bestflowers247.online: cinfab.com - не уверен, что можно выжать больше сотки, а так они готовы сейчас слать
+--------------------
+[2024-04-30 13:49:07] @tinker:matrix.bestflowers247.online: жду твоих указаний
+--------------------
+[2024-04-30 13:57:39] @usernamenn:matrix.bestflowers247.online: щас скину файл на крипт
+--------------------
+[2024-04-30 13:58:21] @muaddib6:matrix.org: жду
+--------------------
+[2024-04-30 14:02:27] @usernamenn:matrix.bestflowers247.online: с точкой входа GetModuleProp получится сделать?
+--------------------
+[2024-04-30 14:02:31] @usernamenn:matrix.bestflowers247.online: очень нужно
+--------------------
+[2024-04-30 14:02:41] @muaddib6:matrix.org: да
+--------------------
+[2024-04-30 14:02:47] @usernamenn:matrix.bestflowers247.online: Ok
+--------------------
+[2024-04-30 14:04:29] @usernamenn:matrix.bestflowers247.online: cob22_DNS_x86.bin
+--------------------
+[2024-04-30 14:04:32] @usernamenn:matrix.bestflowers247.online: через сколько будет готово? срочно нужно
+--------------------
+[2024-04-30 14:06:45] @muaddib6:matrix.org: постараюсь как можно быстрее
+--------------------
+[2024-04-30 14:06:51] @usernamenn:matrix.bestflowers247.online: Ok
+--------------------
+[2024-04-30 14:08:01] @manager361:colorado.su: https://docs.google.com/spreadsheets/d/1lO2j3F4PCneUVmh77FN09SFCIhhPSr9q1-5AkM15qFA/edit#gid=0
+--------------------
+[2024-04-30 14:08:07] @manager361:colorado.su: через 15 минут
+--------------------
+[2024-04-30 14:08:13] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-30 14:08:26] @manager361:colorado.su: https://docs.google.com/spreadsheets/d/1ec4cilcl2hy-RGrrtwwE9cYHYoTtSF0zsdhrY6QpVfo/edit#gid=0
+--------------------
+[2024-04-30 14:08:35] @manager361:colorado.su: Hey Arslan
+--------------------
+[2024-04-30 14:08:43] @manager361:colorado.su: Are you ready?
+--------------------
+[2024-04-30 14:08:45] @manager361:colorado.su: arslanshabbirmalik:
+--------------------
+[2024-04-30 14:09:21] @manager361:colorado.su: A small correction on the comments
+--------------------
+[2024-04-30 14:09:40] @arslanshabbirmalik:matrix.org: Hello sir. Good morning to you. 🫡😊
+--------------------
+[2024-04-30 14:09:46] @usernamenn:matrix.bestflowers247.online: cobNL3_DNS_x86.bin
+--------------------
+[2024-04-30 14:09:58] @usernamenn:matrix.bestflowers247.online: и вот это можно после того как cob22 будет готово
+--------------------
+[2024-04-30 14:09:58] @arslanshabbirmalik:matrix.org: Sir, I set up the computer , shall be ready in five minutes.
+--------------------
+[2024-04-30 14:10:05] @muaddib6:matrix.org: +
+--------------------
+[2024-04-30 14:10:06] @manager361:colorado.su: Mark if you have a voicemail but the name is confirmed.
+--------------------
+[2024-04-30 14:10:12] @arslanshabbirmalik:matrix.org: > <@manager361:colorado.su> A small correction on the comments
+
+Yes sir.. I follow your instructions
+--------------------
+[2024-04-30 14:10:30] @manager361:colorado.su: image.png
+--------------------
+[2024-04-30 14:10:39] @manager361:colorado.su: Example comment
+--------------------
+[2024-04-30 14:11:09] @arslanshabbirmalik:matrix.org: Yes sir. I do the same. If the voicemail matches with the mentioned name. I write it down in the comments
+--------------------
+[2024-04-30 14:14:52] @usernamenn:matrix.bestflowers247.online: 224c1a91f59c0323ba8a3e1b3218cce9
+--------------------
+[2024-04-30 14:20:54] @usernameboy:matrix.bestflowers247.online: 224c1a91f59c0323ba8a3e1b3218cce9:A1St3am!
+
+--------------------
+[2024-04-30 14:25:53] @arslanshabbirmalik:matrix.org: Screenshot_2024-04-30-19-24-05-768_com.google.android.apps.docs.editors.sheets.jpg
+--------------------
+[2024-04-30 14:26:31] @arslanshabbirmalik:matrix.org: Sir, I apologise to bother you. Both the numbers are picked by same operator
+--------------------
+[2024-04-30 14:26:43] @usernamenn:matrix.bestflowers247.online: > <@usernamess:matrix.bestflowers247.online> `SCOMSrvAction-DS::DS:b2c7fba6d4e8c837bf868a09ffc4faedca8e96f8c3d3a658:b2c7fba6d4e8c837bf868a09ffc4faedca8e96f8c3d3a658:1122334455667788`
+
+???
+--------------------
+[2024-04-30 14:27:11] @arslanshabbirmalik:matrix.org: I have mentioned in the comments in the similar way.
+--------------------
+[2024-04-30 14:27:37] @arslanshabbirmalik:matrix.org: Operator is the same after dialing the extension
+--------------------
+[2024-04-30 14:28:21] @manager361:colorado.su: If you're dialing through an operator, skip those numbers.
+--------------------
+[2024-04-30 14:29:24] @arslanshabbirmalik:matrix.org: Received sir. I do as it is
+--------------------
+[2024-04-30 14:44:07] @usernameboy:matrix.bestflowers247.online: 0
+--------------------
+[2024-04-30 15:05:43] @arslanshabbirmalik:matrix.org: Sir, this sheet is complete.
+I have skipped 8 numbers because of the same operator .
+--------------------
+[2024-04-30 15:07:18] @arslanshabbirmalik:matrix.org: Also did not write the comments for those 8 numbers
+--------------------
+[2024-04-30 15:09:56] @manager361:colorado.su: 👌
+--------------------
+[2024-04-30 15:10:18] @arslanshabbirmalik:matrix.org: 🫡🤗
+--------------------
+[2024-04-30 15:10:54] @muaddib6:matrix.org: готов первфй файл
+--------------------
+[2024-04-30 15:12:03] @muaddib6:matrix.org: cob22_DNS_x86.dll
+--------------------
+[2024-04-30 15:12:10] @muaddib6:matrix.org: строка:
+--------------------
+[2024-04-30 15:12:12] @muaddib6:matrix.org: w9raDqepY2NazJE98PkA6Y0mxiSxIvVzPGONSgpawLRkpVWyBm
+--------------------
+[2024-04-30 15:12:17] @muaddib6:matrix.org: скоро пришлю второй
+--------------------
+[2024-04-30 15:14:34] @iamnurnazarov:matrix.org: закончил
+--------------------
+[2024-04-30 15:17:56] @muaddib6:matrix.org: второй файл
+--------------------
+[2024-04-30 15:18:01] @muaddib6:matrix.org: cobNL3_DNS_x86.dll
+--------------------
+[2024-04-30 15:18:03] @muaddib6:matrix.org: строка та же
+--------------------
+[2024-04-30 15:18:05] @muaddib6:matrix.org: w9raDqepY2NazJE98PkA6Y0mxiSxIvVzPGONSgpawLRkpVWyBm
+--------------------
+[2024-04-30 15:21:12] @usernamenn:matrix.bestflowers247.online: Ok, спасибо!
+--------------------
+[2024-04-30 15:22:52] @muaddib6:matrix.org: ++
+--------------------
+[2024-04-30 15:24:44] @manager361:colorado.su: добавил
+--------------------
+[2024-04-30 15:24:55] @iamnurnazarov:matrix.org: начинаю
+--------------------
+[2024-04-30 15:41:21] @usernamenn:matrix.bestflowers247.online: > <@muaddib6:matrix.org> sent a file.
+
+че то не работает, щас проверю еще раз
+--------------------
+[2024-04-30 15:46:51] @muaddib6:matrix.org: а сервак живой?
+--------------------
+[2024-04-30 15:46:55] @muaddib6:matrix.org: Как не работает?
+--------------------
+[2024-04-30 16:08:21] @muaddib6:matrix.org: > <@usernamenn:matrix.bestflowers247.online> че то не работает, щас проверю еще раз
+
+Проверил?
+--------------------
+[2024-04-30 16:08:32] @usernamenn:matrix.bestflowers247.online: проверяю
+--------------------
+[2024-04-30 16:08:43] @muaddib6:matrix.org: понял
+--------------------
+[2024-04-30 16:08:45] @usernamenn:matrix.bestflowers247.online: cob22 не приходит вроде как, а на NL пришло
+--------------------
+[2024-04-30 16:08:52] @usernamenn:matrix.bestflowers247.online: еще проверяю на других тачках
+--------------------
+[2024-04-30 16:09:03] @muaddib6:matrix.org: +
+--------------------
+[2024-04-30 16:25:43] @manager361:colorado.su: added more
+--------------------
+[2024-04-30 16:26:35] @arslanshabbirmalik:matrix.org: Received sir. I start making calls
+--------------------
+[2024-04-30 16:40:49] @iamnurnazarov:matrix.org: закончил
+--------------------
+[2024-04-30 16:41:38] @usernamenn:matrix.bestflowers247.online: ```
+DS.SJHS.COM/SCOMSrvAction-DS:$DCC2$10240#SCOMSrvAction-DS#3fc757285a2fc6f310f5241df1bd87e3
+DS.SJHS.COM/fkano008:$DCC2$10240#fkano008#ad48ef48474a0c3fca3e96eee9b16ccd
+ALBIR.DS.SJHS.COM/zmcclure-albir:$DCC2$10240#zmcclure-albir#0d9c944218fba8b2eee484741329b9de
+DS.SJHS.COM/dmoor062:$DCC2$10240#dmoor062#d90f1c241f9871b51a101a184c426d36
+ALBIR.DS.SJHS.COM/jbthornton-albir:$DCC2$10240#jbthornton-albir#81eb6bed2ee1cb4ae63081f050361515
+ALBIR.DS.SJHS.COM/museinstall:$DCC2$10240#museinstall#51c3e76059a355213283a33f90fa91d1
+ALBIR.DS.SJHS.COM/tdowd003-ALBIR:$DCC2$10240#tdowd003-ALBIR#8f7e7ef7d409b1346c2d27cc115c93df
+ALBIR.DS.SJHS.COM/rgrah017-albir:$DCC2$10240#rgrah017-albir#d2824e4f4bca106f13eca23c25fc0618
+ALBIR.DS.SJHS.COM/JScott-ALBIR:$DCC2$10240#JScott-ALBIR#d49f07484972226fc9e9a7b46d6bffeb
+ALBIR.DS.SJHS.COM/ccole001-albir:$DCC2$10240#ccole001-albir#5445773ad528cc8c9265ea55a09530b8
+DS.SJHS.COM/mhiser:$DCC2$10240#mhiser#02ccf1d180863c3a9beeaa3ba352df3b
+DS.SJHS.COM/mmara001:$DCC2$10240#mmara001#6267fadf1ca51e30571b03fab6766bbe
+DS.SJHS.COM/C01898-ds:$DCC2$10240#C01898-ds#637a918dc5766e72b1f9d8604398d55a
+DS.SJHS.COM/klaidman-ds:$DCC2$10240#klaidman-ds#062b64c57469ab18bf4004868da66f34
+AHIS.DS.SJHS.COM/apresche:$DCC2$10240#apresche#cc57623f8f290a25ca581580375af3ab
+DS.SJHS.COM/apresche-ds:$DCC2$10240#apresche-ds#b475c60403dadf29abbdf76cc52ae868
+DS.SJHS.COM/jkali003-ds:$DCC2$10240#jkali003-ds#987656c63105fe261a89cc10097342bf
+DS.SJHS.COM/kowen007-ds:$DCC2$10240#kowen007-ds#c401ff60ab75d6be160da5386a311198
+DS.SJHS.COM/BNKlinge-DS:$DCC2$10240#BNKlinge-DS#e66ff5f2eb5cd2942fa792fdf0c6a3e5
+DS.SJHS.COM/cbake050-ds:$DCC2$10240#cbake050-ds#776c1b7b6b073305b59b4ee47401f1f3
+DS.SJHS.COM/perkss-ds:$DCC2$10240#perkss-ds#4fe13b88600d077bd8846d3c077e7595
+DS.SJHS.COM/jjeff006-ds:$DCC2$10240#jjeff006-ds#aff252429a462c7c3c68ecbd7e325b32
+DS.SJHS.COM/RSUBR004-adm:$DCC2$10240#RSUBR004-adm#4ce6999a475a41c0b14fe586c9a1c6a6
+DS.SJHS.COM/DMOORTHY-adm:$DCC2$10240#DMOORTHY-adm#82559d0687cef6e35ef3d45d023bf91a
+DS.SJHS.COM/jszil002-adm:$DCC2$10240#jszil002-adm#247b60be099a208faa114c3fccedeb8b
+```
+--------------------
+[2024-04-30 16:41:50] @manager361:colorado.su: https://docs.google.com/spreadsheets/d/1uJd5ZCKb06vFPZFfx9NHBTbLmUqW49kPxMOtHqexaZg/edit#gid=0
+--------------------
+[2024-04-30 16:42:00] @iamnurnazarov:matrix.org: принял, начинаю
+--------------------
+[2024-04-30 16:43:02] @usernamenn:matrix.bestflowers247.online: ```
+8474ed2bb7a35bd5135685838b87ea34
+4a93e24dfcb78a064ad55b8ec3899231
+55a7a60c4d921c366613198ecfb12d4b
+6541306a3f7bd780ca17e3652c16df9d
+```
+--------------------
+[2024-04-30 16:43:56] @usernameboy:matrix.bestflowers247.online: `$DCC2$10240#mmara001#6267fadf1ca51e30571b03fab6766bbe:W@rriors30`
+
+--------------------
+[2024-04-30 16:44:21] @usernameboy:matrix.bestflowers247.online: `$DCC2$10240#tdowd003-albir#8f7e7ef7d409b1346c2d27cc115c93df:Password@16`
+
+--------------------
+[2024-04-30 16:44:28] @usernameboy:matrix.bestflowers247.online: 8474ed2bb7a35bd5135685838b87ea34:Muse!Admin
+
+--------------------
+[2024-04-30 16:45:45] @usernameboy:matrix.bestflowers247.online: `$DCC2$10240#museinstall#51c3e76059a355213283a33f90fa91d1:Muse!Admin`
+
+--------------------
+[2024-04-30 16:47:27] @usernameboy:matrix.bestflowers247.online: `$DCC2$10240#mhiser#02ccf1d180863c3a9beeaa3ba352df3b:Configure2`
+
+--------------------
+[2024-04-30 17:04:11] @usernamenn:matrix.bestflowers247.online: Han: долго еще будешь тут?
+--------------------
+[2024-04-30 17:04:19] @usernamenn:matrix.bestflowers247.online: еще нужен будет крипт
+--------------------
+[2024-04-30 17:15:10] @muaddib6:matrix.org: с час тут
+--------------------
+[2024-04-30 17:16:26] @muaddib6:matrix.org: > <@usernamenn:matrix.bestflowers247.online> еще нужен будет крипт
+
+с час тут буду
+--------------------
+[2024-04-30 17:29:34] @usernamenn:matrix.bestflowers247.online: Han: такие же сделать точки входа
+--------------------
+[2024-04-30 17:29:48] @usernamenn:matrix.bestflowers247.online: cob27_443_x86.bin
+--------------------
+[2024-04-30 17:29:48] @usernamenn:matrix.bestflowers247.online: cobNL_SMB_x86.bin
+--------------------
+[2024-04-30 17:35:22] @muaddib6:matrix.org: +
+--------------------
+[2024-04-30 17:40:29] @arslanshabbirmalik:matrix.org: Sir , this sheet is complete. 🫡🫡🫡
+--------------------
+[2024-04-30 17:41:00] @iamnurnazarov:matrix.org: закончил
+--------------------
+[2024-04-30 17:49:57] @manager361:colorado.su: добавил
+--------------------
+[2024-04-30 17:50:09] @iamnurnazarov:matrix.org: начинаю
+--------------------
+[2024-04-30 18:07:49] @muaddib6:matrix.org: > <@usernamenn:matrix.bestflowers247.online> Han: такие же сделать точки входа
+
+Готово
+--------------------
+[2024-04-30 18:08:00] @muaddib6:matrix.org: 2.7z
+--------------------
+[2024-04-30 18:08:29] @muaddib6:matrix.org: строка та же
+w9raDqepY2NazJE98PkA6Y0mxiSxIvVzPGONSgpawLRkpVWyBm
+--------------------
+[2024-04-30 18:10:02] @usernamenn:matrix.bestflowers247.online: Ok, спасибо!
+--------------------
+[2024-04-30 18:10:09] @muaddib6:matrix.org: +
+--------------------
+[2024-04-30 18:29:02] @usernamehunter:matrix.bestflowers247.online: 4a93e24dfcb78a064ad55b8ec3899231:Muse!Bkgnd
+
+--------------------
+[2024-04-30 18:52:42] @usernamenn:matrix.bestflowers247.online: Han: exe можешь выдать?
+--------------------
+[2024-04-30 19:21:10] @iamnurnazarov:matrix.org: закончил
+--------------------
+[2024-04-30 19:51:23] @usernameboy:matrix.bestflowers247.online: `$DCC2$10240#kowen007-ds#c401ff60ab75d6be160da5386a311198:T!gerw00ds12`
+
+--------------------
+[2024-04-30 21:22:57] @manager880:colorado.su: 94
+--------------------
+[2024-04-30 21:23:03] @manager880:colorado.su: 0x08Df289E0e3b54064B3eF2d5ba6924F04DF6aEA4
+--------------------
+[2024-04-30 21:23:37] @iamnurnazarov:matrix.org: да, тот же
+--------------------
+[2024-04-30 21:23:49] @manager880:colorado.su: 18.5
+--------------------
+[2024-04-30 21:23:56] @manager880:colorado.su: 0xdcb10300e7fc51d19c38b3254770f1d1a7448878
+--------------------
+[2024-04-30 21:24:33] @manager880:colorado.su: ✅
+--------------------
+[2024-04-30 21:24:37] @manager880:colorado.su: спасибо, до завтра
+--------------------
+[2024-04-30 21:25:01] @iamnurnazarov:matrix.org: принял, спасибо
+--------------------
+[2024-04-30 21:25:04] @iamnurnazarov:matrix.org: до завтра
+--------------------
+[2024-04-30 21:26:14] @manager880:colorado.su: ✅
+--------------------
+[2024-04-30 21:26:26] @manager880:colorado.su: thank you, till tomorrow
+--------------------
+[2024-04-30 21:36:21] @arslanshabbirmalik:matrix.org: Thank you sir. 🤗😊I shall be on time tomorrow
+--------------------

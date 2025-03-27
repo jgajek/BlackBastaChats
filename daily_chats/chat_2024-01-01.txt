@@ -1,0 +1,120 @@
+[2024-01-01 02:57:46] @cameron777:matrix.org: druzhishe ti dal vremya etim laweram do 4ogo no opublikoval vse
+--------------------
+[2024-01-01 02:58:06] @cameron777:matrix.org: * druzhishe ti dal vremya etim laweram do 4ogo no opublikoval
+--------------------
+[2024-01-01 03:06:48] @cameron777:matrix.org: * дружище ты дал время этим юристам до 4-ого но опубликовал их сегодня
+--------------------
+[2024-01-01 08:10:41] @usernameyy:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> всех с наступившим
+
+c праздником
+--------------------
+[2024-01-01 11:55:50] @cameron777:matrix.org: * дружище ты дал время этим юристам до 4-ого но опубликовал их 1-ого
+--------------------
+[2024-01-01 15:27:42] @usernamenn:matrix.bestflowers247.online: https://xss.is/threads/104460/
+--------------------
+[2024-01-01 15:27:51] @usernamenn:matrix.bestflowers247.online: привет
+--------------------
+[2024-01-01 15:55:50] @cob_crypt_ward:matrix.bestflowers247.online: привет
+--------------------
+[2024-01-01 15:56:01] @cob_crypt_ward:matrix.bestflowers247.online: сильно страшно, если я попрошу выходные на три дня?
+--------------------
+[2024-01-01 15:56:07] @cob_crypt_ward:matrix.bestflowers247.online: на сегодня, завтра и послезавтра?
+--------------------
+[2024-01-01 15:56:16] @cob_crypt_ward:matrix.bestflowers247.online: мне нужно в другой город ехать, буду в поезде постоянно
+--------------------
+[2024-01-01 15:56:27] @cob_crypt_ward:matrix.bestflowers247.online: а сегодня с семьей время провожу
+--------------------
+[2024-01-01 20:39:24] @usernamehunter:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> sent a file.
+
+$krb5tgs$23$*s-dscomsqlservice$AJGCO.COM$ajgco.com/s-dscomsqlservice*$930436d3fb675db43.....b2082194de:scomLOL1
+
+--------------------
+[2024-01-01 20:40:19] @usernamenn:matrix.bestflowers247.online: ++
+--------------------
+[2024-01-01 23:52:30] @usernamenn:matrix.bestflowers247.online: есть кто?
+--------------------
+[2024-01-01 23:52:36] @usernamenn:matrix.bestflowers247.online: о вижу
+--------------------
+[2024-01-01 23:52:39] @usernamenn:matrix.bestflowers247.online: щас скину кербы
+--------------------
+[2024-01-01 23:53:20] @usernamenn:matrix.bestflowers247.online: flyt.schwanshs.net_kerb.txt
+--------------------
+[2024-01-01 23:53:28] @usernamenn:matrix.bestflowers247.online: там какие то расшифровывали пароли возможно
+--------------------
+[2024-01-01 23:53:33] @usernamenn:matrix.bestflowers247.online: но есть одна штука
+--------------------
+[2024-01-01 23:53:46] @usernamenn:matrix.bestflowers247.online: ```
+FLYT\SA02_SRVP_SQL-PSQL12:$un$hin3@PS12QL
+FLYT\SA02_SRVP_SQL-PAGT12:$un$hin3@PA12GT
+```
+
+--------------------
+[2024-01-01 23:53:51] @usernamenn:matrix.bestflowers247.online: вот есть 2 юзера
+--------------------
+[2024-01-01 23:53:56] @usernamenn:matrix.bestflowers247.online: которые есть и в кербах
+--------------------
+[2024-01-01 23:54:20] @usernamenn:matrix.bestflowers247.online: если заметить то пароль $un$hin3@ + 6 ласт символов логина
+--------------------
+[2024-01-01 23:54:49] @usernamenn:matrix.bestflowers247.online: нужно эти кербы проверить на $un$hin3@ + ласт 6 символов логина
+--------------------
+[2024-01-01 23:54:54] @usernamenn:matrix.bestflowers247.online: только так
+--------------------
+[2024-01-01 23:55:32] @usernamenn:matrix.bestflowers247.online: ```
+DomainAccount: SA02_SRVP_SQL-PSQL01
+DomainAccount: SA02_SRVP_SQL-PSQL34
+DomainAccount: SA02_SRVP_SQL-PSQL35
+DomainAccount: sa02_srvp_sql-psql29
+DomainAccount: SA02_SRVP_SQL-PSQL04
+DomainAccount: SA02_SRVP_SQL-PSQL06
+DomainAccount: SA02_SRVP_SQL-PSQL26
+DomainAccount: SA02_SRVP_SQL-PSQL10
+DomainAccount: SA02_SRVP_SQL-PSQL18
+DomainAccount: SA02_SRVP_SQL-PSQL12
+DomainAccount: SA02_SRVP_SQL-PSQL13
+```
+
+--------------------
+[2024-01-01 23:55:40] @usernamenn:matrix.bestflowers247.online: вот уникальные логины
+--------------------
+[2024-01-01 23:55:46] @username777:matrix.bestflowers247.online: $krb5tgs$23$*SA02_SRVD_SQL-DSQL13$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVD_SQL-DSQL13*$63cdbd0b4e95418d5b7...c7080f071e:$un$hin3@DS13QL
+$krb5tgs$23$*SA02_SRVP_SQL-PSQL04$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVP_SQL-PSQL04*$7ad1157b5f7acf1baa4...1054ec8a1f:$un$hin3@PS04QL
+$krb5tgs$23$*SA02_SRVP_SQL-PSQL10$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVP_SQL-PSQL10*$94bef388b70b5ef795d...ff59550155:$un$hin3@PS10QL
+$krb5tgs$23$*SA02_SRVP_SQL-PSQL12$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVP_SQL-PSQL12*$634c96a31e3f879e1cb...fef2dad7bf:$un$hin3@PS12QL
+$krb5tgs$23$*SA02_SRVD_SQL-DSQL02$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVD_SQL-DSQL02*$c1f57fc01cb9e2c8e3d...020493042b:$un$hin3@DS02QL
+$krb5tgs$23$*SA02_SRVD_SQL-DSQL12$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVD_SQL-DSQL12*$c3fdfcc0a7e90568b9c...57b8a28c45:$un$hin3@DS12QL
+$krb5tgs$23$*sa02_srvp_sql-psql29$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/sa02_srvp_sql-psql29*$4c3bb124ca3cee9840b...0bd18dae96:$un$hin3@PS29QL
+$krb5tgs$23$*SA02_SRVQ_SQL-SSQL12$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-SSQL12*$99c24b2afdd5cf780bf...e395976b1d:$un$hin3@SS12QL
+$krb5tgs$23$*SA02_SRVP_SQL-PSQL18$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVP_SQL-PSQL18*$f9c26a3e430fb621424...422668e60d:$un$hin3@PS18QL
+$krb5tgs$23$*SA02_SRVT_SQL-TSQL13$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVT_SQL-TSQL13*$8ee52340b2c2636a51b...23d8fb87ef:$un$hin3@TS13QL
+$krb5tgs$23$*SA02_SRVP_SQL-PSQL06$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVP_SQL-PSQL06*$9b7ae8e325632998723...a76d3dd7d6:$un$hin3@PS06QL
+$krb5tgs$23$*SA02_SRVT_SQL-TSQL12$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVT_SQL-TSQL12*$e744a050eb96a9920f6...9b681312a4:$un$hin3@TS12QL
+$krb5tgs$23$*SA02_SRVP_SQL-PSQL34$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVP_SQL-PSQL34*$39ad2a65525cf1bb121...720ffe1344:$un$hin3@PS34QL
+$krb5tgs$23$*SA02_SRVP_SQL-PSQL01$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVP_SQL-PSQL01*$20cf7aed481d070ccff...bb00437fc0:$un$hin3@PS01QL
+$krb5tgs$23$*SA02_SRVQ_SQL-SSQL13$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-SSQL13*$7dcd3081210e307a4ca...a743eaa6e3:$un$hin3@SS13QL
+$krb5tgs$23$*SA02_SRVP_SQL-PSQL26$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVP_SQL-PSQL26*$2f25fd9cbb8ead585ff...fd5bcf1af7:$un$hin3@PS26QL
+$krb5tgs$23$*SA02_SRVP_SQL-PSQL35$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVP_SQL-PSQL35*$bfa1b9c473bcc38a6ac...e263baa23a:$un$hin3@PS35QL
+$krb5tgs$23$*SA02_SRVP_SQL-PSQL13$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVP_SQL-PSQL13*$651537c8afb9affcb1b...a559c2508c:$un$hin3@PS13QL
+$krb5tgs$23$*SA02_SRVQ_SQL-SSQL18$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-SSQL18*$a43624e57db537a5ca0...3f455cc883:$un$hin3@SS18QL
+$krb5tgs$23$*SA02_SRVQ_SQL-SSQL10$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-SSQL10*$f145a4fee6f2daa5135...118a6c6528:$un$hin3@SS10QL
+
+--------------------
+[2024-01-01 23:55:55] @usernamenn:matrix.bestflowers247.online: пиздец
+--------------------
+[2024-01-01 23:56:11] @usernamenn:matrix.bestflowers247.online: значит теория верна!
+--------------------
+[2024-01-01 23:57:09] @usernamenn:matrix.bestflowers247.online: Спасибо!
+--------------------
+[2024-01-01 23:59:22] @username777:matrix.bestflowers247.online: $krb5tgs$23$*SA02_SRVQ_SQL-DSQL06$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-DSQL06*$b607a204545ee4e19e7...c5e2a868cd:$un$hin3@DS06QL
+$krb5tgs$23$*SA02_SRVQ_SQL-SSQL06$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-SSQL06*$0517cb70129f7d39b1b...5336540775:$un$hin3@SS06QL
+$krb5tgs$23$*SA02_SRVQ_SQL-SSQL35$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-SSQL35*$fcf807fa389349eb32e...4a6ad139e0:$un$hin3@SS35QL
+$krb5tgs$23$*SA02_SRVQ_SQL-SSQL26$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-SSQL26*$9ac509c4f1797ae1576...643997b5ad:$un$hin3@SS26QL
+$krb5tgs$23$*SA02_SRVQ_SQL-SSQL04$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-SSQL04*$a8f4250770a1b4981ea...c256dc8359:$un$hin3@SS04QL
+$krb5tgs$23$*SA02_SRVQ_SQL-TSQL06$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-TSQL06*$f5e877eaa2a1fd389bc...f9f35e4e62:$un$hin3@TS06QL
+$krb5tgs$23$*SA02_SRVD_SQL-DSQL04$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVD_SQL-DSQL04*$3049131ff36ebecf1d0...0fcc7b219d:$un$hin3@DS04QL
+$krb5tgs$23$*SA02_SRVT_SQL-TSQL01$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVT_SQL-TSQL01*$c2579b32399be6c3c1e...b24c0571cf:$un$hin3@TS01QL
+$krb5tgs$23$*SA02_SRVQ_SQL-SSQL34$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-SSQL34*$372bca353712bb99143...798386d072:$un$hin3@SS34QL
+$krb5tgs$23$*SA02_SRVD_SQL-DSQL01$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVD_SQL-DSQL01*$cf78745c8525c73f3a4...c08166fdf4:$un$hin3@DS01QL
+$krb5tgs$23$*SA02_SRVQ_SQL-SSQL01$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVQ_SQL-SSQL01*$e7da4acbab04fe0dc9b...87456380e4:$un$hin3@SS01QL
+$krb5tgs$23$*SA02_SRVT_SQL-TSQL04$FLYT.SCHWANSHS.NET$flyt.schwanshs.net/SA02_SRVT_SQL-TSQL04*$ea01bde722ca0632b5d...b66d401251:$un$hin3@TS04QL
+
+--------------------

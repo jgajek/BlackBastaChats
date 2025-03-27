@@ -1,0 +1,222 @@
+[2024-07-16 10:51:40] @blood:talks.icu: привет
+--------------------
+[2024-07-16 11:10:44] @usernamegg:matrix.bestflowers247.online: ```
+вот эти сервера, можешь юзать, мы поменяли диски на серверах, где было read only, при чем чем там был kingston, очень странно, что какой-то лаг. по возможности остальные пока не насилуй)
+
+мы на них проверяем файловую систему и тд тп, чтобы все было 100% рабочее
+
+мы завтра чекнем все 200шт, зайдем по ipmi, чтобы убедиться, что все работает корректно
+
+
+
+77.221.146.2
+root
+kZUy3(3+$J!QO[k
+
+45.141.87.200
+root
+8T~tj#bG7S2RItV
+
+45.141.86.212
+root
+Gg0]z{/vihiBp@&
+
+45.141.87.194
+root
+l22YS8P2+I@UWoq
+
+45.141.87.195
+root
+ajgUk4,G,<G<G>:
+
+45.141.87.172
+root
+gZWi1MwEW9?tu!:
+
+45.141.86.210
+root
+0sni6]^F.b%G(^)
+
+77.221.146.26
+root
+,S;^a{aJRLic&2T
+
+45.141.86.208
+root
+3pCCE1g%7&~5F_A
+
+77.221.146.25
+root
+[f_1?d9j#<S;qbb
+
+77.221.146.24
+root
+1fQ5jkBja9iKCo$
+```
+--------------------
+[2024-07-16 11:11:43] @usernamegg:matrix.bestflowers247.online: ку
+--------------------
+[2024-07-16 11:11:55] @blood:talks.icu: вопрос есть
+--------------------
+[2024-07-16 11:12:10] @blood:talks.icu: вот ты поднимаешь вебдав с помощью скрипта ведь?
+--------------------
+[2024-07-16 11:12:49] @blood:talks.icu: можешь дать его?
+хочу сам сделать и потестить
+--------------------
+[2024-07-16 11:15:14] @blood:talks.icu: и хотя бы в нескольких словах, как это делать
+--------------------
+[2024-07-16 11:34:13] @blood:talks.icu: * и хотя бы в нескольких словах объяснить, как это делать
+--------------------
+[2024-07-16 11:46:32] @blood:talks.icu: ты посмотрел вообще xlsx?
+--------------------
+[2024-07-16 11:48:28] @blood:talks.icu: * ты посмотрел xlsx котрый я тебе скинул7?
+--------------------
+[2024-07-16 11:48:34] @blood:talks.icu: * ты посмотрел xlsx котрый я тебе скинул?
+--------------------
+[2024-07-16 12:30:22] @burito:matrix.bestflowers247.online: Ответь что-то
+--------------------
+[2024-07-16 15:14:00] @lapa:matrix.bestflowers247.online: ok
+--------------------
+[2024-07-16 15:17:39] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> ```
+> вот эти сервера, можешь юзать, мы поменяли диски на серверах, где было read only, при чем чем там был kingston, очень странно, что какой-то лаг. по возможности остальные пока не насилуй)
+>
+> мы на них проверяем файловую систему и тд тп, чтобы все было 100% рабочее
+>
+> мы завтра чекнем все 200шт, зайдем по ipmi, чтобы убедиться, что все работает корректно
+>
+>
+>
+> 77.221.146.2
+> root
+> kZUy3(3+$J!QO[k
+>
+> 45.141.87.200
+> root
+> 8T~tj#bG7S2RItV
+>
+> 45.141.86.212
+> root
+> Gg0]z{/vihiBp@&
+>
+> 45.141.87.194
+> root
+> l22YS8P2+I@UWoq
+>
+> 45.141.87.195
+> root
+> ajgUk4,G,<G<G>:
+>
+> 45.141.87.172
+> root
+> gZWi1MwEW9?tu!:
+>
+> 45.141.86.210
+> root
+> 0sni6]^F.b%G(^)
+>
+> 77.221.146.26
+> root
+> ,S;^a{aJRLic&2T
+>
+> 45.141.86.208
+> root
+> 3pCCE1g%7&~5F_A
+>
+> 77.221.146.25
+> root
+> [f_1?d9j#<S;qbb
+>
+> 77.221.146.24
+> root
+> 1fQ5jkBja9iKCo$
+> ```
+
+пусть сам зайдет по ссх под этими пассами
+--------------------
+[2024-07-16 15:17:48] @lapa:matrix.bestflowers247.online: проверит, я не могу войти под ними
+--------------------
+[2024-07-16 15:19:54] @lapa:matrix.bestflowers247.online: ```
+-- 45.141.86.188
+-- 45.141.86.190
+-- 45.141.86.189
+-- 45.141.86.246
+-- 45.141.86.41
+-- 45.141.86.245
+-- 45.141.86.244
+-- 77.221.146.7
+-- 45.141.86.247
+-- 77.221.146.11
+-- 194.26.25.71
+-- 194.26.25.68
+```
+
+--------------------
+[2024-07-16 15:20:06] @lapa:matrix.bestflowers247.online: тоже вот эти со вчерашнего дня отвалились, видимо не держат нагрузку
+--------------------
+[2024-07-16 15:20:32] @lapa:matrix.bestflowers247.online: ок, снижу нагрузку в два раза
+--------------------
+[2024-07-16 15:40:25] @lapa:matrix.bestflowers247.online: * ```
+-- 45.141.86.188
+-- 45.141.86.190
+-- 45.141.86.189
+-- 45.141.86.246
+-- 45.141.86.41
+-- 45.141.86.245
+-- 45.141.86.244
+-- 77.221.146.7
+-- 45.141.86.247
+-- 77.221.146.11
+```
+
+--------------------
+[2024-07-16 15:52:03] @lapa:matrix.bestflowers247.online: ```
+77.221.146.34	No connection
+45.141.86.189	bash: test.txt: Read-only file system
+77.221.146.7	bash: test.txt: Read-only file system
+194.26.25.64	bash: test.txt: Read-only file system
+45.141.86.247	Invalid root password(zw2k@WXL&NdX)Nh)
+45.141.87.27	Invalid root password(Lc_phLBY61R;.*/)
+194.26.25.125	No connection
+194.26.25.132	No connection
+45.141.87.167	No connection
+45.141.87.189	No connection
+45.141.87.168	No connection
+45.141.87.253	No connection
+45.141.86.188	Invalid root password(a@Hi,*pYJ9vh>ZV)
+77.221.146.17	No connection
+45.141.86.190	No connection
+194.26.25.134	No connection
+45.141.86.41	No connection
+45.141.86.244	No connection
+194.26.25.129	No connection
+45.141.87.183	No connection
+45.141.86.245	No connection
+194.26.25.63	bash: test.txt: Read-only file system
+194.26.25.130	No connection
+77.221.146.11	bash: test.txt: Read-only file system
+194.26.25.107	bash: test.txt: Read-only file system
+45.141.86.246	Invalid root password(Nm2$@c7&g5PkV=8)
+194.26.25.108	Invalid root password(\U.qy–YHNF3x/*f)
+77.221.146.13	No connection
+194.26.25.113	Invalid root password(c4{gKrKS>QX*O$a)
+194.26.25.128	Invalid root password(W(8U+(NY\#AzQ*C)
+45.141.87.246	Invalid root password(ve=3iW,$x;iMazU)
+45.141.87.254	Invalid root password(b1}H@I<?a7+xwUP)
+45.141.86.76	No connection
+194.26.25.5	No connection
+194.26.25.114	No connection
+77.221.146.14	No connection
+77.221.146.35	No connection
+194.26.25.39	Invalid root password(I}_[O!kNvU8c>@j)
+194.26.25.135	bash: test.txt: Read-only file system
+194.26.25.12	No connection
+194.26.25.127	No connection
+194.26.25.105	bash: test.txt: Read-only file system
+194.26.25.103	No connection
+77.221.146.15	No connection
+```
+--------------------
+[2024-07-16 15:52:23] @lapa:matrix.bestflowers247.online: повторно запустил проверку, вот с этими серверами проблема. надеюсь исправят
+--------------------
+[2024-07-16 15:52:49] @lapa:matrix.bestflowers247.online: пассы для серверов они теже выдали, которые и были, но они как видно выше не подходят
+--------------------

@@ -1,0 +1,31 @@
+[2024-08-13 09:11:08] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> придет чистыми 10к
+
+пришли
+--------------------
+[2024-08-13 09:43:05] @lapa:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> 0x010165F27A933Ac77534Ee72CE58550dC241AB16 сделал кошелек
+
+можете сюда eth еще отправить, буквально 20$ ?
+--------------------
+[2024-08-13 09:43:29] @lapa:matrix.bestflowers247.online: просто usdt, чтобы отправить, нужно иметь eth для газа(комиссии)
+--------------------
+[2024-08-13 09:45:45] @lapa:matrix.bestflowers247.online: хотя попробую сам еще купить, через обменник
+--------------------
+[2024-08-13 10:06:01] @lapa:matrix.bestflowers247.online: все ок, оплатил
+--------------------
+[2024-08-13 10:14:15] @lapa:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> PING 192.168.100.2 (192.168.100.2) 56(84) bytes of data.
+> ping: sendmsg: Operation not permitted
+> ping: sendmsg: Operation not permitted
+> ping: sendmsg: Operation not permitted
+> ping: sendmsg: Operation not permitted
+> ^C
+> --- 192.168.100.2 ping statistics ---
+> 4 packets transmitted, 0 received, 100% packet loss, time 3059ms
+
+вот с этим моментом нужно еще разобраться
+--------------------
+[2024-08-13 10:14:19] @lapa:matrix.bestflowers247.online: спросите у админов
+--------------------
+[2024-08-13 10:48:33] @lapa:matrix.bestflowers247.online: с локальной сетью как будто что-то
+--------------------
+[2024-08-13 10:48:40] @lapa:matrix.bestflowers247.online: не хватает скорости канала
+--------------------

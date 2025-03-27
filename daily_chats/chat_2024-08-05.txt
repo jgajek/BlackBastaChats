@@ -1,0 +1,23 @@
+[2024-08-05 12:06:24] @lapa:matrix.bestflowers247.online: я тут
+--------------------
+[2024-08-05 12:14:26] @lapa:matrix.bestflowers247.online: напишите в тг, подойду думаю
+--------------------
+[2024-08-05 17:09:22] @lapa:matrix.bestflowers247.online: спросите еще у них
+--------------------
+[2024-08-05 17:09:31] @lapa:matrix.bestflowers247.online: `%Cpu(s): 30.3 us,  2.0 sy,  0.0 ni, 43.9 id,  0.0 wa,  0.0 hi,  0.6 si, 23.3 st` вот что показывает команда топ
+--------------------
+[2024-08-05 17:09:46] @lapa:matrix.bestflowers247.online: 23.3 st высокий
+--------------------
+[2024-08-05 17:10:01] @lapa:matrix.bestflowers247.online: он может предположить почему?
+--------------------
+[2024-08-05 17:10:08] @lapa:matrix.bestflowers247.online: st, "steal time", is only relevant in virtualized environments. It represents time when the real CPU was not available to the current virtual machine — it was "stolen" from that VM by the hypervisor (either to run another VM, or for its own needs).
+
+--------------------
+[2024-08-05 17:11:11] @lapa:matrix.bestflowers247.online: если брутить чисто соник, то походу пропускной способности сети хватает, но вот мощности железа не хватает
+--------------------
+[2024-08-05 17:11:41] @lapa:matrix.bestflowers247.online: а вот если бруить рдвеб, железа хватает, а канала не хватает)
+--------------------
+[2024-08-05 17:12:07] @lapa:matrix.bestflowers247.online: * если брутить чисто соник, то канала хватает с больших запасом, но вот мощности железа не хватает
+--------------------
+[2024-08-05 17:15:04] @lapa:matrix.bestflowers247.online: ладно, в любом случаи стараюсь максимально юзать эти сервера, что есть
+--------------------

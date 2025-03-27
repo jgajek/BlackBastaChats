@@ -1,0 +1,243 @@
+[2024-07-19 09:38:15] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-07-19 09:38:15] @usernamegg:matrix.bestflowers247.online: все хорошо
+--------------------
+[2024-07-19 09:38:16] @usernamegg:matrix.bestflowers247.online: как у тебя ,
+--------------------
+[2024-07-19 09:38:18] @usernamegg:matrix.bestflowers247.online: ?
+--------------------
+[2024-07-19 09:38:20] @usernamegg:matrix.bestflowers247.online: ты появился
+--------------------
+[2024-07-19 09:38:24] @usernamegg:matrix.bestflowers247.online: это очень хорошо
+--------------------
+[2024-07-19 09:41:16] @usernamegg:matrix.bestflowers247.online: нет я не проверял xlsx
+--------------------
+[2024-07-19 09:41:19] @usernamegg:matrix.bestflowers247.online: я в отпуске
+--------------------
+[2024-07-19 09:41:28] @blood:talks.icu: привет
+--------------------
+[2024-07-19 09:41:33] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> нужно будет биткоином пополнить соксы
+
+скинь кошель куда отправить
+--------------------
+[2024-07-19 09:41:33] @blood:talks.icu: я понял уже
+--------------------
+[2024-07-19 09:41:48] @usernamegg:matrix.bestflowers247.online: я извиняюсь
+--------------------
+[2024-07-19 09:42:33] @blood:talks.icu: под рукой нету скриптов под вебдав?
+всё перепробовал блин уже, просит гад лог:пасс и всё
+--------------------
+[2024-07-19 09:42:42] @usernamegg:matrix.bestflowers247.online: как начнем работу отпишу
+--------------------
+[2024-07-19 09:42:49] @usernamegg:matrix.bestflowers247.online: неа
+--------------------
+[2024-07-19 09:42:56] @blood:talks.icu: понял, оке
+--------------------
+[2024-07-19 09:42:59] @blood:talks.icu: Хорошо отдохнуть
+--------------------
+[2024-07-19 09:43:10] @usernamegg:matrix.bestflowers247.online: спасибо
+--------------------
+[2024-07-19 09:47:59] @usernamegg:matrix.bestflowers247.online: 100.txt
+--------------------
+[2024-07-19 09:48:01] @usernamegg:matrix.bestflowers247.online: Это первые 100, я зашел на каждый, проверил доступ, и выполнил команду apt-get update, все сервера доступны, нигде нет косяков с файловой системой, все ок
+--------------------
+[2024-07-19 09:48:12] @usernamegg:matrix.bestflowers247.online: 200.txt
+--------------------
+[2024-07-19 09:48:13] @usernamegg:matrix.bestflowers247.online: вторая сотня, все работают, проблем с файловой системой и с чем либо еще - нет, все прочекано ручками
+--------------------
+[2024-07-19 09:58:42] @timber:matrix.bestflowers247.online: да. тьфу тьфу все хорошо. пару дней уже стабильно тут. народ походу на каникулах, в чате хешей тоже затишье
+--------------------
+[2024-07-19 09:59:53] @timber:matrix.bestflowers247.online: по тем двум ресурам работаю. в одном восстановился. у них там винда появилась. вот эти appraisalscope.com
+--------------------
+[2024-07-19 10:00:38] @timber:matrix.bestflowers247.online: у них сетка на сервисе corelogic.com
+--------------------
+[2024-07-19 10:01:27] @timber:matrix.bestflowers247.online: когда будем лимо сливать?
+--------------------
+[2024-07-19 10:33:45] @timber:matrix.bestflowers247.online: mysql5
+```
+29366A3EDB5CDA96533BD161E0B1C021F19969ED
+FF0EA9D20E8A7F76074149CA737887FBC587E56C
+```
+--------------------
+[2024-07-19 11:01:28] @usernameyy:matrix.bestflowers247.online: Я тут
+--------------------
+[2024-07-19 11:02:24] @usernameyy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+работет
+--------------------
+[2024-07-19 11:02:28] @usernameyy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+* работает
+--------------------
+[2024-07-19 12:26:14] @usernamegg:matrix.bestflowers247.online: супер
+--------------------
+[2024-07-19 12:26:17] @usernamegg:matrix.bestflowers247.online: все работает
+--------------------
+[2024-07-19 12:26:22] @usernamegg:matrix.bestflowers247.online: и сингл и дабл ?
+--------------------
+[2024-07-19 12:26:44] @usernameyy:matrix.bestflowers247.online: всё работает
+--------------------
+[2024-07-19 12:26:53] @usernamegg:matrix.bestflowers247.online: > <@timber:matrix.bestflowers247.online> да. тьфу тьфу все хорошо. пару дней уже стабильно тут. народ походу на каникулах, в чате хешей тоже затишье
+
+да, все именно так. Отдых тоже нужен.
+--------------------
+[2024-07-19 12:27:36] @usernamegg:matrix.bestflowers247.online: > <@timber:matrix.bestflowers247.online> по тем двум ресурам работаю. в одном восстановился. у них там винда появилась. вот эти appraisalscope.com
+
+отлично, главное снифф поставь что бы летело норм
+--------------------
+[2024-07-19 12:27:49] @usernamegg:matrix.bestflowers247.online: надо что бы сюда NN зашел
+--------------------
+[2024-07-19 12:27:54] @usernamegg:matrix.bestflowers247.online: ты ему пароль сменил ,
+--------------------
+[2024-07-19 12:27:55] @usernamegg:matrix.bestflowers247.online: ?
+--------------------
+[2024-07-19 12:28:16] @usernamegg:matrix.bestflowers247.online: новый бы ему сделать
+--------------------
+[2024-07-19 12:28:21] @usernamegg:matrix.bestflowers247.online: я через принот в телеге пердам
+--------------------
+[2024-07-19 12:28:23] @usernameyy:matrix.bestflowers247.online: нет, не менял ему ничего
+--------------------
+[2024-07-19 12:28:25] @usernameyy:matrix.bestflowers247.online: щас
+--------------------
+[2024-07-19 12:28:34] @usernameyy:matrix.bestflowers247.online: ```
+Login: usernamenn
+Password: 1d#Asfb5SbS#tWXqCrG2zzRc1CVGacQsX@r!vtxd
+Mail: usernamenn@bestflowers247.online
+
+--------------------
+[2024-07-19 12:28:35] @usernamegg:matrix.bestflowers247.online: > <@timber:matrix.bestflowers247.online> когда будем лимо сливать?
+
+мне уже неделю партнер говорит об этом
+--------------------
+[2024-07-19 12:28:39] @timber:matrix.bestflowers247.online: логины пассы нужны? ковыряю его. поменяло все.  они продались другой компании и логи не пойму куда ставить. там можно декрипнуть пароли
+--------------------
+[2024-07-19 12:28:44] @usernamegg:matrix.bestflowers247.online: я не хочу старый проект востанавливать
+--------------------
+[2024-07-19 12:28:49] @usernamegg:matrix.bestflowers247.online: я думаю новый проект написать
+--------------------
+[2024-07-19 12:28:58] @usernamegg:matrix.bestflowers247.online: \старый шоп все подтянит за нами это плохо (
+--------------------
+[2024-07-19 12:29:11] @usernamegg:matrix.bestflowers247.online: мы сделаем легкий и супер быстрый новый проект сейчас
+--------------------
+[2024-07-19 12:29:15] @timber:matrix.bestflowers247.online: правильно. новый всегда лучше. хотя старый мне нравился. добротно сделан был
+--------------------
+[2024-07-19 12:30:27] @usernameyy:matrix.bestflowers247.online: вот новый
+--------------------
+[2024-07-19 12:30:28] @usernameyy:matrix.bestflowers247.online: ```
+Login: usernamenn1
+Password: XzGBTav#qB#xGqDTgwgwrZTT@@BfeRz@ZXeb41R@
+Mail: usernamenn1@bestflowers247.online
+
+--------------------
+[2024-07-19 12:32:42] @usernamegg:matrix.bestflowers247.online: > <@timber:matrix.bestflowers247.online> правильно. новый всегда лучше. хотя старый мне нравился. добротно сделан был
+
+да все верно и мне тоже нравился очень. сейчас пока поймем кто сможешь вывести написать новый проект за короткое время.
+--------------------
+[2024-07-19 12:33:07] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> ```
+> Login: usernamenn
+> Password: 1d#Asfb5SbS#tWXqCrG2zzRc1CVGacQsX@r!vtxd
+> Mail: usernamenn@bestflowers247.online
+
+это старый ?
+--------------------
+[2024-07-19 12:33:16] @usernamegg:matrix.bestflowers247.online: пускай со старым заходит
+--------------------
+[2024-07-19 12:33:32] @usernameyy:matrix.bestflowers247.online: это старый да
+--------------------
+[2024-07-19 14:19:16] @usernamegg:matrix.bestflowers247.online: https://file.io/E6TZD6DrjFms
+264kvalid
+забери тож
+--------------------
+[2024-07-19 15:08:26] @usernameugway:matrix.bestflowers247.online: бро привет
+--------------------
+[2024-07-19 15:08:39] @usernameugway:matrix.bestflowers247.online: все норм? не отвечаешь в тг
+--------------------
+[2024-07-19 18:35:10] @lapa:matrix.bestflowers247.online: зачем он все проверял, если я ему написал конкретно с какими серверами проблема
+--------------------
+[2024-07-19 18:35:41] @lapa:matrix.bestflowers247.online: * +
+--------------------
+[2024-07-19 18:45:32] @lapa:matrix.bestflowers247.online: отлично
+--------------------
+[2024-07-19 18:45:36] @lapa:matrix.bestflowers247.online: 198 работают уже
+--------------------
+[2024-07-19 18:45:38] @lapa:matrix.bestflowers247.online: ```
+45.141.87.253	No connection
+194.26.25.96	No connection
+```
+
+--------------------
+[2024-07-19 18:45:44] @lapa:matrix.bestflowers247.online: но с этими двумя проблемка
+--------------------
+[2024-07-19 18:46:16] @lapa:matrix.bestflowers247.online: будет еще новые поднимать?
+--------------------
+[2024-07-19 18:46:29] @lapa:matrix.bestflowers247.online: * будет еще новые поднимать, чтобы брут быстрее был
+--------------------
+[2024-07-19 18:59:43] @lapa:matrix.bestflowers247.online: * но с этими двумя только проблемка
+--------------------
+[2024-07-19 19:04:28] @lapa:matrix.bestflowers247.online: Send 0.01057 BTC: bc1qvwntvw5sxtsavaya85up958pjn2eysaqcflffe
+--------------------
+[2024-07-19 19:05:11] @lapa:matrix.bestflowers247.online: Send 0.01057 BTC: bc1qn0z8etys62cljzwjxl80k9y5nag7pq42s9lyes
+--------------------
+[2024-07-19 19:08:10] @lapa:matrix.bestflowers247.online: это соксы оплатить
+--------------------
+[2024-07-19 19:27:16] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> ```
+> bc1q92fkc6n06x3zd6xh7s79jms3qc3q7es9sx5ypls5e04fr7k5svtszfazxm
+
+ушло
+3.0075
+--------------------
+[2024-07-19 19:27:26] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-07-19 19:27:26] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-07-19 19:27:28] @usernamegg:matrix.bestflowers247.online: у тебя ,
+--------------------
+[2024-07-19 19:30:28] @usernameugway:matrix.bestflowers247.online: ну +-) вроде норм. чекни потом тг
+--------------------
+[2024-07-19 19:30:45] @usernamegg:matrix.bestflowers247.online: у меня приватный чат на другом устройстве
+--------------------
+[2024-07-19 19:31:32] @usernameugway:matrix.bestflowers247.online: ааа
+--------------------
+[2024-07-19 19:31:38] @usernameugway:matrix.bestflowers247.online: пересоздать?
+--------------------
+[2024-07-19 19:31:51] @usernameugway:matrix.bestflowers247.online: ну или сам создай с нужного
+--------------------
+[2024-07-19 19:32:06] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> Send 0.01057 BTC: bc1qn0z8etys62cljzwjxl80k9y5nag7pq42s9lyes
+
+c5df40fb6f5dab14faaa8a73d9aaf24fa8cca9cc36325ef92ba91bf25e2b4feb
+--------------------
+[2024-07-19 19:32:07] @usernamegg:matrix.bestflowers247.online: ушло
+--------------------
+[2024-07-19 19:32:53] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> будет еще новые поднимать, чтобы брут быстрее был
+
+да, конечно будет поднимать новые
+--------------------
+[2024-07-19 19:34:26] @usernamegg:matrix.bestflowers247.online: с брокером сделал новый приватный чат вот сейчас
+--------------------
+[2024-07-19 19:34:31] @usernamegg:matrix.bestflowers247.online: как придет в сеть подтвердит
+--------------------
+[2024-07-19 19:34:37] @usernamegg:matrix.bestflowers247.online: с тобой как связатся ?
+--------------------
+[2024-07-19 19:35:33] @usernameugway:matrix.bestflowers247.online: минута напишу
+--------------------
+[2024-07-19 19:38:31] @usernamegg:matrix.bestflowers247.online: +
+--------------------
+[2024-07-19 20:27:40] @usernamegg:matrix.bestflowers247.online: slim shady, [7/19/24 4:09 PM]
+вечера работали точно они
+
+slim shady, [7/19/24 4:10 PM]
+ща
+
+slim shady, [7/19/24 4:14 PM]
+45.141.87.253 заменили на 194.26.25.166
+я вчера писал и давал досту, так же в блокнотах новый ип
+
+slim shady, [7/19/24 4:15 PM]
+45.141.87.253 -> 194.26.25.166 (тут заменил на новый IP, 45.141.87.253 с этим какая то ерунда, он не пашет)
+root
+}6v/en]Psj_M(D4
+--------------------
+[2024-07-19 20:28:07] @usernamegg:matrix.bestflowers247.online: _____
+--------------------
+[2024-07-19 20:28:15] @usernamegg:matrix.bestflowers247.online: 91.215.85.140 - этот сервак для брута ?
+--------------------

@@ -1,0 +1,30 @@
+[2024-09-15 18:05:34] @lapa:matrix.bestflowers247.online: 394 сервера онлайн сейчас
+--------------------
+[2024-09-15 18:05:45] @lapa:matrix.bestflowers247.online: ```
+194.26.29.3	Invalid root password(fdd6mm)Wi<I}+&^)
+194.26.25.92	No connection
+45.141.86.41	No connection
+194.26.29.8	Invalid root password(eI,/L@E2LT>F^RL)
+77.221.146.19	No connection
+45.141.86.245	No connection
+194.26.29.130	No connection
+45.141.87.253	No connection
+```
+
+--------------------
+[2024-09-15 18:06:19] @lapa:matrix.bestflowers247.online: вот с этими сейчас проблема серверами, но какие-то два получается старые
+--------------------
+[2024-09-15 18:20:14] @lapa:matrix.bestflowers247.online: ```
+BRUT_VALIDS_2024-09-15.zip: https://file.io/q0v6R8cqTNwo
+Password: 620ca478ff4ec7be1bf2c342348c7bb17bbad3665e5d13fb17d204ad7a205310
+```
+
+--------------------
+[2024-09-15 18:20:17] @lapa:matrix.bestflowers247.online: валид с брута
+--------------------
+[2024-09-15 18:21:13] @lapa:matrix.bestflowers247.online: ну уже я заметил, что есть циско, которые к которым сервера брута даже не пингуют, например https://134.130.129.186
+--------------------
+[2024-09-15 18:22:14] @lapa:matrix.bestflowers247.online: возможно циско начали блочить наши айпишиники брут серверов
+--------------------
+[2024-09-15 18:22:21] @lapa:matrix.bestflowers247.online: ладно, пока еще брут идет
+--------------------

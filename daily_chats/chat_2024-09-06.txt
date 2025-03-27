@@ -1,0 +1,465 @@
+[2024-09-06 09:50:16] @lapa:matrix.bestflowers247.online: получилось же у них войти?
+--------------------
+[2024-09-06 11:17:11] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-09-06 12:16:38] @lapa:matrix.bestflowers247.online: скоро проверю
+--------------------
+[2024-09-06 12:18:19] @usernamegg:matrix.bestflowers247.online: что после ребута все востановилось?
+--------------------
+[2024-09-06 12:19:37] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> что после ребута все востановилось?
+
+не думаю
+--------------------
+[2024-09-06 12:19:43] @lapa:matrix.bestflowers247.online: они там что-то правили наверняка
+--------------------
+[2024-09-06 12:20:05] @lapa:matrix.bestflowers247.online: проблема же балы в том, что канала в локальной сети не хватала
+--------------------
+[2024-09-06 12:20:15] @lapa:matrix.bestflowers247.online: скоро буду все поднимать и проверять как будет держать нагрузку
+--------------------
+[2024-09-06 12:22:20] @lapa:matrix.bestflowers247.online: * проблема же балы в том, что канала в локальной сети не хватало
+--------------------
+[2024-09-06 12:22:28] @lapa:matrix.bestflowers247.online: * проблема же была в том, что канала в локальной сети не хватало
+--------------------
+[2024-09-06 12:28:26] @usernamegg:matrix.bestflowers247.online: Мы не ребутали
+Сервера по локальной сети друг друга видят
+Сеть между ними работает
+--------------------
+[2024-09-06 12:28:38] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-09-06 12:28:42] @lapa:matrix.bestflowers247.online: да, сеть работает
+--------------------
+[2024-09-06 12:28:59] @lapa:matrix.bestflowers247.online: скоро буду проверять при нагрузке
+--------------------
+[2024-09-06 12:29:18] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-09-06 12:29:19] @usernamegg:matrix.bestflowers247.online: жду
+--------------------
+[2024-09-06 12:29:25] @usernamegg:matrix.bestflowers247.online: я пока не уйдут
+--------------------
+[2024-09-06 12:29:28] @usernamegg:matrix.bestflowers247.online: пока не запустишь
+--------------------
+[2024-09-06 12:29:33] @lapa:matrix.bestflowers247.online: это не скоро
+--------------------
+[2024-09-06 12:29:46] @lapa:matrix.bestflowers247.online: ну к вечеру отпишусь
+--------------------
+[2024-09-06 12:29:47] @usernamegg:matrix.bestflowers247.online: там сервера просто простаивают
+--------------------
+[2024-09-06 12:29:53] @usernamegg:matrix.bestflowers247.online: мы же за ним платим не кисло )
+--------------------
+[2024-09-06 12:30:00] @lapa:matrix.bestflowers247.online: да
+--------------------
+[2024-09-06 12:30:12] @lapa:matrix.bestflowers247.online: ну я от вас тоже 10 дней ждал ответа)
+--------------------
+[2024-09-06 12:30:17] @lapa:matrix.bestflowers247.online: хотя вы читали)
+--------------------
+[2024-09-06 12:32:05] @usernamegg:matrix.bestflowers247.online: да< это мой проеб) извиняюсь за мат
+--------------------
+[2024-09-06 12:32:48] @usernamegg:matrix.bestflowers247.online: Бро, ты писал, что локальной сети нет
+--------------------
+[2024-09-06 12:32:50] @usernamegg:matrix.bestflowers247.online: я ему так писал
+--------------------
+[2024-09-06 12:32:59] @usernamegg:matrix.bestflowers247.online: а не канала не хватало
+--------------------
+[2024-09-06 12:33:07] @usernamegg:matrix.bestflowers247.online: канал локалки надо увеличивать еще ,
+--------------------
+[2024-09-06 12:33:11] @usernamegg:matrix.bestflowers247.online: ?
+--------------------
+[2024-09-06 12:33:33] @lapa:matrix.bestflowers247.online: ну я же писал
+--------------------
+[2024-09-06 12:33:56] @lapa:matrix.bestflowers247.online: что когда даю нагрузку, локальный каначал перестает пинговаться
+--------------------
+[2024-09-06 12:34:12] @lapa:matrix.bestflowers247.online: а не то, что он вообще не работает
+--------------------
+[2024-09-06 12:34:17] @lapa:matrix.bestflowers247.online: но они что-то же меняли
+--------------------
+[2024-09-06 12:35:04] @usernamegg:matrix.bestflowers247.online: я понимаю , да , сейчас буду обсуждать
+--------------------
+[2024-09-06 12:35:19] @usernamegg:matrix.bestflowers247.online: надо что бы локальный канал сделали мощнее иболее стабильный
+--------------------
+[2024-09-06 12:37:32] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> Мы не ребутали
+> Сервера по локальной сети друг друга видят
+> Сеть между ними работает
+
+просто прикол. сеть то и до этого работала) когда мы им написали, они отрубили ее как будто
+--------------------
+[2024-09-06 12:37:48] @lapa:matrix.bestflowers247.online: я думал они нашли косяк в работе локальной сети
+--------------------
+[2024-09-06 12:40:49] @usernamegg:matrix.bestflowers247.online: ща поймем
+--------------------
+[2024-09-06 12:44:08] @lapa:matrix.bestflowers247.online: запустил
+--------------------
+[2024-09-06 12:44:10] @lapa:matrix.bestflowers247.online: посмотрим
+--------------------
+[2024-09-06 12:56:48] @lapa:matrix.bestflowers247.online: жду как наберется хотябы 100к потоков
+--------------------
+[2024-09-06 12:57:04] @lapa:matrix.bestflowers247.online: так как вышел даже 70к уже валилась сеть локальная
+--------------------
+[2024-09-06 13:03:41] @lapa:matrix.bestflowers247.online: ну 92к потоков уже держит
+--------------------
+[2024-09-06 13:04:16] @lapa:matrix.bestflowers247.online: а сколько нам серверов уже выдали?
+--------------------
+[2024-09-06 13:19:39] @lapa:matrix.bestflowers247.online: ```
+oot@localhost:/var/www/html# ping 192.168.100.3
+PING 192.168.100.3 (192.168.100.3) 56(84) bytes of data.
+ping: sendmsg: Operation not permitted
+64 bytes from 192.168.100.3: icmp_seq=2 ttl=64 time=0.137 ms
+ping: sendmsg: Operation not permitted
+64 bytes from 192.168.100.3: icmp_seq=4 ttl=64 time=0.168 ms
+64 bytes from 192.168.100.3: icmp_seq=5 ttl=64 time=0.154 ms
+64 bytes from 192.168.100.3: icmp_seq=6 ttl=64 time=0.158 ms
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not per
+```
+--------------------
+[2024-09-06 13:19:45] @lapa:matrix.bestflowers247.online: ну есть запуты в работе
+--------------------
+[2024-09-06 13:20:07] @lapa:matrix.bestflowers247.online: пусть зайдет сюда 45.140.17.40 и сделает ping 192.168.100.3
+--------------------
+[2024-09-06 13:20:41] @lapa:matrix.bestflowers247.online: `Dx&{RP@_HHDd8T1sDS2vF7Z` это новый пасс для серверов
+--------------------
+[2024-09-06 13:28:47] @lapa:matrix.bestflowers247.online: ну короч я там ничего стопать не буду, поэтому пусть он уже смотрит в чем проблема
+--------------------
+[2024-09-06 13:30:40] @lapa:matrix.bestflowers247.online: интересно, что пинг на на внешний айпишник сервера тоже херовый
+--------------------
+[2024-09-06 13:30:48] @lapa:matrix.bestflowers247.online: ```
+ping 45.140.17.24
+PING 45.140.17.24 (45.140.17.24) 56(84) bytes of data.
+64 bytes from 45.140.17.24: icmp_seq=1 ttl=63 time=13.3 ms
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not permitted
+64 bytes from 45.140.17.24: icmp_seq=5 ttl=63 time=0.156 ms
+64 bytes from 45.140.17.24: icmp_seq=6 ttl=63 time=0.115 ms
+64 bytes from 45.140.17.24: icmp_seq=7 ttl=63 time=0.112 ms
+ping: sendmsg: Operation not permitted
+64 bytes from 45.140.17.24: icmp_seq=9 ttl=63 time=0.155 ms
+^C
+--- 45.140.17.24 ping statistics ---
+9 packets transmitted, 5 received, 44.4444% packet loss, time 8172ms
+rtt min/avg/max/mdev = 0.112/2.772/13.323/5.275 ms
+```
+
+--------------------
+[2024-09-06 13:34:38] @lapa:matrix.bestflowers247.online: там переодически будет норм работать, так как потоки падают, из-за того, что сервер молчит
+--------------------
+[2024-09-06 13:34:49] @lapa:matrix.bestflowers247.online: короч пусть часов прям помониторит
+--------------------
+[2024-09-06 13:35:31] @lapa:matrix.bestflowers247.online: потому что это оч важно, чтобы поднять норм потоков и заюзать сервера для брута максимально
+--------------------
+[2024-09-06 13:39:30] @lapa:matrix.bestflowers247.online: короч я хз
+--------------------
+[2024-09-06 13:39:38] @lapa:matrix.bestflowers247.online: как будто там что-то с каналом
+--------------------
+[2024-09-06 13:39:45] @lapa:matrix.bestflowers247.online: у серверов этих трех
+--------------------
+[2024-09-06 13:40:48] @lapa:matrix.bestflowers247.online: трафик там слабый, ниже 50Мбит
+--------------------
+[2024-09-06 13:41:05] @lapa:matrix.bestflowers247.online: * трафик там слабый, ниже 50Мбит, потому, что оптимизировал
+--------------------
+[2024-09-06 13:57:11] @lapa:matrix.bestflowers247.online: ну короч и пинг, и коннект к бд работает херово, когда даю нагрузку на сеть
+--------------------
+[2024-09-06 13:57:41] @lapa:matrix.bestflowers247.online: image.png
+--------------------
+[2024-09-06 13:57:45] @lapa:matrix.bestflowers247.online: при этом трафик слабый
+--------------------
+[2024-09-06 14:01:16] @lapa:matrix.bestflowers247.online: * короч пусть часок прям помониторит
+--------------------
+[2024-09-06 14:07:59] @lapa:matrix.bestflowers247.online: `ping 192.168.100.4` и сюда пинг обрывается иногда
+--------------------
+[2024-09-06 14:08:05] @lapa:matrix.bestflowers247.online: короч, там тупо что-то с сетью
+--------------------
+[2024-09-06 14:13:20] @lapa:matrix.bestflowers247.online: * короч, там что-то с сетью
+--------------------
+[2024-09-06 15:00:17] @usernamegg:matrix.bestflowers247.online: ща
+--------------------
+[2024-09-06 15:01:16] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> а сколько нам серверов уже выдали?
+
+200 где то
+--------------------
+[2024-09-06 15:06:00] @usernamegg:matrix.bestflowers247.online: сейчас скажу что бы час мониторили
+--------------------
+[2024-09-06 15:06:17] @usernamegg:matrix.bestflowers247.online: > Бро, могу уточнить, ты пытаешься сканить с серверов?
+--------------------
+[2024-09-06 15:06:27] @usernamegg:matrix.bestflowers247.online: у него вопрос
+--------------------
+[2024-09-06 15:06:34] @usernamegg:matrix.bestflowers247.online: он как я понял просто саппорт
+--------------------
+[2024-09-06 15:06:40] @usernamegg:matrix.bestflowers247.online: техник другой человек
+--------------------
+[2024-09-06 15:07:14] @lapa:matrix.bestflowers247.online: не, с его серверов я не сканирую ничего
+--------------------
+[2024-09-06 15:10:13] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> не, с его серверов я не сканирую ничего
+
+ему надо понять под какие задачи сервера нужны
+--------------------
+[2024-09-06 15:10:21] @usernamegg:matrix.bestflowers247.online: что бы отладить работу более четко \
+--------------------
+[2024-09-06 15:10:39] @usernamegg:matrix.bestflowers247.online: слушай а основной сервер где спамилка стоит ведь работает все ок ?
+--------------------
+[2024-09-06 15:12:15] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> слушай а основной сервер где спамилка стоит ведь работает все ок ?
+
+да
+--------------------
+[2024-09-06 15:12:41] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-09-06 15:13:07] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> ему надо понять под какие задачи сервера нужны
+
+ну он про эти три сервера спрашивает?
+--------------------
+[2024-09-06 15:13:16] @usernamegg:matrix.bestflowers247.online: может в другом месте взять сервера под эту задачу
+--------------------
+[2024-09-06 15:13:26] @usernamegg:matrix.bestflowers247.online: парамеры какие у нас и требования
+--------------------
+[2024-09-06 15:13:35] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> ну он про эти три сервера спрашивает?
+
+да да
+--------------------
+[2024-09-06 15:13:43] @usernamegg:matrix.bestflowers247.online: только про эти три сервера
+--------------------
+[2024-09-06 15:14:16] @lapa:matrix.bestflowers247.online: ну просто мне интересно уже в чем проблема
+--------------------
+[2024-09-06 15:15:27] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> ему надо понять под какие задачи сервера нужны
+
+у нас на этот сервера 45.140.17.40 и 45.140.17.23 идут запросы http на 80 порт
+--------------------
+[2024-09-06 15:15:58] @usernamegg:matrix.bestflowers247.online: А ты внешний ip пытаешься с наших же серверов пигновать или от другого сервера?
+--------------------
+[2024-09-06 15:16:43] @lapa:matrix.bestflowers247.online: `45.140.17.24` вот тут у нас бд, к ней обращаются два сервера (45.140.17.40 и 45.140.17.23) по локальному айпишнику (192.168.100.3)
+--------------------
+[2024-09-06 15:16:58] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> А ты внешний ip пытаешься с наших же серверов пигновать или от другого сервера?
+
+пробывал и так и так
+--------------------
+[2024-09-06 15:18:24] @lapa:matrix.bestflowers247.online: ```
+root@ubuntu:~# ping 45.140.17.40
+PING 45.140.17.40 (45.140.17.40) 56(84) bytes of data.
+
+^C
+--- 45.140.17.40 ping statistics ---
+18 packets transmitted, 0 received, 100% packet loss, time 17413ms
+```
+
+--------------------
+[2024-09-06 15:18:31] @lapa:matrix.bestflowers247.online: вот с левого сервера сделал пинг
+--------------------
+[2024-09-06 15:18:33] @lapa:matrix.bestflowers247.online: сейчас
+--------------------
+[2024-09-06 15:18:36] @lapa:matrix.bestflowers247.online: не пингуется
+--------------------
+[2024-09-06 15:19:34] @lapa:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> у нас на этот сервера 45.140.17.40 и 45.140.17.23 идут запросы http на 80 порт
+
+но это видимо из-за нагрузки
+--------------------
+[2024-09-06 15:19:59] @usernamegg:matrix.bestflowers247.online: скорее всего
+--------------------
+[2024-09-06 15:20:25] @lapa:matrix.bestflowers247.online: ```
+--- 45.140.17.40 ping statistics ---
+84 packets transmitted, 39 received, 53.5714% packet loss, time 84037ms
+rtt min/avg/max/mdev = 1.354/1.794/6.389/0.976 ms
+```
+
+--------------------
+[2024-09-06 15:23:27] @lapa:matrix.bestflowers247.online: я попрую отрубит ваерволл, может он что-то делает
+--------------------
+[2024-09-06 15:26:04] @lapa:matrix.bestflowers247.online: блин
+--------------------
+[2024-09-06 15:26:14] @lapa:matrix.bestflowers247.online: походу реально ufw блочил пакеты
+--------------------
+[2024-09-06 15:26:23] @lapa:matrix.bestflowers247.online: переодически
+--------------------
+[2024-09-06 15:27:37] @lapa:matrix.bestflowers247.online: все короч, проблема решилась
+--------------------
+[2024-09-06 15:27:40] @lapa:matrix.bestflowers247.online: чуть что отпишу
+--------------------
+[2024-09-06 15:28:05] @lapa:matrix.bestflowers247.online: по логам посмотрел, ufw блочил пакеты
+--------------------
+[2024-09-06 15:28:14] @lapa:matrix.bestflowers247.online: * по логам посмотрел, ufw блочил пакеты переодически
+--------------------
+[2024-09-06 15:29:51] @usernamegg:matrix.bestflowers247.online: да фаер блочит в итоге?
+--------------------
+[2024-09-06 15:29:56] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> да фаер блочит в итоге?
+
+да
+--------------------
+[2024-09-06 15:29:59] @lapa:matrix.bestflowers247.online: он видимо думал
+--------------------
+[2024-09-06 15:30:03] @lapa:matrix.bestflowers247.online: что идет ддос атака
+--------------------
+[2024-09-06 15:30:17] @lapa:matrix.bestflowers247.online: ну я настрою его
+--------------------
+[2024-09-06 15:30:23] @lapa:matrix.bestflowers247.online: добавлю в вайт лист наши сервера
+--------------------
+[2024-09-06 15:30:27] @usernamegg:matrix.bestflowers247.online: __)))))
+--------------------
+[2024-09-06 15:30:41] @usernamegg:matrix.bestflowers247.online: 10 дней простоя не по моей вине значит )
+--------------------
+[2024-09-06 15:30:51] @usernamegg:matrix.bestflowers247.online: давай добавляй
+--------------------
+[2024-09-06 15:30:54] @usernamegg:matrix.bestflowers247.online: хорошо
+--------------------
+[2024-09-06 15:31:04] @usernamegg:matrix.bestflowers247.online: я почему то подумал тогда про фаер
+--------------------
+[2024-09-06 15:31:04] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> 10 дней простоя не по моей вине значит )
+
+ага)
+--------------------
+[2024-09-06 15:31:26] @usernamegg:matrix.bestflowers247.online: ну ты аркадий конечно
+--------------------
+[2024-09-06 15:31:28] @lapa:matrix.bestflowers247.online: просто до этого не было проблем
+--------------------
+[2024-09-06 15:31:57] @lapa:matrix.bestflowers247.online: видимо он фаер накопил статистику и начал блочить запросы от наших же сереров
+--------------------
+[2024-09-06 15:32:00] @lapa:matrix.bestflowers247.online: ладно
+--------------------
+[2024-09-06 15:32:22] @lapa:matrix.bestflowers247.online: ну вроде проблема решена, пока что нет перебоев
+--------------------
+[2024-09-06 15:32:26] @lapa:matrix.bestflowers247.online: но еще мониторю
+--------------------
+[2024-09-06 15:32:37] @lapa:matrix.bestflowers247.online: вроде реально из-за фаера
+--------------------
+[2024-09-06 15:33:00] @usernamegg:matrix.bestflowers247.online: понял
+--------------------
+[2024-09-06 15:33:21] @usernamegg:matrix.bestflowers247.online: супер что могу сказать
+--------------------
+[2024-09-06 15:58:36] @lapa:matrix.bestflowers247.online: у меня на данный момоент активны 328 сервера
+--------------------
+[2024-09-06 15:58:58] @lapa:matrix.bestflowers247.online: ```
+194.26.29.3	Invalid root password(fdd6mm)Wi<I}+&^)
+77.221.146.29	bash: test.txt: Read-only file system
+45.141.87.246	bash: test.txt: Read-only file system
+194.26.29.8	Invalid root password(eI,/L@E2LT>F^RL)
+77.221.146.24	No connection
+77.221.146.13	No connection
+77.221.146.16	No connection
+77.221.146.25	No connection
+194.26.25.75	Invalid root password(RL9^Jz6?y={!dbI)
+77.221.146.26	No connection
+194.26.29.207	Invalid root password(~B\3qwjFW\)!vA:)
+77.221.146.35	No connection
+194.26.25.112	No connection
+77.221.146.36	No connection
+77.221.146.14	No connection
+194.26.25.69	No connection
+45.141.86.211	No connection
+194.26.29.241	Invalid root password(/SS(#+<)P8h)[C$)
+194.26.25.90	No connection
+77.221.146.17	No connection
+77.221.146.15	No connection
+194.26.25.61	No connection
+77.221.146.37	No connection
+194.26.25.123	No connection
+194.26.25.58	No connection
+194.26.25.92	No connection
+194.26.25.121	No connection
+194.26.25.118	No connection
+194.26.25.120	No connection
+194.26.25.122	No connection
+194.26.25.82	No connection
+194.26.25.77	No connection
+194.26.25.97	No connection
+194.26.25.83	No connection
+194.26.69.17	No php
+194.26.25.252	No php
+194.26.25.81	No connection
+```
+
+--------------------
+[2024-09-06 15:59:07] @lapa:matrix.bestflowers247.online: только что запускал чекер
+--------------------
+[2024-09-06 15:59:13] @lapa:matrix.bestflowers247.online: вот с этими серверами проблема
+--------------------
+[2024-09-06 15:59:36] @lapa:matrix.bestflowers247.online: пусть проверят
+--------------------
+[2024-09-06 15:59:48] @lapa:matrix.bestflowers247.online: а должно же быть 400 серверов?
+--------------------
+[2024-09-06 15:59:52] @lapa:matrix.bestflowers247.online: он вроде еще не додал
+--------------------
+[2024-09-06 16:00:10] @usernamegg:matrix.bestflowers247.online: все передал информацию
+--------------------
+[2024-09-06 16:00:11] @usernamegg:matrix.bestflowers247.online: ждем
+--------------------
+[2024-09-06 16:00:43] @usernamegg:matrix.bestflowers247.online: сейчас написал
+--------------------
+[2024-09-06 16:00:46] @usernamegg:matrix.bestflowers247.online: спросим
+--------------------
+[2024-09-06 16:01:15] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-09-06 16:02:58] @usernamegg:matrix.bestflowers247.online: 200.txt
+--------------------
+[2024-09-06 16:02:58] @usernamegg:matrix.bestflowers247.online: 300.txt
+--------------------
+[2024-09-06 16:02:59] @usernamegg:matrix.bestflowers247.online: 400.txt
+--------------------
+[2024-09-06 16:03:38] @lapa:matrix.bestflowers247.online: ++
+--------------------
+[2024-09-06 16:19:26] @lapa:matrix.bestflowers247.online: 364 сервера онлайн
+--------------------
+[2024-09-06 16:19:31] @lapa:matrix.bestflowers247.online: вот с этими проблемы:
+--------------------
+[2024-09-06 16:19:34] @lapa:matrix.bestflowers247.online: ```
+194.26.29.3	Invalid root password(fdd6mm)Wi<I}+&^)
+194.26.29.241	Invalid root password(/SS(#+<)P8h)[C$)
+194.26.29.8	Invalid root password(eI,/L@E2LT>F^RL)
+194.26.29.3	Invalid root password(fdd6mm)Wi<I}+&^)
+77.221.146.29	bash: test.txt: Read-only file system
+45.141.87.246	bash: test.txt: Read-only file system
+77.221.146.36	Invalid root password(c_t^p*2~WR2:0QM)
+194.26.29.8	Invalid root password(eI,/L@E2LT>F^RL)
+194.26.29.241	Invalid root password(/SS(#+<)P8h)[C$)
+77.221.146.35	No connection
+77.221.146.16	No connection
+194.26.25.112	No connection
+77.221.146.24	No connection
+77.221.146.25	No connection
+77.221.146.26	No connection
+77.221.146.13	No connection
+77.221.146.14	No connection
+194.26.25.69	No connection
+45.141.86.211	No connection
+194.26.29.207	Invalid root password(~B\3qwjFW\)!vA:)
+194.26.25.90	No connection
+194.26.25.75	Invalid root password(RL9^Jz6?y={!dbI)
+194.26.25.81	No connection
+194.26.25.122	No connection
+194.26.25.61	No connection
+77.221.146.15	No connection
+77.221.146.17	No connection
+77.221.146.37	No connection
+194.26.25.58	No connection
+194.26.25.92	No connection
+194.26.25.92	Invalid root password(@n,BmW5mUSJ5(:5)
+194.26.25.118	No connection
+194.26.25.123	No connection
+194.26.25.120	No connection
+194.26.25.77	No connection
+194.26.25.121	No connection
+194.26.25.97	No connection
+194.26.25.120	No connection
+194.26.25.121	No connection
+194.26.25.118	No connection
+194.26.25.122	No connection
+194.26.25.83	No connection
+194.26.25.112	No connection
+194.26.25.69	No connection
+194.26.25.61	No connection
+194.26.25.90	No connection
+45.141.87.246	bash: test.txt: Read-only file system
+194.26.25.97	Invalid root password(+xa6Q6i59n&5YLO)
+194.26.25.81	Invalid root password(FcQUgL>4K5k:;JD)
+194.26.25.123	Invalid root password(r5KWhBxQH5f/?W/)
+194.26.25.82	No connection
+194.26.25.77	No connection
+194.26.25.82	Invalid root password(h+T?!3{}=f^\1lC)
+194.26.25.83	No connection
+194.26.25.58	No connection
+194.26.25.75	Invalid root password(RL9^Jz6?y={!dbI)
+```
+--------------------
+[2024-09-06 16:20:18] @lapa:matrix.bestflowers247.online: а так да, получается 400 выдал он
+--------------------
+[2024-09-06 16:24:33] @lapa:matrix.bestflowers247.online: пусть еще скажет какой лимит у канала сейчас
+--------------------
+[2024-09-06 16:24:52] @lapa:matrix.bestflowers247.online: 50Гбит я могу юзать этими 400 серверами?
+--------------------

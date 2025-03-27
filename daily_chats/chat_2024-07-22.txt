@@ -1,0 +1,185 @@
+[2024-07-22 09:29:09] @usernameyy:matrix.bestflowers247.online: нет
+--------------------
+[2024-07-22 09:29:14] @usernameyy:matrix.bestflowers247.online: только из аккаунта
+--------------------
+[2024-07-22 09:32:59] @usernameyy:matrix.bestflowers247.online: ```
+BTC Wallet - bc1qyvaa2uwwgf34m3qggzmptcrm45tppfppyhhhde
+XMR Wallet - 88M7PZfDZSs3DWB6BY99uKVcnSFAsHr6eEhPmBD2psSyU6hv4EHYB6cGjpysZwEbQKTHCz3JfsiWMZLiDMoZZMSKQddFS66
+TRC-20 (Tron): (fee + 2,5 %)
+TNgjeQgr8dPSwK2UkhFtNpGK795cJ3yKjL
+
+--------------------
+[2024-07-22 09:33:03] @usernameyy:matrix.bestflowers247.online: 750$ abhaz 1
+--------------------
+[2024-07-22 10:36:51] @usernameyy:matrix.bestflowers247.online: ноут то нашли в итоге?
+--------------------
+[2024-07-22 10:49:31] @usernamegg:matrix.bestflowers247.online: thompsoncreek.com
+--------------------
+[2024-07-22 10:49:59] @usernamegg:matrix.bestflowers247.online: tree file
+--------------------
+[2024-07-22 10:51:55] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> ```
+> SELECT COUNT(*) AS Row_Count FROM bitcoin_bitcoinpayment;
+> 1286639
+>
+> SELECT COUNT(*) AS Row_Count FROM litecoin_litecoinpayment;
+> 64108
+>
+> SELECT COUNT(*) AS Row_Count FROM cards_card cc ;
+> 28985256
+>
+> SELECT COUNT(*) AS Row_Count FROM userprofile_user uu ;
+> 470577
+>
+> SELECT SUM(amount_received) amount_received from bitcoin_bitcoinpayment;
+> 38372.14453684
+>
+> SELECT SUM(amount_received) amount_received from litecoin_litecoinpayment;
+> 51592.82979973
+>
+> SELECT SUM(balance) balance from userprofile_user;
+> 630735.1433867989
+> ```
+
+нормальный баланс
+--------------------
+[2024-07-22 10:52:07] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> Когда будет новый элемент?
+
+еще не заказывали сервера под него
+--------------------
+[2024-07-22 10:52:10] @usernamegg:matrix.bestflowers247.online: скоро закажем
+--------------------
+[2024-07-22 10:53:35] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> Я ночью проснусь, ночью объяву кину под шоп, нужен будет в начале чел который шарит за nginx прям уверенного уровня и не только nginx, а так же redis и celery. Я создал щас ETH кошель, можешь на него закинуть баксов 500, что бы ночью было чем платить челу который найдется. Уверен будут ночью отклики ночных сов, с кем то порешаю, мне по сути только консультация нужна по настройке nginx, celery, redis, elasticsearch.
+
+ну ты распиши и посмотрим кто откликнется на объянву и потом начнем давать задания им.
+--------------------
+[2024-07-22 10:56:15] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> 0x2b48f85312a7e6F952A773e1234cB340FD472D9e
+
+отправил $500usdt
+--------------------
+[2024-07-22 10:56:34] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> 500$ думаю хватит прям вполне, дальше будет видно. Только чистые желательно закинь)
+
+чистых нету братец
+--------------------
+[2024-07-22 10:56:59] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> sent an image.
+
+ахуено)
+--------------------
+[2024-07-22 10:57:46] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> а до этого вобще на главную страницу еще не пускало, 400 ошибку давало, пришлось чуть разобраться в django скриптах и nginx, разобрался чуть и получилось завести главную страницу самого шопа, но дальше ебаный Connecting
+
+и не грузит его больше ?
+--------------------
+[2024-07-22 10:58:07] @usernamegg:matrix.bestflowers247.online: У тебя же доступ самый свежий от эксплойта остался, скинь мне его плз
+--------------------
+[2024-07-22 11:01:58] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> ноут то нашли в итоге?
+
+нет, там чел не выходит нормально на связь .
+--------------------
+[2024-07-22 11:01:58] @usernamegg:matrix.bestflowers247.online: пытаюсь
+--------------------
+[2024-07-22 11:02:33] @usernamegg:matrix.bestflowers247.online: крайни раз он сказал что может дать место где утопил ноут можем туда водолазов отправить типа
+--------------------
+[2024-07-22 11:09:35] @usernamecc:matrix.bestflowers247.online: ```
+THOMPSONCREEK_tree.txt
+http://temp.sh/ctdve/EQxv8CyT7sFn9qwUBGDdV3phPXKrJYHgLSR54cAt.zip
+EQxv8CyT7sFn9qwUBGDdV3phPXKrJYHgLSR54cAt.zip
+extract pass : am4DHeBNUn7YCfjyG8xqv3SFrRQEkcK9Lzh5pZ2P
+```
+--------------------
+[2024-07-22 11:17:06] @usernamegg:matrix.bestflowers247.online: pkaufmann
+--------------------
+[2024-07-22 11:19:00] @usernamegg:matrix.bestflowers247.online: pkaufmann.com - подсветил
+--------------------
+[2024-07-22 11:23:53] @usernamegg:matrix.bestflowers247.online: memc.com - подсветил
+--------------------
+[2024-07-22 11:24:02] @usernamegg:matrix.bestflowers247.online: provia.com - подсветил
+--------------------
+[2024-07-22 11:26:21] @usernamegg:matrix.bestflowers247.online: northernsafety.com - отправили тестовую транзацкцию
+--------------------
+[2024-07-22 11:31:14] @usernamegg:matrix.bestflowers247.online: image.png
+--------------------
+[2024-07-22 11:31:34] @usernamegg:matrix.bestflowers247.online: photo_2024-07-22_07-30-34.jpg
+--------------------
+[2024-07-22 12:31:36] @usernamenn1:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> ну ты распиши и посмотрим кто откликнется на объянву и потом начнем давать задания им.
+
+Так дела не делаются, людям нужна предоплата будет полюбому хоть какая то, а ждать 2-3 дня пока ты ответишь никто не будет, я поменяю LTC в общем
+--------------------
+[2024-07-22 12:31:58] @usernamenn1:matrix.bestflowers247.online: аа ты уже отправил, заебись
+--------------------
+[2024-07-22 12:32:08] @usernamenn1:matrix.bestflowers247.online: потому что 2-3 дня ждать пока ты ответишь, у тебя и так щас завалы
+--------------------
+[2024-07-22 12:32:32] @usernamenn1:matrix.bestflowers247.online: мне нужно решать будет здесь и сейчас когда люди будут и оговаривать каикие то сроки, щас буду объяву кинуть ночью уснул бля, режим сбился к хуям собачим
+--------------------
+[2024-07-22 12:33:29] @usernamenn1:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> У тебя же доступ самый свежий от эксплойта остался, скинь мне его плз
+
+ща найду, я забыл какой логин там, в истории остался у нас в элементе на другом акке, мне надо сбросить пароль там и все, я могу сам сбросить себе пасс через бд элемента я уже нашел как это делается
+--------------------
+[2024-07-22 12:33:47] @usernamenn1:matrix.bestflowers247.online: мне нужен сервер либо что бы @yy вышел в сеть и все сам сделал
+--------------------
+[2024-07-22 12:34:21] @usernamenn1:matrix.bestflowers247.online: А Тигр то был в сети?
+--------------------
+[2024-07-22 12:36:07] @usernamenn1:matrix.bestflowers247.online: image.png
+--------------------
+[2024-07-22 12:36:16] @usernamenn1:matrix.bestflowers247.online: Дальше не грузит, разбираюсь еще, снова сел разбираться
+--------------------
+[2024-07-22 12:36:47] @usernamenn1:matrix.bestflowers247.online: Ласт восстановил сегодня последний сервер, там оказалось что два диска по этому система не грузилась, щас грузится, сервер тоже важный там на нем что то с оплатами крутилось судя по скриптам
+--------------------
+[2024-07-22 12:38:10] @usernamenn1:matrix.bestflowers247.online: 
+```
+PAYMENTS_BITCOIN = PaymentREST(
+"rpc",
+"xxxxxxxxxxxxxxxhiddenxxxxxxxxxxxxxxxxxxxkey",
+"https://192.168.1.4:8555/rest/",
+"/home/vccservice/backend/payments-client-ca.pem",
+("/home/vccservice/backend/payments-client-cert.pem", "/home/vccservice/backend/payments-client-key.pem"),
+"payments-server"
+)
+
+PAYMENTS_LITECOIN = PaymentREST(
+"rpc",
+"xxxxxxxxxxxxxxxhiddenxxxxxxxxxxxxxxxxxxxkey",
+"https://192.168.1.4:9555/rest/",
+"/home/vccservice/backend/payments-client-ca.pem",
+("/home/vccservice/backend/payments-client-cert.pem", "/home/vccservice/backend/payments-client-key.pem"),
+"payments-server"
+)
+
+PAYMENTS_MONERO = XMRPaymentsREST(
+"",
+"",
+"https://192.168.1.4:10555/api/",
+"/home/vccservice/backend/payments-client-ca.pem",
+("/home/vccservice/backend/payments-client-cert.pem", "/home/vccservice/backend/payments-client-key.pem"),
+"payments-server"
+)
+```
+--------------------
+[2024-07-22 12:38:21] @usernamenn1:matrix.bestflowers247.online: ключи я скрыл на всякий случай
+--------------------
+[2024-07-22 12:47:31] @usernameugway:matrix.bestflowers247.online: ставлю линукс
+--------------------
+[2024-07-22 18:01:16] @usernameyy:matrix.bestflowers247.online: бля(
+--------------------
+[2024-07-22 19:38:30] @usernamenn1:matrix.bestflowers247.online: у тебя эфир есть?)) я подумал что - что бы отправить usdt нужен эфир для комисси хотя бы баксов 20 что бы было)
+--------------------
+[2024-07-22 20:14:33] @timber:matrix.bestflowers247.online: ок
+--------------------
+[2024-07-22 20:40:05] @lapa:matrix.bestflowers247.online: понял
+--------------------
+[2024-07-22 20:40:09] @lapa:matrix.bestflowers247.online: ну канал нужен больше
+--------------------
+[2024-07-22 20:40:18] @lapa:matrix.bestflowers247.online: меньше трафика не станет
+--------------------
+[2024-07-22 20:40:41] @lapa:matrix.bestflowers247.online: я могу только снизить кол-во потоков
+--------------------
+[2024-07-22 20:41:21] @lapa:matrix.bestflowers247.online: но мы же хотим все же мега брут
+--------------------
+[2024-07-22 20:41:38] @lapa:matrix.bestflowers247.online: поэтому жду как канал сделаю нормальный
+--------------------
+[2024-07-22 20:42:49] @lapa:matrix.bestflowers247.online: * поэтому жду как канал сделают большой, но думаю нужно сделать прям сразу 100 Гбит хотябы
+--------------------
+[2024-07-22 20:43:43] @lapa:matrix.bestflowers247.online: брути соника и циско потребляют меньше трафика, а вот рдвеб больше, потому, что там у него и ответ от сервера 30Кбайт примерно
+--------------------
+[2024-07-22 20:47:11] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent an image.
+
+ночью я там стопал, а потом запускал
+--------------------

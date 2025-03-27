@@ -1,0 +1,42 @@
+[2024-03-10 09:25:02] @n3auxaxl:matrix.collectionofmanager.space: Привет, вроде как все по плану идет, думаю что в понедельник сможем уже тесты сделать
+--------------------
+[2024-03-10 09:25:18] @n3auxaxl:matrix.collectionofmanager.space: часть артифакта переписал, сегодня его допишу
+--------------------
+[2024-03-10 09:25:26] @n3auxaxl:matrix.collectionofmanager.space: и по spawn процессу решу
+--------------------
+[2024-03-10 09:25:39] @n3auxaxl:matrix.collectionofmanager.space: добавлю разные техники по спуфинга родителя и так далее
+--------------------
+[2024-03-10 09:26:00] @n3auxaxl:matrix.collectionofmanager.space: ну чтобы маяк не зависил от нашего маяка, от которого уходим
+--------------------
+[2024-03-10 11:56:46] @usernamegg:matrix.bestflowers247.online: > <@tinker:matrix.bestflowers247.online> ssmnlaw.com - твоё решение - я напишу что ты считаешь нужным
+
+ответил
+--------------------
+[2024-03-10 11:57:03] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-03-10 11:57:07] @usernamegg:matrix.bestflowers247.online: очень хорошо
+--------------------
+[2024-03-10 11:57:39] @usernamegg:matrix.bestflowers247.online: как часто нужно будет делать это ? и какие ав мы будем обходить?
+--------------------
+[2024-03-10 11:57:48] @usernamegg:matrix.bestflowers247.online: > <@n3auxaxl:matrix.collectionofmanager.space> и по spawn процессу решу
+
+срочно ?
+--------------------
+[2024-03-10 11:58:44] @usernamegg:matrix.bestflowers247.online: главное что бы мы могли генерить сейчас raw и хорошо криптовать получалось и общение через профиль что бы не палилось , и могли двумя тремя фафлами ехе или dll двигать по сети ну конечно же инжектить как кошки в профессы а когда будет джамп будет вообще сказка
+--------------------
+[2024-03-10 11:59:07] @usernamegg:matrix.bestflowers247.online: > <@n3auxaxl:matrix.collectionofmanager.space> ну чтобы маяк не зависил от нашего маяка, от которого уходим
+
+мы всегда когда инжекьтимся в процесс
+--------------------
+[2024-03-10 11:59:30] @usernamegg:matrix.bestflowers247.online: старый мояк в другом процессе за собой убиваем дабы не вызвать доп палева
+--------------------
+[2024-03-10 15:55:05] @usernamenn:matrix.bestflowers247.online: https://youtu.be/DA3iD44tCSs
+--------------------
+[2024-03-10 21:21:34] @usernamegg:matrix.bestflowers247.online: атака и разведка периметра она очень важна
+--------------------
+[2024-03-10 21:21:43] @usernamegg:matrix.bestflowers247.online: ценсус и шодан нужно всегда использовать
+--------------------
+[2024-03-10 21:21:52] @usernamegg:matrix.bestflowers247.online: и ставить все ip организации на мониторинг
+--------------------
+[2024-03-10 21:22:06] @usernamegg:matrix.bestflowers247.online: очень крутой белый хакер
+--------------------

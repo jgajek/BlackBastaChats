@@ -1,0 +1,82 @@
+[2024-07-21 05:16:02] @usernamenn1:matrix.bestflowers247.online: ку
+--------------------
+[2024-07-21 05:16:04] @usernamenn1:matrix.bestflowers247.online: ку
+--------------------
+[2024-07-21 08:34:07] @usernamegg:matrix.bestflowers247.online: сейчас
+--------------------
+[2024-07-21 08:36:10] @usernamegg:matrix.bestflowers247.online: салам
+--------------------
+[2024-07-21 08:36:24] @usernamegg:matrix.bestflowers247.online: @timber:matrix.bestflowers247.online
+
+--------------------
+[2024-07-21 08:36:26] @usernamegg:matrix.bestflowers247.online: тимка
+--------------------
+[2024-07-21 08:46:35] @usernamegg:matrix.bestflowers247.online: @usernamenn1:matrix.bestflowers247.online
+--------------------
+[2024-07-21 08:46:43] @usernamegg:matrix.bestflowers247.online: вот новый контакт партнера
+--------------------
+[2024-07-21 08:46:48] @usernamegg:matrix.bestflowers247.online: добавь его
+--------------------
+[2024-07-21 10:22:01] @usernamenn1:matrix.bestflowers247.online: Привет
+--------------------
+[2024-07-21 10:23:36] @usernamenn1:matrix.bestflowers247.online: ```
+SELECT COUNT(*) AS Row_Count FROM bitcoin_bitcoinpayment;
+1286639
+
+SELECT COUNT(*) AS Row_Count FROM litecoin_litecoinpayment;
+64108
+
+SELECT COUNT(*) AS Row_Count FROM cards_card cc ;
+28985256
+
+SELECT COUNT(*) AS Row_Count FROM userprofile_user uu ;
+470577
+
+SELECT SUM(amount_received) amount_received from bitcoin_bitcoinpayment;
+38372.14453684
+
+SELECT SUM(amount_received) amount_received from litecoin_litecoinpayment;
+51592.82979973
+
+SELECT SUM(balance) balance from userprofile_user;
+630735.1433867989
+```
+
+
+--------------------
+[2024-07-21 10:23:54] @usernamenn1:matrix.bestflowers247.online: Когда будет новый элемент?
+--------------------
+[2024-07-21 11:04:18] @usernamenn1:matrix.bestflowers247.online: Я ночью проснусь, ночью объяву кину под шоп, нужен будет в начале чел который шарит за nginx прям уверенного уровня и не только nginx, а так же redis и celery. Я создал щас ETH кошель, можешь на него закинуть баксов 500, что бы ночью было чем платить челу который найдется. Уверен будут ночью отклики ночных сов, с кем то порешаю, мне по сути только консультация нужна по настройке nginx, celery, redis, elasticsearch.
+--------------------
+[2024-07-21 11:04:27] @usernamenn1:matrix.bestflowers247.online: 0x2b48f85312a7e6F952A773e1234cB340FD472D9e
+--------------------
+[2024-07-21 11:04:49] @usernamenn1:matrix.bestflowers247.online: Вот кошель, ETH можно закинуть или USDT (ERC20)
+--------------------
+[2024-07-21 11:05:16] @usernamenn1:matrix.bestflowers247.online: 500$ думаю хватит прям вполне, дальше будет видно. Только чистые желательно закинь)
+--------------------
+[2024-07-21 11:06:04] @usernamenn1:matrix.bestflowers247.online: Если не получится закинуть, я лайт наш поменяю ночью на USDT. Лайт на пол федора чистый)) Ну как чистый, с шопа)))
+--------------------
+[2024-07-21 11:07:46] @usernamenn1:matrix.bestflowers247.online: image.png
+--------------------
+[2024-07-21 11:08:09] @usernamenn1:matrix.bestflowers247.online: опять ебаный Connecting как раньше у нас был на главной странице, только я убрал слово ..ME
+--------------------
+[2024-07-21 11:08:42] @usernamenn1:matrix.bestflowers247.online: а на админку почему то щас не пускает, на страницу логина пускает я ввожу логин и пасс и 2FA, а потом 500 ошибка
+--------------------
+[2024-07-21 11:09:41] @usernamenn1:matrix.bestflowers247.online: а до этого вобще на главную страницу еще не пускало, 400 ошибку давало, пришлось чуть разобраться в django скриптах и nginx, разобрался чуть и получилось завести главную страницу самого шопа, но дальше ебаный Connecting
+--------------------
+[2024-07-21 16:23:30] @lapa:matrix.bestflowers247.online: сделал подсчет трафика для каждого сервера
+--------------------
+[2024-07-21 16:23:31] @lapa:matrix.bestflowers247.online: + speed_download(17,260) Mbits/s
++ speed_upload(2,796) Mbits/s
+
+--------------------
+[2024-07-21 16:23:38] @lapa:matrix.bestflowers247.online: сейчас вот такая суммарная скорость
+--------------------
+[2024-07-21 16:23:53] @lapa:matrix.bestflowers247.online: при запущенных 61 227
+--------------------
+[2024-07-21 16:23:59] @lapa:matrix.bestflowers247.online: * при запущенных 61 227 процессах
+--------------------
+[2024-07-21 16:24:12] @lapa:matrix.bestflowers247.online: а запустить на этих серверах я могу в 5 раз больше
+--------------------
+[2024-07-21 16:24:34] @lapa:matrix.bestflowers247.online: * сейчас вот такая суммарная скорость. т.е. 17 Гбит из 20 максимальных заюзано
+--------------------

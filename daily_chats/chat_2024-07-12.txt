@@ -1,0 +1,82 @@
+[2024-07-12 06:45:33] @usernamegg:matrix.bestflowers247.online: sing2.ovpn
+--------------------
+[2024-07-12 06:45:56] @usernamegg:matrix.bestflowers247.online: а второй это дабл
+--------------------
+[2024-07-12 06:45:57] @usernamegg:matrix.bestflowers247.online: vpn.ovpn
+--------------------
+[2024-07-12 06:46:01] @usernamegg:matrix.bestflowers247.online: вот это дабл
+--------------------
+[2024-07-12 10:46:13] @blood:talks.icu: или ты в понедельник будешь?
+--------------------
+[2024-07-12 13:32:55] @usernameyy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+нет интернета
+--------------------
+[2024-07-12 13:40:59] @usernameyy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+нет интернета, лог:
+```
+Fri Jul 12 16:35:30 2024 OpenVPN 2.4.12 arm-unknown-linux-gnueabi [SSL (OpenSSL)] [LZO] [EPOLL] [AEAD] built on Sep  8 2023
+Fri Jul 12 16:35:30 2024 library versions: OpenSSL 1.1.0l  10 Sep 2019, LZO 2.10
+Fri Jul 12 16:35:30 2024 NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+Fri Jul 12 16:35:31 2024 TCP/UDP: Preserving recently used remote address: [AF_INET]185.244.219.102:1194
+Fri Jul 12 16:35:31 2024 Attempting to establish TCP connection with [AF_INET]185.244.219.102:1194 [nonblock]
+Fri Jul 12 16:35:32 2024 TCP connection established with [AF_INET]185.244.219.102:1194
+Fri Jul 12 16:35:32 2024 TCP_CLIENT link local: (not bound)
+Fri Jul 12 16:35:32 2024 TCP_CLIENT link remote: [AF_INET]185.244.219.102:1194
+Fri Jul 12 16:35:32 2024 WARNING: 'cipher' is present in local config but missing in remote config, local='cipher BF-CBC'
+Fri Jul 12 16:35:32 2024 [server] Peer Connection Initiated with [AF_INET]185.244.219.102:1194
+Fri Jul 12 16:35:34 2024 Unrecognized option or missing or extra parameter(s) in [PUSH-OPTIONS]:4: block-outside-dns (2.4.12)
+Fri Jul 12 16:35:34 2024 TUN/TAP device tun0 opened
+Fri Jul 12 16:35:34 2024 /sbin/ifconfig tun0 10.8.0.2 netmask 255.255.255.0 mtu 1500 broadcast 10.8.0.255
+Fri Jul 12 16:35:34 2024 /sbin/ifconfig tun0 add fddd:1194:1194:1194::1000/64
+ifconfig: SIOCSIFADDR: Permission denied
+Fri Jul 12 16:35:34 2024 Linux ifconfig inet6 failed: external program exited with error status: 1
+Fri Jul 12 16:35:34 2024 Exiting due to fatal error
+--------------------
+[2024-07-12 13:42:00] @usernameyy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+* нет коннекта, лог:
+
+```
+Fri Jul 12 16:35:30 2024 OpenVPN 2.4.12 arm-unknown-linux-gnueabi [SSL (OpenSSL)] [LZO] [EPOLL] [AEAD] built on Sep  8 2023
+Fri Jul 12 16:35:30 2024 library versions: OpenSSL 1.1.0l  10 Sep 2019, LZO 2.10
+Fri Jul 12 16:35:30 2024 NOTE: the current --script-security setting may allow this configuration to call user-defined scripts
+Fri Jul 12 16:35:31 2024 TCP/UDP: Preserving recently used remote address: [AF_INET]185.244.219.102:1194
+Fri Jul 12 16:35:31 2024 Attempting to establish TCP connection with [AF_INET]185.244.219.102:1194 [nonblock]
+Fri Jul 12 16:35:32 2024 TCP connection established with [AF_INET]185.244.219.102:1194
+Fri Jul 12 16:35:32 2024 TCP_CLIENT link local: (not bound)
+Fri Jul 12 16:35:32 2024 TCP_CLIENT link remote: [AF_INET]185.244.219.102:1194
+Fri Jul 12 16:35:32 2024 WARNING: 'cipher' is present in local config but missing in remote config, local='cipher BF-CBC'
+Fri Jul 12 16:35:32 2024 [server] Peer Connection Initiated with [AF_INET]185.244.219.102:1194
+Fri Jul 12 16:35:34 2024 Unrecognized option or missing or extra parameter(s) in [PUSH-OPTIONS]:4: block-outside-dns (2.4.12)
+Fri Jul 12 16:35:34 2024 TUN/TAP device tun0 opened
+Fri Jul 12 16:35:34 2024 /sbin/ifconfig tun0 10.8.0.2 netmask 255.255.255.0 mtu 1500 broadcast 10.8.0.255
+Fri Jul 12 16:35:34 2024 /sbin/ifconfig tun0 add fddd:1194:1194:1194::1000/64
+ifconfig: SIOCSIFADDR: Permission denied
+Fri Jul 12 16:35:34 2024 Linux ifconfig inet6 failed: external program exited with error status: 1
+Fri Jul 12 16:35:34 2024 Exiting due to fatal error
+```
+--------------------
+[2024-07-12 18:19:49] @usernamegg:matrix.bestflowers247.online: photo_2024-07-12_14-19-19.jpg
+--------------------
+[2024-07-12 18:19:55] @usernamegg:matrix.bestflowers247.online: у создателя вроде есть конект
+--------------------
+[2024-07-12 18:19:59] @usernamegg:matrix.bestflowers247.online: я не подключался
+--------------------
+[2024-07-12 18:22:24] @usernamegg:matrix.bestflowers247.online: 45.140.17.40, 45.140.17.24, 45.140.17.23
+--------------------
+[2024-07-12 18:22:27] @usernamegg:matrix.bestflowers247.online: проверяй
+--------------------
+[2024-07-12 18:22:30] @usernamegg:matrix.bestflowers247.online: заработают скоро
+--------------------
+[2024-07-12 18:22:38] @usernamegg:matrix.bestflowers247.online: я тут каждый день
+--------------------
+[2024-07-12 18:22:41] @usernamegg:matrix.bestflowers247.online: но не на долго
+--------------------
+[2024-07-12 18:26:50] @usernamegg:matrix.bestflowers247.online: приедешь , обсудим
+--------------------
+[2024-07-12 19:08:34] @usernamegg:matrix.bestflowers247.online: vpnns.ovpn
+--------------------
+[2024-07-12 19:08:38] @usernamegg:matrix.bestflowers247.online: попробуй вот этот
+--------------------

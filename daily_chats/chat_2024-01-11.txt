@@ -1,0 +1,72 @@
+[2024-01-11 02:24:39] @usernamenn:matrix.bestflowers247.online: до 4 утра проебались с профилем для кобы 4.9.1
+--------------------
+[2024-01-11 02:24:54] @usernamenn:matrix.bestflowers247.online: с криптом у него там не получается че то
+--------------------
+[2024-01-11 02:25:09] @usernamenn:matrix.bestflowers247.online: нужен крипт плюс подпись файла
+--------------------
+[2024-01-11 02:25:21] @usernamenn:matrix.bestflowers247.online: только так пробовать звать, иначе никак
+--------------------
+[2024-01-11 02:26:05] @usernamenn:matrix.bestflowers247.online: я офф, смысла нет сидеть без крипта
+--------------------
+[2024-01-11 02:26:29] @usernamenn:matrix.bestflowers247.online: * нужен крипт что бы двигаться
+--------------------
+[2024-01-11 14:01:54] @cob_crypt_ward:matrix.bestflowers247.online: привет, вчера проблемы с моими билдами были
+--------------------
+[2024-01-11 14:02:02] @cob_crypt_ward:matrix.bestflowers247.online: деф статически съел из-за мутации кода
+--------------------
+[2024-01-11 14:02:14] @cob_crypt_ward:matrix.bestflowers247.online: но в итоге снял статик детекты, тренд тоже не съел
+--------------------
+[2024-01-11 14:02:30] @cob_crypt_ward:matrix.bestflowers247.online: но билд на таргетах не отстучал
+--------------------
+[2024-01-11 14:02:40] @cob_crypt_ward:matrix.bestflowers247.online: сегодня сделаю дефендер точно и пойму почему не отстучало
+--------------------
+[2024-01-11 14:03:01] @cob_crypt_ward:matrix.bestflowers247.online: трендмикро должен быть чистый, поскольку в итоге файл был чистым
+--------------------
+[2024-01-11 14:03:09] @cob_crypt_ward:matrix.bestflowers247.online: и все-таки, предлагаю на BRC4 перейти
+--------------------
+[2024-01-11 14:03:15] @cob_crypt_ward:matrix.bestflowers247.online: если есть возможность
+--------------------
+[2024-01-11 16:21:03] @cob_crypt_ward:matrix.bestflowers247.online: https://scanner.to/result_EDR/kMcijawsSciY
+--------------------
+[2024-01-11 16:21:11] @cob_crypt_ward:matrix.bestflowers247.online: вот результат, которого я добился с ним
+--------------------
+[2024-01-11 16:21:20] @cob_crypt_ward:matrix.bestflowers247.online: crowdstrike с exe уходит
+--------------------
+[2024-01-11 17:31:45] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-01-11 17:31:49] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-01-11 17:32:10] @usernamegg:matrix.bestflowers247.online: какой второй софт ?
+--------------------
+[2024-01-11 17:48:39] @cob_crypt_ward:matrix.bestflowers247.online: что скажешь насчет идеи с переездом на BRC4?
+--------------------
+[2024-01-11 18:29:52] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2024-01-11 18:29:55] @usernamegg:matrix.bestflowers247.online: именно так
+--------------------
+[2024-01-11 18:30:00] @usernamegg:matrix.bestflowers247.online: я виже
+--------------------
+[2024-01-11 18:30:24] @usernamegg:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> что скажешь насчет идеи с переездом на BRC4?
+
+это как дом инстурмент использовать будем
+--------------------
+[2024-01-11 18:30:37] @usernamegg:matrix.bestflowers247.online: или ты хочешь что бы мы ушли от кобы ?
+--------------------
+[2024-01-11 18:46:18] @cob_crypt_ward:matrix.bestflowers247.online: как доп инструмент хотя бы
+--------------------
+[2024-01-11 19:40:05] @usernamenn:matrix.bestflowers247.online: ну FLYT не доживет
+--------------------
+[2024-01-11 19:57:42] @usernamenn:matrix.bestflowers247.online: нужен серт с криптом
+--------------------
+[2024-01-11 20:48:37] @cob_crypt_ward:matrix.bestflowers247.online: * как основу
+--------------------
+[2024-01-11 21:25:13] @cob_crypt_ward:matrix.bestflowers247.online: если не кобальт, не смогу делать билды, она постепенно в детект уходит
+--------------------
+[2024-01-11 21:25:23] @cob_crypt_ward:matrix.bestflowers247.online: не знаю как чистить динамически, пробовал много вариантов
+--------------------
+[2024-01-11 21:25:49] @cob_crypt_ward:matrix.bestflowers247.online: не смогу с вами остаться, к сожалению
+--------------------
+[2024-01-11 22:52:31] @cob_crypt_ward:matrix.bestflowers247.online: с дефендером не вышло
+--------------------
+[2024-01-11 22:52:39] @cob_crypt_ward:matrix.bestflowers247.online: кобу точно больше не смогу делать
+--------------------

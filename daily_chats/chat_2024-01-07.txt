@@ -1,0 +1,125 @@
+[2024-01-07 03:10:42] @usernamenn:matrix.bestflowers247.online: `$krb5tgs$23$*SA03_SRVP_VM-BKP01$FLYT.SCHWANSHS.NET$FLYT.SCHWANSHS.NET/SA03_SRVP_VM-BKP01*$bd60003deb26a398eec1edf023bb2bb1$fc43fbafa7def3450e324775ca3adc0433a0f1f91345624c69972b32bcbc7f0a7680780171d5a13b5bbacb41eff23f1cd9151b6dd6fc8c5df1478283b4555b95c3aed6905059f016cc028fc06c84853dafc9b92e2c4dc9ba84265e4a4cc7562347f298c610f69ed35ac69c71a48d9612cd86c8b3b3f99718185173cd71c2a4bee52ba8597e86e8f818c9a84d2dc8d75242892c201b08c4f21605d40903e9bfab3db7b84912a39e60f044689b2f4a9fe6a264d93e32651187b1a0c207727510104106e8f86c7c22920d48698cec36a7d3f4e8ac22b98ab5167ba78d272ec08adcc3b6ec745ba71e37460d231acaa9ec54ad640376a328587eb92116f53d43e4c2dee92b764212287b226443ec50d50c9419a4c90b0d8e73e3ceadf824f37815efa294f2fd3d37b70860a363c56df7e085f1e6f696d6a2eb312b9fee1b10d89a419ab4c0a663cfc8f01439c7408f7877d46d9bd40aed17625962a6155fa67cbf97accfa9032bcb91b94895663af56223e3caacb98f9d3c30c081edc2175906f6d37d5252cceed95a4548620a6faeed24e01dba3310d5641564b33072765034fc8eaa33aee788bebb93beef63671c7b9bb36ac1f698fd53bd48621c31bb801855caef75696e7a2ecccad93b3a54aacd5ee856929b63754451c177a457acd4c1a594303162cabe7cbc93486e990c3088521437f0a6f29cb65b11de3feac4f7d40506d27ebb9cff9581a78588edeab760847f446978bbc1c87095b1bf8b8307456401ecd5ccd38aaf009a4f2889f44aa9d7abc250bbb586c64cbb670f6c634cda524eb19a1ade9e37831734ac3e0f2e0b2e7dba790ee4760a66006e7989767e92d1f9cbb0e5a9fca00ea5d396a35680b14237114d81f7020f331fa176d9f31db684c5ed89a774887ebc007208d0c578dc6519cc07e72cd62ed4567adfa89ad29b175766f05d96105c23703aeb2a013caef1c655703a8945a2de5f4fd3e60ee406e68d56b939685bbd9a55619c588f1a57005889daa22a5c6713a167bbb64edae2ff4d98d8c3e047c9fd9dd4d22d9ed9c09b765ec76167093b08d1054f187605b497572d688c9ff85aa3f018163fb5987d9801ee20d2d22b4664034594af97e5622c67f7432f051d6eb0ad321f00ebeabd8ada78b40300d45ece925c0b62f1242059a1f14fdb4081a3e97cfc59453f21b79e60c7e7f293d7d00c07677f13ca51881496dc127b4fac09a9370705b1ebac51f0463fe91206a57bf99b1f3b4f0222730feaf2c72edf4be7aead759fc924fad3aa1e070fcaadaa78bbdd7b14448c0d5c3f794b905a18596ed34aa94b726f74846608dc408dbc2c737a26620b5fe885acb9347be52cfc0dd736c5de80f8b3b5506b2defa5942fb71fe9c176266e215b40cb9d65fd792b7670e43d566713881dd26fd2e5f359786f170a9469f82dc83009a728b723a13c9b8d7d92788897e40a6d59cac0a97a3b813c0e46cc7e335d24091e0e5d6a6926bc80c483ac824db2853c27d567ecfeaa8dcd6aa4c926df93c2b484f509f8d5e20066bf0b3f877229395b0417eaa9020826474b6330d8bc8845c702733ec470dc752493d0b530d9bf054a5d3e35d3647ccfd7b20bc1681ff28145e12b137007018a745dd1c814cc20f0b1327ee87dbecfd741349d3450d1523ab6744ce20b5dc03f34a0c247f5c0c891e44b1246f3542c163d150048291ab8a56e2b17304b6c7fc4271c1d09bb648b505fe0aa2997c015ec40724789d4ea46c08581c4607b0fc8fcd78a4933bd98bf10860c123b54599ce5b10ad49477544949bde2f855b3c04b95215fc7f2c2f578f8ae8fc35d9131e630c47cf0ae27bd586e9418eea048e1572657e0270108e18b00e33de0bf155094d3cc0bdc18aafc2b1760f12ec96f67516226cdda13349c07de185188dc495319fce9d2fe41c8ff3b2506f8ece8236bbff4adee9012da0f8473007a28995f5cd09ee68187fdd7cfb233ecbccdae28aff219d5bc3e375801c7c3afd903221e8c7a8da841a5ba4acbc0afc9eccc25476ac665bd1416bead19342c1d032dc77c82708ffb3c2a6799905aed4fea1db2aa12fe090f99a19a0f2d3bdc4238b81acbb34378044eb749cb15b18230bdcb1ab06b3c0feab67981c4299322c64c59f9e288dafcd2b394d59aec1205c51171633ebfbe832d551582d3e50a9b31f0fb19f0b23f04b4226638d5a346b150a8169e1eb5febaeff04b71435869b8ff3850e5cc92141ad2d2de91874dd9d9ff9620b367c141b2383205603c36e624cff3c3218f83e02ef2b44edcc67e22e74a1581235beff517bf80825e38901d3c5dce81f25bada729dcaab5f82904a93f8ffc9d90d2feedfc77fc77223eb884a90ac6c76125073182a7b37af97bf9b6123cf35855966c5f513c77e7f790e31e8c32d807e4c29781da1fae9950b0f4c5a9a33bba2f13eb975d4d72ada7c8e9e9408c3044502d8f2df877ed79373a72d0bc26f985b1647e94771e4d3debc13af994b6d61c4aa9136896946bfac04f234935ab8fa88304199908f3cb0cfdf6a901f43b6677250617d5e9fdb05cdf8d2c052e5c406313dc54d31a13c6a4a12dbb02edba72a894200aa80b66dcfbc0f22099a9e67cd2432ca6cadee967069f792b6c40995b969348f5dff08da89b3e5ef2721d7ad87deb46964023ee64bc815ae82de293bb57a112d04e9330ef96e80766d557f63ec1546a7de636c5cb742f06e31eaa0685a454334cb8eec81b45501c519382318624451c2a3ccd495fa89f2dd294789920db365c7ddf543a1f3216f55df863a859a87c21dd9cda4fa4df719132639601a5169bb2a5937e2d27bfadef7022972b734134bcd2784992a72cec4ec52253ce9ae38997ab0fa577dc77d2c65aa99f79d3d30ac24e82baf2812d2f18ce74fc75de22e5e7263f491baa3d63447a0e307d40f875ea10b42ad03e5a3db03e96879eab695a4982375a4fa3d09ee7b014aa695210bd67c2adfab32b72f8b3bf2f5dbdfe7d83d9df77739f485eec4f7c7608426178f0abf5f185a8c42a978edec0bb3aeaf4e0d74bf25e4422ff059ebc1384947246a10319d0259212dfae5573e32d9fa957a6beac29b8d221c6ac850ba21155d2e7f9ace762c15af88bb1a552e706623b64394b6d397f6cdeae0d924118fcdd01e80dcd85a53e79daa27df8a2f3db3465bf9651b175316376f14497abf2f96bd8d9781067bd018501e785dc719dd5dea87852abec25b9981340449176f1031fb1521e4a4a9e2659f1b823da29275c36ac876be4ddc436aabb5b387e3ee7493df7ae5ecd`
+--------------------
+[2024-01-07 03:12:36] @usernamenn:matrix.bestflowers247.online: `$krb5tgs$23$*sa02_srvp_vmc-nsx01$FLYT.SCHWANSHS.NET$FLYT.SCHWANSHS.NET/sa02_srvp_vmc-nsx01*$40d3144d0ebba8a2dc675cde5b72fb62$50e321075d259c6119037ac58ed96c4730a602f46ba4930f1dcb09652b3799e9a54748067188c360b14fe23423f95438fcbde1540eff5dbab3c0cb5a66345eafca9b0d2dd882007c9c6f6f06ef7cb63a41cc8d5db76ecd6d6ebd698043ac0067737efa7ec9a107267015b21dd87d503d1d76f8e4ba906dfaf07e40e243d5ddb8443d275add1641ed70dc463bc964a7a600295bb42cf8202eb357d63d1bc9d316b29c8438f10875bbfd1473219ba7e1cbff978d0aad99b46a5bfae5294aa81b1d9027d7268d0c44e8ea763fb58b18a06e9452db67e76c9b7b5c499ecf364cf1ace77825ec2a38ab488d48cc817c33a3f9665bd595969cd8137988f1d145f16fd9c9303a180a31c8fd642b62501fbaaa80ddd9e2fd3e667d7f75d8ea8e88c42485d15bc4c978bd90713c639c0a6b32c797fe75884ace29dc7eb20ed2f24ec68992153a97408163755fe9fa3b752c025eaa7d2f8883ba30e87a45f06fc8559b519aa210a6f13ab11a8958a1ef8fcd534b33618c09171aba0b1b43a13724b27148289b64d9742aa060fae9cb9a969d06a7001ba41ab9abb4b79ca19eca97630830b0abb1017bc382217ba90bffda7215382bcc3c32e6272670727ddfda8fea7d4597956078f496ef1fd41c340a1dbe2d8e53c1f58bf8e0aafdfb4146949da5a33fae88f10d1cc6f47f7d3b8f84240c698d7a6c33be931891f33d29dcf63cc8e21be1e14175116042549da2cfe7a1b47036d0a9056349c35b7568c5bad2233c063a8d96e13783c71286ac6cc9f791205a710adf7e3ef9cb7bb337f16782f471f0d61d33ca5c7e5b94d7923ce9ffb44743361b97568c5bc23640a9453655eaf41586cbbef0456089e013e8eb47e3fbc217725157320fe6b5544619e79c4126e744901a49e72e5fd0e5b3bc346fdccced03ab2319f77980b37c57e7f219b0949c0702892294b9c219e07403695e8adb18669f8c23da629112bf83c18b61b98c0f8fd0aeaed1e9b5ef6566dd05d707bba918f9b21bd4e5181db493e45deecc9ec9820cc9637d1d328efca7472d2108365510995c696453ac9c57e88042325f81e623c566b3e7ab46c510684976df57c7b53a0f5a721fb736fea086c6dff0ba30fc12c5d1fe744ce69de40da3b9d9aad63c435169fa55821216adce1bcb73dc0828714a168cac1a82af288137402f2df76412b8c8c277a596466f9d069ab8d3e37105b2546441264bc0ca08d806a41aae5eaf2558aece25a442f2bec8174ed07089fce06b11c4af696b100dc63472dac73fa7c1d5ed72850cea7ab8baeba74e5f7adde2cd9f08964f4ee3dac5b6cb13972246da2459a2dc7d1320b4b41a0f9a7cae82310ebe40e7ad55fd32b4c3aa1caa26b5ad04c0b8ddde93ffb85e4c5906b8849f2d57eb023a45335eb7422531b337ed7c5943a6b08a9ca0b94c6d44c281680bf091120345dafcbe81ba0a41f6956fbae1afbbace8a089b9fb0279e20f1f625d4c01d6366d71c416e9ec27189068f498fea7b754178c05842adcfea8b44576befc7acc000019b1d5f9609a37e457860951878e97ae7a670454cf60ac409a5892ad6bf79f8c681d371cb5da12ef294ebdd715bc2af22a4d4b5ba991ba4e7a402da4563c077b49f50cdb7ec50bb6c055bb8171d1ffe51f9c09011f3005e58e764a293e1f95f935173713ccab67d5fb853e4fdc93900e19c0223c754fd0bddcce2935d6cdfe63e04a895042d37212673f78487dfe54980f3face3a4f771292016ad42276015a36bd523b7311ad5f44d5c29d1b0fc7ca2482fc6144330e5b6189a298c4d0b9f9ac64bc700d39d7c75e1a5f29bf7a3d8fd3d4235a2c63c8c42f61e8bbfbcaa74e34ad434ced92cace4bd6b6fa8ac46e30ac6bb48b39f76acc7c88514fb0a19800e4b6d8f895792bf9bf2c7e556ab1c64b05e46256d84a1a14cafd336ed43d3e247cdc719f623254fd2e0d906e1c9a7c3e0e8cf156355cd2026646f0042e088ced522d76ca7663e920ba744b60bdd7e329212b2fbd5116c8bca00e5be116856d9f561f96848042a6d56742f59be8c44cf8077cbed8db1bb78bdab9940b56ed6c7f3548155ae1375e674c32064bb3b3417bbb0e3342f5307d348eb1b3d94fe6ba258d825cbb26b3da6705c7f4d5146de35754f803d598ab1075e4f1e76c68b1f1207727a7a8d5f49ff3e83ac9a6402fdc0c3c7098738278dcdb6aea2b28199792a1e8e367eb11546ca3170947a28c6fb3aa8a420833dbd1d6b69edef93d149161614c636a4917ae5d2201f0d8919440ff73ce24b53350ccff5a3d10b846bcff4e897ebe8ae662e02d3bebd9c4e5375f08fa3ed4d5cc3f35f7b255d4bef071b85aad452fd0fce89313233b485b1caeb6998762bca016faff7a48aa5cbd442e9ad17a07cfd9ff1a067274633aed1b0a328251b25da1838c0b35ed8c42de8734b4c4968a2e038bb973d8dc0ea3f6059fa191426766fe137488a7d5e57c6b677bf63060643803604be91c949e8a8bacb3a067087852073cd7198062f92cfec2d468d7729ff0e6d4eecf68c053bac4169f10a5674ebdbc18d78b09c499982188a6e8de57b6059670c0348e492cfe09df9faced5272c15726ec7877772c088443d3cb463b56b5d80a1dbd0e6ba744a36d9564825c65cbfef18f620d403b6e63c4c76870381d9325a93c0fe1f8c4e81b62b5f708f4256c0f28046a92a9e969ef61578273bfa218c4c7b61a89a07f879263f63ddfaa11919395dfff17fcd1e1931654d79b7e440edc4ddc2028fc8f68c3fd3087c4665271d4ef3728478b6978320b39b42487666b5f4e98adc301e016b352d884ff2866fd125b7be5d04376e2343703d6d9c354c46279e15f82027625fa5a249fab1296d6aa7200c94a7ab16247b93054e7375c059dfceb6d8b98c467e102c926a1ed69b9f447aed9dadda2574bd7166584b9c00586708bddb122824a2c4af77625c5601b42b22d6fe6227fc0422d1ac90ffa76cf01608c05cd4e74bca82d8907e0920dbdb67c4f837b052b1f2fd3141acd34e63b5ca36645157e233bbdb9dc725a101f742ff0c971189a5c3896bf069c40f865ccb94a1008d00aa0fc37e99f07b561506933214d0e5c55b8edfea0ca8c7745f1e2d8c60c2bbf9a6f30db221714219052c250f527b6caf4239e62044025d13249658d4335d676eb2a58a43568a7ee735cd8681860884b8add3b198d39ff5e836c323c28349b6f7f453354ba6bf61f23a98d666fc271ef46283290d2ac24f813901dae4c8f7cc5f2c4f43e8f1fc573f15fb0653f00ebc0c4629b87c2a621f9ba6`
+--------------------
+[2024-01-07 05:15:57] @usernamenn:matrix.bestflowers247.online: ```
+bf3a34d415cd3468194821af4cfff70e
+85254bc8419f5df2cb41bcf87ed2150e
+```
+--------------------
+[2024-01-07 05:31:36] @usernamenn:matrix.bestflowers247.online: ```
+4e2446929295a2560f58d41264615d96
+c7b2974b7181cb79768083c624a0d620
+```
+--------------------
+[2024-01-07 05:38:32] @usernamenn:matrix.bestflowers247.online: **FLYT - Done**
+--------------------
+[2024-01-07 06:30:25] @usernamenn:matrix.bestflowers247.online: из самого хуевого доменные админы даже на DC не могут зайти и в LDAP, говорит не верный пароль)) а под самой DC подключился в LDAP, бред какой то
+--------------------
+[2024-01-07 06:38:53] @usernamenn:matrix.bestflowers247.online: da1d06c29c8cabc96d26a4bc6218a16d
+--------------------
+[2024-01-07 06:42:41] @usernamenn:matrix.bestflowers247.online: разобрался, движения по сетке только по тикетам все норм
+--------------------
+[2024-01-07 06:42:45] @usernamenn:matrix.bestflowers247.online: без NTLM
+--------------------
+[2024-01-07 07:22:56] @usernamenn:matrix.bestflowers247.online: не везде админы могут ходить)
+--------------------
+[2024-01-07 08:28:18] @usernamegg:matrix.bestflowers247.online: я тебе там в телегу написал
+--------------------
+[2024-01-07 08:28:34] @usernamenn:matrix.bestflowers247.online: я FLYT разъебал ебать)
+--------------------
+[2024-01-07 08:28:56] @usernamenn:matrix.bestflowers247.online: нужно мне yy что бы мне новый самый esxiscan скинул, с bypass пингом
+--------------------
+[2024-01-07 08:29:00] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> из самого хуевого доменные админы даже на DC не могут зайти и в LDAP, говорит не верный пароль)) а под самой DC подключился в LDAP, бред какой то
+
+да ну нах, они так настроили. значит у них есть просто один челик который ходит туда
+--------------------
+[2024-01-07 08:29:54] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> нужно мне yy что бы мне новый самый esxiscan скинул, с bypass пингом
+
+его нету ,он уехал на отдых, пока тогда не шуми со сканом
+--------------------
+[2024-01-07 08:30:13] @usernamenn:matrix.bestflowers247.online: там exchange тачку отключили от домена
+--------------------
+[2024-01-07 08:30:17] @usernamenn:matrix.bestflowers247.online: и еще одну тачку тоже
+--------------------
+[2024-01-07 08:30:19] @usernamenn:matrix.bestflowers247.online: автоматика уебала
+--------------------
+[2024-01-07 08:30:24] @usernamenn:matrix.bestflowers247.online: ну там админы глупые
+--------------------
+[2024-01-07 08:30:29] @usernamenn:matrix.bestflowers247.online: сами по себе в сетке
+--------------------
+[2024-01-07 08:30:42] @usernamenn:matrix.bestflowers247.online: им настроил azure видимо все они сидят не думают не о чем
+--------------------
+[2024-01-07 08:30:52] @usernamenn:matrix.bestflowers247.online: все позапрещено у них итд хули переживать))
+--------------------
+[2024-01-07 08:30:53] @usernamegg:matrix.bestflowers247.online: как ты ее сделал ?
+--------------------
+[2024-01-07 08:31:11] @usernamenn:matrix.bestflowers247.online: через групповые политики
+--------------------
+[2024-01-07 08:31:19] @usernamenn:matrix.bestflowers247.online: и потом сертами через добавления челика в группу
+--------------------
+[2024-01-07 08:31:25] @usernamenn:matrix.bestflowers247.online: там цепочка ебанистическая просто
+--------------------
+[2024-01-07 08:31:29] @usernamenn:matrix.bestflowers247.online: 8 часов делал
+--------------------
+[2024-01-07 08:31:30] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> им настроил azure видимо все они сидят не думают не о чем
+
+они настроили и тачки у них там развернуты значит
+--------------------
+[2024-01-07 08:31:47] @usernamenn:matrix.bestflowers247.online: без групповых политик ниче бы не получилось
+--------------------
+[2024-01-07 08:31:51] @usernamenn:matrix.bestflowers247.online: там серты закрыты все
+--------------------
+[2024-01-07 08:32:01] @usernamenn:matrix.bestflowers247.online: не приступная крепость))
+--------------------
+[2024-01-07 08:32:14] @usernamegg:matrix.bestflowers247.online: ну отлично
+--------------------
+[2024-01-07 08:32:23] @usernamegg:matrix.bestflowers247.online: значит можно собрать всех и начинать работать ?)
+--------------------
+[2024-01-07 08:32:31] @usernamenn:matrix.bestflowers247.online: да похуй
+--------------------
+[2024-01-07 08:32:35] @usernamenn:matrix.bestflowers247.online: можно че бы нет
+--------------------
+[2024-01-07 08:33:09] @usernamenn:matrix.bestflowers247.online: ну эту ставить нужно как то я хуй знает как ее ставить там по сетке нельзя ходить просто так, видимо только если прям создать админа
+--------------------
+[2024-01-07 08:33:25] @usernamenn:matrix.bestflowers247.online: а читаю дц и какие то тачки из под доменного при условии что я одену тикет
+--------------------
+[2024-01-07 08:33:37] @usernamenn:matrix.bestflowers247.online: PTH и make_token не актуальны
+--------------------
+[2024-01-07 08:33:48] @usernamenn:matrix.bestflowers247.online: так настроенно
+--------------------
+[2024-01-07 08:34:02] @usernamenn:matrix.bestflowers247.online: авторизация успешна только при одетом тикете
+--------------------
+[2024-01-07 08:34:12] @usernamenn:matrix.bestflowers247.online: я помню как то у меня была подобная сетка
+--------------------
+[2024-01-07 08:34:27] @usernamenn:matrix.bestflowers247.online: где тикетами только двигался
+--------------------
+[2024-01-07 08:34:33] @usernamenn:matrix.bestflowers247.online: аа ебать GROUPHC
+--------------------
+[2024-01-07 08:34:41] @usernamenn:matrix.bestflowers247.online: там частично только тикетами можно было двигаться
+--------------------
+[2024-01-07 08:34:49] @usernamenn:matrix.bestflowers247.online: они так не вышли на связь кстати?
+--------------------
+[2024-01-07 08:35:11] @usernamenn:matrix.bestflowers247.online: прошлый раз после выходных ниче не заплатило что ставили
+--------------------
+[2024-01-07 08:41:15] @usernamegg:matrix.bestflowers247.online: ну тебя есть открытие креды доменные ?
+--------------------
+[2024-01-07 08:41:28] @usernamegg:matrix.bestflowers247.online: и они никуда зайти не могут ?
+--------------------
+[2024-01-07 08:50:46] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> PTH и make_token не актуальны
+
+даже так , капец
+--------------------
+[2024-01-07 08:51:02] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> аа ебать GROUPHC
+
+я уже не помню как ее ставили
+--------------------
+[2024-01-07 08:51:15] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> они так не вышли на связь кстати?
+
+не помню даже
+--------------------
+[2024-01-07 11:28:25] @usernamehunter:matrix.bestflowers247.online: cf868c7d363bd6787b43b466a0b6499c:Topkrak121212
+
+--------------------
+[2024-01-07 12:47:43] @usernamegg:matrix.bestflowers247.online: ++
+--------------------

@@ -1,0 +1,109 @@
+[2024-01-05 00:26:19] @usernamenn:matrix.bestflowers247.online: `$krb5tgs$23$*SA03_SRVP_SMS-TSCN31$FLYT.SCHWANSHS.NET$FLYT.SCHWANSHS.NET/SA03_SRVP_SMS-TSCN31*$e357347c05171f4b0568fabb0ece6e80$94e83d29007d994b0a92b5ef90fdb46055c3839b8d06cbf1d5ec5a12853c454b5434524ea0b5a8692af51424eb5b4d904b34dd70e9f16b423973a27d4808ef807b88ed56991f33c4850c51cfc4d6a157e9a13d3edd6c02089a015394272e52a2c382511733cd380b3565f6c21e3c00191b6d90f0570e8e144b54a9be329c937766df73c48158d7d91026a73a7d1a8bda457c4a3873e2fc7287abfd27f46a6e74266d6867a561500111dfd8443fd0ea493a5e3321a9b2f5cdbde3c3f78f01e933b613a4828440ac39c38cc2154a526c644c467eb2047e94365093871ad864dcdb14f17e9e52d129ac64a0316a465501d8d0a31a8798580674e692e230f9406204a0559e117d0081dd28e249d93b2ad69fcb8b8d4a3f94b42729e3c25d84f52983be90b179883f01ac99451366d0d828068f0ec25f0c6a32c9df68a9e215f347c34f265d396c1a8f296f5e0cf73fd8e36fbaa8d029e2bb6f6cba73d304b9ec41f4a14ce875cecb1c7ad0c8807174a0178f3847d97012bf7cf8bdcd6c2e87992b034db4defad7f896bcf10d1c40ef196cfec941353f7dc9e8742f631d1ab090fa3fc39fd20d9516269dfb64c1ee1cb66cf870d28c1bfb6a0ca0265567b2bbfde3836e3f967d1da8d37d16bd2506f952c2dfc5c3b0c45c9d36db5193dcd4aade4cbfebc4638319eef224f2d6f8aba69aea4c7ca3ea6f4bf055920ba6aaf4f67e16d1f8288617413dbdeddb4b2460e0fb54d8a7f67a335c7bd8f396ef07f99f86e2bd60f599887f73fe60d0a9344c0b75ed60ec790631850f69c6ad1005bea4d65174f9e4f73ec67e7b854933382d5b7c68d753b51460763fa58f0556ffd0441ee5216362a1178d7032ef30a84d0e2fa3cb404e06bdc453ef34fcadb39fdb901161e0e90e4d862f18b5865283df5e6e1eec9f1c99413842ad5f7269285ac6354f4b0e2457f26d49b0744c6ce241774d49eb7ce6a10cd7e0fb719c572155f142a73ea5be0e4d77d0ea54c46d2b1919fecb116b59a4aa9a66070898f7a11ce564ef913355e4b1288f11794a461e66d08ed3cd3cf0d965e53b6fd2d3a46c116fa89f98bd0a9730b557a0547eba1be882c7ef4c824e48e28513577d6eb10221de9b4e6f9192f7a572212664a866006a39adcc88a4d19d6c096ffb764f4aa30726638384de2335dd29addb66e039c453c090a7bc6f604cd94bdd62d87e6d42c3fa9023d5572d378a353ed8a81c058cc2e9f76981b55a88e003a9bd39be322f599aa5096e03ece35cca05c5a7f039b5744d810d37a8097082ea020db24e57eb16bcd8d3e1295577530f5076de57681e403ad1143d7d9a9ac97532f8fa600c610926bff381cf781f92f4a87549f00e43bb1f770efcd1fd9c745843a6aa2aa08b70922edbd7e8ce841bed9726fccee41fb3448918159c9f02c5d5aececb65380b9ace2b8440bdef4391adb8b6bad726898ef24f6eca7861e8b7c799112f46594c4c92345fb7556d0a206697adcc080095b8d847443b5dd1562a7fb9fd9266563d518186661a12c6ed80fb6b0763a8fd529a1493bd979d0a3591493087277d1e5577035acde2aba0f3d2779f5aa39d7535b389880991742a2880d678d81155e8f61ae800538904dab58658f527c815cc14f5e17706a6bed8151fc29a5916257404dc907f97cb7e950c61625d74dcd297f0edc32795d993b8b6304f7e97827ce5da36e4986decc88bcc9d2217c0ddabc3084535eb8d1bd8d033edb824e53b7e4e01a5b9d79f397572788269cd1f2d89f99d1f1b2bb3ec1b3063a2a4ecae98a83cf47a5e0ea6988fb9e165f110c163ef528710a6a8558d931274d18e6e870bafd1469d6864110d88f7ef68d526af5a297b35dbd914a2bd5742f5777714363973a810c19e2f805eb424a70c6f22a4d1010209137d0f5ae2555034d2218033d285395b2cd04b00e77548f7bb3365b4845aa23b1d3a5f4234a34428f9b6d7c50ad5b9872012bfc37da49d62e179820c66e623a4eb54105e8ddb6134c01b2cb6b18752f12e887daa85e46f67686d72135bc602cf24159226a3ea4591748d76859ed056e08b7854409576ba9c5634844bb6c994fd627821200085dfe2ab0a15ea164da528f7fc917897afacfb83da5cf2f28cf06d1d089529207f3c56d2a55343ef4e1a75252a2e2f76d83fede1cbb28c407dc82b5c9dba0e6d542905b02f76da498667fa968af4ee6ba10b2829044894963c3a2c17f582909e8f2b8b9b779c32aaf52d3d19724167f690b6b5c3be785eb9a27bc1e07df356e46772f757995b5a1f7701c92625e5f8dcc5b3eb564f99083e96006f2be6acb7439e29243acaccf4e10d30091425ee1f58f861deb815970c6c7fb352a9f1e17ecf1cacf6077db8b460d49f574b5d719f2a0643201219473fce07f935e13c48337347fa855abd3ff88b99d72f40801b743383f20d07557baacebb3204a8c41d2a512211cf62aa9b96b64eae0b4ed3f737f79437a52893f0e9c1405d5bc6b71abc2144f6a27002bfdb69e3026fc09842cf5f6aad715ed30032a6ddfce63895b83c450d4e805e0e0a1650a14431b74cf500075a82035a5e3a6150db17d074221f5360e5e1ffeeccaf38eb9a6c3e37b816258084d6569c18de502ee67f30983d237dbb4e70cf6a29e90b3891ff34fc1f29ba70f6801cd00e104dcdfa8fe108790b3fcaa451c006b68e2aa4036b9b78e52278d7d6b125e3ea57e936f29f6e4d8cad5b9ce44b8e4839a5c934971e64866b3e23421036b145ee59f72fabd12421b969f6cd81f3dbdb04eccbdcb94f9eda6be6024b3d79ff255fe6085de8b42f4f59ccd8c1eadad91f87a3ad1a5436f10eceb25b23c00d0eb11f6e6f1ecfa037af6f60459dfb163ea8424c69c2e1a5ae91b410a33802f5b9c6d0e3db5d8264e277509b633840a22a10bd104103e715e10fb16832a5e07e8873495ff09ab34c1fcb0b62d8bb59d09f1ed179f98d204b73777df6ef4e819697e6546ef1fc8fe50a0c23c2d17f4895402a00ffd3bd48e67bdb6ac8fdf795da6c9fd56dbb545739f1c18027724e91526c38ef4d4a7aa8240d93f0b514720c8c0f06f9778808ae2b934787033cb098f327c9746a3f544cd8ca6f1b6e74e589be659a54949266ad08f06449423b14efae0423b36201216f76b7ecf53a211c950ea21dfc9a44dfa69155eeb31711ccbb0e2bdaa91810198920f33d61ede140cf18a971dcc22cf798900ecb3b27650d7f31b20204626c8758604ffd54562af862504a34c2c0fc1d7aaa1370869ebb65526dd508216a38bbfd83018678b9e1db84d888`
+--------------------
+[2024-01-05 00:41:17] @usernamenn:matrix.bestflowers247.online: `$krb5tgs$23$*SA02_SRVP_SCMCLT$FLYT.SCHWANSHS.NET$FLYT.SCHWANSHS.NET/SA02_SRVP_SCMCLT*$3c5ec32efaae3de6c7b4498ac63623d2$1f6421357521d0c30b8a1f5044367d1717042f3f2a5a2dbe0dec2299f52fd26a675f7ca8562894af02e58b08b17f94f9fd397a2cda36128b35b0ac7bcee6b81e088f86cc726f29038ea10f1a672b0e37211f07090077ed300f1611c9416ab45cf02b40accfe83fcf86c795a6fa9f5e82c6deaa9417ddaf232487ec67cb1a27108b41e9d699e9ed132fd26924a686e443b652726c587372da3d6388456fa9285fb290cf42420f5baa9a451c0cfad10f20271d1d230dd8c17bba5b03f1db17e9f90e742c3957398f8a93f902e604905fa155bd50506461f79f6cec978e0121be4a10a1f0424d9715a09bbc142acd3b04e7f47ce4dd160d6faf69a2c825217b63ec6992ad6a676f4fc75202622a736d05e2ea2535b985ce2cb91bee244244db9e9aaf0116559cf57f4e44b6d713181d98b36aada1ff136c39ed28510b52ff7916832d4900d5566e564ed420de5b9a6ecb361b2a67b02e52486779cf2bd48511d0efe20d75e5ba0eeb8fd2fe7253e5aa794938127b019d6944a62d505c5be585b34908932958463243792b1de2233d6f23644dcf258fa4411873b30e7e8e5e5ad0f11b300744dd6721abcd0b97e2801b7823ab0ada3af02dc5554ecd1d5f56857ce552a3ba976fc928ab3552dde2ad50c906eaf8ef4d62d8585de500a66233304f653a9247b1cdd3205ec7b6ba0fa30de91fffc63aaad1ccb823cf5dd1cc4da1ab216bfc00cf4785620ce15c14b03d54b934a2e4124cd356e874d9360490edc855d3eba17514c16dc547a867022837ae407b21d9fc74a5ea67fc62a95a8f276bdeb75bee88fdcc54cab83df6315c0cc45427f800add3fbe0a383c671f3c82c873efd70e7dbd67d4ef2bc78d78109cd9609e287826558e91f0d4ebe0fb2d21f58a9501a6295332ae72d1857b186150f7d7b6f83b393552f8a1edbcab077bf516eac38dccc93048d0edc92d964c292729ba88a62e158eb79232d8d9060b2dd820bd12566fc77c822e274476a3e9d963ca8dee264e5c995399fb08c2bc841bd2204e0ae85981f87c15eb66c878a2009abd4a11215eb8ceade48927482052aa8c7e7de56d97ea0d48ceec36a478a60bbc03daff05ae1b365a9dcba1f5cd0da527b5b207e13c00662d4cfbb114c9a92bc2332b2e77558aa432b7e916b7ef04aa884fb7226ae97c251988934fc1f93a3901e99079ee5da27339808101c6ba89c86ecb10d8b3ad8735e9a1ed1fe8cb804696e670783a07a0a9c6b0008ee2982510fa7e33c4db71af9bfed1a71bcd4f3108ebe7fed276ac683019bfd51ff595064daa960f356b2aaa1133d73c3e598655243c03fbda79b394f15ae6c2de6da32f3ea5257d213d298fbe51942166070bfb0fd3881fdf80fd3fd41aa77237bd5b5e7f55a96c6449deabdab2dab940b84837bbccf67f0683bbe7ae9b13598be4b8dcc33278ea1dac9c13c8d19511d29c743197268047ffced7be2a5db1643438f6f0d12dd038f6d3f9b0512f842b8fdddc11ca1631c73026986d44b9c52e0b4f3d54b5bd0a53ffa478289c0d516e4e4bbf55d1e96cd3f62ee123940cfec8c08d873c416361a0f137c8085591613d10eb27b1a69f8837f9bacd5e50eda53827d544603368f14b5746ed99b11541f6e0c17ccdd5807946e6f394b031892dc02ff51492d771cc817b9c5f05db567e0d8e760cc8629701118486ba4d1df24b88ae527adc2d9bbc1dfaefe1ca31bb0c2457164fa3197e63df9fab88a2323a0322707a0fb7b32c0b800adea95cab570298978298a9a42e0db27ed019aa0e3033372fd037c1f1d50022a7a6988787dbe3fee7f934a9406a804ac1898bec13a0c86f45c952b0c96caaa8f870d4d43046f3e0b9a17c7383eeef106a652bff6e579e59be7542871594dccd88f793f50991b91a79f76dfb9b8670f19e91d96e55ce211a97dd1ffc40df2c95204f89e784721b93cd37731c743459ca6417aa96840c109968125520da9302f51c2d1e9346c0aa98d64d6090e124875151019abaf4d2124c3c497c3417be7b43c28d09bd85d0190a2d31ae2dd74827d22cfdef146d951fa57be74c4a27ade5992757e845a59063f52d4a6f826e9f6fb62c7eab1f57a256e8f42ba6fd0303c2c961299cfb1666fd285f34b2c681b4e02914803a55fedbe7dd942cc202f3819bf67b8e9b793c49dfe153a26d90a8f1176c9aa48e20992c9342956a9374da229824c61e3fc4dc632a07905488ff5a67405fadb5b26955471a47b4269d15d64e700778bfaec3822103320c3802faf824386f0c987b52144ab0e60c262a81574af5c252863c1c494d6a4c4af3847f7ec0eb5dcabeb8d7c7b3411d136b958001c45dde266a5b17d7fa8e0ad3d2e9b9c6665df1a9b8d74194924d061e23b61607e8cb648b83139d6880f60372e8681803e0caed73bf68b5ab682b8dd8b96aabf4cff7a4d0b9c21069512208cef37692615ae6766ca5e91eec48bea1b3bebbd23bc710c9a13937e4e366cf3c3a53bdddebf3217291b1c87316aefc95d06e81c90bc2d193489778a3b03f53b096ed39c85f9d8889bc5414282693b51d9a6bfbaebd62abf52fac91a00dc70b52cc5f3c667264fa33f39d60bc5a1bba6fe77d5be08a1c95024d244979373ff7a82bdfacd9d2da32320c0d6956af225180ac675bf15707588c1d253afc6304b9565239d6125e6b992c0de35c1e7017de6d03a28d4c31a9dc99095559f5d8d2fa58775033883c35051451d81e6715b5cb730375210c9acdcc4a6505ae3f85322eb280a935609ed757880c8fc4be813f4b559b7c68fb82498e15cb73c6800c4026fba6d9d10a37e091a5a1b567ad9b89d8bb12b160476375519708d07de0f0ec92160ce802d09bb8bff69b740e37220ee75c44040b6da1331cabaec125cc727c8b1ea3ce9afe41007d36a82616337443cf38b949d2e2d0fceff548da0a0a62281fc056416a59cdd9cf352113353cd4f04533210421bba23269d880a6c6b5e50a40e2fd03dfdfb813db3988b6a9a4e4c70bcf9db620b26fc5f39b78fc9ac1b559fd5bb717c229a9e929a05112f1b312554485f36feadd5bc36c5d19526a5c014897575ea28831e7e8bcdad222733f00cd9c1550c30c27d8ff8dfac936d12b0345f9e0ecceebedcc65b4a433297a340f9ddfc0a2081c4d2e7d049e77097bde2d4250fe9dc4d05d3379cde9fd053933f09dd68c8dcfa2f61d8d066189bd31f6cdfa7cc41b951b99f90b36cb6404c2b202487551b432c36dd50bf8d37cd573508e2f551f8d4b30e2a420a52058f81a3c532aa50f97af5462b54c62353a7fc2e`
+--------------------
+[2024-01-05 08:41:30] @cameron777:matrix.org: ku , pecofoods pishut
+--------------------
+[2024-01-05 12:08:15] @usernamegg:matrix.bestflowers247.online: на мелочевке тоже стоят оакре ав
+--------------------
+[2024-01-05 12:08:24] @usernamegg:matrix.bestflowers247.online: пока все потушили
+--------------------
+[2024-01-05 12:08:26] @usernamegg:matrix.bestflowers247.online: нету
+--------------------
+[2024-01-05 12:39:57] @usernamenn:matrix.bestflowers247.online: оакре?
+--------------------
+[2024-01-05 14:35:53] @cameron777:matrix.org: Привет!
+наконец то первую выплату выслали
+--------------------
+[2024-01-05 14:53:30] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2024-01-05 14:53:35] @usernamegg:matrix.bestflowers247.online: кошель оставь
+--------------------
+[2024-01-05 15:00:23] @cameron777:matrix.org: shas
+--------------------
+[2024-01-05 15:04:37] @cameron777:matrix.org: bc1qrhqhc92e9mpasjjssz9wjpfsezcufruh3d3fyx
+
+--------------------
+[2024-01-05 18:48:28] @n3auxaxl:matrix.collectionofmanager.space: Привет, это мекор, старый матрикс снес, теперь с этого буду, а то там и с федерацией херня была какая то и уже относительно долго он у меня был
+--------------------
+[2024-01-05 20:53:42] @usernamegg:matrix.bestflowers247.online: * на мелочевке тоже стоят такие ав
+--------------------
+[2024-01-05 20:53:53] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-01-05 20:54:01] @usernamegg:matrix.bestflowers247.online: ага , такие*
+--------------------
+[2024-01-05 20:54:18] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-01-05 20:54:21] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-01-05 20:54:24] @usernamenn:matrix.bestflowers247.online: аа
+--------------------
+[2024-01-05 20:54:27] @usernamenn:matrix.bestflowers247.online: ну не всегда
+--------------------
+[2024-01-05 20:54:37] @usernamegg:matrix.bestflowers247.online: хорошо
+--------------------
+[2024-01-05 20:54:50] @usernamegg:matrix.bestflowers247.online: но бывают, да
+--------------------
+[2024-01-05 20:57:14] @n3auxaxl:matrix.collectionofmanager.space: Как ты?
+--------------------
+[2024-01-05 20:57:27] @usernamenn:matrix.bestflowers247.online: ниче еще не заплатило?
+--------------------
+[2024-01-05 20:57:38] @n3auxaxl:matrix.collectionofmanager.space: Сервак новый поднял для стилака, тот или в блоке был или что то не то с ним
+--------------------
+[2024-01-05 20:57:47] @n3auxaxl:matrix.collectionofmanager.space: новый доме на панели, все уже сделал почти
+--------------------
+[2024-01-05 20:57:48] @usernamegg:matrix.bestflowers247.online: норм
+--------------------
+[2024-01-05 20:57:54] @usernamegg:matrix.bestflowers247.online: с новым годом
+--------------------
+[2024-01-05 20:58:02] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-01-05 20:58:06] @n3auxaxl:matrix.collectionofmanager.space: https://4c5kb5ly.cofoundermanagerplatform.online/7e6375fd-0860-4a88-8d60-7beac46dd708/EuvJWNrTbdVDGRaLhxJ6LZvMowWfIjYyDkmjOkuXO8Asvnk9?CDw9iTqdy=DRuqJfT7ezr4zZfEMJlzQP5ITV5fiTVPbjXc6DhxvTRscBXJfeFW
+--------------------
+[2024-01-05 20:58:09] @n3auxaxl:matrix.collectionofmanager.space: Вот новый вход в панель
+--------------------
+[2024-01-05 20:58:13] @n3auxaxl:matrix.collectionofmanager.space: да, с новым годом)
+--------------------
+[2024-01-05 20:58:16] @n3auxaxl:matrix.collectionofmanager.space: с новым счастьем)
+--------------------
+[2024-01-05 20:58:33] @n3auxaxl:matrix.collectionofmanager.space: я скину еще скоро тебе extension, это аутентификатор, чтобы войти в панель
+--------------------
+[2024-01-05 20:58:37] @n3auxaxl:matrix.collectionofmanager.space: без него не зайдешь
+--------------------
+[2024-01-05 20:58:52] @n3auxaxl:matrix.collectionofmanager.space: сделаю инструкцию как это все ставить, с скринами, там минут 5
+--------------------
+[2024-01-05 20:59:25] @n3auxaxl:matrix.collectionofmanager.space: в вс уже буду новую инфру ставить, чтобы в пн уже можно было работать с новой версией бота
+--------------------
+[2024-01-05 20:59:44] @n3auxaxl:matrix.collectionofmanager.space: переписал его, почистил, шифрование полностью поменял, добавил инжекты дополнитильные
+--------------------
+[2024-01-05 20:59:47] @n3auxaxl:matrix.collectionofmanager.space: все ошибки исправил
+--------------------
+[2024-01-05 21:01:14] @n3auxaxl:matrix.collectionofmanager.space: Единственное, что по заркепу еще не все готово, по нему сейчас думаю как лучше сделать, ибо искал, чтобы купить, не нашел особо ничего толкового
+--------------------
+[2024-01-05 21:01:26] @n3auxaxl:matrix.collectionofmanager.space: за пару дней придумаю что то с ним, чтобы номрально держало ботов
+--------------------
+[2024-01-05 21:21:06] @n3auxaxl:matrix.collectionofmanager.space: сделал доку, сейчас скину тебе архив, там README.md файл, там описание как он работает и как его установить
+--------------------
+[2024-01-05 21:22:42] @n3auxaxl:matrix.collectionofmanager.space: PAuthExtension.7z
+--------------------
+[2024-01-05 21:22:43] @n3auxaxl:matrix.collectionofmanager.space: PASS: 84FEYd7evUrC7lNAYm2toAlMDnR2JRSf2AwLgC1pYPpk7vjB
+--------------------
+[2024-01-05 21:23:15] @n3auxaxl:matrix.collectionofmanager.space: Вот, можешь ставить и заходить в панель
+--------------------
+[2024-01-05 21:25:19] @n3auxaxl:matrix.collectionofmanager.space: Братец, я уже пойду отдыхать, а то с утра самого сегодня работаю, завтра буду к вечеру на связи, в ВС полный день думаю буду
+--------------------
+[2024-01-05 21:25:34] @n3auxaxl:matrix.collectionofmanager.space: Завтра, после завтра спишемся
+--------------------
+[2024-01-05 21:26:04] @n3auxaxl:matrix.collectionofmanager.space: Ушел, связь
+--------------------
+[2024-01-05 21:41:47] @usernameboy:matrix.bestflowers247.online: 1925$
+bc1qwreuvd564j9vh6zv2lymp0cds7uu5tdhueq89h
+
+--------------------
+[2024-01-05 23:12:30] @cameron777:matrix.org: na meste ?
+--------------------
+[2024-01-05 23:14:07] @cameron777:matrix.org: Hyundai < pishut
+--------------------
+[2024-01-05 23:50:26] @cameron777:matrix.org: хотел обсудить
+что порекомендуешь по поводу очистки btc ?
+--------------------

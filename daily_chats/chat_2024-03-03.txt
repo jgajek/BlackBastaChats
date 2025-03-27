@@ -1,0 +1,216 @@
+[2024-03-03 00:09:59] @usernamenn:matrix.bestflowers247.online: 1,5 метра залилось
+--------------------
+[2024-03-03 00:10:05] @usernamenn:matrix.bestflowers247.online: думаю через минут 40 будет готово)
+--------------------
+[2024-03-03 00:10:40] @burito:matrix.bestflowers247.online: а... у вас там узкое жерло
+--------------------
+[2024-03-03 00:10:50] @usernamenn:matrix.bestflowers247.online: ))
+--------------------
+[2024-03-03 00:11:05] @burito:matrix.bestflowers247.online: меньше палится
+--------------------
+[2024-03-03 01:00:45] @burito:matrix.bestflowers247.online: ну что?)
+--------------------
+[2024-03-03 01:00:58] @usernamenn:matrix.bestflowers247.online: еще минут 5
+--------------------
+[2024-03-03 01:01:15] @burito:matrix.bestflowers247.online: ок
+--------------------
+[2024-03-03 01:05:29] @usernamenn:matrix.bestflowers247.online: Залилось
+--------------------
+[2024-03-03 01:10:25] @usernamenn:matrix.bestflowers247.online: не запускает на 2000
+--------------------
+[2024-03-03 01:10:32] @usernamenn:matrix.bestflowers247.online: на 2003 щас попробую но там карбон
+--------------------
+[2024-03-03 01:12:38] @burito:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> на 2003 щас попробую но там карбон
+
+там тож 40мин?
+--------------------
+[2024-03-03 01:14:03] @usernamenn:matrix.bestflowers247.online: нет
+--------------------
+[2024-03-03 01:14:07] @usernamenn:matrix.bestflowers247.online: с сервера на сервер
+--------------------
+[2024-03-03 01:19:59] @usernamenn:matrix.bestflowers247.online: не запустило
+--------------------
+[2024-03-03 01:21:05] @burito:matrix.bestflowers247.online: спасилось или сам файл не стартанул?
+--------------------
+[2024-03-03 01:21:15] @usernamenn:matrix.bestflowers247.online: файл не стартанул
+--------------------
+[2024-03-03 01:21:41] @burito:matrix.bestflowers247.online: хреново
+--------------------
+[2024-03-03 01:21:51] @burito:matrix.bestflowers247.online: ладно, пойду
+--------------------
+[2024-03-03 01:23:12] @usernamenn:matrix.bestflowers247.online: Ok
+--------------------
+[2024-03-03 10:18:53] @usernameboy:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> ```
+> [SMB] NTLMv1 Client   : 71.245.64.74
+> [SMB] NTLMv1 Username : EDWARDS\ASFSRV02$
+> [SMB] NTLMv1 Hash     : ASFSRV02$::EDWARDS:9D0BA9DE0F5E7A6923AEF18D7CD1E61320B3F5E8FF7BFDFC:9D0BA9DE0F5E7A6923AEF18D7CD1E61320B3F5E8FF7BFDFC:1122334455667788
+> ```
+
+
+ntlm
+a594fe571fc51569f13f01c55955b7e9
+--------------------
+[2024-03-03 12:00:37] @usernamenn:matrix.bestflowers247.online: ```
+81d99c0957e77322b7ebe7073453231c
+dacdc659878c5fc1712a26a3e2c1e841
+```
+--------------------
+[2024-03-03 12:02:31] @usernamegg:matrix.bestflowers247.online: > <@usernameboy:matrix.bestflowers247.online> ntlm
+> a594fe571fc51569f13f01c55955b7e9
+
+за сколько по времени вы расшифровали ?
+--------------------
+[2024-03-03 12:03:25] @usernamegg:matrix.bestflowers247.online: 58 минут ?
+--------------------
+[2024-03-03 12:06:51] @usernameboy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> 58 минут ?
+
+18 ч примерно
+--------------------
+[2024-03-03 12:11:55] @usernamenn:matrix.bestflowers247.online: у меня показывает почему то что я в 12:20 скинул креды
+--------------------
+[2024-03-03 12:12:02] @usernamenn:matrix.bestflowers247.online: а расшифровали в 13:18
+--------------------
+[2024-03-03 12:17:16] @usernamenn:matrix.bestflowers247.online: https://trustedsec.com/blog/a-comprehensive-guide-on-relaying-anno-2022
+--------------------
+[2024-03-03 12:17:31] @usernamenn:matrix.bestflowers247.online: https://juggernaut-sec.com/ntlm-relay-attacks/
+--------------------
+[2024-03-03 12:23:27] @usernameboy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> за сколько по времени вы расшифровали ?
+
+последний я сам искал
+--------------------
+[2024-03-03 12:28:16] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-03-03 12:31:16] @usernamegg:matrix.bestflowers247.online: https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html
+--------------------
+[2024-03-03 12:33:33] @cob_crypt_ward:matrix.bestflowers247.online: привет еще раз
+--------------------
+[2024-03-03 12:33:42] @cob_crypt_ward:matrix.bestflowers247.online: надо будет что-то криптовать ближайщую неделю?
+--------------------
+[2024-03-03 12:33:43] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-03-03 12:33:48] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-03-03 12:34:05] @usernamegg:matrix.bestflowers247.online: сейчас мы чистим лоадер на С в кобе который и с профилем колдуем
+--------------------
+[2024-03-03 12:34:09] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-03-03 12:34:18] @cob_crypt_ward:matrix.bestflowers247.online: вы лоадер сделали свой?
+--------------------
+[2024-03-03 12:34:24] @cob_crypt_ward:matrix.bestflowers247.online: крутяк
+--------------------
+[2024-03-03 12:34:38] @usernamegg:matrix.bestflowers247.online: прям срочно нужно вычистить лоадер на С в кобе и поколдовать спрофилями
+--------------------
+[2024-03-03 12:35:39] @cob_crypt_ward:matrix.bestflowers247.online: я что-то получу за этот месяц? с учетом детекта со стороны тренда и S1?
+--------------------
+[2024-03-03 12:42:48] @usernameyy:matrix.bestflowers247.online: привет
+--------------------
+[2024-03-03 12:48:37] @usernamegg:matrix.bestflowers247.online: ку
+--------------------
+[2024-03-03 12:48:40] @usernamegg:matrix.bestflowers247.online: NN
+--------------------
+[2024-03-03 12:48:42] @usernamegg:matrix.bestflowers247.online: напишет
+--------------------
+[2024-03-03 12:48:53] @usernamegg:matrix.bestflowers247.online: он тут нашел новый вектор аатки
+--------------------
+[2024-03-03 12:48:57] @usernamegg:matrix.bestflowers247.online: аттаки
+--------------------
+[2024-03-03 12:49:03] @usernamegg:matrix.bestflowers247.online: только что отработало
+--------------------
+[2024-03-03 12:49:08] @usernamegg:matrix.bestflowers247.online: надо финальную версию сделать
+--------------------
+[2024-03-03 12:49:20] @usernamegg:matrix.bestflowers247.online: что бы получить логическое завершение
+--------------------
+[2024-03-03 12:49:36] @usernamegg:matrix.bestflowers247.online: кобовский пересобираем
+--------------------
+[2024-03-03 12:49:45] @usernamegg:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> я что-то получу за этот месяц? с учетом детекта со стороны тренда и S1?
+
+думаю 3к
+--------------------
+[2024-03-03 12:53:29] @usernamegg:matrix.bestflowers247.online: прям можно свой лоадер написать и вшить его в кобу
+--------------------
+[2024-03-03 12:53:39] @usernamegg:matrix.bestflowers247.online: вместо того который сейчас есть там
+--------------------
+[2024-03-03 12:53:47] @usernamegg:matrix.bestflowers247.online: либо его пересобрать
+--------------------
+[2024-03-03 12:54:42] @usernamegg:matrix.bestflowers247.online: там по сути лоадер там палится в кобе и потом уже профиль
+--------------------
+[2024-03-03 12:55:03] @usernamegg:matrix.bestflowers247.online: те само общение через этот профиль
+--------------------
+[2024-03-03 12:55:06] @usernamegg:matrix.bestflowers247.online: бля у меня прям горит
+--------------------
+[2024-03-03 12:55:16] @usernamegg:matrix.bestflowers247.online: сейчас ничего сделать невозможно
+--------------------
+[2024-03-03 12:55:23] @usernamegg:matrix.bestflowers247.online: надо чистить
+--------------------
+[2024-03-03 12:55:50] @usernamegg:matrix.bestflowers247.online: только эта задача сейчас в приорите вычистить лоадер кобы и пересобрать норм профиль
+--------------------
+[2024-03-03 12:56:09] @usernamegg:matrix.bestflowers247.online: хоть новый написать лоадер для нее и делать только один пейлоад raw
+--------------------
+[2024-03-03 12:56:15] @usernamegg:matrix.bestflowers247.online: что бы можно было его притовать
+--------------------
+[2024-03-03 12:56:37] @usernamegg:matrix.bestflowers247.online: мы от кобы только .bin отдаем на крипт и все
+--------------------
+[2024-03-03 12:57:22] @usernamegg:matrix.bestflowers247.online: [х64 х86 без разницы
+--------------------
+[2024-03-03 12:57:45] @usernamegg:matrix.bestflowers247.online: инжекты в процессы потом генерит артефакткит он тоже на C написан
+--------------------
+[2024-03-03 12:57:51] @usernamegg:matrix.bestflowers247.online: вообще садись
+--------------------
+[2024-03-03 12:57:59] @usernamegg:matrix.bestflowers247.online: и давай будем вместе побеждать этот софт
+--------------------
+[2024-03-03 12:58:06] @usernamegg:matrix.bestflowers247.online: я готов все силы и средства отдать сейчас
+--------------------
+[2024-03-03 12:58:31] @usernamegg:matrix.bestflowers247.online: от 20-30к дам тебе бонус как будет все чисто по нему.
+--------------------
+[2024-03-03 13:00:43] @usernameyy:matrix.bestflowers247.online: исходники нужно кидать новым прогерам без редактирования? я их шарить не очень хочу и они им не нужны, если есть тз
+--------------------
+[2024-03-03 13:02:04] @usernamegg:matrix.bestflowers247.online: * от 20-30к дам тебе бонус как будет все чисто по кобе.
+--------------------
+[2024-03-03 13:02:57] @cob_crypt_ward:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> думаю 3к
+
+не больше?
+--------------------
+[2024-03-03 13:04:33] @usernamegg:matrix.bestflowers247.online: нет
+--------------------
+[2024-03-03 13:04:47] @usernamegg:matrix.bestflowers247.online: пока не было норм крипта который прям нас выручил
+--------------------
+[2024-03-03 13:05:02] @usernamegg:matrix.bestflowers247.online: сейчас я разобрал лоадер и артефакт
+--------------------
+[2024-03-03 13:05:05] @usernamegg:matrix.bestflowers247.online: жду решения по нему
+--------------------
+[2024-03-03 13:05:32] @usernamegg:matrix.bestflowers247.online: почему не хочешь шарить ?
+--------------------
+[2024-03-03 13:05:54] @usernameyy:matrix.bestflowers247.online: программы дорогие, а надежность прогеров я не знаю
+--------------------
+[2024-03-03 13:06:11] @usernameyy:matrix.bestflowers247.online: ну и в этом нет смысла, если есть тз опять же
+--------------------
+[2024-03-03 13:07:47] @usernamegg:matrix.bestflowers247.online: ну глядя на исходник быстрее дело пойдем
+--------------------
+[2024-03-03 13:07:56] @usernamegg:matrix.bestflowers247.online: мы уже писали эти уникальные рпограмы
+--------------------
+[2024-03-03 13:08:04] @usernamegg:matrix.bestflowers247.online: зачем усложнять
+--------------------
+[2024-03-03 13:08:08] @usernameyy:matrix.bestflowers247.online: я скину, ты только скажи полностью кидать или отредачить что то
+--------------------
+[2024-03-03 13:08:11] @usernamegg:matrix.bestflowers247.online: кодеры проверенные
+--------------------
+[2024-03-03 13:08:16] @usernamegg:matrix.bestflowers247.online: никуда дальше не уйдет
+--------------------
+[2024-03-03 13:08:19] @usernameyy:matrix.bestflowers247.online: ок
+--------------------
+[2024-03-03 13:08:27] @usernamegg:matrix.bestflowers247.online: полностью кидай
+--------------------
+[2024-03-03 13:08:30] @usernamegg:matrix.bestflowers247.online: не переживай
+--------------------
+[2024-03-03 13:09:15] @usernameyy:matrix.bestflowers247.online: скинул
+--------------------
+[2024-03-03 13:10:10] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-03-03 13:12:56] @cob_crypt_ward:matrix.bestflowers247.online: а когда можно будет получить?
+--------------------
+[2024-03-03 13:13:50] @usernamenn:matrix.bestflowers247.online: https://tishina.in/ops/freeipa-postexploitation
+--------------------
+[2024-03-03 15:11:25] @tinker:matrix.bestflowers247.online: 500?
+--------------------
+[2024-03-03 15:11:30] @tinker:matrix.bestflowers247.online: или ещё выше?
+--------------------

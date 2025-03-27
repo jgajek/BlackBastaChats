@@ -1,0 +1,196 @@
+[2024-06-08 07:13:28] @usernameugway:matrix.bestflowers247.online: https://support-microsoft-com.translate.goog/en-us/office/transfer-a-call-in-microsoft-teams-b7f40f14-e083-46b9-b739-68038c8f73a0?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru
+--------------------
+[2024-06-08 07:13:33] @usernameugway:matrix.bestflowers247.online: доброе утро
+--------------------
+[2024-06-08 07:13:46] @usernamegg:matrix.bestflowers247.online: доброе
+--------------------
+[2024-06-08 07:13:59] @usernameugway:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> передачу ?
+
+я вчера спать ушел ) когда прозвонщик закончил
+--------------------
+[2024-06-08 07:14:05] @usernameugway:matrix.bestflowers247.online: в общем проблема была дозвонится
+--------------------
+[2024-06-08 07:14:25] @usernameugway:matrix.bestflowers247.online: я подумал что можно поставить автопрозвон и потом успешный вызов передавать
+--------------------
+[2024-06-08 07:14:33] @usernameugway:matrix.bestflowers247.online: там есть такая опция
+--------------------
+[2024-06-08 07:14:47] @usernamegg:matrix.bestflowers247.online: оо круто да
+--------------------
+[2024-06-08 07:14:53] @usernamegg:matrix.bestflowers247.online: сразу будет разговаривать
+--------------------
+[2024-06-08 07:15:23] @usernameugway:matrix.bestflowers247.online: да, но процесс передачи не быстрый
+--------------------
+[2024-06-08 07:15:33] @usernameugway:matrix.bestflowers247.online: секунд 10..
+--------------------
+[2024-06-08 07:15:46] @usernameugway:matrix.bestflowers247.online: image.png
+--------------------
+[2024-06-08 07:15:54] @usernameugway:matrix.bestflowers247.online: и будет преписка что это переданный звонок - но это в целом не так страшно
+--------------------
+[2024-06-08 07:16:18] @usernamegg:matrix.bestflowers247.online: ничего страшного
+--------------------
+[2024-06-08 07:16:28] @usernamegg:matrix.bestflowers247.online: главное успешный дозвон
+--------------------
+[2024-06-08 07:16:32] @usernamegg:matrix.bestflowers247.online: и диалог
+--------------------
+[2024-06-08 07:16:37] @usernamegg:matrix.bestflowers247.online: впнки надо сделать
+--------------------
+[2024-06-08 07:28:52] @usernameugway:matrix.bestflowers247.online: да,  план тогда такой
+
+1. разобраться с быстрым добавлением контактов
+2. автодозвон. + протестить передачу успешного звонка
+3. разобраться как забирать впнки
+
+
+сейчас основная цель чтобы операторы общались нон стоп, а не тратили время на добавление контактов и дозвоны
+--------------------
+[2024-06-08 07:33:29] @usernameugway:matrix.bestflowers247.online: -----
+--------------------
+[2024-06-08 07:33:40] @usernameugway:matrix.bestflowers247.online: у тебя сейчас будет вытягивать куки и тд? после запуска
+--------------------
+[2024-06-08 07:36:04] @usernameugway:matrix.bestflowers247.online: ----
+--------------------
+[2024-06-08 07:37:51] @usernameugway:matrix.bestflowers247.online: бывает что контора тимс не использует, мы добавляем 10-15 контактов и ясно что они дохлые, тимсом не пользуются
+--------------------
+[2024-06-08 07:38:35] @usernameugway:matrix.bestflowers247.online: соответсвенно, у тех кто пользуется можно набирать еще 100шт (у нас в среднем 1-2-3-4-5) и звонить до момента пока не будет успех
+--------------------
+[2024-06-08 07:42:03] @usernameugway:matrix.bestflowers247.online: например после запуска вытащили куки, поняли какой впн. но закрепится не получилось
+след звонок у нас уже разводка под конкретно их впн
+--------------------
+[2024-06-08 07:43:05] @usernameugway:matrix.bestflowers247.online: * бывает что контора тимс не использует, мы добавляем 10-15 контактов и ясно что они дохлые, тимсом не пользуются -  мы их больше не трогаем
+--------------------
+[2024-06-08 10:13:44] @cob_crypt_ward:matrix.bestflowers247.online: привет, прости что пропал, уезжал на месяц в другой город без ноута
+--------------------
+[2024-06-08 10:13:54] @cob_crypt_ward:matrix.bestflowers247.online: на этой неделе точно все скину, что общела
+--------------------
+[2024-06-08 10:13:59] @cob_crypt_ward:matrix.bestflowers247.online: * на этой неделе точно все скину, что обещал
+--------------------
+[2024-06-08 10:14:39] @cob_crypt_ward:matrix.bestflowers247.online: * сейчас только приехал, сразу же тебе написал. как разложусь, сразу скину
+--------------------
+[2024-06-08 13:17:09] @tinker:matrix.bestflowers247.online: привет! спасибо!
+--------------------
+[2024-06-08 13:17:16] @tinker:matrix.bestflowers247.online: принял - работаю
+--------------------
+[2024-06-08 13:26:53] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-08 13:31:41] @tinker:matrix.bestflowers247.online: ответил
+--------------------
+[2024-06-08 13:31:52] @usernamegg:matrix.bestflowers247.online: еще несколько компаний добавил
+--------------------
+[2024-06-08 13:31:53] @usernamegg:matrix.bestflowers247.online: смотри
+--------------------
+[2024-06-08 13:32:09] @tinker:matrix.bestflowers247.online: пока не видно
+--------------------
+[2024-06-08 13:32:18] @usernamegg:matrix.bestflowers247.online: обнови
+--------------------
+[2024-06-08 13:32:31] @tinker:matrix.bestflowers247.online: да, грузится очень долго
+--------------------
+[2024-06-08 13:34:15] @tinker:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-08 13:40:03] @tinker:matrix.bestflowers247.online: только maesa.com похоже на другом сервере
+--------------------
+[2024-06-08 13:44:27] @usernamegg:matrix.bestflowers247.online: > <@tinker:matrix.bestflowers247.online> только maesa.com похоже на другом сервере
+
+не понял
+--------------------
+[2024-06-08 13:45:07] @usernamegg:matrix.bestflowers247.online: я найду файлы сам
+--------------------
+[2024-06-08 13:45:10] @usernamegg:matrix.bestflowers247.online: и им выдам сейчас
+--------------------
+[2024-06-08 13:45:49] @tinker:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-08 13:46:10] @tinker:matrix.bestflowers247.online: а если придётся дату их смотреть?
+--------------------
+[2024-06-08 13:46:26] @usernamegg:matrix.bestflowers247.online: для чего ?
+--------------------
+[2024-06-08 13:46:37] @usernamegg:matrix.bestflowers247.online: что бы большы рычагов было
+--------------------
+[2024-06-08 13:46:40] @usernamegg:matrix.bestflowers247.online: я могу сказать
+--------------------
+[2024-06-08 13:46:43] @tinker:matrix.bestflowers247.online: как вариант
+--------------------
+[2024-06-08 13:47:10] @usernamegg:matrix.bestflowers247.online: ты сам найдешь файлы ?
+--------------------
+[2024-06-08 13:47:23] @tinker:matrix.bestflowers247.online: давай
+--------------------
+[2024-06-08 13:47:27] @tinker:matrix.bestflowers247.online: я же искал для асеншн
+--------------------
+[2024-06-08 13:47:37] @usernamegg:matrix.bestflowers247.online: выдашь им файлы ?
+--------------------
+[2024-06-08 13:47:44] @tinker:matrix.bestflowers247.online: да
+--------------------
+[2024-06-08 13:47:55] @usernamegg:matrix.bestflowers247.online: 
+ftp8
+195.201.196.246
+root
+Pj?)*jkprwsg5QDsVqt0C?p6BAU
+--------------------
+[2024-06-08 13:47:57] @usernamegg:matrix.bestflowers247.online: вот
+--------------------
+[2024-06-08 13:48:02] @tinker:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-08 13:48:04] @tinker:matrix.bestflowers247.online: сейчас скину им
+--------------------
+[2024-06-08 13:50:49] @usernamegg:matrix.bestflowers247.online: innophos.com  -  добавил
+--------------------
+[2024-06-08 13:50:55] @usernamegg:matrix.bestflowers247.online: им тоже собери файлы
+--------------------
+[2024-06-08 13:51:06] @tinker:matrix.bestflowers247.online: 
+ок! спасибо!
+--------------------
+[2024-06-08 14:05:16] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-06-08 14:05:22] @usernamegg:matrix.bestflowers247.online: а что случилос?
+--------------------
+[2024-06-08 14:05:30] @usernamegg:matrix.bestflowers247.online: * а что случилось?
+--------------------
+[2024-06-08 14:05:43] @usernamegg:matrix.bestflowers247.online: зашел ?
+--------------------
+[2024-06-08 14:05:44] @usernamegg:matrix.bestflowers247.online: нашел ?
+--------------------
+[2024-06-08 14:05:56] @tinker:matrix.bestflowers247.online: привет, да, всё есть
+--------------------
+[2024-06-08 14:06:06] @tinker:matrix.bestflowers247.online: пока innophos не проявился только
+--------------------
+[2024-06-08 14:06:06] @tinker:matrix.bestflowers247.online: чат
+--------------------
+[2024-06-08 14:06:16] @tinker:matrix.bestflowers247.online: даже после перезагрузки панели
+--------------------
+[2024-06-08 14:07:29] @usernamegg:matrix.bestflowers247.online: все должна
+--------------------
+[2024-06-08 14:12:37] @tinker:matrix.bestflowers247.online: ага! есть!
+--------------------
+[2024-06-08 14:26:34] @usernamegg:matrix.bestflowers247.online: я отойду
+--------------------
+[2024-06-08 14:26:37] @usernamegg:matrix.bestflowers247.online: сделай пока им файлы
+--------------------
+[2024-06-08 14:26:51] @tinker:matrix.bestflowers247.online: ++
+--------------------
+[2024-06-08 14:26:56] @tinker:matrix.bestflowers247.online: всё делаю, броди
+--------------------
+[2024-06-08 14:26:59] @tinker:matrix.bestflowers247.online: ща всё будет
+--------------------
+[2024-06-08 14:27:01] @usernamegg:matrix.bestflowers247.online: +
+--------------------
+[2024-06-08 14:27:49] @timber:matrix.bestflowers247.online: привет. я вернулся
+--------------------
+[2024-06-08 18:09:34] @tinker:matrix.bestflowers247.online: Всё всем закинул - броди, кидай мне таргеты с файлами, да и может блог даже - я ушёл со второй партнёрки и три месяца подтягивал техническую сторону
+--------------------
+[2024-06-08 18:09:42] @tinker:matrix.bestflowers247.online: так что больше таких затупов не будет
+--------------------
+[2024-06-08 18:10:18] @tinker:matrix.bestflowers247.online: прочитал все контиевские мануалы по пентесту кобе и прочему, и все свои записи, ещё друг меня потренеровал хорошо
+--------------------
+[2024-06-08 20:15:19] @usernamegg:matrix.bestflowers247.online: хочешь пентестить начать ?
+--------------------
+[2024-06-08 20:15:29] @usernamegg:matrix.bestflowers247.online: а где был ?
+--------------------
+[2024-06-08 20:15:35] @usernamegg:matrix.bestflowers247.online: там сервак потушили один
+--------------------
+[2024-06-08 20:15:39] @usernamegg:matrix.bestflowers247.online: Т Т тебе писал
+--------------------
+[2024-06-08 20:16:06] @usernamegg:matrix.bestflowers247.online: шоп хоти все поднять
+--------------------
+[2024-06-08 20:16:14] @usernamegg:matrix.bestflowers247.online: пока руки не дошли всерьез сеть
+--------------------
+[2024-06-08 20:37:37] @nickolas:talks.icu: * Привет. Как успехи ? поставили - www.northernsafety.com ?
+Если поставили, добавь плз к нам в чаты.
+--------------------

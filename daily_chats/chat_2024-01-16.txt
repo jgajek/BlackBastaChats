@@ -1,0 +1,264 @@
+[2024-01-16 08:47:18] @muaddib6:matrix.org: Доброго дня. Что сделать?
+--------------------
+[2024-01-16 09:55:48] @cameron777:matrix.org: Hyundai otvet' im plz
+--------------------
+[2024-01-16 09:57:15] @cameron777:matrix.org: knscpa.com_privat  i etim tozhe chto nit' napishi
+--------------------
+[2024-01-16 10:33:37] @usernamenn:matrix.bestflowers247.online: Добрый день, крипт что бы сентик не палил
+--------------------
+[2024-01-16 10:34:19] @usernamenn:matrix.bestflowers247.online: выше шелл коды
+--------------------
+[2024-01-16 10:34:22] @usernamenn:matrix.bestflowers247.online: от кобы
+--------------------
+[2024-01-16 10:34:30] @muaddib6:matrix.org: ок занимаюсь
+--------------------
+[2024-01-16 11:26:07] @usernamegg:matrix.bestflowers247.online: скоро
+--------------------
+[2024-01-16 11:45:26] @usernamenn:matrix.bestflowers247.online: Привет
+--------------------
+[2024-01-16 11:45:34] @usernamenn:matrix.bestflowers247.online: может бурито поднять?
+--------------------
+[2024-01-16 11:45:39] @usernamenn:matrix.bestflowers247.online: * можешь бурито поднять?
+--------------------
+[2024-01-16 11:45:40] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-01-16 11:45:55] @usernamenn:matrix.bestflowers247.online: там x86 не дает сентинел запустить
+--------------------
+[2024-01-16 11:45:59] @usernamenn:matrix.bestflowers247.online: только x64 походу
+--------------------
+[2024-01-16 11:46:17] @usernamenn:matrix.bestflowers247.online: пиздюк выясняет у него же локально стоит сентик он x86 у него не дает запускать
+--------------------
+[2024-01-16 11:46:32] @usernamenn:matrix.bestflowers247.online: на flyt я запускаю x86 и exe просто не запускается и файл не удаляется
+--------------------
+[2024-01-16 11:46:38] @usernamenn:matrix.bestflowers247.online: он просто тупо не дает запускать как будто x86
+--------------------
+[2024-01-16 11:46:47] @usernamenn:matrix.bestflowers247.online: ни ошибок не алертов нихуя вобще просто не запускает x86 и все
+--------------------
+[2024-01-16 11:46:59] @usernamenn:matrix.bestflowers247.online: и у пиздюка на RDP с сентинелем такая же хуйня
+--------------------
+[2024-01-16 11:47:04] @usernamenn:matrix.bestflowers247.online: а x64 сказал заебись
+--------------------
+[2024-01-16 11:49:40] @usernamegg:matrix.bestflowers247.online: хуя себе открытие
+--------------------
+[2024-01-16 11:49:58] @usernamegg:matrix.bestflowers247.online: х86 бурито сделал у него на х64 крашило
+--------------------
+[2024-01-16 11:50:01] @usernamegg:matrix.bestflowers247.online: тогда бен надо
+--------------------
+[2024-01-16 11:50:14] @usernamegg:matrix.bestflowers247.online: понял
+--------------------
+[2024-01-16 11:50:20] @usernamegg:matrix.bestflowers247.online: давай сделаем х64
+--------------------
+[2024-01-16 11:50:56] @usernamenn:matrix.bestflowers247.online: аа бурито x64 не умеет делать иликак?
+--------------------
+[2024-01-16 11:50:58] @usernamenn:matrix.bestflowers247.online: * аа бурито x64 не умеет делать или как?
+--------------------
+[2024-01-16 11:51:00] @usernamenn:matrix.bestflowers247.online: бен на месте
+--------------------
+[2024-01-16 11:51:01] @usernamenn:matrix.bestflowers247.online: * бен на месте?
+--------------------
+[2024-01-16 11:51:05] @usernamegg:matrix.bestflowers247.online: херо , да
+--------------------
+[2024-01-16 11:51:09] @usernamegg:matrix.bestflowers247.online: бентли написал уже
+--------------------
+[2024-01-16 11:51:21] @usernamenn:matrix.bestflowers247.online: там просто 4 тачки живые остались из них 2 тачки отключены от домена
+--------------------
+[2024-01-16 11:51:27] @usernamegg:matrix.bestflowers247.online: а вот вижу
+--------------------
+[2024-01-16 11:51:32] @usernamegg:matrix.bestflowers247.online: ты в группе тоже дал пояснение
+--------------------
+[2024-01-16 11:51:40] @usernamenn:matrix.bestflowers247.online: да
+--------------------
+[2024-01-16 11:51:43] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> там просто 4 тачки живые остались из них 2 тачки отключены от домена
+
+поня понял
+--------------------
+[2024-01-16 11:51:46] @usernamegg:matrix.bestflowers247.online: ну будет крипт
+--------------------
+[2024-01-16 11:51:50] @usernamenn:matrix.bestflowers247.online: muaddib6
+--------------------
+[2024-01-16 11:51:52] @usernamenn:matrix.bestflowers247.online: это бен?
+--------------------
+[2024-01-16 11:51:55] @usernamenn:matrix.bestflowers247.online: или кто это ваще
+--------------------
+[2024-01-16 11:52:02] @usernamegg:matrix.bestflowers247.online: я тут пока заказываю новые модемы , симки и тд на нью локейшен
+--------------------
+[2024-01-16 11:52:16] @usernamegg:matrix.bestflowers247.online: симки тут свои старые поплнил а то у нас YY инет в офф ушел
+--------------------
+[2024-01-16 11:52:16] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> я тут пока заказываю новые модемы , симки и тд на нью локейшен
+
+дак это дело 5 минуты
+--------------------
+[2024-01-16 11:52:22] @usernamenn:matrix.bestflowers247.online: отправь гонца он сам все сделает купит че надо))
+--------------------
+[2024-01-16 11:52:24] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> muaddib6
+
+да, это бентли
+--------------------
+[2024-01-16 11:52:26] @usernamenn:matrix.bestflowers247.online: только симки физические
+--------------------
+[2024-01-16 11:52:28] @usernamenn:matrix.bestflowers247.online: надо
+--------------------
+[2024-01-16 11:52:32] @usernamenn:matrix.bestflowers247.online: я тут где я щас нахожусь
+--------------------
+[2024-01-16 11:52:35] @usernamenn:matrix.bestflowers247.online: знаю 3 места
+--------------------
+[2024-01-16 11:52:42] @usernamenn:matrix.bestflowers247.online: где чисто физики
+--------------------
+[2024-01-16 11:52:42] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> только симки физические
+
+ну ебана ) я даже водителя спецально за ними не отправляю )
+--------------------
+[2024-01-16 11:52:44] @usernamegg:matrix.bestflowers247.online: сам заказываю
+--------------------
+[2024-01-16 11:52:49] @usernamenn:matrix.bestflowers247.online: даже можно восстановление симки ебануть
+--------------------
+[2024-01-16 11:52:57] @usernamenn:matrix.bestflowers247.online: 30к цена вопроса была раньше
+--------------------
+[2024-01-16 11:53:08] @usernamenn:matrix.bestflowers247.online: ну вот я тут чисто физиков беру по 500р штуку
+--------------------
+[2024-01-16 11:53:18] @usernamenn:matrix.bestflowers247.online: а он там найти не мог физиков постоянно у него какие то проблемы
+--------------------
+[2024-01-16 11:53:32] @usernamenn:matrix.bestflowers247.online: может второго гонца отравить поискать места что бы позаебывал других людей
+--------------------
+[2024-01-16 11:53:51] @usernamenn:matrix.bestflowers247.online: на горбухе может все изъебанно может че то другое найти можно сто процентов
+--------------------
+[2024-01-16 11:54:17] @usernamenn:matrix.bestflowers247.online: главное что бы были физики иначе мы просто помазаны одним грубо говоря ООО на которую пачка сделана
+--------------------
+[2024-01-16 11:54:35] @usernamenn:matrix.bestflowers247.online: это практически приравнивается к тому что сидеть с одной симки всем офисом
+--------------------
+[2024-01-16 11:55:40] @usernamenn:matrix.bestflowers247.online: а у бена есть доступ к серту?
+--------------------
+[2024-01-16 11:55:46] @usernamenn:matrix.bestflowers247.online: а то он мне ща выдаст без подписи
+--------------------
+[2024-01-16 11:55:54] @usernamenn:matrix.bestflowers247.online: > <@muaddib6:matrix.org> ок занимаюсь
+
+через сколько будет готово?
+--------------------
+[2024-01-16 11:55:56] @usernamenn:matrix.bestflowers247.online: > <@burito:matrix.bestflowers247.online> rundll32.exe dll.dll,Reflective
+> сделал х86, подписал
+> х64 крашит, повторюсь
+
+Он не крашит, если его новым потоком запускать. Попробуй запустить обычной запускалкой - VirtualAlloc, WriteProcessMemory, CreateThread
+--------------------
+[2024-01-16 12:05:20] @muaddib6:matrix.org: > <@usernamenn:matrix.bestflowers247.online> через сколько будет готово?
+
+Готово
+--------------------
+[2024-01-16 12:05:37] @muaddib6:matrix.org: 1.7z
+--------------------
+[2024-01-16 12:05:47] @muaddib6:matrix.org: rundll32 cob33_DNS_x64.dll, NewRegEx
+--------------------
+[2024-01-16 12:11:46] @usernamenn:matrix.bestflowers247.online: подписанный?
+--------------------
+[2024-01-16 12:12:12] @muaddib6:matrix.org: Нет проверьте сначала работоспсособнооооооооооооооооооооооооооооость
+--------------------
+[2024-01-16 12:12:21] @usernamenn:matrix.bestflowers247.online: Хорошо
+--------------------
+[2024-01-16 12:15:37] @usernamenn:matrix.bestflowers247.online: Работают
+--------------------
+[2024-01-16 12:15:47] @muaddib6:matrix.org: хорошо
+--------------------
+[2024-01-16 12:15:52] @usernamenn:matrix.bestflowers247.online: подпишешь?
+--------------------
+[2024-01-16 12:16:06] @muaddib6:matrix.org: я не подписываю
+--------------------
+[2024-01-16 12:16:18] @muaddib6:matrix.org: бурито подписывает
+--------------------
+[2024-01-16 12:16:22] @usernamenn:matrix.bestflowers247.online: аа окей
+--------------------
+[2024-01-16 12:18:51] @usernamenn:matrix.bestflowers247.online: бен сказал не подписывает
+--------------------
+[2024-01-16 12:29:41] @usernamenn:matrix.bestflowers247.online: Все обошло и Sentinel, и Trend Micro XDR
+--------------------
+[2024-01-16 12:29:55] @muaddib6:matrix.org: Красота!
+--------------------
+[2024-01-16 12:29:58] @usernamenn:matrix.bestflowers247.online: ❤️❤️❤️❤️❤️
+--------------------
+[2024-01-16 12:30:12] @muaddib6:matrix.org: длл или ехе?
+--------------------
+[2024-01-16 12:30:16] @usernamenn:matrix.bestflowers247.online: exe
+--------------------
+[2024-01-16 12:30:18] @usernamenn:matrix.bestflowers247.online: dll не запускал
+--------------------
+[2024-01-16 12:30:32] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-01-16 12:30:34] @usernamegg:matrix.bestflowers247.online: прекрасно
+--------------------
+[2024-01-16 12:30:38] @usernamegg:matrix.bestflowers247.online: обошло
+--------------------
+[2024-01-16 12:30:46] @usernamenn:matrix.bestflowers247.online: ага
+--------------------
+[2024-01-16 12:30:47] @usernamegg:matrix.bestflowers247.online: да, он подписывает
+--------------------
+[2024-01-16 12:30:52] @muaddib6:matrix.org: ++
+--------------------
+[2024-01-16 12:30:54] @usernamegg:matrix.bestflowers247.online: не подписывает
+--------------------
+[2024-01-16 12:30:58] @usernamenn:matrix.bestflowers247.online: он сказал что подписывает бен
+--------------------
+[2024-01-16 12:31:01] @usernamegg:matrix.bestflowers247.online: но я могу подписать
+--------------------
+[2024-01-16 12:31:07] @usernamegg:matrix.bestflowers247.online: если обошел занчит все ок
+--------------------
+[2024-01-16 12:31:16] @usernamenn:matrix.bestflowers247.online: да лучше тогда не светить серт
+--------------------
+[2024-01-16 12:31:18] @usernamenn:matrix.bestflowers247.online: он новый серт?
+--------------------
+[2024-01-16 12:31:22] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-01-16 12:31:23] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-01-16 12:31:28] @usernamenn:matrix.bestflowers247.online: Ок
+--------------------
+[2024-01-16 12:31:33] @usernamenn:matrix.bestflowers247.online: тогда не светим его тогда
+--------------------
+[2024-01-16 12:31:40] @usernamegg:matrix.bestflowers247.online: настроение аж поднялось )
+--------------------
+[2024-01-16 12:31:57] @usernamenn:matrix.bestflowers247.online: ага
+--------------------
+[2024-01-16 12:32:01] @usernamenn:matrix.bestflowers247.online: пиздюк обосрался
+--------------------
+[2024-01-16 12:32:14] @usernamenn:matrix.bestflowers247.online: из за него шуму навел из за его криптов по этому же сентик въебали везде
+--------------------
+[2024-01-16 12:32:36] @usernamenn:matrix.bestflowers247.online: если бы бен тогда криптанул ночью файл
+--------------------
+[2024-01-16 12:32:46] @usernamenn:matrix.bestflowers247.online: я бы позвал 2 тачки иншурансов и все было бы тип топ
+--------------------
+[2024-01-16 12:32:59] @usernamenn:matrix.bestflowers247.online: там иншурансы которые были правда они были на 3б вроде
+--------------------
+[2024-01-16 12:34:05] @usernamenn:matrix.bestflowers247.online: я пиздюку скинул криптованные файлы пусть глянет как криптанул или че то может узнает нового
+--------------------
+[2024-01-16 12:48:29] @usernamegg:matrix.bestflowers247.online: да, бывает
+--------------------
+[2024-01-16 12:48:33] @usernamegg:matrix.bestflowers247.online: у бентли просто стаб чистый
+--------------------
+[2024-01-16 12:48:36] @usernamegg:matrix.bestflowers247.online: новый
+--------------------
+[2024-01-16 12:48:38] @usernamegg:matrix.bestflowers247.online: по этмоу так
+--------------------
+[2024-01-16 12:49:06] @usernamenn:matrix.bestflowers247.online: понял
+--------------------
+[2024-01-16 12:49:13] @usernamenn:matrix.bestflowers247.online: ну у нас не должно быть так
+--------------------
+[2024-01-16 12:49:16] @usernamenn:matrix.bestflowers247.online: когда приходят иншурансы
+--------------------
+[2024-01-16 12:53:59] @usernamegg:matrix.bestflowers247.online: да, конечно
+--------------------
+[2024-01-16 12:54:04] @usernamegg:matrix.bestflowers247.online: безусловно
+--------------------
+[2024-01-16 14:00:59] @burito:matrix.bestflowers247.online: ну вот и славно))
+--------------------
+[2024-01-16 15:53:10] @u123:matrix.bestflowers247.online: привет
+--------------------
+[2024-01-16 15:53:12] @u123:matrix.bestflowers247.online: как дела?
+--------------------
+[2024-01-16 17:14:30] @usernamenn:matrix.bestflowers247.online: Я разобрался как работает корневой сертификат центра сертификации, в случае если сменят доменные админы свои креды я смогу выпустить на них подменный серт локально и авторизоваться под ним в LDAP
+--------------------
+[2024-01-16 17:15:27] @usernamenn:matrix.bestflowers247.online: Но для этого мне пришлось спиздить у них главный root CA
+--------------------
+[2024-01-16 17:16:22] @usernamenn:matrix.bestflowers247.online: так что пусть меняют там что хотят, я парирую смену любых кред, главное что бы корневой сертификат не отозвали))
+--------------------
+[2024-01-16 17:16:41] @usernamenn:matrix.bestflowers247.online: * так что пусть меняют там что хотят, я парирую смену любых кред, главное что бы корневой сертификат не отозвали, но я не думаю что они это спалить смогут это практически не является возможным
+--------------------
+[2024-01-16 17:17:33] @usernamenn:matrix.bestflowers247.online: * так что пусть меняют там что хотят, я парирую смену любых кред, главное что бы корневой сертификат не отозвали, но я не думаю что они это спалить смогут это практически не является возможным.
+--------------------

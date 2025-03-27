@@ -1,0 +1,51 @@
+[2024-01-28 06:50:29] @usernameugway:matrix.bestflowers247.online: https://github.com/RedSiege/GraphStrike
+--------------------
+[2024-01-28 06:50:40] @usernameugway:matrix.bestflowers247.online: GraphStrike — это набор инструментов, который позволяет маяку HTTPS Cobalt Strike использовать API Microsoft Graph для связи C2. Весь трафик Beacon будет передаваться через два файла, созданных на сайте SharePoint злоумышленника, а все сообщения от Beacon будут направляться на https://graph.microsoft.com :
+--------------------
+[2024-01-28 06:50:43] @usernameugway:matrix.bestflowers247.online: свежее
+--------------------
+[2024-01-28 08:38:58] @n3auxaxl:matrix.collectionofmanager.space: привет, я уже все сделал
+--------------------
+[2024-01-28 08:39:23] @n3auxaxl:matrix.collectionofmanager.space: завтра с утра выдам билды новые
+--------------------
+[2024-01-28 08:40:00] @n3auxaxl:matrix.collectionofmanager.space: > <@usernamegg:matrix.bestflowers247.online> збс ты сидишь фиксишь баги конечно
+
+я же фикшу на машине, а не на серваке, сервак лаагет, а чтобы не отвлекаться не заходил на сервак
+--------------------
+[2024-01-28 08:41:35] @n3auxaxl:matrix.collectionofmanager.space: > <@usernamegg:matrix.bestflowers247.online> https://blog.malicious.group/writing-your-own-rdi-srdi-loader-using-c-and-asm/
+
++++, знаю об этом
+--------------------
+[2024-01-28 08:42:22] @n3auxaxl:matrix.collectionofmanager.space: Я в офф, все доделал вот с утра, завтра рано утром выдам билд, сегодня пойду отдохну и на трешу схожу
+--------------------
+[2024-01-28 08:42:40] @n3auxaxl:matrix.collectionofmanager.space: Может к вечеру зайду в сеть, на связи
+--------------------
+[2024-01-28 11:23:55] @usernamess:matrix.bestflowers247.online: ```
+5b88eae55494b854876103701142de2a
+b5782130ff3553b5b265463e08cf2a4b
+$DCC2$10240#InfoSys-RRGDA#81b78be515d2cfd1677cf1b6b2473537
+$DCC2$10240#Raniel.Domingo#0adce984e60f59823d80cabac2ef470a
+$DCC2$10240#jhayson.ledesma#29d92b42e88d2914094dcb4d066ee81e
+```
+--------------------
+[2024-01-28 11:25:02] @usernameboy:matrix.bestflowers247.online: b5782130ff3553b5b265463e08cf2a4b:Welcome@1
+
+--------------------
+[2024-01-28 13:47:46] @usernamess:matrix.bestflowers247.online: ```
+5489d826b2d57ec1f54ac380901eb5b8
+6850989b2d928fe74ce3229134659e4c
+14aa7b179afb62f17a2e241378958e97
+8472e87b2d67c6a2f2dd7771f3103d44
+95ba4aa7941404248da6eb11a08cdd8a
+```
+--------------------
+[2024-01-28 20:50:15] @usernamegg:matrix.bestflowers247.online: ххорошо
+--------------------
+[2024-01-28 20:50:50] @usernamegg:matrix.bestflowers247.online: ```
+https://github.com/RedSiege/GraphStrike
+GraphStrike — это набор инструментов, который позволяет маяку HTTPS Cobalt Strike использовать API Microsoft Graph для связи C2. Весь трафик Beacon будет передаваться через два файла, созданных на сайте SharePoint злоумышленника, а все сообщения от Beacon будут направляться на https://graph.microsoft.com
+```
+--------------------
+[2024-01-28 20:50:58] @usernamegg:matrix.bestflowers247.online: https://github.com/RedSiege/GraphStrike
+GraphStrike — это набор инструментов, который позволяет маяку HTTPS Cobalt Strike использовать API Microsoft Graph для связи C2. Весь трафик Beacon будет передаваться через два файла, созданных на сайте SharePoint злоумышленника, а все сообщения от Beacon будут направляться на https://graph.microsoft.com
+--------------------

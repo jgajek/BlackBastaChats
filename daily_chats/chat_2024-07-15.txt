@@ -1,0 +1,377 @@
+[2024-07-15 07:20:27] @usernamegg:matrix.bestflowers247.online: ```
+slim shady, [7/14/24 7:32 AM]
+194.26.25.42
+root
+g*\,–t!09,&_u/B
+
+194.26.25.44
+root
+yjC_$yXPs5}2pYE
+
+
+194.26.25.49
+root
+?q<Q%6.CD9+7l@]
+
+194.26.25.53
+root
+q_xJ9#~fd@B=xW<
+
+194.26.25.57
+root
+^Ft8iIkC&$nR,KS
+
+slim shady, [7/14/24 7:32 AM]
+еще часть
+
+slim shady, [7/14/24 9:38 AM]
+194.26.25.58
+root
+G0)iTd?CD@Y{_p3
+
+194.26.25.61
+root
+zyE+W]6S].pF&{X
+
+194.26.25.69
+root
+9}vNn/Gj}VflZ&6
+
+194.26.25.75
+root
+RL9^Jz6?y={!dbI
+
+194.26.25.77
+root
+sPIGk;9iP8N3^u9
+
+и еще
+
+slim shady, [7/14/24 12:12 PM]
+194.26.25.81
+root
+FcQUgL>4K5k:;JD
+
+194.26.25.82
+root
+h+T?!3{}=f^\1lC
+
+194.26.25.83
+root
+a>SA/xk6(o?{^kg
+
+194.26.25.90
+root
+(Do2l(7@JgE53UU
+
+194.26.25.92
+root
+@n,BmW5mUSJ5(:5
+
+slim shady, [7/14/24 4:05 PM]
+194.26.25.93
+root
+$rT8szd/QVXbuq$
+
+194.26.25.94
+root
+r@DCy,e/6:Fy0C6
+
+194.26.25.95
+root
+]7u,p6F:/]a+EC(
+
+45.141.87.39
+root
+1)V^T5%vmamuddH
+
+194.26.25.38
+root
+^DiM78.;9?kB<jo
+
+slim shady, [7/14/24 5:07 PM]
+-- 45.141.86.186
+-- 45.141.87.242
+-- 45.141.87.243
+-- 45.141.87.241
+-- 45.141.87.240
+-- 45.141.87.239
+-- 194.26.25.115
+-- 194.26.25.123
+-- 194.26.25.101
+
+
+
+45.141.86.186
+root
+(v=Fdr.–oi]y3N#
+
+45.141.87.242
+root
+x{x?DF8=2[!T.4F
+
+45.141.87.243
+root
+6ijer7w*QYb1~>B
+
+45.141.87.241
+root
+d+Hh7TZSD45km<!
+
+45.141.87.240
+root
++O<m~<ixRP!g%8<
+
+45.141.87.239
+root
+?8U+xsp$4B+b;%W
+
+194.26.25.115
+root
+p–>G7q(7OC~{<1f
+
+194.26.25.123
+root
+r5KWhBxQH5f/?W/
+
+194.26.25.101
+root
+XDyQf[Gg0;$;/9H
+
+slim shady, [7/14/24 5:10 PM]
+вот сервера все из твоего списка
+все переустановили - все работают
+```
+--------------------
+[2024-07-15 09:38:35] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-07-15 10:21:03] @lapa:matrix.bestflowers247.online: * `77.221.146.2:kZUy3(3+$J!QO[k` креды невалидные
+--------------------
+[2024-07-15 10:43:46] @lapa:matrix.bestflowers247.online: ```
+77.221.146.2	Invalid creds
+45.141.87.200	bash: test.txt: Read-only file system
+45.141.86.212	bash: test.txt: Read-only file system
+45.141.87.194	bash: test.txt: Read-only file system
+45.141.87.195	bash: test.txt: Read-only file system
+45.141.87.172	bash: test.txt: Read-only file system
+45.141.86.210	bash: test.txt: Read-only file system
+77.221.146.26	bash: test.txt: Read-only file system
+45.141.86.208	bash: test.txt: Read-only file system
+77.221.146.25	bash: test.txt: Read-only file system
+77.221.146.24	Invalid creds
+194.26.25.134	Invalid creds
+77.221.146.37	bash: test.txt: Read-only file system
+45.141.86.76	Invalid creds
+194.26.25.110	bash: test.txt: Read-only file system
+45.141.87.168	Invalid creds
+45.141.87.189	No connection
+45.141.87.183	No connection
+194.26.25.113	No connection
+45.141.86.205	No connection
+45.141.87.27	No connection
+45.141.87.246	No connection
+45.141.87.167	No connection
+45.141.86.209	No connection
+77.221.146.27	No connection
+194.26.25.136	bash: test.txt: Read-only file system
+194.26.25.114	No connection
+45.141.86.211	No connection
+194.26.25.112	bash: test.txt: Read-only file system
+194.26.25.125	No connection
+77.221.146.16	No connection
+77.221.146.36	bash: test.txt: Read-only file system
+45.141.87.170	No connection
+77.221.146.34	No connection
+77.221.146.17	No connection
+194.26.25.63	bash: test.txt: Read-only file system
+77.221.146.13	No connection
+77.221.146.35	No connection
+194.26.25.129	No connection
+194.26.25.130	Invalid creds
+77.221.146.14	No connection
+194.26.25.39	No connection
+194.26.25.5	No connection
+194.26.25.132	No connection
+194.26.25.135	bash: test.txt: Read-only file system
+194.26.25.107	bash: test.txt: Read-only file system
+194.26.25.108	bash: test.txt: Read-only file system
+45.141.87.254	No connection
+45.141.87.253	No connection
+194.26.25.111	bash: test.txt: Read-only file system
+194.26.25.12	No connection
+77.221.146.15	No connection
+194.26.25.103	No connection
+194.26.25.128	Invalid creds
+194.26.25.127	No connection
+194.26.25.105	bash: test.txt: Read-only file system
+45.141.87.236	Invalid creds
+194.26.25.59	bash: test.txt: Read-only file system
+```
+--------------------
+[2024-07-15 10:43:59] @lapa:matrix.bestflowers247.online: вот список серверов, с которыми проблема
+--------------------
+[2024-07-15 10:44:11] @lapa:matrix.bestflowers247.online: и этот список я только что проверил и составил
+--------------------
+[2024-07-15 10:44:55] @lapa:matrix.bestflowers247.online: есть те, в которым нет коннекта, у которых неверный пасс(пусть тогда повторно сбросит верный пасс)
+--------------------
+[2024-07-15 10:45:23] @lapa:matrix.bestflowers247.online: "bash: test.txt: Read-only file system" ошибка такая на сервере, при выполнении команды echo 1 > test.txt Видимо что-то с диском
+--------------------
+[2024-07-15 11:23:44] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-07-15 11:23:58] @chuck:talks.icu: привет
+--------------------
+[2024-07-15 11:23:59] @chuck:talks.icu: как ты?
+--------------------
+[2024-07-15 11:24:11] @usernamegg:matrix.bestflowers247.online: все ровно
+--------------------
+[2024-07-15 11:24:15] @usernamegg:matrix.bestflowers247.online: ты как ?
+--------------------
+[2024-07-15 11:24:37] @usernamegg:matrix.bestflowers247.online: ты понимаешь что на нас может придти всегда запрос с интерпола ,
+--------------------
+[2024-07-15 11:24:39] @usernamegg:matrix.bestflowers247.online: ?
+--------------------
+[2024-07-15 11:25:01] @usernamegg:matrix.bestflowers247.online: и те кому тут платит интерпол начнут сворачивать кровь нам
+--------------------
+[2024-07-15 11:39:21] @chuck:talks.icu: > <@usernamegg:matrix.bestflowers247.online> ты понимаешь что на нас может придти всегда запрос с интерпола ,
+
+ты думаешь такое возможно?
+--------------------
+[2024-07-15 11:39:29] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-07-15 11:39:37] @usernamegg:matrix.bestflowers247.online: мне мои силовики и сказали
+--------------------
+[2024-07-15 11:39:52] @chuck:talks.icu: епрст
+--------------------
+[2024-07-15 11:39:57] @chuck:talks.icu: не хотелось бы
+--------------------
+[2024-07-15 11:40:05] @usernamegg:matrix.bestflowers247.online: мне мои силовики горят всех удушим , даже типа носа неподточят
+--------------------
+[2024-07-15 11:40:08] @chuck:talks.icu: ну а смысл им это делать, ведь всеравно не выдатут
+--------------------
+[2024-07-15 11:42:16] @chuck:talks.icu: так бы давно всех задушили
+--------------------
+[2024-07-15 11:43:15] @chuck:talks.icu: что думаешь делать дальше?
+--------------------
+[2024-07-15 11:43:35] @usernamegg:matrix.bestflowers247.online: ты вот меня знаешь столько лет )
+--------------------
+[2024-07-15 11:44:07] @chuck:talks.icu: так да )
+--------------------
+[2024-07-15 11:44:24] @chuck:talks.icu: у тебя сомнения стоит ли продолжать?
+--------------------
+[2024-07-15 11:55:04] @chuck:talks.icu: > <@usernamegg:matrix.bestflowers247.online> и те кому тут платит интерпол начнут сворачивать кровь нам
+
+с нас начнут вымогать бабки силовики или заставят работать под их крышей. не думаю что пиндосам это нужно
+--------------------
+[2024-07-15 11:58:56] @usernamegg:matrix.bestflowers247.online: findlayauto.com
+--------------------
+[2024-07-15 11:59:05] @usernamegg:matrix.bestflowers247.online: lambertz.de
+--------------------
+[2024-07-15 12:13:31] @usernamegg:matrix.bestflowers247.online: driver-group.com
+--------------------
+[2024-07-15 12:13:49] @usernamegg:matrix.bestflowers247.online: thompsoncoburn
+--------------------
+[2024-07-15 12:14:41] @usernamegg:matrix.bestflowers247.online: maesa
+--------------------
+[2024-07-15 12:15:11] @usernamegg:matrix.bestflowers247.online: Innophos
+--------------------
+[2024-07-15 12:25:35] @burito:matrix.bestflowers247.online: И снова седая ночь...
+Привет, какие сроки выхода у вас?)
+--------------------
+[2024-07-15 12:28:36] @usernamecc:matrix.bestflowers247.online: ```
+findlayauto.com \\ FINDLAYAUTO
+FINDLAYAUTO_DELETE_LOG
+http://temp.sh/AHqNv/yDRbCKgt3wQuZPHc5x8kmFzsMvLeNfTra6Xn4SAG.zip
+yDRbCKgt3wQuZPHc5x8kmFzsMvLeNfTra6Xn4SAG.zip
+extract pass : PLR9zQE5dk2ApF6ZVujvhCtY7aqJwMr3XmbKn8DS
+```
+--------------------
+[2024-07-15 12:29:46] @usernamecc:matrix.bestflowers247.online: ```
+lambertz.de \\ D_LAMBERTZ
+D_LAMBERTZ_delete_log
+http://temp.sh/BdNse/TXL7YmkvfPEyneKtNWhHbJ3rwcDzuqxsZ9FQ2C4V.zip
+TXL7YmkvfPEyneKtNWhHbJ3rwcDzuqxsZ9FQ2C4V.zip
+extract pass : rCBfWzhQdyMDTAV63w5L2tFJ4nPXbmsScYpjEHGZ
+```
+--------------------
+[2024-07-15 12:49:46] @usernamecc:matrix.bestflowers247.online: ---
+--------------------
+[2024-07-15 12:49:49] @usernamecc:matrix.bestflowers247.online: ```
+dutyfreeamericas.com - про них давно ничего не было слышно, ты говорил что они взяли рассрочку
+healthcare.ascension.org - это больницы
+
+pkaufmann.com
+modplan.co.uk
+grupoamper.com
+posiplus.com
+thompsoncreek.com
+memc.com
+hpecds.com
+northernsafety.com
+scrubsandbeyond.com
+usdermpartners.com
+atos.com
+```
+--------------------
+[2024-07-15 12:52:43] @usernamecc:matrix.bestflowers247.online: * ```
+dutyfreeamericas.com - про них давно ничего не было слышно, ты говорил что они взяли рассрочку
+healthcare.ascension.org - это больницы
+
+pkaufmann.com
+posiplus.com
+thompsoncreek.com
+memc.com
+hpecds.com
+northernsafety.com
+usdermpartners.com
+atos.com
+
+
+
+modplan.co.uk - они подсвечены, заливаю дату
+grupoamper.com - они подсвечены, заливаю дату
+scrubsandbeyond.com - они подсвечены, заливаю дату
+```
+--------------------
+[2024-07-15 12:57:22] @usernamecc:matrix.bestflowers247.online: * ```
+dutyfreeamericas.com - про них давно ничего не было слышно, ты говорил что они взяли рассрочку
+
+pkaufmann.com
+posiplus.com
+thompsoncreek.com
+memc.com
+hpecds.com
+northernsafety.com
+usdermpartners.com
+atos.com
+
+
+
+modplan.co.uk - они подсвечены, заливаю дату
+grupoamper.com - они подсвечены, заливаю дату
+scrubsandbeyond.com - они подсвечены, заливаю дату
+```
+--------------------
+[2024-07-15 13:15:00] @usernamegg:matrix.bestflowers247.online: dutyfreeamericas.com - подсвечиваю
+pkaufmann.com - в диалоге
+posiplus.com - подсветил
+thompsoncreek.com - подсветил
+memc.com - в диалоге
+hpecds.com - подсветил
+northernsafety.com - в диалоге
+usdermpartners.com - подсветил
+
+
+modplan.co.uk - они подсвечены, заливаю дату (заливай)
+grupoamper.com - они подсвечены, заливаю дату (заливай)
+scrubsandbeyond.com - они подсвечены, заливаю дату (заливай)
+--------------------
+[2024-07-15 13:16:01] @usernamecc:matrix.bestflowers247.online: provia.com
+--------------------
+[2024-07-15 14:01:17] @usernamecc:matrix.bestflowers247.online: provia.com - файл для блога надо создать
+--------------------
+[2024-07-15 14:59:34] @usernamecc:matrix.bestflowers247.online: ```
+posiplus.com - не подсветилась \\ наверно надо было подстветить posiplus.com_wa
+hpecds.com - не подсветилась \\ наверно надо было подстветить hpecds.com_wa
+usdermpartners.com - тот что подсветился пустой! наверно надо было подстветить usdermpartners.com_wa
+```
+--------------------

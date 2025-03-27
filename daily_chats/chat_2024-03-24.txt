@@ -1,0 +1,168 @@
+[2024-03-24 16:14:39] @usernamegg:matrix.bestflowers247.online: давай потестим
+--------------------
+[2024-03-24 16:14:46] @usernamegg:matrix.bestflowers247.online: там не получилось сделать кое что
+--------------------
+[2024-03-24 16:14:51] @usernamegg:matrix.bestflowers247.online: завтра все придут
+--------------------
+[2024-03-24 16:14:57] @usernamegg:matrix.bestflowers247.online: ты визуал допилил ?
+--------------------
+[2024-03-24 16:15:31] @usernameyy:matrix.bestflowers247.online: что потестим
+--------------------
+[2024-03-24 16:15:42] @usernamegg:matrix.bestflowers247.online: брейкер
+--------------------
+[2024-03-24 16:15:44] @usernameyy:matrix.bestflowers247.online: я весь репорт отписал да
+--------------------
+[2024-03-24 16:15:51] @usernamegg:matrix.bestflowers247.online: там экзекьют не сработал у JJ
+--------------------
+[2024-03-24 16:16:00] @usernameyy:matrix.bestflowers247.online: execute assembly?
+--------------------
+[2024-03-24 16:16:05] @usernameyy:matrix.bestflowers247.online: или remote
+--------------------
+[2024-03-24 16:16:11] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> execute assembly?
+
+да
+--------------------
+[2024-03-24 16:16:24] @usernamegg:matrix.bestflowers247.online: ща JJ с ламоды приедет в офис
+--------------------
+[2024-03-24 16:16:27] @usernameyy:matrix.bestflowers247.online: пусть пишет детально в лс или в тот чат
+--------------------
+[2024-03-24 16:16:39] @usernamegg:matrix.bestflowers247.online: я пока тут один просто
+--------------------
+[2024-03-24 16:16:46] @usernamegg:matrix.bestflowers247.online: ну надо довести продукт до рабочего состояния
+--------------------
+[2024-03-24 16:16:53] @usernamegg:matrix.bestflowers247.online: будет он работать все будте хорошо думаю
+--------------------
+[2024-03-24 16:16:58] @usernameyy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> я пока тут один просто
+
+у него по репорту сработал execute-assembly
+--------------------
+[2024-03-24 16:17:14] @usernamegg:matrix.bestflowers247.online: мы час назад кушали на кухне с ним я спрашивал
+--------------------
+[2024-03-24 16:17:25] @usernamegg:matrix.bestflowers247.online: он говрит что то не сработал я там понял что это был экзекьют
+--------------------
+[2024-03-24 16:17:27] @usernameyy:matrix.bestflowers247.online: он наверное не понял или забыл сам, не сработал remote execute
+--------------------
+[2024-03-24 16:17:35] @usernameyy:matrix.bestflowers247.online: я его пофиксил
+--------------------
+[2024-03-24 16:17:41] @usernamegg:matrix.bestflowers247.online: а может быть remote execute
+--------------------
+[2024-03-24 16:17:49] @usernamegg:matrix.bestflowers247.online: он проверил уже ?
+--------------------
+[2024-03-24 16:18:07] @usernamegg:matrix.bestflowers247.online: у тебя дела сегодня ?
+--------------------
+[2024-03-24 16:18:09] @usernameyy:matrix.bestflowers247.online: я проверил, мой тест авторитетней)
+--------------------
+[2024-03-24 16:18:13] @usernamegg:matrix.bestflowers247.online: это выходной я на него не притендую
+--------------------
+[2024-03-24 16:18:17] @usernameyy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> у тебя дела сегодня ?
+
+только домой заехал, колесо пробил
+--------------------
+[2024-03-24 16:18:21] @usernamegg:matrix.bestflowers247.online: просто есть время потыкаем проверим все
+--------------------
+[2024-03-24 16:18:32] @usernameyy:matrix.bestflowers247.online: да я с друзьями тут, но в отдельной комнате
+--------------------
+[2024-03-24 16:18:34] @usernameyy:matrix.bestflowers247.online: могу работать
+--------------------
+[2024-03-24 16:18:42] @usernameyy:matrix.bestflowers247.online: я уверен что там всё работает
+--------------------
+[2024-03-24 16:19:04] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> только домой заехал, колесо пробил
+
+ну хорошо, я напишу как зайти в телегу
+--------------------
+[2024-03-24 16:19:21] @usernameyy:matrix.bestflowers247.online: хорошо
+--------------------
+[2024-03-24 16:19:58] @usernameyy:matrix.bestflowers247.online: нам токены только затестить по сути осталось
+--------------------
+[2024-03-24 16:20:11] @usernameyy:matrix.bestflowers247.online: и мне допилить подсветку текста
+--------------------
+[2024-03-24 16:20:16] @usernameyy:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> и мне допилить подсветку текста
+
+но это мелочи
+--------------------
+[2024-03-24 16:20:32] @usernamegg:matrix.bestflowers247.online: ну давай вот сегодня и сделаем тогда
+--------------------
+[2024-03-24 16:20:38] @usernameyy:matrix.bestflowers247.online: ок
+--------------------
+[2024-03-24 16:20:42] @usernamegg:matrix.bestflowers247.online: завтра я хочу что бы они начали работать с брейкером уже
+--------------------
+[2024-03-24 16:20:44] @usernamegg:matrix.bestflowers247.online: на сетях
+--------------------
+[2024-03-24 16:20:54] @usernamegg:matrix.bestflowers247.online: у меня начекалась большая партия
+--------------------
+[2024-03-24 16:21:04] @usernameyy:matrix.bestflowers247.online: тяжело будет, инструментарий не полный, коба легче намного просто
+--------------------
+[2024-03-24 16:21:13] @usernamegg:matrix.bestflowers247.online: Carlin.com
+--------------------
+[2024-03-24 16:21:15] @usernameyy:matrix.bestflowers247.online: steal_token как минимум нет, а это хорошая фича
+--------------------
+[2024-03-24 16:21:19] @usernamegg:matrix.bestflowers247.online: он уже на ней пробовал что то сделать ?
+--------------------
+[2024-03-24 16:21:45] @usernameyy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> Carlin.com
+
+это что
+--------------------
+[2024-03-24 16:21:55] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> тяжело будет, инструментарий не полный, коба легче намного просто
+
+коба палиться и ее не закриптовать нормально
+--------------------
+[2024-03-24 16:22:10] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> это что
+
+комент у бикона в брейкере подписан
+--------------------
+[2024-03-24 16:22:12] @usernameyy:matrix.bestflowers247.online: да просто пацаны будут плеваться, что сложно и не удобно
+--------------------
+[2024-03-24 16:22:24] @usernamegg:matrix.bestflowers247.online: image.png
+--------------------
+[2024-03-24 16:22:43] @usernameyy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> комент у бикона в брейкере подписан
+
+там нет комментов, нет, это кто то позвал машину с таким доменом
+--------------------
+[2024-03-24 16:22:46] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> да просто пацаны будут плеваться, что сложно и не удобно
+
+кто такое сказал ?
+--------------------
+[2024-03-24 16:22:53] @usernameyy:matrix.bestflowers247.online: судя по пиду похоже на реверс
+--------------------
+[2024-03-24 16:23:01] @usernamegg:matrix.bestflowers247.online: если будет чисто и будет можно работать с ним все допилим под себя
+--------------------
+[2024-03-24 16:23:13] @usernamegg:matrix.bestflowers247.online: это будет общая работа по доработке
+--------------------
+[2024-03-24 16:23:26] @usernameyy:matrix.bestflowers247.online: да, надо донести до всех, что это работу которую нужно сделать через боль и страдания)
+--------------------
+[2024-03-24 16:23:55] @usernameyy:matrix.bestflowers247.online: я заколебался конечно этот днс пилить, наконец то я его доделал, господи
+--------------------
+[2024-03-24 16:24:00] @usernameyy:matrix.bestflowers247.online: я так рад был в последний день
+--------------------
+[2024-03-24 16:24:16] @usernameyy:matrix.bestflowers247.online: устал потеть над фрагментацией пакетов, но там еще есть куда оптимизировать
+--------------------
+[2024-03-24 16:25:10] @usernamegg:matrix.bestflowers247.online: отлично
+--------------------
+[2024-03-24 16:25:14] @usernamegg:matrix.bestflowers247.online: ну так и будет да
+--------------------
+[2024-03-24 16:25:19] @usernamegg:matrix.bestflowers247.online: скилуху прокачаешь
+--------------------
+[2024-03-24 16:25:23] @usernamegg:matrix.bestflowers247.online: прокачал
+--------------------
+[2024-03-24 16:26:00] @usernameyy:matrix.bestflowers247.online: а ты че решил сейчас сесть?
+--------------------
+[2024-03-24 16:26:10] @usernameyy:matrix.bestflowers247.online: я обычно наоборот с утра работаю, лучшая производительность
+--------------------
+[2024-03-24 17:17:35] @usernamegg:matrix.bestflowers247.online: да у меня с утра сетки будут
+--------------------
+[2024-03-24 17:17:43] @usernamegg:matrix.bestflowers247.online: плюс надо по чатам всем ответить
+--------------------
+[2024-03-24 17:17:50] @usernamegg:matrix.bestflowers247.online: файлы сижу ищу
+--------------------
+[2024-03-24 17:17:52] @usernamegg:matrix.bestflowers247.online: запросили
+--------------------
+[2024-03-24 17:17:54] @usernamegg:matrix.bestflowers247.online: все уже скинул
+--------------------
+[2024-03-24 17:52:57] @usernameyy:matrix.bestflowers247.online: так я пойду отвезу всех по домам, скоро приду
+--------------------
+[2024-03-24 18:33:02] @usernameyy:matrix.bestflowers247.online: вернулся
+--------------------
+[2024-03-24 19:58:58] @usernameyy:matrix.bestflowers247.online: всё я перелопатил консоль для будущей поддержки процессов, завтра закончу, пошел спатки
+--------------------
+[2024-03-24 19:58:58] @usernameyy:matrix.bestflowers247.online: спок
+--------------------

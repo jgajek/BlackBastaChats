@@ -1,0 +1,303 @@
+[2024-02-24 02:10:55] @usernamett:matrix.bestflowers247.online: `64.176.219.106:42293  HEADQUARTERS`
+--------------------
+[2024-02-24 02:11:57] @usernamemm:matrix.bestflowers247.online: ++
+--------------------
+[2024-02-24 02:12:08] @usernamemm:matrix.bestflowers247.online: stop my all
+--------------------
+[2024-02-24 03:26:45] @usernamegg:matrix.bestflowers247.online: я тут э
+--------------------
+[2024-02-24 03:34:26] @usernamegg:matrix.bestflowers247.online: Understood, we've been working very hard on our end, but we do not have very many resources at our disposal, we only had a couple of resources available to us so the amount we have gathered is lower than what we would have hoped to get. We also want to inform you that we do not need the tool that you are selling and would only like to see proof that our data has been deleted. $1,500,000 USD is not a realistic price for that service. We do have $100,000 USD in our possession that can be sent quickly for you to delete our data and show proof. If you can agree we can try to get the payment sent out very early once the banks open.
+--------------------
+[2024-02-24 03:34:29] @usernamegg:matrix.bestflowers247.online: отвечай
+--------------------
+[2024-02-24 03:34:31] @usernamegg:matrix.bestflowers247.online: поднимай
+--------------------
+[2024-02-24 03:37:23] @usernamegg:matrix.bestflowers247.online: быстро
+--------------------
+[2024-02-24 06:24:25] @usernameugway:matrix.bestflowers247.online: привет
+--------------------
+[2024-02-24 06:24:27] @usernameugway:matrix.bestflowers247.online: https://www.csoonline.com/article/1309007/critical-connectwise-screenconnect-flaw-exploited-in-the-wild.html
+--------------------
+[2024-02-24 06:24:41] @usernameugway:matrix.bestflowers247.online: удаленное выполнение кода на серверах скринконект
+--------------------
+[2024-02-24 08:38:42] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-02-24 09:02:46] @lapa:matrix.bestflowers247.online: LOGS_PASSWD.txt
+--------------------
+[2024-02-24 09:03:09] @lapa:matrix.bestflowers247.online: 185.253.38.154:13389 DAUPHINS\patricia Ruben1718
+--------------------
+[2024-02-24 09:03:19] @lapa:matrix.bestflowers247.online: ну я вот допустип вот так по рдп вошел
+--------------------
+[2024-02-24 09:03:27] @lapa:matrix.bestflowers247.online: * ну я вот допустим вот так по рдп вошел
+--------------------
+[2024-02-24 09:38:41] @lapa:matrix.bestflowers247.online: но в целом короч мне мало, что получится, так как мало вышло словить хешей
+--------------------
+[2024-02-24 09:38:52] @lapa:matrix.bestflowers247.online: думаю как раз потому, что там заблочили запуск
+--------------------
+[2024-02-24 09:38:59] @lapa:matrix.bestflowers247.online: еще в пн конечно попробуем
+--------------------
+[2024-02-24 10:45:29] @lapa:matrix.bestflowers247.online: кстати еще прикольно то, что эти хеши можно получать не только, если открывать линк через аутлуке, но и через браузер
+--------------------
+[2024-02-24 10:46:02] @lapa:matrix.bestflowers247.online: т.е. если атлук блочит открытие линка, можно попробывать в пдф засунуть линк
+--------------------
+[2024-02-24 10:46:12] @lapa:matrix.bestflowers247.online: короч мы же не проверили на сетках
+--------------------
+[2024-02-24 10:46:15] @lapa:matrix.bestflowers247.online: нужно проверить
+--------------------
+[2024-02-24 10:48:01] @lapa:matrix.bestflowers247.online: можно попробывать даже html слать, в котором будет редирект на линк самбы
+--------------------
+[2024-02-24 10:50:02] @lapa:matrix.bestflowers247.online: наверное завтра так и сделаю
+--------------------
+[2024-02-24 10:50:06] @lapa:matrix.bestflowers247.online: только проверю будет ли работаь
+--------------------
+[2024-02-24 11:20:46] @lapa:matrix.bestflowers247.online: проверил. работает. короч буду слать завтра зип. В зипе будет файл мусор и html. В Html будет редирект на сабму.
+--------------------
+[2024-02-24 11:21:23] @lapa:matrix.bestflowers247.online: Автоматическое создание линков сабмы сделал. Также сделал забор логов со всех линков самбы
+--------------------
+[2024-02-24 11:24:35] @lapa:matrix.bestflowers247.online: * но в целом мало вышло словить хешей
+--------------------
+[2024-02-24 11:25:28] @lapa:matrix.bestflowers247.online: * Автоматическое создание линков сабмы сделал. Также сделал забор логов(хешей) со всех линков самбы
+--------------------
+[2024-02-24 11:57:57] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> ну я вот допустим вот так по рдп вошел
+
+да ладно?)
+--------------------
+[2024-02-24 12:00:14] @usernamegg:matrix.bestflowers247.online: сейчас выходит можно слать и слать этот сплойт и собирать таким образом рдп доступы
+--------------------
+[2024-02-24 12:00:31] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> думаю как раз потому, что там заблочили запуск
+
+не понял
+--------------------
+[2024-02-24 12:01:21] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> наверное завтра так и сделаю
+
+да, давай
+--------------------
+[2024-02-24 12:01:35] @usernamegg:matrix.bestflowers247.online: если мы сможем получать так много рдп доступов
+--------------------
+[2024-02-24 12:01:37] @usernamegg:matrix.bestflowers247.online: все
+--------------------
+[2024-02-24 12:02:00] @usernamegg:matrix.bestflowers247.online: это лучше даже чем бот приходит в ботнет
+--------------------
+[2024-02-24 12:02:11] @usernamegg:matrix.bestflowers247.online: стабильный доступ
+--------------------
+[2024-02-24 12:04:41] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> 185.253.38.154:13389 DAUPHINS\patricia Ruben1718
+
+```
+Microsoft Windows [version 10.0.17763.5329]
+(c) 2018 Microsoft Corporation. Tous droits réservés.
+
+C:\Users\patricia>systeminfo
+
+Nom de l’hôte:                              DAUPHINS-APPLI
+Nom du système d’exploitation:              Microsoft Windows Server 2019 Standard
+Version du système:                         10.0.17763 N/A version 17763
+Fabricant du système d’exploitation:        Microsoft Corporation
+Configuration du système d’exploitation:    Serveur membre
+Type de version du système d’exploitation:  Multiprocessor Free
+Propriétaire enregistré:                    Utilisateur Windows
+Organisation enregistrée:
+Identificateur de produit:                  00429-70000-00000-AA131
+Date d’installation originale:              30/06/2021, 15:53:47
+Heure de démarrage du système:              30/01/2024, 22:54:37
+Fabricant du système:                       VMware, Inc.
+Modèle du système:                          VMware7,1
+Type du système:                            x64-based PC
+Processeur(s):                              4 processeur(s) installé(s).
+[01] : Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2095 MHz
+[02] : Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2095 MHz
+[03] : Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2095 MHz
+[04] : Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2095 MHz
+Version du BIOS:                            VMware, Inc. VMW71.00V.17369862.B64.2012240522, 24/12/2020
+Répertoire Windows:                         C:\Windows
+Répertoire système:                         C:\Windows\system32
+Périphérique d’amorçage:                    \Device\HarddiskVolume2
+Option régionale du système:                fr;Français (France)
+Paramètres régionaux d’entrée:              fr;Français (France)
+Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
+Mémoire physique totale:                    16 383 Mo
+Mémoire physique disponible:                6 011 Mo
+Mémoire virtuelle : taille maximale:        18 815 Mo
+Mémoire virtuelle : disponible:             7 860 Mo
+Mémoire virtuelle : en cours d’utilisation: 10 955 Mo
+Emplacements des fichiers d’échange:        C:\pagefile.sys
+Domaine:                                    dauphins.ad
+Serveur d’ouverture de session:             \\DAUPHINS-AD
+Correctif(s):                               16 Corrections installées.
+[01]: KB5033911
+[02]: KB4486153
+[03]: KB4535680
+[04]: KB4577586
+[05]: KB4589208
+[06]: KB5003711
+[07]: KB5005112
+[08]: KB5034127
+[09]: KB5015896
+[10]: KB5017400
+[11]: KB5020374
+[12]: KB5023789
+[13]: KB5028316
+[14]: KB5031589
+[15]: KB5032306
+[16]: KB5005701
+Carte(s) réseau:                            1 carte(s) réseau installée(s).
+[01]: Adaptateur Ethernet vmxnet3
+Nom de la connexion : Ethernet0
+DHCP activé :         Non
+Adresse(s) IP
+[01]: 192.168.1.210
+[02]: fe80::8885:9a05:a77c:ed9
+Configuration requise pour Hyper-V:         Un hyperviseur a été détecté. Les fonctionnalités nécessaires à Hyper-V ne seront pas affichées.
+
+C:\Users\patricia>
+```
+--------------------
+[2024-02-24 12:08:14] @usernamegg:matrix.bestflowers247.online: JJ
+--------------------
+[2024-02-24 12:08:17] @usernamegg:matrix.bestflowers247.online: тут ?
+--------------------
+[2024-02-24 12:09:39] @usernamegg:matrix.bestflowers247.online: мы уже выебали весь мир этим сплотом
+--------------------
+[2024-02-24 12:09:47] @usernamegg:matrix.bestflowers247.online: * мы уже выебали весь мир этим сплйтом
+--------------------
+[2024-02-24 12:09:49] @usernamegg:matrix.bestflowers247.online: поздно скинул
+--------------------
+[2024-02-24 12:09:54] @usernamegg:matrix.bestflowers247.online: мы уже все отчекали
+--------------------
+[2024-02-24 12:10:18] @usernamegg:matrix.bestflowers247.online: через час как вышла уязвимость у меня уже был сплойт и мы пробили дохуя машин во всем мире
+--------------------
+[2024-02-24 12:10:22] @usernamegg:matrix.bestflowers247.online: и нашли кучу сетей
+--------------------
+[2024-02-24 12:10:29] @usernamegg:matrix.bestflowers247.online: уже отработали
+--------------------
+[2024-02-24 12:11:00] @usernamegg:matrix.bestflowers247.online: 185.253.38.154:13389 DAUPHINS\patricia Ruben1718
+--------------------
+[2024-02-24 12:11:16] @usernamegg:matrix.bestflowers247.online: LOGS_PASSWD.txt
+--------------------
+[2024-02-24 12:11:29] @usernamegg:matrix.bestflowers247.online: это с нового сплойта для экчейнжей
+--------------------
+[2024-02-24 12:11:36] @usernamegg:matrix.bestflowers247.online: я вонел один по рдп
+--------------------
+[2024-02-24 12:12:11] @usernamegg:matrix.bestflowers247.online: ```
+Microsoft Windows [version 10.0.17763.5329]
+(c) 2018 Microsoft Corporation. Tous droits réservés.
+
+C:\Users\patricia>systeminfo
+
+Nom de l’hôte:                              DAUPHINS-APPLI
+Nom du système d’exploitation:              Microsoft Windows Server 2019 Standard
+Version du système:                         10.0.17763 N/A version 17763
+Fabricant du système d’exploitation:        Microsoft Corporation
+Configuration du système d’exploitation:    Serveur membre
+Type de version du système d’exploitation:  Multiprocessor Free
+Propriétaire enregistré:                    Utilisateur Windows
+Organisation enregistrée:
+Identificateur de produit:                  00429-70000-00000-AA131
+Date d’installation originale:              30/06/2021, 15:53:47
+Heure de démarrage du système:              30/01/2024, 22:54:37
+Fabricant du système:                       VMware, Inc.
+Modèle du système:                          VMware7,1
+Type du système:                            x64-based PC
+Processeur(s):                              4 processeur(s) installé(s).
+[01] : Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2095 MHz
+[02] : Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2095 MHz
+[03] : Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2095 MHz
+[04] : Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2095 MHz
+Version du BIOS:                            VMware, Inc. VMW71.00V.17369862.B64.2012240522, 24/12/2020
+Répertoire Windows:                         C:\Windows
+Répertoire système:                         C:\Windows\system32
+Périphérique d’amorçage:                    \Device\HarddiskVolume2
+Option régionale du système:                fr;Français (France)
+Paramètres régionaux d’entrée:              fr;Français (France)
+Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
+Mémoire physique totale:                    16 383 Mo
+Mémoire physique disponible:                6 011 Mo
+Mémoire virtuelle : taille maximale:        18 815 Mo
+Mémoire virtuelle : disponible:             7 860 Mo
+Mémoire virtuelle : en cours d’utilisation: 10 955 Mo
+Emplacements des fichiers d’échange:        C:\pagefile.sys
+Domaine:                                    dauphins.ad
+Serveur d’ouverture de session:             \\DAUPHINS-AD
+Correctif(s):                               16 Corrections installées.
+[01]: KB5033911
+[02]: KB4486153
+[03]: KB4535680
+[04]: KB4577586
+[05]: KB4589208
+[06]: KB5003711
+[07]: KB5005112
+[08]: KB5034127
+[09]: KB5015896
+[10]: KB5017400
+[11]: KB5020374
+[12]: KB5023789
+[13]: KB5028316
+[14]: KB5031589
+[15]: KB5032306
+[16]: KB5005701
+Carte(s) réseau:                            1 carte(s) réseau installée(s).
+[01]: Adaptateur Ethernet vmxnet3
+Nom de la connexion : Ethernet0
+DHCP activé :         Non
+Adresse(s) IP
+[01]: 192.168.1.210
+[02]: fe80::8885:9a05:a77c:ed9
+Configuration requise pour Hyper-V:         Un hyperviseur a été détecté. Les fonctionnalités nécessaires à Hyper-V ne seront pas affichées.
+
+C:\Users\patricia>
+```
+
+--------------------
+[2024-02-24 13:01:28] @usernameugway:matrix.bestflowers247.online: понял
+--------------------
+[2024-02-24 13:01:52] @usernameugway:matrix.bestflowers247.online: я давно видел, но внимания не обратил с первого раза
+--------------------
+[2024-02-24 13:16:52] @usernameugway:matrix.bestflowers247.online: я через неделю приеду, дотестирую одну тему - должно помочь в добыче сеток
+--------------------
+[2024-02-24 13:16:58] @usernameugway:matrix.bestflowers247.online: расскажу подробно
+--------------------
+[2024-02-24 14:05:15] @adm:talks.icu: ку
+--------------------
+[2024-02-24 14:05:21] @adm:talks.icu: индию принимаешь ?
+--------------------
+[2024-02-24 14:05:32] @adm:talks.icu: есть корп на 15лярдов
+--------------------
+[2024-02-24 15:57:35] @tinker:matrix.bestflowers247.online: ответил всем
+--------------------
+[2024-02-24 16:18:43] @usernamenn:matrix.bestflowers247.online: ку
+--------------------
+[2024-02-24 16:21:22] @usernamenn:matrix.bestflowers247.online: X 2024-02-24 в 19.23.07.jpg
+--------------------
+[2024-02-24 16:26:35] @usernamenn:matrix.bestflowers247.online: image.png
+--------------------
+[2024-02-24 16:26:38] @usernamenn:matrix.bestflowers247.online: ава у разраба
+--------------------
+[2024-02-24 16:47:57] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> 185.253.38.154:13389 DAUPHINS\patricia Ruben1718
+
+не коннектит, видимо ПК выключен
+--------------------
+[2024-02-24 16:51:16] @usernamenn:matrix.bestflowers247.online: а не, с другой RDP дало коннект
+--------------------
+[2024-02-24 16:51:28] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> тут ?
+
+выходной же
+--------------------
+[2024-02-24 16:55:14] @usernamenn:matrix.bestflowers247.online: нет никого))
+--------------------
+[2024-02-24 16:55:49] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> 185.253.38.154:13389 DAUPHINS\patricia Ruben1718
+
+38 писи, 1 траст, 1 дц
+--------------------
+[2024-02-24 16:56:10] @usernamenn:matrix.bestflowers247.online: X 2024-02-24 в 19.58.06.jpg
+--------------------
+[2024-02-24 18:35:44] @tinker:matrix.bestflowers247.online: We can't find any. Where are they? We are locked out of our systems. It looks like you changed the passwords.
+--------------------
+[2024-02-24 18:35:49] @tinker:matrix.bestflowers247.online: чего блять
+--------------------
+[2024-02-24 18:35:52] @tinker:matrix.bestflowers247.online: они бухают там??
+--------------------
+[2024-02-24 18:37:08] @tinker:matrix.bestflowers247.online: pstrans.com_privat - проблема со скачкой файлов
+--------------------
+[2024-02-24 18:37:12] @tinker:matrix.bestflowers247.online: на декрипт
+--------------------
+[2024-02-24 20:52:25] @tinker:matrix.bestflowers247.online: Ты в юсе все больницы поломал?))
+--------------------

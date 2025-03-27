@@ -1,0 +1,266 @@
+[2023-11-11 06:59:01] @ssd:matrix.bestflowers247.online: dobroe
+--------------------
+[2023-11-11 07:01:14] @ssd:matrix.bestflowers247.online: vse stho svazano slovom bank i payroll
+--------------------
+[2023-11-11 07:01:24] @ssd:matrix.bestflowers247.online: tam bro tisichi linkov
+--------------------
+[2023-11-11 07:01:28] @ssd:matrix.bestflowers247.online: mne vseh ih davat
+--------------------
+[2023-11-11 07:01:29] @ssd:matrix.bestflowers247.online: ?
+--------------------
+[2023-11-11 07:02:00] @ssd:matrix.bestflowers247.online: injekt davay moy zatestim kripti
+--------------------
+[2023-11-11 07:02:03] @ssd:matrix.bestflowers247.online: na 4 kowa
+--------------------
+[2023-11-11 07:02:15] @ssd:matrix.bestflowers247.online: ledger, exodus, atomic, trezor
+--------------------
+[2023-11-11 07:02:20] @ssd:matrix.bestflowers247.online: segodna pram votknem
+--------------------
+[2023-11-11 08:06:37] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-11-11 08:08:22] @usernamegg:matrix.bestflowers247.online: 65.108.200.180
+root
+susPx8afUNdKJB
+
+готово
+
+вроде верно сделал
+
+10.9 тб + 10.9 тб
+--------------------
+[2023-11-11 08:09:02] @usernameyy:matrix.bestflowers247.online: ща проверю
+--------------------
+[2023-11-11 08:11:05] @usernameyy:matrix.bestflowers247.online: да, верно
+--------------------
+[2023-11-11 08:19:47] @usernameyy:matrix.bestflowers247.online: запустил синхронизацию
+--------------------
+[2023-11-11 11:12:18] @staffer:matrix.bestflowers247.online: привет, понял
+--------------------
+[2023-11-11 11:15:45] @staffer:matrix.bestflowers247.online: админка не пашет что-то
+--------------------
+[2023-11-11 11:44:14] @staffer:matrix.bestflowers247.online: слушай, а админка заработает в ближайшее время?
+--------------------
+[2023-11-11 12:19:51] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2023-11-11 12:19:57] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-11-11 12:24:51] @usernamegg:matrix.bestflowers247.online: работает уже
+--------------------
+[2023-11-11 12:25:56] @staffer:matrix.bestflowers247.online: ага
+--------------------
+[2023-11-11 12:28:40] @usernamegg:matrix.bestflowers247.online: +=
+--------------------
+[2023-11-11 12:32:17] @staffer:matrix.bestflowers247.online: https://i1ovfbpnlgg0hjks.tech/9568c16f-b420-43dc-8a59-f3500b0628fe/bot/22392
+--------------------
+[2023-11-11 12:32:38] @staffer:matrix.bestflowers247.online: вот бот. на нем старт внц прошло (прогресс бар зеленый и 100% и также статус комплит) но внц не синкается
+--------------------
+[2023-11-11 12:32:52] @usernamegg:matrix.bestflowers247.online: жди
+--------------------
+[2023-11-11 12:33:56] @staffer:matrix.bestflowers247.online: [JJ] [2023-11-07 14:30:48] w
+[TT] [2023-11-07 14:30:58] w
+[JJ] [2023-11-09 16:18:38] 12 PC | no trusts
+--------------------
+[2023-11-11 12:34:05] @staffer:matrix.bestflowers247.online: с такими комментами не брать?
+--------------------
+[2023-11-11 12:34:19] @staffer:matrix.bestflowers247.online: ну то есть где w то понятно не брать
+--------------------
+[2023-11-11 12:34:32] @staffer:matrix.bestflowers247.online: но тут последний коммент 12 PC no trusts
+--------------------
+[2023-11-11 12:37:02] @usernameyy:matrix.bestflowers247.online: не могу подключиться к серверу
+--------------------
+[2023-11-11 12:37:53] @usernameyy:matrix.bestflowers247.online: image.png
+--------------------
+[2023-11-11 12:40:25] @usernameyy:matrix.bestflowers247.online: пиши хостеру
+--------------------
+[2023-11-11 12:41:01] @usernameyy:matrix.bestflowers247.online: image.png
+--------------------
+[2023-11-11 12:41:13] @usernameyy:matrix.bestflowers247.online: сервак лежит
+--------------------
+[2023-11-11 12:43:47] @usernamegg:matrix.bestflowers247.online: можно брать
+--------------------
+[2023-11-11 12:43:50] @usernamegg:matrix.bestflowers247.online: он не в работе
+--------------------
+[2023-11-11 12:44:31] @staffer:matrix.bestflowers247.online: > <@staffer:matrix.bestflowers247.online> https://i1ovfbpnlgg0hjks.tech/9568c16f-b420-43dc-8a59-f3500b0628fe/bot/22392
+
+ждал, но на этом боте так и не синкнулось внц
+--------------------
+[2023-11-11 12:44:43] @usernamegg:matrix.bestflowers247.online: хм
+--------------------
+[2023-11-11 13:02:27] @usernameyy:matrix.bestflowers247.online: я снова тут
+--------------------
+[2023-11-11 13:02:51] @staffer:matrix.bestflowers247.online: и получается, что пока всего юсы и канады 4 бота онлайн
+--------------------
+[2023-11-11 14:29:48] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2023-11-11 14:29:59] @usernamegg:matrix.bestflowers247.online: хост прочитал но не дал ответ
+--------------------
+[2023-11-11 15:21:13] @usernameyy:matrix.bestflowers247.online: поднял он сервер видимо, биток был выключен
+--------------------
+[2023-11-11 15:27:27] @usernameyy:matrix.bestflowers247.online: 0.33% синхронизировано
+--------------------
+[2023-11-11 16:03:14] @w:matrixtcFJHPDblmt2rg.network: Привет
+--------------------
+[2023-11-11 16:03:16] @w:matrixtcFJHPDblmt2rg.network: Как тыт ам?
+--------------------
+[2023-11-11 16:03:40] @w:matrixtcFJHPDblmt2rg.network: Фух, я все дела поделал, щас гляну, что там по стилаку отписывали или нет
+--------------------
+[2023-11-11 16:03:41] @w:matrixtcFJHPDblmt2rg.network: и буду заниматься уже работой
+--------------------
+[2023-11-11 16:40:16] @usernamegg:matrix.bestflowers247.online: 
+65.108.200.180
+
+выключен с питания сети
+
+никому не давал его ?
+
+может по ошибке выключили? или софт какой ? после установки затребовал перезапуск но не включился сервак.
+
+сижу проверяю
+
+косяков никаких нет хм. по питанию тоже все в  порядке.  по сети тоже.
+
+сервер пашет
+
+тупо был выключен
+
+у меня никто выключить не мог доступ только я имею к данным серверам
+так  как вы важные клиенты.
+
+128 серверов стоит.
+выделенных
+
+к ним доступ никому не даю не работникам  даже. и т д
+
+к впскам доступ есть там их около 680 штук. (но пароли не храню) даже в базе данных
+
+а к выделенным доступ  у работников
+нету.
+
+я не хочу вас подставлять
+ноутбук куплю  на днях
+
+если куда то отойду. то  смогу с ноутбука сразу реагировать что бы вы не ждали.
+
+тк не хочу портить репутацию
+понимаю все
+
+
+а то у меня громоздкий неудобный ноут. его не беру в дорогу. либо если куда то отлучился.
+
+проверь пожалуйста  все ок.
+--------------------
+[2023-11-11 16:40:40] @usernamegg:matrix.bestflowers247.online: ты что там пистание софтом из розетки вырубаешь ?))
+--------------------
+[2023-11-11 16:40:45] @usernamegg:matrix.bestflowers247.online: * ты что там питание софтом из розетки вырубаешь ?))
+--------------------
+[2023-11-11 16:40:58] @usernameyy:matrix.bestflowers247.online: ахахаха
+--------------------
+[2023-11-11 16:41:08] @usernameyy:matrix.bestflowers247.online: про ноут конечно жиха
+--------------------
+[2023-11-11 16:41:43] @usernamegg:matrix.bestflowers247.online: переживает )
+--------------------
+[2023-11-11 16:41:45] @usernameyy:matrix.bestflowers247.online: * про ноут конечно жиза
+--------------------
+[2023-11-11 16:41:46] @usernamegg:matrix.bestflowers247.online: хочет работать с нами
+--------------------
+[2023-11-11 16:42:05] @usernameyy:matrix.bestflowers247.online: в любом случае синк идет очень долго
+--------------------
+[2023-11-11 16:42:09] @usernameyy:matrix.bestflowers247.online: 0.5% только
+--------------------
+[2023-11-11 16:42:13] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2023-11-11 16:42:14] @usernamegg:matrix.bestflowers247.online: норм
+--------------------
+[2023-11-11 16:42:27] @usernamegg:matrix.bestflowers247.online: реал забирает силы еще сильнее
+--------------------
+[2023-11-11 16:42:31] @usernamegg:matrix.bestflowers247.online: я тоже сегодня шатался
+--------------------
+[2023-11-11 16:57:30] @ssd:matrix.bestflowers247.online: u vas est krip shas>?
+--------------------
+[2023-11-11 16:57:35] @ssd:matrix.bestflowers247.online: injekt kriptanut
+--------------------
+[2023-11-11 16:57:42] @ssd:matrix.bestflowers247.online: i votknutvam pod kriptu
+--------------------
+[2023-11-11 17:10:14] @usernameyy:matrix.bestflowers247.online: я без ноута уехал
+--------------------
+[2023-11-11 17:25:06] @w:matrixtcFJHPDblmt2rg.network: да, жесть как)
+--------------------
+[2023-11-11 17:25:10] @w:matrixtcFJHPDblmt2rg.network: вареный сижу щас)
+--------------------
+[2023-11-11 17:25:19] @w:matrixtcFJHPDblmt2rg.network: ну главное что выдали все уже
+--------------------
+[2023-11-11 17:25:26] @w:matrixtcFJHPDblmt2rg.network: щас тут напишу им еще пару фиксов, которые надо сделать
+--------------------
+[2023-11-11 17:25:30] @w:matrixtcFJHPDblmt2rg.network: чтобы прям вообще супер было
+--------------------
+[2023-11-11 17:25:35] @w:matrixtcFJHPDblmt2rg.network: и по сути все готово будет
+--------------------
+[2023-11-11 17:31:23] @usernamegg:matrix.bestflowers247.online: отлично
+--------------------
+[2023-11-11 17:31:34] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> в любом случае синк идет очень долго
+
+неделя
+--------------------
+[2023-11-11 17:31:50] @usernamegg:matrix.bestflowers247.online: > <@ssd:matrix.bestflowers247.online> u vas est krip shas>?
+
+да
+--------------------
+[2023-11-11 17:31:55] @usernamegg:matrix.bestflowers247.online: > <@ssd:matrix.bestflowers247.online> injekt kriptanut
+
+давай
+--------------------
+[2023-11-11 17:41:28] @w:matrixtcFJHPDblmt2rg.network: щас они там еще 2 фикса сделают
+--------------------
+[2023-11-11 17:41:30] @w:matrixtcFJHPDblmt2rg.network: и будет космос
+--------------------
+[2023-11-11 17:41:36] @w:matrixtcFJHPDblmt2rg.network: пока начинаю подключать
+--------------------
+[2023-11-11 18:07:01] @ssd:matrix.bestflowers247.online: shas na dedike testim
+--------------------
+[2023-11-11 18:07:10] @usernamegg:matrix.bestflowers247.online: давай
+--------------------
+[2023-11-11 18:09:19] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-11-11 18:09:27] @usernamegg:matrix.bestflowers247.online: они норма саппорт дают ?
+--------------------
+[2023-11-11 18:13:24] @ssd:matrix.bestflowers247.online: vrode ok
+--------------------
+[2023-11-11 18:22:20] @w:matrixtcFJHPDblmt2rg.network: > <@usernamegg:matrix.bestflowers247.online> они норма саппорт дают ?
+
+да, кстати, на удивление норм
+--------------------
+[2023-11-11 18:22:36] @w:matrixtcFJHPDblmt2rg.network: ну они новые на рынке, им по другому не выжить
+--------------------
+[2023-11-11 18:54:34] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-11-11 18:54:36] @usernamegg:matrix.bestflowers247.online: да я видел
+--------------------
+[2023-11-11 18:54:48] @usernamegg:matrix.bestflowers247.online: вот и покладистые
+--------------------
+[2023-11-11 18:55:18] @usernamegg:matrix.bestflowers247.online: и по деньгам норм
+--------------------
+[2023-11-11 18:55:39] @usernamegg:matrix.bestflowers247.online: не палит ?
+--------------------
+[2023-11-11 19:10:30] @ssd:matrix.bestflowers247.online: upload.ee/files/15919063/build.zip.html
+Пароль - nxhOCc4385cm2c3$*@3
+--------------------
+[2023-11-11 19:10:43] @ssd:matrix.bestflowers247.online: 1 kript pust sdelaut tvou poka
+--------------------
+[2023-11-11 19:10:52] @ssd:matrix.bestflowers247.online: mi toje sdelaem
+--------------------
+[2023-11-11 19:10:59] @ssd:matrix.bestflowers247.online: ot kripta mnogo shto zavisit
+--------------------
+[2023-11-11 19:14:37] @w:matrixtcFJHPDblmt2rg.network: > <@usernamegg:matrix.bestflowers247.online> и по деньгам норм
+
+ага
+--------------------
+[2023-11-11 19:15:10] @w:matrixtcFJHPDblmt2rg.network: кстати, интероесно было всегда, а как переговоры то провдятся, вы типо пишите им сумму и пруфы данных скидываете, что типо у вас есть
+--------------------
+[2023-11-11 19:15:18] @w:matrixtcFJHPDblmt2rg.network: а потом они уже говорят, типо буду платить или нет?
+--------------------
+[2023-11-11 19:58:56] @staffer:matrix.bestflowers247.online: ты тут?
+--------------------
+[2023-11-11 22:08:58] @usernameyy:matrix.bestflowers247.online: закончился синк
+--------------------
+[2023-11-11 22:12:49] @usernameyy:matrix.bestflowers247.online: в пн всё оттестирую
+--------------------

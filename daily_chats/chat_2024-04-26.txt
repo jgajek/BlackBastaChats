@@ -1,0 +1,353 @@
+[2024-04-26 06:43:43] @n3auxaxl:matrix.collectionofmanager.space: > <@usernamegg:matrix.bestflowers247.online> скрипт то куда
+
+ну в кобу как обычно
+--------------------
+[2024-04-26 06:43:46] @n3auxaxl:matrix.collectionofmanager.space: ну как обычный .cna скрипт загружаеш
+--------------------
+[2024-04-26 09:29:53] @nickolas:talks.icu: * да мы сегодня уже поймали 2 ярдника.
+--------------------
+[2024-04-26 09:30:07] @nickolas:talks.icu: * и не одного не притянули...
+--------------------
+[2024-04-26 09:54:46] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2024-04-26 09:54:48] @usernamegg:matrix.bestflowers247.online: и что билжу ?
+--------------------
+[2024-04-26 09:55:04] @usernamegg:matrix.bestflowers247.online: NN пишет время от времи ?
+--------------------
+[2024-04-26 09:55:06] @n3auxaxl:matrix.collectionofmanager.space: привет
+--------------------
+[2024-04-26 09:55:13] @n3auxaxl:matrix.collectionofmanager.space: x64 stageless
+--------------------
+[2024-04-26 09:55:17] @n3auxaxl:matrix.collectionofmanager.space: > <@usernamegg:matrix.bestflowers247.online> NN пишет время от времи ?
+
+да
+--------------------
+[2024-04-26 09:56:17] @usernamegg:matrix.bestflowers247.online: ща попробую сбилдить и сикнуть на крипт
+--------------------
+[2024-04-26 09:56:27] @n3auxaxl:matrix.collectionofmanager.space: +++
+--------------------
+[2024-04-26 09:56:53] @n3auxaxl:matrix.collectionofmanager.space: отпишешь
+--------------------
+[2024-04-26 09:56:58] @n3auxaxl:matrix.collectionofmanager.space: я если что тут
+--------------------
+[2024-04-26 09:57:02] @n3auxaxl:matrix.collectionofmanager.space: занимаюсь x86 щас
+--------------------
+[2024-04-26 09:57:41] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2024-04-26 в 12.57.21.png
+--------------------
+[2024-04-26 09:57:43] @usernamegg:matrix.bestflowers247.online: вот так это должно выглядеть
+--------------------
+[2024-04-26 09:57:45] @usernamegg:matrix.bestflowers247.online: ?
+--------------------
+[2024-04-26 09:57:47] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2024-04-26 в 12.57.16.png
+--------------------
+[2024-04-26 09:58:00] @n3auxaxl:matrix.collectionofmanager.space: да, верно
+--------------------
+[2024-04-26 09:58:02] @n3auxaxl:matrix.collectionofmanager.space: да
+--------------------
+[2024-04-26 09:58:13] @usernamegg:matrix.bestflowers247.online: .bin билжу ?
+--------------------
+[2024-04-26 09:58:15] @usernamegg:matrix.bestflowers247.online: и скидываю на чек ?
+--------------------
+[2024-04-26 09:58:19] @n3auxaxl:matrix.collectionofmanager.space: да
+--------------------
+[2024-04-26 09:58:20] @usernamegg:matrix.bestflowers247.online: на крипт *
+--------------------
+[2024-04-26 09:58:28] @n3auxaxl:matrix.collectionofmanager.space: и на чек
+--------------------
+[2024-04-26 09:58:30] @n3auxaxl:matrix.collectionofmanager.space: я тоже сделаю запуск
+--------------------
+[2024-04-26 09:58:35] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2024-04-26 в 12.58.26.png
+--------------------
+[2024-04-26 09:58:37] @n3auxaxl:matrix.collectionofmanager.space: только x64
+--------------------
+[2024-04-26 09:58:47] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-04-26 09:58:48] @usernamegg:matrix.bestflowers247.online: сделал
+--------------------
+[2024-04-26 09:58:52] @n3auxaxl:matrix.collectionofmanager.space: да, верно
+--------------------
+[2024-04-26 09:58:57] @usernamegg:matrix.bestflowers247.online: ккую точку входа сказать что бы сделали ?
+--------------------
+[2024-04-26 09:59:08] @n3auxaxl:matrix.collectionofmanager.space: > <@usernamegg:matrix.bestflowers247.online> ккую точку входа сказать что бы сделали ?
+
+можешь под мой файл
+--------------------
+[2024-04-26 09:59:12] @n3auxaxl:matrix.collectionofmanager.space: GetModuleProp
+--------------------
+[2024-04-26 09:59:14] @usernamegg:matrix.bestflowers247.online: 26_payload_x64.bin
+--------------------
+[2024-04-26 09:59:20] @n3auxaxl:matrix.collectionofmanager.space: > <@n3auxaxl:matrix.collectionofmanager.space> можешь под мой файл
+
+ну который 7z
+--------------------
+[2024-04-26 09:59:26] @usernamegg:matrix.bestflowers247.online: нужно сделать с точкой входа GetModuleProp
+
+--------------------
+[2024-04-26 09:59:39] @muaddib6:matrix.org: Привет. Занимаюсь
+--------------------
+[2024-04-26 09:59:44] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-04-26 09:59:52] @usernamegg:matrix.bestflowers247.online: с инфицированием + exe
+
+--------------------
+[2024-04-26 09:59:58] @usernamegg:matrix.bestflowers247.online: да да
+--------------------
+[2024-04-26 09:59:59] @usernamegg:matrix.bestflowers247.online: я понял
+--------------------
+[2024-04-26 10:00:07] @usernamegg:matrix.bestflowers247.online: Han делает
+--------------------
+[2024-04-26 10:00:09] @muaddib6:matrix.org: ++
+--------------------
+[2024-04-26 10:00:19] @n3auxaxl:matrix.collectionofmanager.space: ++
+--------------------
+[2024-04-26 10:16:14] @n3auxaxl:matrix.collectionofmanager.space: есть стук от Joe Biden
+--------------------
+[2024-04-26 10:16:24] @n3auxaxl:matrix.collectionofmanager.space: проверил запуск .bin просто
+--------------------
+[2024-04-26 10:16:56] @usernamegg:matrix.bestflowers247.online: 04/26 12:58:40 *** new ssh session john@192.168.77.168 (DESKTOP-H8GF5C1)
+04/26 12:58:42 *** initial beacon from john@192.168.77.168 (DESKTOP-H8GF5C1)
+04/26 12:58:57 *** new ssh session john@192.168.77.168 (DESKTOP-H8GF5C1)
+04/26 12:58:59 *** new ssh session john@192.168.77.168 (DESKTOP-H8GF5C1)
+04/26 13:00:37 *** initial beacon from john@192.168.77.168 (DESKTOP-H8GF5C1)
+04/26 13:00:41 *** initial beacon from john@192.168.77.168 (DESKTOP-H8GF5C1)
+04/26 13:01:11 *** new ssh session john@192.168.77.168 (DESKTOP-H8GF5C1)
+04/26 13:01:15 *** new ssh session john@192.168.77.168 (DESKTOP-H8GF5C1)
+--------------------
+[2024-04-26 10:17:01] @usernamegg:matrix.bestflowers247.online: тут реверсер засыпает кобу
+--------------------
+[2024-04-26 10:17:04] @usernamegg:matrix.bestflowers247.online: я от другой сделаю
+--------------------
+[2024-04-26 10:17:04] @n3auxaxl:matrix.collectionofmanager.space: процесс pwn64
+--------------------
+[2024-04-26 10:17:08] @n3auxaxl:matrix.collectionofmanager.space: а понял
+--------------------
+[2024-04-26 10:17:20] @usernamegg:matrix.bestflowers247.online: нету
+--------------------
+[2024-04-26 10:18:09] @n3auxaxl:matrix.collectionofmanager.space: другую тогда скинешь
+--------------------
+[2024-04-26 10:18:13] @n3auxaxl:matrix.collectionofmanager.space: я закрыл уже проц
+--------------------
+[2024-04-26 10:47:29] @muaddib6:matrix.org: > <@usernamegg:matrix.bestflowers247.online> sent a file.
+
+Готово
+--------------------
+[2024-04-26 10:47:41] @muaddib6:matrix.org: 1.7z
+--------------------
+[2024-04-26 10:47:52] @muaddib6:matrix.org: строка:
+--------------------
+[2024-04-26 10:47:53] @muaddib6:matrix.org: ExLSl1gM4oGM4Oq1mLdL0jZ9ON2MQGFf0cih62np4mFqr9BDtK
+--------------------
+[2024-04-26 10:59:09] @n3auxaxl:matrix.collectionofmanager.space: чисто под дефом, вроде как стучит, но для более детальеой инфы надо GG ждать
+--------------------
+[2024-04-26 10:59:30] @n3auxaxl:matrix.collectionofmanager.space: вижу оба процесса пакеты отправляют, все работает
+--------------------
+[2024-04-26 11:00:04] @n3auxaxl:matrix.collectionofmanager.space: * чисто под дефом, вроде как стучит, но для более детальной инфы надо GG ждать
+--------------------
+[2024-04-26 11:00:28] @muaddib6:matrix.org: ++
+--------------------
+[2024-04-26 13:27:19] @iamnurnazarov:matrix.org: привет
+--------------------
+[2024-04-26 13:27:23] @iamnurnazarov:matrix.org: готов к работе
+--------------------
+[2024-04-26 13:28:22] @manager361:colorado.su: Привет, хорошо
+--------------------
+[2024-04-26 13:56:25] @manager361:colorado.su: https://docs.google.com/spreadsheets/d/15DmcfkKmmdMOC3DZKlafsOEw5eqNFWBx-tPciWlrSlQ/edit#gid=0
+--------------------
+[2024-04-26 13:56:29] @manager361:colorado.su: через 15 минут начинай
+--------------------
+[2024-04-26 13:56:36] @manager361:colorado.su: https://docs.google.com/spreadsheets/d/131YdstR2dtJgWNdO1PXKe99cUjOD_Q5hPH9iAWyW4nc/edit#gid=0
+--------------------
+[2024-04-26 13:56:46] @manager361:colorado.su: start in 10 minutes
+--------------------
+[2024-04-26 13:57:05] @arslanshabbirmalik:matrix.org: Hello sir. Good morning. 😇🫡
+--------------------
+[2024-04-26 13:57:08] @arslanshabbirmalik:matrix.org: Received d sir
+--------------------
+[2024-04-26 13:57:59] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-26 13:59:24] @iamnurnazarov:matrix.org: image.png
+--------------------
+[2024-04-26 14:01:55] @manager361:colorado.su: готово
+--------------------
+[2024-04-26 15:16:50] @tinker:matrix.bestflowers247.online: привет! ну как там?
+--------------------
+[2024-04-26 15:16:59] @tinker:matrix.bestflowers247.online: я тут - обращайся с задачами
+--------------------
+[2024-04-26 15:26:53] @arslanshabbirmalik:matrix.org: Sir , this sheet is complete.
+--------------------
+[2024-04-26 15:37:04] @manager361:colorado.su: aaded
+--------------------
+[2024-04-26 15:37:09] @manager361:colorado.su: * added
+--------------------
+[2024-04-26 15:37:15] @iamnurnazarov:matrix.org: закончил
+--------------------
+[2024-04-26 15:38:16] @arslanshabbirmalik:matrix.org: Thank you sir. I start calling
+--------------------
+[2024-04-26 15:40:02] @manager361:colorado.su: добавил
+--------------------
+[2024-04-26 15:40:12] @iamnurnazarov:matrix.org: начинаю
+--------------------
+[2024-04-26 16:00:21] @n3auxaxl:matrix.collectionofmanager.space: братец, пойду уже отдыхать
+--------------------
+[2024-04-26 16:00:25] @n3auxaxl:matrix.collectionofmanager.space: буду на связи в ВС
+--------------------
+[2024-04-26 16:00:32] @n3auxaxl:matrix.collectionofmanager.space: хочу в субботу отдохнуть
+--------------------
+[2024-04-26 16:01:27] @n3auxaxl:matrix.collectionofmanager.space: хорошего вечера и выходных!
+--------------------
+[2024-04-26 16:07:49] @iamnurnazarov:matrix.org: закончил, 7 confirmed
+--------------------
+[2024-04-26 16:08:40] @manager361:colorado.su: https://docs.google.com/spreadsheets/d/13cNxweqjljiSpNHPYNvt94PgfzLISNHxJXJEkIuREkQ/edit#gid=0
+--------------------
+[2024-04-26 16:09:05] @iamnurnazarov:matrix.org: принял, начинаю
+--------------------
+[2024-04-26 16:40:00] @iamnurnazarov:matrix.org: закончиил
+--------------------
+[2024-04-26 16:40:04] @iamnurnazarov:matrix.org: * закончил
+--------------------
+[2024-04-26 16:40:34] @manager361:colorado.su: добавил
+--------------------
+[2024-04-26 16:40:48] @iamnurnazarov:matrix.org: принял
+--------------------
+[2024-04-26 17:19:42] @iamnurnazarov:matrix.org: закончил
+--------------------
+[2024-04-26 17:21:02] @manager361:colorado.su: добавил
+--------------------
+[2024-04-26 17:21:13] @iamnurnazarov:matrix.org: > <@iamnurnazarov:matrix.org> закончил
+
+до большинство номеров не дозвониться или невозможно сделать трансфер на их ext
+--------------------
+[2024-04-26 17:21:24] @iamnurnazarov:matrix.org: > <@manager361:colorado.su> добавил
+
+начинаю
+--------------------
+[2024-04-26 17:29:45] @usernamehunter:matrix.bestflowers247.online: привет
+--------------------
+[2024-04-26 17:29:49] @usernamehunter:matrix.bestflowers247.online: 1100
+--------------------
+[2024-04-26 17:29:52] @usernamehunter:matrix.bestflowers247.online: кош bc1qan4xhr22wdxamgs586e64mm38j85xm0npzn3hs
+--------------------
+[2024-04-26 17:30:08] @usernamehunter:matrix.bestflowers247.online: закроемся?
+--------------------
+[2024-04-26 17:59:29] @iamnurnazarov:matrix.org: закончил
+--------------------
+[2024-04-26 18:00:58] @manager361:colorado.su: https://docs.google.com/spreadsheets/d/169aTEl_FWatRIxIlzbKP1dkktuYoSI2g0kJSUreb1TE/edit#gid=0
+--------------------
+[2024-04-26 18:01:15] @iamnurnazarov:matrix.org: принял, начинаю
+--------------------
+[2024-04-26 19:39:03] @iamnurnazarov:matrix.org: закончил таблицу
+--------------------
+[2024-04-26 19:42:08] @manager361:colorado.su: https://docs.google.com/spreadsheets/d/1PWATYic95cz3NePUlhU_ellOip4kG-6RcoX7BT5TBbA/edit#gid=0
+--------------------
+[2024-04-26 19:43:14] @iamnurnazarov:matrix.org: принял, начинаю
+--------------------
+[2024-04-26 20:25:00] @cob_crypt_ward:matrix.bestflowers247.online: привет, нет
+--------------------
+[2024-04-26 20:25:05] @cob_crypt_ward:matrix.bestflowers247.online: мне тут знакомый написал
+--------------------
+[2024-04-26 20:25:15] @cob_crypt_ward:matrix.bestflowers247.online: сделал что-то в духе своей цве
+--------------------
+[2024-04-26 20:25:28] @cob_crypt_ward:matrix.bestflowers247.online: обходит алерт эджа и других браузеров
+--------------------
+[2024-04-26 20:25:35] @cob_crypt_ward:matrix.bestflowers247.online: но не без костылей
+--------------------
+[2024-04-26 20:25:46] @cob_crypt_ward:matrix.bestflowers247.online: расспросить у него попродробнее?
+--------------------
+[2024-04-26 20:48:03] @cob_crypt_ward:matrix.bestflowers247.online: можешь еще подсказать, вам нужны пентестеры вообще?
+--------------------
+[2024-04-26 20:49:41] @usernamegg:matrix.bestflowers247.online: я тут
+--------------------
+[2024-04-26 20:49:52] @usernamegg:matrix.bestflowers247.online: сейчас буду смотреть
+--------------------
+[2024-04-26 20:50:29] @usernamegg:matrix.bestflowers247.online: 04/26 13:35:06 *** initial beacon from Administrator *@45.61.152.239 (WINDOWS-UK-LOND)
+04/26 13:41:35 *** initial beacon from Administrator *@45.61.152.239 (WINDOWS-UK-LOND)
+04/26 13:58:12 *** initial beacon from Joe Biden@10.0.2.15 (DESKTOP-CQQJG02)
+04/26 13:58:54 *** initial beacon from Joe Biden@10.0.2.15 (DESKTOP-CQQJG02)
+--------------------
+[2024-04-26 20:50:33] @usernamegg:matrix.bestflowers247.online: все стучит
+--------------------
+[2024-04-26 20:50:34] @usernamegg:matrix.bestflowers247.online: спасибо
+--------------------
+[2024-04-26 20:51:08] @usernamegg:matrix.bestflowers247.online: да да
+--------------------
+[2024-04-26 20:51:14] @usernamegg:matrix.bestflowers247.online: конечно узнай что за све у него
+--------------------
+[2024-04-26 20:51:20] @cob_crypt_ward:matrix.bestflowers247.online: okkk
+--------------------
+[2024-04-26 20:51:24] @usernamegg:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> можешь еще подсказать, вам нужны пентестеры вообще?
+
+у меня уже большая команда
+--------------------
+[2024-04-26 20:51:32] @usernamegg:matrix.bestflowers247.online: нужны только сверх опытные
+--------------------
+[2024-04-26 20:51:38] @cob_crypt_ward:matrix.bestflowers247.online: понял
+--------------------
+[2024-04-26 20:52:40] @usernamegg:matrix.bestflowers247.online: c0af29ad060062036e5b6c3ecf5e3b92b60a3e94bb7f924bc307aa03bfe5882b
+--------------------
+[2024-04-26 20:57:15] @cob_crypt_ward:matrix.bestflowers247.online: Yeah. I will. Let me explain and I will attach pictures.
+
+1.- User visit URL.
+2.- File Explorer prompt ask to open file.
+3.- Fake download page show the file.
+4.- User opens payload.
+5.- MOTW alert.
+6.- If user click Run, computer get infected.
+This is the full complete chain vector. It includes Smartscreen bypass with any executable file/lnk, certificates are not needed, dll sideloading is not need it.
+--------------------
+[2024-04-26 20:58:04] @cob_crypt_ward:matrix.bestflowers247.online: html prompt2.PNG
+--------------------
+[2024-04-26 20:58:04] @cob_crypt_ward:matrix.bestflowers247.online: html prompt.PNG
+--------------------
+[2024-04-26 20:58:06] @cob_crypt_ward:matrix.bestflowers247.online: explorer.PNG
+--------------------
+[2024-04-26 20:58:31] @cob_crypt_ward:matrix.bestflowers247.online: порядок скринов чутка сбился, первый где открытие ссылки, второй где предупреждение запускаэ
+--------------------
+[2024-04-26 20:58:34] @cob_crypt_ward:matrix.bestflowers247.online: * порядок скринов чутка сбился, первый где открытие ссылки, второй где предупреждение запуска
+--------------------
+[2024-04-26 20:58:49] @cob_crypt_ward:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> sent an image.
+
+вроде алерт что нету серта, но не уверен
+--------------------
+[2024-04-26 20:59:42] @iamnurnazarov:matrix.org: закончить обзвон последней компании? они по central времени работают
+--------------------
+[2024-04-26 21:11:07] @usernamegg:matrix.bestflowers247.online: 26_payload_x64.bin
+--------------------
+[2024-04-26 21:11:09] @usernamegg:matrix.bestflowers247.online: нужно сделать с точкой входа GetModuleProp
+
+--------------------
+[2024-04-26 21:12:02] @iamnurnazarov:matrix.org: image.png
+--------------------
+[2024-04-26 21:12:23] @iamnurnazarov:matrix.org: из 25 номеров компании, 18 с такими экстеншэнами
+--------------------
+[2024-04-26 21:13:49] @iamnurnazarov:matrix.org: поговорил с customer care represetative насчёт того, говорит что в компании нет экштэншнов начинающихся с # 1
+--------------------
+[2024-04-26 21:14:44] @iamnurnazarov:matrix.org: думаю нет смысла их обзванивать, закончу с теми кто без ext
+--------------------
+[2024-04-26 21:21:57] @iamnurnazarov:matrix.org: закончил таблицу
+--------------------
+[2024-04-26 21:39:24] @cob_crypt_ward:matrix.bestflowers247.online: можно X86? и exe?
+--------------------
+[2024-04-26 21:45:23] @manager880:colorado.su: 137
+--------------------
+[2024-04-26 21:45:26] @manager880:colorado.su: 0x08Df289E0e3b54064B3eF2d5ba6924F04DF6aEA4
+--------------------
+[2024-04-26 21:46:20] @manager880:colorado.su: 24
+--------------------
+[2024-04-26 21:46:25] @manager880:colorado.su: 0xdcb10300e7fc51d19c38b3254770f1d1a7448878
+--------------------
+[2024-04-26 21:48:51] @manager880:colorado.su: ✅
+--------------------
+[2024-04-26 21:50:37] @manager880:colorado.su: ✅
+--------------------
+[2024-04-26 21:50:42] @manager880:colorado.su: спасибо, до ПН
+--------------------
+[2024-04-26 21:51:29] @arslanshabbirmalik:matrix.org: Thank you sir🤗. Wish you a good weekend.
+--------------------
+[2024-04-26 21:54:57] @manager880:colorado.su: thank you Arslan
+--------------------
+[2024-04-26 21:55:02] @manager880:colorado.su: tty on monday
+--------------------
+[2024-04-26 22:14:35] @iamnurnazarov:matrix.org: принял, спасибо
+--------------------
+[2024-04-26 22:14:47] @iamnurnazarov:matrix.org: хороших выходных 👋
+--------------------

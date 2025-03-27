@@ -1,0 +1,148 @@
+[2024-09-07 07:28:52] @lapa:matrix.bestflowers247.online: 331 уже онлайн
+--------------------
+[2024-09-07 07:29:02] @lapa:matrix.bestflowers247.online: еще пару дней подожду, посмотрю какие отвалятся
+--------------------
+[2024-09-07 07:29:12] @lapa:matrix.bestflowers247.online: и дам список
+--------------------
+[2024-09-07 11:32:19] @usernamegg:matrix.bestflowers247.online: ну да. вчера было 328 ты писал, вот там часть из списка подняли, стало получается 331.
+сегодня до конца поднимем.
+
+в любом случае 400 серверов у тебя, ты проверил? первые 200 уже давно в работе, а остальные вот выше я кидал список, там 300-400.
+--------------------
+[2024-09-07 11:35:34] @lapa:matrix.bestflowers247.online: да, все 400 у меня есть
+--------------------
+[2024-09-07 11:35:41] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-09-07 11:35:52] @lapa:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> ```
+> 194.26.29.3	Invalid root password(fdd6mm)Wi<I}+&^)
+> 194.26.29.241	Invalid root password(/SS(#+<)P8h)[C$)
+> 194.26.29.8	Invalid root password(eI,/L@E2LT>F^RL)
+> 194.26.29.3	Invalid root password(fdd6mm)Wi<I}+&^)
+> 77.221.146.29	bash: test.txt: Read-only file system
+> 45.141.87.246	bash: test.txt: Read-only file system
+> 77.221.146.36	Invalid root password(c_t^p*2~WR2:0QM)
+> 194.26.29.8	Invalid root password(eI,/L@E2LT>F^RL)
+> 194.26.29.241	Invalid root password(/SS(#+<)P8h)[C$)
+> 77.221.146.35	No connection
+> 77.221.146.16	No connection
+> 194.26.25.112	No connection
+> 77.221.146.24	No connection
+> 77.221.146.25	No connection
+> 77.221.146.26	No connection
+> 77.221.146.13	No connection
+> 77.221.146.14	No connection
+> 194.26.25.69	No connection
+> 45.141.86.211	No connection
+> 194.26.29.207	Invalid root password(~B\3qwjFW\)!vA:)
+> 194.26.25.90	No connection
+> 194.26.25.75	Invalid root password(RL9^Jz6?y={!dbI)
+> 194.26.25.81	No connection
+> 194.26.25.122	No connection
+> 194.26.25.61	No connection
+> 77.221.146.15	No connection
+> 77.221.146.17	No connection
+> 77.221.146.37	No connection
+> 194.26.25.58	No connection
+> 194.26.25.92	No connection
+> 194.26.25.92	Invalid root password(@n,BmW5mUSJ5(:5)
+> 194.26.25.118	No connection
+> 194.26.25.123	No connection
+> 194.26.25.120	No connection
+> 194.26.25.77	No connection
+> 194.26.25.121	No connection
+> 194.26.25.97	No connection
+> 194.26.25.120	No connection
+> 194.26.25.121	No connection
+> 194.26.25.118	No connection
+> 194.26.25.122	No connection
+> 194.26.25.83	No connection
+> 194.26.25.112	No connection
+> 194.26.25.69	No connection
+> 194.26.25.61	No connection
+> 194.26.25.90	No connection
+> 45.141.87.246	bash: test.txt: Read-only file system
+> 194.26.25.97	Invalid root password(+xa6Q6i59n&5YLO)
+> 194.26.25.81	Invalid root password(FcQUgL>4K5k:;JD)
+> 194.26.25.123	Invalid root password(r5KWhBxQH5f/?W/)
+> 194.26.25.82	No connection
+> 194.26.25.77	No connection
+> 194.26.25.82	Invalid root password(h+T?!3{}=f^\1lC)
+> 194.26.25.83	No connection
+> 194.26.25.58	No connection
+> 194.26.25.75	Invalid root password(RL9^Jz6?y={!dbI)
+> ```
+
+но от некоторых даже пасс неверный
+--------------------
+[2024-09-07 11:35:55] @lapa:matrix.bestflowers247.online: пусть перепроверят
+--------------------
+[2024-09-07 11:36:09] @usernamegg:matrix.bestflowers247.online: хорошо. щас вернем их в работу, отпишусь сразу
+--------------------
+[2024-09-07 11:36:36] @lapa:matrix.bestflowers247.online: ок. я вечером буду
+--------------------
+[2024-09-07 11:36:41] @lapa:matrix.bestflowers247.online: брут работает, если что
+--------------------
+[2024-09-07 11:36:56] @usernamegg:matrix.bestflowers247.online: cegth
+--------------------
+[2024-09-07 11:36:58] @usernamegg:matrix.bestflowers247.online: супер
+--------------------
+[2024-09-07 11:37:04] @usernamegg:matrix.bestflowers247.online: а за то время когда он работал
+--------------------
+[2024-09-07 11:37:06] @usernamegg:matrix.bestflowers247.online: криво косо
+--------------------
+[2024-09-07 11:37:09] @usernamegg:matrix.bestflowers247.online: что то нашло?
+--------------------
+[2024-09-07 11:37:20] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> что то нашло?
+
+да, находил
+--------------------
+[2024-09-07 11:37:24] @usernamegg:matrix.bestflowers247.online: сейчас прям нужно аквивировать поиск
+--------------------
+[2024-09-07 11:37:27] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-09-07 11:37:28] @lapa:matrix.bestflowers247.online: ну потому, что я потоки не ставил много
+--------------------
+[2024-09-07 11:37:36] @usernamegg:matrix.bestflowers247.online: понял
+--------------------
+[2024-09-07 11:37:40] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> сейчас прям нужно аквивировать поиск
+
+да, буду по максимум
+--------------------
+[2024-09-07 11:37:43] @lapa:matrix.bestflowers247.online: ставить
+--------------------
+[2024-09-07 11:37:50] @lapa:matrix.bestflowers247.online: точнее уже стоит
+--------------------
+[2024-09-07 11:38:00] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-09-07 11:38:07] @usernamegg:matrix.bestflowers247.online: будем сервак до 1к доводить
+--------------------
+[2024-09-07 11:38:13] @usernamegg:matrix.bestflowers247.online: главное сейчас стабильной работы добится
+--------------------
+[2024-09-07 11:38:22] @usernamegg:matrix.bestflowers247.online: могу уже его попросить готовить еще 200
+--------------------
+[2024-09-07 11:38:36] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> могу уже его попросить готовить еще 200
+
+да, давайте
+--------------------
+[2024-09-07 11:39:00] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-09-07 11:39:06] @lapa:matrix.bestflowers247.online: и спросите у него заоодно сколько Гбит я могу юзать серверами
+--------------------
+[2024-09-07 11:39:08] @usernamegg:matrix.bestflowers247.online: \главное стабильно что бы работало
+--------------------
+[2024-09-07 11:39:45] @lapa:matrix.bestflowers247.online: +
+--------------------
+[2024-09-07 11:39:49] @lapa:matrix.bestflowers247.online: офнусь
+--------------------
+[2024-09-07 11:40:23] @usernamegg:matrix.bestflowers247.online: image.png
+--------------------
+[2024-09-07 11:40:27] @usernamegg:matrix.bestflowers247.online: гулять>
+--------------------
+[2024-09-07 11:40:30] @usernamegg:matrix.bestflowers247.online: ?
+--------------------
+[2024-09-07 11:42:21] @usernamegg:matrix.bestflowers247.online: image.png
+--------------------
+[2024-09-07 20:45:50] @lapa:matrix.bestflowers247.online: аааа, на каждые по 50Гбит даже
+--------------------
+[2024-09-07 20:45:53] @lapa:matrix.bestflowers247.online: прикольно
+--------------------

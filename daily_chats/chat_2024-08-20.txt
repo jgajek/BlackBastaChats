@@ -1,0 +1,110 @@
+[2024-08-20 11:07:57] @usernamegg:matrix.bestflowers247.online: Привет, бро
+У серверов твоих канал 10Гб/с
+Можешь продробнее описать проблему?
+--------------------
+[2024-08-20 11:08:07] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-08-20 11:10:39] @lapa:matrix.bestflowers247.online: ```
+PING 192.168.100.2 (192.168.100.2) 56(84) bytes of data.
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not permitted
+^C
+--- 192.168.100.2 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3059ms
+```
+--------------------
+[2024-08-20 11:12:30] @lapa:matrix.bestflowers247.online: Проблема: растет внутрений трафик в локальной сети, и локальная сеть не выдерживает.
+--------------------
+[2024-08-20 11:13:51] @lapa:matrix.bestflowers247.online: 192.168.100.3 вот это у нас локальный айпишник БД и в какой-то момент(при росте нагрузки) уже нет коннекта к БД.
+--------------------
+[2024-08-20 11:13:58] @lapa:matrix.bestflowers247.online: Ну и не пингуется также
+--------------------
+[2024-08-20 11:19:52] @usernamegg:matrix.bestflowers247.online: так
+--------------------
+[2024-08-20 11:19:53] @usernamegg:matrix.bestflowers247.online: принял
+--------------------
+[2024-08-20 11:19:57] @usernamegg:matrix.bestflowers247.online: сказал ему
+--------------------
+[2024-08-20 11:20:26] @lapa:matrix.bestflowers247.online: в целом я могу воссоздать ситуацию, когда теряется коннект к бд
+--------------------
+[2024-08-20 11:20:32] @lapa:matrix.bestflowers247.online: если ему нужно
+--------------------
+[2024-08-20 11:20:42] @lapa:matrix.bestflowers247.online: но даже сейчас стать 60к потоков
+--------------------
+[2024-08-20 11:20:53] @lapa:matrix.bestflowers247.online: я установил опытным путем, что при 100к уже валится конект к бд
+--------------------
+[2024-08-20 11:21:00] @lapa:matrix.bestflowers247.online: и теряются пакеты
+--------------------
+[2024-08-20 11:21:24] @lapa:matrix.bestflowers247.online: поэтому пока 60к стоит
+--------------------
+[2024-08-20 11:21:54] @lapa:matrix.bestflowers247.online: короч странно, раньше до перезагрузки и 200к тянуло
+--------------------
+[2024-08-20 12:05:35] @lapa:matrix.bestflowers247.online: ```
+PING 192.168.100.3 (192.168.100.3) 56(84) bytes of data.
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not permitted
+64 bytes from 192.168.100.3: icmp_seq=3 ttl=64 time=0.160 ms
+64 bytes from 192.168.100.3: icmp_seq=4 ttl=64 time=0.132 ms
+ping: sendmsg: Operation not permitted
+64 bytes from 192.168.100.3: icmp_seq=6 ttl=64 time=0.145 ms
+64 bytes from 192.168.100.3: icmp_seq=7 ttl=64 time=0.140 ms
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not permitted
+ping: sendmsg: Operation not permitted
+64 bytes from 192.168.100.3: icmp_seq=11 ttl=64 time=0.163 ms
+ping: sendmsg: Operation not permitted
+^C
+--- 192.168.100.3 ping statistics ---
+12 packets transmitted, 5 received, 58.3333% packet loss, time 11256ms
+rtt min/avg/max/mdev = 0.132/0.148/0.163/0.011 ms
+```
+
+--------------------
+[2024-08-20 12:05:41] @lapa:matrix.bestflowers247.online: вот сейчас поднял нагрузку
+--------------------
+[2024-08-20 12:05:44] @lapa:matrix.bestflowers247.online: и такой пинг
+--------------------
+[2024-08-20 12:05:48] @lapa:matrix.bestflowers247.online: не тянет сеть
+--------------------
+[2024-08-20 12:06:18] @lapa:matrix.bestflowers247.online: image.png
+--------------------
+[2024-08-20 12:06:24] @lapa:matrix.bestflowers247.online: при том, что на канал нет большой нагрузки
+--------------------
+[2024-08-20 12:10:58] @lapa:matrix.bestflowers247.online: ```
+root@localhost:/var/www/html# speedtest-cli
+Retrieving speedtest.net configuration...
+Testing from Proton66 OOO (45.140.17.40)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by MGTS (Moscow) [1.61 km]: 1192.288 ms
+Testing download speed................................................................................
+Download: 0.09 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 18.72 Mbit/s
+```
+
+--------------------
+[2024-08-20 12:11:02] @lapa:matrix.bestflowers247.online: при нагрузке такое показывает
+--------------------
+[2024-08-20 12:11:06] @lapa:matrix.bestflowers247.online: херня скорость
+--------------------
+[2024-08-20 12:15:08] @lapa:matrix.bestflowers247.online: хотя без нагрузки такая
+--------------------
+[2024-08-20 12:15:12] @lapa:matrix.bestflowers247.online: ```
+Testing download speed................................................................................
+Download: 1432.30 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 539.47 Mbit/s
+```
+
+--------------------
+[2024-08-20 13:54:14] @lapa:matrix.bestflowers247.online: ну сейчас вообще локальная сеть не работает
+--------------------
+[2024-08-20 13:54:18] @lapa:matrix.bestflowers247.online: делают наверное что-то
+--------------------
+[2024-08-20 21:11:16] @lapa:matrix.bestflowers247.online: хм, до сих пор  не работает локальная сеть 192.168.100.*
+--------------------
+[2024-08-20 21:11:20] @lapa:matrix.bestflowers247.online: что-то поломали
+--------------------

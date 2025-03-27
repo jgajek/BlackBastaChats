@@ -1,0 +1,154 @@
+[2024-07-24 00:09:16] @lapa:matrix.bestflowers247.online: в общем я поменял индексы для бд, и тогда оставлю брут чисто соника, так как он меньше трафика жрет в разы
+--------------------
+[2024-07-24 00:11:20] @lapa:matrix.bestflowers247.online: если что, потом можно будет переключится чисто на рдвеб, или чисто на циско
+--------------------
+[2024-07-24 00:11:51] @lapa:matrix.bestflowers247.online: просто когда буду брутить что-то одно, будет пониманием сколько потоков ставить, чтобы канала хватало
+--------------------
+[2024-07-24 02:32:49] @lapa:matrix.bestflowers247.online: еще момент
+--------------------
+[2024-07-24 02:32:58] @lapa:matrix.bestflowers247.online: 200k threads
++ speed_download(1,072) Mbits/s
++ speed_upload(1,725) Mbits/s
+--------------------
+[2024-07-24 02:33:11] @lapa:matrix.bestflowers247.online: ставил 200к потоков суммарно на всех серверах
+--------------------
+[2024-07-24 02:33:55] @lapa:matrix.bestflowers247.online: скорость отдачи что на 150к потоках, что на 200к равно примрено 1,725 Mbits/s и не поднималась
+--------------------
+[2024-07-24 02:34:17] @lapa:matrix.bestflowers247.online: нарвеное там тоже какой-то потолок в отдаче 2Гбита стоит
+--------------------
+[2024-07-24 02:34:30] @lapa:matrix.bestflowers247.online: * нарвеное там тоже какой-то потолок в отдаче 2Гбита
+--------------------
+[2024-07-24 02:35:28] @lapa:matrix.bestflowers247.online: так как буду пока чисто брутить соник
+--------------------
+[2024-07-24 02:35:43] @lapa:matrix.bestflowers247.online: он может сделать 25Гбит отдачи и 25Гбит на прием?
+--------------------
+[2024-07-24 05:16:22] @usernameyy:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> ```
+> BTC Wallet - bc1qyvaa2uwwgf34m3qggzmptcrm45tppfppyhhhde
+> XMR Wallet - 88M7PZfDZSs3DWB6BY99uKVcnSFAsHr6eEhPmBD2psSyU6hv4EHYB6cGjpysZwEbQKTHCz3JfsiWMZLiDMoZZMSKQddFS66
+> TRC-20 (Tron): (fee + 2,5 %)
+> TNgjeQgr8dPSwK2UkhFtNpGK795cJ3yKjL
+
+давай оплачивать постепенно
+--------------------
+[2024-07-24 05:16:29] @usernameyy:matrix.bestflowers247.online: скоро еще 2 акка надо будет проплатить
+--------------------
+[2024-07-24 06:44:23] @usernamegg:matrix.bestflowers247.online: > <@usernameyy:matrix.bestflowers247.online> ```
+> BTC Wallet - bc1qyvaa2uwwgf34m3qggzmptcrm45tppfppyhhhde
+> XMR Wallet - 88M7PZfDZSs3DWB6BY99uKVcnSFAsHr6eEhPmBD2psSyU6hv4EHYB6cGjpysZwEbQKTHCz3JfsiWMZLiDMoZZMSKQddFS66
+> TRC-20 (Tron): (fee + 2,5 %)
+> TNgjeQgr8dPSwK2UkhFtNpGK795cJ3yKjL
+
+тут оплатили
+--------------------
+[2024-07-24 06:46:04] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> Круто, ну да у нас тут на своих ниче не будут вешать, но доебаться могут что бы чисто свой шкурный интерес проявить и все
+
+да, но все равно до конца жизни надо быть на фоксе
+--------------------
+[2024-07-24 06:47:15] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> С Филиным перетёр, он ждет команды. Но пока команду не даю, звать в кобу как в прошлые разы или мету не вариант, там на сервере карбон стоит) А это все меняет, сначала ему я сказал надо сливать исходники + исходники админки и вытащить админскую таблицу из бд, а потом уже сливать сс, если нас выпилят будут исходники для изучения и поиска в ней RCE, а доступ нужен что бы было больше векторов атак. Все должно быть согласно этому плану и никак иначе.
+
+очень правильный подход, карбон может выпились сразу если куда то затащить типа кобы или меты
+--------------------
+[2024-07-24 06:47:43] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> У нас бин база старая еще
+
+я краний раз находил новую, надо сейчас актуальную от 23или24 года лучше
+--------------------
+[2024-07-24 06:48:25] @usernamegg:matrix.bestflowers247.online: > <@usernamenn1:matrix.bestflowers247.online> на овера как то можно выйти? нужен от него конфиг прокси сервера nginx
+
+да, если ты вспомнишь как его на форумах искать я давно в тех жабберах не сижу.
+--------------------
+[2024-07-24 06:48:35] @usernamegg:matrix.bestflowers247.online: с форума контакт вытащить
+--------------------
+[2024-07-24 06:48:43] @usernamegg:matrix.bestflowers247.online: не помнишь как его сервис назывался ?
+--------------------
+[2024-07-24 06:50:24] @usernamegg:matrix.bestflowers247.online: привет. канал расширили, все сделал, влан готов
+чуть позже адм переставит те сервера нерабочие, что ты кидал
+он будет завтра на связи, можем тестить, понаблюдать за графиками
+--------------------
+[2024-07-24 06:51:15] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> в общем вы тоже там смотрите, какую цену готовы платить за брут
+
+400k я не готов платить за 1000гбит
+--------------------
+[2024-07-24 06:51:55] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> как будет прибыль с этого брута, ее направим на расширение канала
+
+очень хорошо мыслит твоя голова но не такие деньги )
+--------------------
+[2024-07-24 06:53:11] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> в общем я поменял индексы для бд, и тогда оставлю брут чисто соника, так как он меньше трафика жрет в разы
+
+хорошо
+--------------------
+[2024-07-24 06:53:26] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> если что, потом можно будет переключится чисто на рдвеб, или чисто на циско
+
+ты переключай время от времени все равно
+--------------------
+[2024-07-24 06:59:35] @usernamegg:matrix.bestflowers247.online: > <@lapa:matrix.bestflowers247.online> он может сделать 25Гбит отдачи и 25Гбит на прием?
+
+спросил
+--------------------
+[2024-07-24 09:59:38] @usernameyy:matrix.bestflowers247.online: дай транзу
+--------------------
+[2024-07-24 11:07:52] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> очень хорошо мыслит твоя голова но не такие деньги )
+
+короч подумаю еще, как можно трафик снизить еще
+--------------------
+[2024-07-24 11:08:12] @lapa:matrix.bestflowers247.online: но думаю это нереально, заставить другой сервер меньше трафика отдавать
+--------------------
+[2024-07-24 11:33:04] @lapa:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> привет. канал расширили, все сделал, влан готов
+> чуть позже адм переставит те сервера нерабочие, что ты кидал
+> он будет завтра на связи, можем тестить, понаблюдать за графиками
+
+все уже сделал 50гбит канал ?
+--------------------
+[2024-07-24 14:24:23] @usernamenn1:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> я краний раз находил новую, надо сейчас актуальную от 23или24 года лучше
+
+ага
+--------------------
+[2024-07-24 14:24:48] @usernamenn1:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> да, если ты вспомнишь как его на форумах искать я давно в тех жабберах не сижу.
+
+у меня же есть его старая жаба, найду по жабе его как то попробую
+--------------------
+[2024-07-24 14:24:56] @usernamenn1:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> не помнишь как его сервис назывался ?
+
+overflow
+--------------------
+[2024-07-24 15:56:00] @lapa:matrix.bestflowers247.online: что-то выше 1.8 Гбит на отдачу не поднимается
+--------------------
+[2024-07-24 15:56:15] @lapa:matrix.bestflowers247.online: или я еще рано тестирую
+--------------------
+[2024-07-24 16:01:16] @lapa:matrix.bestflowers247.online: ```
+running_threads = 20233
++ speed_download(389) Mbits/s
++ speed_upload(593) Mbits/s
+
+running_threads = 39708
++ speed_download(762) Mbits/s
++ speed_upload(1,261) Mbits/s
+
+
+running_threads = 59165
++ speed_download(1,013) Mbits/s
++ speed_upload(1,705) Mbits/s
+
+running_threads = 97969
++ speed_download(1,115) Mbits/s
++ speed_upload(1,850) Mbits/s
+
+
+running_threads = 109718
++ speed_download(1,120) Mbits/s
++ speed_upload(1,853) Mbits/s
+```
+--------------------
+[2024-07-24 16:01:40] @lapa:matrix.bestflowers247.online: вот по факту какая скорость в зависимости от потоков
+--------------------
+[2024-07-24 16:02:02] @lapa:matrix.bestflowers247.online: до 1.8Гбит скорость и кол-во потоков растут попрорционально примерно
+--------------------
+[2024-07-24 16:02:27] @lapa:matrix.bestflowers247.online: * до 1.7-1.8Гбит скорость и кол-во потоков растут попрорционально примерно
+--------------------
+[2024-07-24 16:03:24] @lapa:matrix.bestflowers247.online: * до 1.7-1.8Гбит скорость и кол-во потоков растут пропорционально примерно
+--------------------
+[2024-07-24 16:04:21] @lapa:matrix.bestflowers247.online: т.е. для 109718 потоков должно быть 3.4Гбит, а по факту стоит на месте 1.8Гбит
+--------------------
+[2024-07-24 16:04:49] @lapa:matrix.bestflowers247.online: чет мне кажется они еще не переключили на wlan
+--------------------
+[2024-07-24 16:25:45] @lapa:matrix.bestflowers247.online: * т.е. для 109718 потоков должно быть 3.4Гбит отдачи, а по факту стоит на месте 1.8Гбит
+--------------------

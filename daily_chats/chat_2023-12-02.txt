@@ -1,0 +1,661 @@
+[2023-12-02 02:10:28] @usernamenn:matrix.bestflowers247.online: не получилось?
+--------------------
+[2023-12-02 02:12:24] @usernamenn:matrix.bestflowers247.online: https://github.com/skelsec/evilrdp
+--------------------
+[2023-12-02 02:12:25] @usernamenn:matrix.bestflowers247.online: нихуя
+--------------------
+[2023-12-02 02:14:14] @usernamenn:matrix.bestflowers247.online: я зашел в софт там бот оффлайн
+--------------------
+[2023-12-02 02:14:22] @usernamenn:matrix.bestflowers247.online: и вышел с софта
+--------------------
+[2023-12-02 09:25:52] @w:matrixtcFJHPDblmt2rg.network: Привет
+--------------------
+[2023-12-02 09:26:01] @w:matrixtcFJHPDblmt2rg.network: Щас скину
+--------------------
+[2023-12-02 09:33:31] @w:matrixtcFJHPDblmt2rg.network: client.bin
+--------------------
+[2023-12-02 09:33:44] @w:matrixtcFJHPDblmt2rg.network: vot shellcode ot HVNC
+--------------------
+[2023-12-02 09:56:25] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2023-12-02 09:58:19] @usernamegg:matrix.bestflowers247.online: да, там все переглючило
+--------------------
+[2023-12-02 09:58:37] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2023-12-02 09:59:32] @usernamegg:matrix.bestflowers247.online: сам доступ к панельке еще нужен.
+--------------------
+[2023-12-02 10:00:06] @usernamegg:matrix.bestflowers247.online: я то я вчера у самого создателя взял
+--------------------
+[2023-12-02 10:00:12] @w:matrixtcFJHPDblmt2rg.network: вот его просто запусти на той тачке и все
+--------------------
+[2023-12-02 10:00:12] @usernamegg:matrix.bestflowers247.online: > <@w:matrixtcFJHPDblmt2rg.network> там есть exe, dll, shellcode
+
+знаю да
+--------------------
+[2023-12-02 10:00:14] @usernamegg:matrix.bestflowers247.online: криптовать надо
+--------------------
+[2023-12-02 10:00:37] @w:matrixtcFJHPDblmt2rg.network: вот доступ в админку
+--------------------
+[2023-12-02 10:00:38] @w:matrixtcFJHPDblmt2rg.network: доступ в админку:
+
+https://uhmbteh4goisdqoi6c6ealwcdi2p6oesec6qvtmaudm7opm42y7qryid.onion/
+admin		PF}cK62scZ@k6p~WLWba
+user_adm	lT*$LtE5JJtw21{e6zd@
+
+--------------------
+[2023-12-02 10:00:56] @w:matrixtcFJHPDblmt2rg.network: там можно сбилдить если что сразу
+--------------------
+[2023-12-02 10:01:01] @w:matrixtcFJHPDblmt2rg.network: там есть exe, dll, shellcode
+--------------------
+[2023-12-02 10:01:32] @w:matrixtcFJHPDblmt2rg.network: длл можно у ляписа крпиатнуть попробовать
+--------------------
+[2023-12-02 10:01:37] @w:matrixtcFJHPDblmt2rg.network: если ты оплатил его
+--------------------
+[2023-12-02 10:12:49] @usernamegg:matrix.bestflowers247.online: ляписа не оплачивал
+--------------------
+[2023-12-02 10:15:40] @usernameboy:matrix.bestflowers247.online: adm_ThakurS::SWS:7c8541492837ca61b99d50ff8e0d36ddab529ed950bfdab6:7c8541492837ca61b99d50ff8e0d36ddab529ed950bfdab6:1122334455667788:Wipro!sw7
+
+--------------------
+[2023-12-02 10:33:28] @usernamegg:matrix.bestflowers247.online: молодой состав тут
+--------------------
+[2023-12-02 10:33:34] @usernamegg:matrix.bestflowers247.online: все что будет онлайн скидывай
+--------------------
+[2023-12-02 10:40:17] @cameron777:matrix.org: privet vsem
+--------------------
+[2023-12-02 10:42:11] @cameron777:matrix.org: est' admin dostup k citrixu no app locker ne puskaet zapustit' exe
+
+https://www.zoominfo.com/c/studiogc-architecture/354654418
+tam vse servera itd , dazh esxi u nix est
+
+--------------------
+[2023-12-02 10:42:26] @cameron777:matrix.org: 
+www.studiogc.com
+Revenue
+$6.1M
+--------------------
+[2023-12-02 10:42:50] @cameron777:matrix.org: Screenshot 2023-12-02 024239.png
+--------------------
+[2023-12-02 10:43:20] @cameron777:matrix.org: mogu dat' citrix
+--------------------
+[2023-12-02 10:47:24] @usernamejj:matrix.bestflowers247.online: > <@cameron777:matrix.org> est' admin dostup k citrixu no app locker ne puskaet zapustit' exe
+>
+> https://www.zoominfo.com/c/studiogc-architecture/354654418
+> tam vse servera itd , dazh esxi u nix est
+
+берем
+--------------------
+[2023-12-02 10:47:50] @cameron777:matrix.org: tam shas AD DS tozhe otkroyu
+--------------------
+[2023-12-02 10:49:17] @cameron777:matrix.org: 13.52.211.166
+Administrator
+;x$qwr3M%qgv7hDDXkykoN47G).6w1v!
+--------------------
+[2023-12-02 10:49:19] @cameron777:matrix.org: zaxodi
+--------------------
+[2023-12-02 10:49:22] @cameron777:matrix.org: RDP
+--------------------
+[2023-12-02 10:49:36] @cameron777:matrix.org: sec
+--------------------
+[2023-12-02 10:51:31] @cameron777:matrix.org: podkluychaysya
+tam 2 dekstopa
+esho AD DS po useram i citrix studiu
+--------------------
+[2023-12-02 10:51:35] @cameron777:matrix.org: * podkluychaysya
+tam 2 dekstopa
+esho AD DS po useram i citrix studio
+--------------------
+[2023-12-02 10:51:37] @cameron777:matrix.org: vse podklyuchil
+--------------------
+[2023-12-02 10:51:42] @cameron777:matrix.org: vse admini
+--------------------
+[2023-12-02 10:51:48] @usernamejj:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-02 10:52:35] @cameron777:matrix.org: firefox u nix otkrito exsxi no logina netu
+--------------------
+[2023-12-02 10:52:39] @cameron777:matrix.org: * firefox u nix otkrito esxi no logina netu
+--------------------
+[2023-12-02 11:11:08] @cameron777:matrix.org: viydet s etim chto to zdelat' ?
+xotel viyti na 2 chasa
+--------------------
+[2023-12-02 11:11:51] @usernamejj:matrix.bestflowers247.online: пробую
+--------------------
+[2023-12-02 11:12:04] @cameron777:matrix.org: +
+--------------------
+[2023-12-02 11:13:27] @usernameugway:matrix.bestflowers247.online: https://www.humansecurity.com/learn/blog/human-satori-threat-intelligence-alert-account-takeover-attacks-use-scrubcrypt-to-deploy-redline-stealer-malware
+--------------------
+[2023-12-02 11:45:01] @u123:matrix.bestflowers247.online: привет
+--------------------
+[2023-12-02 11:45:07] @u123:matrix.bestflowers247.online: залил на прокладку
+--------------------
+[2023-12-02 11:47:55] @u123:matrix.bestflowers247.online: ОПУБЛИКОВАТЬ
+1. ID: c6f966aa-80f8-4ac6-9dcc-a5ecf70e0b88
+2. Nlt.com https://www.zoominfo.com/c/national-lift-truck-inc/26689668
+3. 300gb
+4. ПРОКЛАДКА:
+SFTP/SSH: 193.39.142.102:2222
+user: user
+pass: 555saghxTZHngzxngcztx543cx
+
+/home/user/NLT/NLT/
+--------------------
+[2023-12-02 12:49:57] @usernamegg:matrix.bestflowers247.online: это в пн
+--------------------
+[2023-12-02 12:50:00] @usernamegg:matrix.bestflowers247.online: все сделаем
+--------------------
+[2023-12-02 12:50:08] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2023-12-02 12:50:09] @usernamegg:matrix.bestflowers247.online: гудд
+--------------------
+[2023-12-02 12:59:46] @usernamedd:matrix.bestflowers247.online: )
+--------------------
+[2023-12-02 13:35:52] @usernamejj:matrix.bestflowers247.online: > <@cameron777:matrix.org> www.studiogc.com
+> Revenue
+> $6.1M
+
+сделали ее
+отойду на 2-3 часа
+--------------------
+[2023-12-02 14:04:01] @cameron777:matrix.org: super
+--------------------
+[2023-12-02 14:49:48] @usernamegg:matrix.bestflowers247.online: что то еще вышло онлайн ?
+--------------------
+[2023-12-02 14:56:57] @usernameugway:matrix.bestflowers247.online: я там протестил все , жду чтобы залили контейнер на выдачу и отдам ребятам
+--------------------
+[2023-12-02 15:04:14] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-02 15:51:25] @cameron777:matrix.org: korea  skgas.net
+
+--------------------
+[2023-12-02 15:54:48] @cameron777:matrix.org: smotryu
+--------------------
+[2023-12-02 15:54:53] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-02 15:54:59] @usernamegg:matrix.bestflowers247.online: ее на понедельник
+--------------------
+[2023-12-02 15:55:09] @cameron777:matrix.org: ok
+--------------------
+[2023-12-02 15:55:10] @usernamegg:matrix.bestflowers247.online: когда оба состава выйдут у меня
+--------------------
+[2023-12-02 15:55:12] @usernamegg:matrix.bestflowers247.online: с 10 утра
+--------------------
+[2023-12-02 15:55:17] @usernamegg:matrix.bestflowers247.online: можно будет накидывать все что есть
+--------------------
+[2023-12-02 15:55:20] @cameron777:matrix.org: ok
+--------------------
+[2023-12-02 15:55:30] @usernamegg:matrix.bestflowers247.online: сейчас пока молодой состав отпустил покушать и так подышать
+--------------------
+[2023-12-02 15:55:35] @usernamegg:matrix.bestflowers247.online: скоро вернуться
+--------------------
+[2023-12-02 15:55:43] @usernamegg:matrix.bestflowers247.online: им надо давать что то попроще
+--------------------
+[2023-12-02 15:55:57] @usernamegg:matrix.bestflowers247.online: ну сегодня вот в обед уже кого то сделали
+--------------------
+[2023-12-02 15:55:57] @cameron777:matrix.org: kak segodnya to admin?
+--------------------
+[2023-12-02 15:55:59] @usernamegg:matrix.bestflowers247.online: в пн поставят
+--------------------
+[2023-12-02 15:56:03] @cameron777:matrix.org: * kak segodnya tot admin?
+--------------------
+[2023-12-02 15:56:24] @cameron777:matrix.org: www.studiogc.com zdelali
+--------------------
+[2023-12-02 15:56:32] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-12-02 15:56:37] @usernamegg:matrix.bestflowers247.online: молодцы они
+--------------------
+[2023-12-02 15:56:44] @usernamegg:matrix.bestflowers247.online: я сказал что бы предпредили когда отойдут
+--------------------
+[2023-12-02 15:56:48] @usernamegg:matrix.bestflowers247.online: как придут тоже напишут
+--------------------
+[2023-12-02 15:57:29] @cameron777:matrix.org: ok
+knscpa.com < etomu ne budete zvonit' ? bivaet no ne mogut zayti ili chto to esho
+--------------------
+[2023-12-02 15:57:51] @usernamegg:matrix.bestflowers247.online: я подсвечу их и дам таймер 7 дней
+--------------------
+[2023-12-02 15:57:56] @usernamegg:matrix.bestflowers247.online: до кого надо дойдут новости
+--------------------
+[2023-12-02 15:58:01] @usernamegg:matrix.bestflowers247.online: они в личку придут и напишут
+--------------------
+[2023-12-02 15:58:06] @usernamegg:matrix.bestflowers247.online: мы их выведем в чат
+--------------------
+[2023-12-02 15:58:11] @usernamegg:matrix.bestflowers247.online: я тебе все подсвечу
+--------------------
+[2023-12-02 15:58:20] @usernamegg:matrix.bestflowers247.online: не волнуйся все будет хорошо , обещаю )
+--------------------
+[2023-12-02 15:58:34] @usernamegg:matrix.bestflowers247.online: нам нужны люди с хорошими таргетами на долгосрочную работу
+--------------------
+[2023-12-02 15:58:34] @cameron777:matrix.org: ok super
+--------------------
+[2023-12-02 15:58:46] @cameron777:matrix.org: a mne kto ix budet delat')
+--------------------
+[2023-12-02 15:58:49] @usernamegg:matrix.bestflowers247.online: я давно свое заработал уже могу уходить на пенсию
+--------------------
+[2023-12-02 15:58:51] @cameron777:matrix.org: na dolgosrok)
+--------------------
+[2023-12-02 15:58:59] @cameron777:matrix.org: da znayu ti govoril)
+--------------------
+[2023-12-02 15:59:04] @usernamegg:matrix.bestflowers247.online: но у меня много тут бойцов голодных , пускай поработают еще годик
+--------------------
+[2023-12-02 15:59:11] @cameron777:matrix.org: nu poka es't tema dumayu nelzya otxodit ot nee
+--------------------
+[2023-12-02 15:59:20] @cameron777:matrix.org: * nu poka est' tema dumayu nelzya otxodit ot nee
+--------------------
+[2023-12-02 15:59:27] @usernamegg:matrix.bestflowers247.online: да, вот и поработаем еще
+--------------------
+[2023-12-02 15:59:38] @usernamegg:matrix.bestflowers247.online: уже все сложнее и сложнее
+--------------------
+[2023-12-02 16:00:11] @usernamegg:matrix.bestflowers247.online: ну всегда находим какие то решения и прогресс не стоит на месте
+--------------------
+[2023-12-02 16:01:03] @usernamegg:matrix.bestflowers247.online: самые сильные у мен это из старньких это NN , $$ а у молодых я добавил JJ ,  а VV его наставник он тоже из стареньких.
+--------------------
+[2023-12-02 16:01:11] @usernamegg:matrix.bestflowers247.online: там в чате самые лучшие собраны у тебя
+--------------------
+[2023-12-02 16:01:17] @usernamegg:matrix.bestflowers247.online: главное теперь таргеты
+--------------------
+[2023-12-02 16:01:18] @cameron777:matrix.org: > <@usernamegg:matrix.bestflowers247.online> уже все сложнее и сложнее
+
+skoro zakroet NTLM diru microsoft vo vsex OSax
+--------------------
+[2023-12-02 16:01:31] @cameron777:matrix.org: rashashit' nevozmozhon budet
+--------------------
+[2023-12-02 16:01:35] @usernamegg:matrix.bestflowers247.online: это не страшно
+--------------------
+[2023-12-02 16:01:44] @usernamegg:matrix.bestflowers247.online: у меня когда макрос закрыли я же нашел решение в спаме
+--------------------
+[2023-12-02 16:01:49] @cameron777:matrix.org: nu i esho AI podklyuchat k robote
+--------------------
+[2023-12-02 16:01:56] @cameron777:matrix.org: nu ya tozhe nashel
+--------------------
+[2023-12-02 16:02:02] @cameron777:matrix.org: lnk
+--------------------
+[2023-12-02 16:02:20] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-02 16:02:25] @usernamegg:matrix.bestflowers247.online: lnk я слал
+--------------------
+[2023-12-02 16:04:58] @cameron777:matrix.org: url trudno slat'
+--------------------
+[2023-12-02 16:05:08] @cameron777:matrix.org: na copr microsofta
+--------------------
+[2023-12-02 16:05:11] @usernamegg:matrix.bestflowers247.online: нормально линками идет
+--------------------
+[2023-12-02 16:05:14] @cameron777:matrix.org: * na corp microsofta
+--------------------
+[2023-12-02 16:05:17] @usernamegg:matrix.bestflowers247.online: аттачем много уведомлений
+--------------------
+[2023-12-02 16:05:19] @usernamegg:matrix.bestflowers247.online: но тоже нормально
+--------------------
+[2023-12-02 16:05:23] @usernamegg:matrix.bestflowers247.online: все зависит от веса
+--------------------
+[2023-12-02 16:05:26] @cameron777:matrix.org: url knopka
+--------------------
+[2023-12-02 16:05:27] @cameron777:matrix.org: ne xodit
+--------------------
+[2023-12-02 16:05:32] @usernamegg:matrix.bestflowers247.online: да, они там жесткие
+--------------------
+[2023-12-02 16:05:34] @cameron777:matrix.org: nado kakie to shamanckie veshi delat')
+--------------------
+[2023-12-02 16:05:45] @usernamegg:matrix.bestflowers247.online: есть такое
+--------------------
+[2023-12-02 16:05:47] @cameron777:matrix.org: lyuboy link skidivaet v spam
+--------------------
+[2023-12-02 16:10:08] @cameron777:matrix.org: shas smotryu poka chto mogu dat'
+--------------------
+[2023-12-02 16:11:23] @usernamegg:matrix.bestflowers247.online: ```
+https://www.zoominfo.com/c/guala-closures-group/25217117 677kk italy https://vpn.gualaclosures.com/sslvpn/Login/Login :peisenhauer:f7g78w55:ssl_vpn
+https://connectisc.hpcl.co.in/+CSCOE+/logon.html:31948120:Hpcl#1234567:hpdi
+https://connectisc.hpcl.co.in/+CSCOE+/logon.html:31928650:Jeevan_918:anyconn_user
+```
+
+--------------------
+[2023-12-02 16:19:57] @usernamegg:matrix.bestflowers247.online: ```
+https://www.zoominfo.com/c/guala-closures-group/25217117 677kk italy https://vpn.gualaclosures.com/sslvpn/Login/Login :peisenhauer:f7g78w55:ssl_vpn
+https://connectisc.hpcl.co.in/+CSCOE+/logon.html:31948120:Hpcl#1234567:hpdi
+https://connectisc.hpcl.co.in/+CSCOE+/logon.html:31928650:Jeevan_918:anyconn_user
+```
+
+--------------------
+[2023-12-02 16:20:03] @usernamegg:matrix.bestflowers247.online: 
+```
+https://216.215.93.50/+CSCOE+/logon.html:itsupport:Password1:MRE_VPN
+25кк
+https://anadarko.direct.quickconnect.to/+CSCOE+/logon.html:itsupport:Password1:MRE_VPN
+
+резерв линк
+https://www.zoominfo.com/c/mre-consulting-ltd/25772551
+```
+--------------------
+[2023-12-02 16:21:37] @usernamegg:matrix.bestflowers247.online: > <@cameron777:matrix.org> lyuboy link skidivaet v spam
+
+у майкрософт ?
+--------------------
+[2023-12-02 16:25:20] @cameron777:matrix.org: uhu
+--------------------
+[2023-12-02 16:26:03] @cameron777:matrix.org: shas smotryu targeti
+--------------------
+[2023-12-02 16:26:15] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-02 16:26:17] @cameron777:matrix.org: novie prishli no poka malo . tot kazus s traffom bilo
+--------------------
+[2023-12-02 16:26:19] @cameron777:matrix.org: nado vse menyat'
+--------------------
+[2023-12-02 16:26:30] @usernamegg:matrix.bestflowers247.online: что там ?
+--------------------
+[2023-12-02 16:26:50] @cameron777:matrix.org: click bot , ya dumayu narochno eto delaetsya
+--------------------
+[2023-12-02 16:27:02] @cameron777:matrix.org: chtob ubrat' link s reklami
+--------------------
+[2023-12-02 16:27:26] @cameron777:matrix.org: kucha traffa shlo no 0 zagruzok imenno s etogo istochnika
+--------------------
+[2023-12-02 16:27:31] @cameron777:matrix.org: s binga
+--------------------
+[2023-12-02 16:27:40] @cameron777:matrix.org: s google-om vse ok bilo
+--------------------
+[2023-12-02 17:01:42] @cameron777:matrix.org: na meste ?
+
+--------------------
+[2023-12-02 17:20:19] @usernameboy:matrix.bestflowers247.online: thilaka::SWS:811b007daf5e07a77af3a369657b102287921840fccb4e84:811b007daf5e07a77af3a369657b102287921840fccb4e84:1122334455667788:mW8dF5mG
+
+--------------------
+[2023-12-02 17:33:41] @cameron777:matrix.org: * https://www.zoominfo.com/c/fonderie-di-montorso-spa/367606518
+
+Fonderie di Montorso
+
+Manufacturing · Italy · <25 Employees
+
+Fonderie di Montorso is a company that operates in the Mechanical or Industrial Engineering industry. It employs 11-20 people and has $10M-$25M of revenue. The company is headquartered in Montorso, Italy
+
+Headquarters
+62 Via Valchiampo, Montorso, Italy
+www.fonderiedimontorso.com
+
+Revenue  $20.8M
+
+Industry
+Manufacturing General
+Manufacturing
+
+SRMCRDS04_marco.baraldi_5D493EA1
+
+Domain | Hosts	fonderia-Montorso.it
+IP | Country	85.36.111.114 | IT
+
+Shell 13.57.243.97:15148
+Socks 13.57.243.97:16789
+FTP 13.57.243.97:18350
+
+
+C:\Windows>nltest /domain_trusts /all_trusts
+Elenco dei trust tra domini:
+0: INTRANET intranet.fondmatic (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+1: FP FP.locale (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+2: C2MAC c2mac.local (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+3: FONDERIA-MONTOR fonderia-Montorso.it (NT 5) (Forest Tree Root) (Primary Domain) (Native)
+Esecuzione comando riuscita
+
+
+--------------------
+[2023-12-02 17:33:49] @cameron777:matrix.org: * https://www.zoominfo.com/c/fonderie-di-montorso-spa/367606518
+
+Fonderie di Montorso
+
+Manufacturing · Italy · <25 Employees
+
+Fonderie di Montorso is a company that operates in the Mechanical or Industrial Engineering industry. It employs 11-20 people and has $10M-$25M of revenue. The company is headquartered in Montorso, Italy
+
+Headquarters
+62 Via Valchiampo, Montorso, Italy
+www.fonderiedimontorso.com
+
+Revenue  $20.8M
+
+Industry
+Manufacturing General
+Manufacturing
+
+SRMCRDS04_marco.baraldi_5D493EA1
+
+Domain | Hosts	fonderia-Montorso.it
+IP | Country	85.36.111.114 | IT
+
+Shell 13.57.243.97:15148
+Socks 13.57.243.97:16789
+FTP 13.57.243.97:18350
+
+
+C:\Windows>nltest /domain_trusts /all_trusts
+Elenco dei trust tra domini:
+0: INTRANET intranet.fondmatic (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+1: FP FP.locale (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+2: C2MAC c2mac.local (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+3: FONDERIA-MONTOR fonderia-Montorso.it (NT 5) (Forest Tree Root) (Primary Domain) (Native)
+Esecuzione comando riuscita
+--------------------
+[2023-12-02 17:34:21] @cameron777:matrix.org: * https://www.zoominfo.com/c/fonderie-di-montorso-spa/367606518
+
+Fonderie di Montorso
+
+Manufacturing · Italy · <25 Employees
+
+Fonderie di Montorso is a company that operates in the Mechanical or Industrial Engineering industry. It employs 11-20 people and has $10M-$25M of revenue. The company is headquartered in Montorso, Italy
+
+Headquarters
+62 Via Valchiampo, Montorso, Italy
+www.fonderiedimontorso.com
+
+Revenue  $20.8M
+
+Industry
+Manufacturing General
+Manufacturing
+
+SRMCRDS04_marco.baraldi_5D493EA1
+
+Domain | Hosts	fonderia-Montorso.it
+IP | Country	85.36.111.114 | IT
+
+Shell 13.57.243.97:15148
+Socks 13.57.243.97:16789
+FTP 13.57.243.97:18350
+
+C:\Windows>nltest /domain_trusts /all_trusts
+Elenco dei trust tra domini:
+0: INTRANET intranet.fondmatic (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+1: FP FP.locale (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+2: C2MAC c2mac.local (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+3: FONDERIA-MONTOR fonderia-Montorso.it (NT 5) (Forest Tree Root) (Primary Domain) (Native)
+Esecuzione comando riuscita
+
+--------------------
+[2023-12-02 17:35:07] @cameron777:matrix.org: * https://www.zoominfo.com/c/fonderie-di-montorso-spa/367606518
+
+Fonderie di Montorso
+
+Manufacturing · Italy · \<25 Employees
+
+Fonderie di Montorso is a company that operates in the Mechanical or Industrial Engineering industry. It employs 11-20 people and has $10M-$25M of revenue. The company is headquartered in Montorso, Italy
+
+Headquarters
+62 Via Valchiampo, Montorso, Italy
+www.fonderiedimontorso.com
+
+Revenue  $20.8M
+
+Industry
+Manufacturing General
+Manufacturing
+
+SRMCRDS04\_marco.baraldi\_5D493EA1
+
+Domain | Hosts	fonderia-Montorso.it
+IP | Country	85.36.111.114 | IT
+
+Shell 13.57.243.97:15148
+Socks 13.57.243.97:16789
+FTP 13.57.243.97:18350
+
+C:\\Windows>nltest /domain\_trusts /all\_trusts
+Elenco dei trust tra domini:
+0: INTRANET intranet.fondmatic (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+1: FP FP.locale (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+2: C2MAC c2mac.local (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+3: FONDERIA-MONTOR fonderia-Montorso.it (NT 5) (Forest Tree Root) (Primary Domain) (Native)
+Esecuzione comando riuscita
+--------------------
+[2023-12-02 17:35:21] @cameron777:matrix.org: * https://www.zoominfo.com/c/fonderie-di-montorso-spa/367606518
+
+Fonderie di Montorso
+Manufacturing · Italy · \<25 Employees
+Fonderie di Montorso is a company that operates in the Mechanical or Industrial Engineering industry. It employs 11-20 people and has $10M-$25M of revenue. The company is headquartered in Montorso, Italy
+Headquarters
+62 Via Valchiampo, Montorso, Italy
+www.fonderiedimontorso.com
+
+Revenue  $20.8M
+
+Industry
+Manufacturing General
+Manufacturing
+
+SRMCRDS04\_marco.baraldi\_5D493EA1
+
+Domain | Hosts	fonderia-Montorso.it
+IP | Country	85.36.111.114 | IT
+
+Shell 13.57.243.97:15148
+Socks 13.57.243.97:16789
+FTP 13.57.243.97:18350
+
+C:\\Windows>nltest /domain\_trusts /all\_trusts
+Elenco dei trust tra domini:
+0: INTRANET intranet.fondmatic (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+1: FP FP.locale (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+2: C2MAC c2mac.local (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+3: FONDERIA-MONTOR fonderia-Montorso.it (NT 5) (Forest Tree Root) (Primary Domain) (Native)
+Esecuzione comando riuscita
+--------------------
+[2023-12-02 17:35:54] @usernameboy:matrix.bestflowers247.online: adm_RKeshaS::SWS:22fe1aa60da1397f036c54aa5a6b3d9798b3426026d3b2a1:22fe1aa60da1397f036c54aa5a6b3d9798b3426026d3b2a1:1122334455667788:v7n6ST9c
+
+--------------------
+[2023-12-02 17:36:18] @cameron777:matrix.org: SRMCRDS04_marco.baraldi_5D493EA1
+
+Domain | Hosts	fonderia-Montorso.it
+IP | Country	85.36.111.114 | IT
+
+Shell 13.57.243.97:15148
+Socks 13.57.243.97:16789
+FTP 13.57.243.97:18350
+--------------------
+[2023-12-02 17:36:22] @cameron777:matrix.org: C:\Windows>nltest /domain_trusts /all_trusts
+Elenco dei trust tra domini:
+0: INTRANET intranet.fondmatic (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+1: FP FP.locale (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+2: C2MAC c2mac.local (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+3: FONDERIA-MONTOR fonderia-Montorso.it (NT 5) (Forest Tree Root) (Primary Domain) (Native)
+Esecuzione comando riuscita
+--------------------
+[2023-12-02 17:36:39] @cameron777:matrix.org: * Elenco dei trust tra domini:
+0: INTRANET intranet.fondmatic (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+1: FP FP.locale (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+2: C2MAC c2mac.local (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: foresttrans )
+3: FONDERIA-MONTOR fonderia-Montorso.it (NT 5) (Forest Tree Root) (Primary Domain) (Native)
+Esecuzione comando riuscita
+--------------------
+[2023-12-02 17:36:42] @cameron777:matrix.org: https://www.zoominfo.com/c/fonderie-di-montorso-spa/367606518
+
+Fonderie di Montorso
+
+Manufacturing · Italy · <25 Employees
+
+Fonderie di Montorso is a company that operates in the Mechanical or Industrial Engineering industry. It employs 11-20 people and has $10M-$25M of revenue. The company is headquartered in Montorso, Italy
+
+Headquarters
+62 Via Valchiampo, Montorso, Italy
+www.fonderiedimontorso.com
+
+Revenue  $20.8M
+
+Industry
+Manufacturing General
+Manufacturing
+--------------------
+[2023-12-02 17:36:52] @cameron777:matrix.org: beryote ? cirix tozhe est' poka chto
+--------------------
+[2023-12-02 17:49:32] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-02 17:50:01] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-12-02 17:50:13] @usernamegg:matrix.bestflowers247.online: берем
+--------------------
+[2023-12-02 17:50:23] @cameron777:matrix.org: +
+--------------------
+[2023-12-02 17:50:37] @cameron777:matrix.org: no ofnulsya
+--------------------
+[2023-12-02 17:50:48] @cameron777:matrix.org: sec
+--------------------
+[2023-12-02 17:51:11] @usernameugway:matrix.bestflowers247.online: бро сори проблема с ссылкой, мог бы кто-то у тебя сегодня сделать ?
+--------------------
+[2023-12-02 17:51:27] @usernameugway:matrix.bestflowers247.online: или мой вернется завтра и сделает, форсмажер
+--------------------
+[2023-12-02 17:51:32] @usernameugway:matrix.bestflowers247.online: лить все равно будем в пнд
+--------------------
+[2023-12-02 17:51:32] @usernamegg:matrix.bestflowers247.online: италия не платит почти
+--------------------
+[2023-12-02 17:51:44] @usernamegg:matrix.bestflowers247.online: 3 -4 сетки италии за все время платили
+--------------------
+[2023-12-02 17:52:35] @cameron777:matrix.org: a mnogo delali ?
+--------------------
+[2023-12-02 17:52:47] @cameron777:matrix.org: a Kitay ? est' 2.7B
+--------------------
+[2023-12-02 17:54:10] @u123:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-02 17:54:20] @cameron777:matrix.org: online IT
+--------------------
+[2023-12-02 17:54:24] @cameron777:matrix.org: mogu dat' citrix
+--------------------
+[2023-12-02 17:54:25] @cameron777:matrix.org: esho
+--------------------
+[2023-12-02 17:56:01] @cameron777:matrix.org: tot chto zdelali dizaynerov zakrit' okna vse ?
+--------------------
+[2023-12-02 17:56:04] @cameron777:matrix.org: na RDP
+--------------------
+[2023-12-02 17:57:10] @usernamegg:matrix.bestflowers247.online: > <@cameron777:matrix.org> a mnogo delali ?
+
+много, да , мы в месяц меньше 50 сеток раньше не ставили.
+--------------------
+[2023-12-02 17:57:25] @usernamegg:matrix.bestflowers247.online: > <@cameron777:matrix.org> a Kitay ? est' 2.7B
+
+китай наши союзники
+--------------------
+[2023-12-02 17:57:31] @usernamegg:matrix.bestflowers247.online: > <@cameron777:matrix.org> tot chto zdelali dizaynerov zakrit' okna vse ?
+
+пока не нужно
+--------------------
+[2023-12-02 17:57:51] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-02 17:58:04] @cameron777:matrix.org: > <@usernamegg:matrix.bestflowers247.online> пока не нужно
+
+ok ostavlyu tak
+--------------------
+[2023-12-02 17:58:30] @usernamegg:matrix.bestflowers247.online: какая проблема с сылкой ?
+--------------------
+[2023-12-02 17:58:44] @usernameugway:matrix.bestflowers247.online: да не можем залить на сервер
+--------------------
+[2023-12-02 17:58:52] @usernameugway:matrix.bestflowers247.online: нужно залить на серв и сделать выдачу по ссылке
+--------------------
+[2023-12-02 18:00:51] @cameron777:matrix.org: > <@usernamegg:matrix.bestflowers247.online> много, да , мы в месяц меньше 50 сеток раньше не ставили.
+
+stranno ochen , im dannie ne nuzhni navernoe
+nu glya prosto v etix domenax mozhet chto to bolshoe est'
+--------------------
+[2023-12-02 18:01:04] @cameron777:matrix.org: esli tupo vremya poteryaesh to ostav
+--------------------
+[2023-12-02 18:20:10] @usernameugway:matrix.bestflowers247.online: в общем не заморачивайся, завтра спокойно сделаю к пнд будет готово
+--------------------
+[2023-12-02 19:41:28] @usernamejj:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-02 19:57:20] @cameron777:matrix.org: > <@usernamegg:matrix.bestflowers247.online> много, да , мы в месяц меньше 50 сеток раньше не ставили.
+
+* stranno ochen , im dannie ne nuzhni navernoe
+nu glyan prosto v etix domenax mozhet chto to bolshoe est'
+--------------------
+[2023-12-02 23:39:47] @usernamejj:matrix.bestflowers247.online: rbs.txt
+--------------------

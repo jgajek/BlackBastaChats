@@ -1,0 +1,135 @@
+[2024-01-12 13:32:45] @usernamegg:matrix.bestflowers247.online: сегодня возьму серт
+--------------------
+[2024-01-12 13:51:59] @usernamegg:matrix.bestflowers247.online: [22:45:39] сборщик - iso + lnk : привет у меня на след неделю готово мси. мси-линк. исо.
+[22:45:47] сборщик - iso + lnk : начанаешь работать со след недели?
+[22:46:49] сборщик - iso + lnk : http://temp.sh/hxvLD/bandicam_2024-01-11_18-24-57-965.mp4    мси-линк
+--------------------
+[2024-01-12 13:59:49] @usernamegg:matrix.bestflowers247.online: если подписать сертом ?
+--------------------
+[2024-01-12 13:59:57] @usernamegg:matrix.bestflowers247.online: EV сертом
+--------------------
+[2024-01-12 15:03:50] @usernamegg:matrix.bestflowers247.online: ку
+--------------------
+[2024-01-12 15:04:09] @usernamegg:matrix.bestflowers247.online: 1.200.000 дают pecofoods
+--------------------
+[2024-01-12 15:04:12] @tinker:matrix.bestflowers247.online: привет, да
+--------------------
+[2024-01-12 15:04:16] @tinker:matrix.bestflowers247.online: твоё решение
+--------------------
+[2024-01-12 15:04:40] @usernamegg:matrix.bestflowers247.online: я думаю 1500 и кошелек им даем и мы готовы к сделке
+--------------------
+[2024-01-12 15:04:55] @tinker:matrix.bestflowers247.online: понял!
+--------------------
+[2024-01-12 15:04:57] @usernamegg:matrix.bestflowers247.online: `bc1qj0j33dfehrn2df0k7l2a89psuycrfvg4f9tcenwuprhst7a2uwfs2hgxhh`
+--------------------
+[2024-01-12 15:05:00] @usernamegg:matrix.bestflowers247.online: вот кошель для них
+--------------------
+[2024-01-12 15:05:11] @tinker:matrix.bestflowers247.online: давай я скажу 2 пока
+--------------------
+[2024-01-12 15:05:16] @tinker:matrix.bestflowers247.online: чтобы смогли дотянуть до 1.5
+--------------------
+[2024-01-12 15:05:23] @tinker:matrix.bestflowers247.online: потому что если скажу 1.5 они скажут 1.3
+--------------------
+[2024-01-12 15:07:35] @usernamegg:matrix.bestflowers247.online: давай
+--------------------
+[2024-01-12 15:07:40] @usernamegg:matrix.bestflowers247.online: хорошо
+--------------------
+[2024-01-12 15:07:43] @usernamegg:matrix.bestflowers247.online: 1800 можно
+--------------------
+[2024-01-12 15:07:47] @usernamegg:matrix.bestflowers247.online: скажи
+--------------------
+[2024-01-12 15:41:12] @tinker:matrix.bestflowers247.online: сек
+--------------------
+[2024-01-12 15:48:30] @tinker:matrix.bestflowers247.online: да, давай так
+--------------------
+[2024-01-12 15:48:46] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-01-12 15:49:01] @tinker:matrix.bestflowers247.online: если он упрётся рогом, то может и 1200 стоит взять, потому что из тех сумм, которые я у них смотрел, они и правда походят к пику на 1200
+--------------------
+[2024-01-12 15:49:06] @tinker:matrix.bestflowers247.online: но это было без учёта loans
+--------------------
+[2024-01-12 15:49:16] @tinker:matrix.bestflowers247.online: так что я накидываю ещё им подушку безопасности
+--------------------
+[2024-01-12 15:49:22] @tinker:matrix.bestflowers247.online: в рамках займов
+--------------------
+[2024-01-12 16:00:27] @cob_crypt_ward:matrix.bestflowers247.online: не стоит думаю, можно у других попробовать взять крипт кобы
+--------------------
+[2024-01-12 16:00:55] @cob_crypt_ward:matrix.bestflowers247.online: EV серт отлететь может же легко
+--------------------
+[2024-01-12 16:01:01] @cob_crypt_ward:matrix.bestflowers247.online: слишком затратно и опасно
+--------------------
+[2024-01-12 16:01:21] @cob_crypt_ward:matrix.bestflowers247.online: там детект не в моей части, а в самом коде UDRL
+--------------------
+[2024-01-12 16:01:34] @cob_crypt_ward:matrix.bestflowers247.online: если BRC4 криптануть, все ок будет
+--------------------
+[2024-01-12 17:18:53] @n3auxaxl:matrix.collectionofmanager.space: Привет, как ты там?
+У меня по боту полностью все будет готово к 17-18 числу, постораюсь раньше конечно, но я уже почти его полностью переписал, чтобы фул новый был, я там увидел статьи, сильно очень меня зареверсили, алгоритмы конечно долго держались, все новое уже почти готово
+--------------------
+[2024-01-12 17:19:12] @n3auxaxl:matrix.collectionofmanager.space: Закреп тоже, кароче к 17-18 числу будет готово, билды смогу выдавать с 15, но там будет не переписано
+--------------------
+[2024-01-12 17:19:31] @n3auxaxl:matrix.collectionofmanager.space: Ну с 15 пока нагрузку протестим и так далее, как раз к норм запуску 17-18 будет все четко
+--------------------
+[2024-01-12 17:20:41] @n3auxaxl:matrix.collectionofmanager.space: Кстати, переписал прокладки полностью и создание проксей, теперь все еще лучше будет, ну и оптимизации в беке сделал, чтобы нагрузку снизить, а то в последний раз когда реверсеры залетали - 10 процентов нагрузка была, а для 1к запросов в секунду, это много
+--------------------
+[2024-01-12 17:21:31] @n3auxaxl:matrix.collectionofmanager.space: Сейчас могу поддерживать до 25к запросов в секунду легко, если больше, максимум - 200к
+--------------------
+[2024-01-12 17:23:41] @n3auxaxl:matrix.collectionofmanager.space: Кароче все улучшаю и стабилизрую, думаю до лета протянем даже с текущей версией, ибо они много процессов описали, как реверсили бота,усложню им жизнь порядочно
+--------------------
+[2024-01-12 21:22:18] @cameron777:matrix.org: privet , tam pishut v hyundai i v pecofood vrode 1800 napisali vmesto 1.8 layama
+--------------------
+[2024-01-12 22:38:23] @cameron777:matrix.org: * privet , tam pishut v hyundai
+--------------------
+[2024-01-12 22:40:58] @tinker:matrix.bestflowers247.online: блять! сливаются! я это видел! уже было 100 раз - я знаю этот паттерн. Это наёмный переговорщик. У него есть протокол, когда фирма понимает что цена слишком большая, начинают говорить - идём в банк, потом ещё раз, и ещё раз
+--------------------
+[2024-01-12 22:41:10] @tinker:matrix.bestflowers247.online: а потом просто говорят - денег банк не дал - идите нафиг
+--------------------
+[2024-01-12 22:41:35] @tinker:matrix.bestflowers247.online: Это сделано на случай, если те кто рансом требуют сольют чат в сеть
+--------------------
+[2024-01-12 22:41:58] @tinker:matrix.bestflowers247.online: что мол - мы не причём, сделали всё, что могли. Они даже могут и пойти в банк но задрать заведомо нереальную цену
+--------------------
+[2024-01-12 22:42:18] @tinker:matrix.bestflowers247.online: короче, я такое уже видел не раз. Скинул им, сказал чтобы прямо сейчас кидали - иначе всё потеряем
+--------------------
+[2024-01-12 22:42:26] @tinker:matrix.bestflowers247.online: блин, я как знал что с этими суками не так что-то
+--------------------
+[2024-01-12 22:45:32] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2024-01-12 22:45:34] @usernamegg:matrix.bestflowers247.online: привеь
+--------------------
+[2024-01-12 22:45:54] @usernamegg:matrix.bestflowers247.online: * привет
+--------------------
+[2024-01-12 22:46:55] @usernamegg:matrix.bestflowers247.online: maybe even 1,350,000 will work in case you have the timing right
+--------------------
+[2024-01-12 22:47:01] @usernamegg:matrix.bestflowers247.online: что ты тут перепарноил
+--------------------
+[2024-01-12 23:01:11] @tinker:matrix.bestflowers247.online: доверься мне
+--------------------
+[2024-01-12 23:01:19] @tinker:matrix.bestflowers247.online: они сейчас уйдут и потеряем больше
+--------------------
+[2024-01-12 23:01:23] @tinker:matrix.bestflowers247.online: я хнаю этот паттерн
+--------------------
+[2024-01-12 23:01:27] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-01-12 23:18:31] @usernamenn:matrix.bestflowers247.online: > <@usernamegg:matrix.bestflowers247.online> https://community.broadcom.com/symantecenterprise/communities/community-home/digestviewer/viewthread?MessageKey=12d05d53-d902-4774-9391-4b4e54f7a77d&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=digestviewer#bm12d05d53-d902-4774-9391-4b4e54f7a77d
+
+да это знаю старая тема со старым симантеком
+--------------------
+[2024-01-12 23:20:12] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-01-12 23:20:14] @usernamegg:matrix.bestflowers247.online: все я спать
+--------------------
+[2024-01-12 23:20:23] @usernamenn:matrix.bestflowers247.online: там команда рабочая есть
+--------------------
+[2024-01-12 23:20:27] @usernamenn:matrix.bestflowers247.online: smc stop
+--------------------
+[2024-01-12 23:20:36] @usernamenn:matrix.bestflowers247.online: без регистра
+--------------------
+[2024-01-12 23:21:01] @usernamenn:matrix.bestflowers247.online: я вчера ночью двинулся на пару тачек с горем пополам с этими детеками ебучими
+--------------------
+[2024-01-12 23:21:11] @usernamenn:matrix.bestflowers247.online: молодой не осилил деф и тренд микро
+--------------------
+[2024-01-12 23:21:28] @usernamenn:matrix.bestflowers247.online: у него сгорело от того что он не будет больше криптовать кобу
+--------------------
+[2024-01-12 23:21:35] @usernamenn:matrix.bestflowers247.online: только BRC4
+--------------------
+[2024-01-12 23:24:08] @usernamenn:matrix.bestflowers247.online: Споки до завтра
+--------------------

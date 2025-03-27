@@ -1,0 +1,126 @@
+[2024-01-18 02:05:54] @tinker:matrix.bestflowers247.online: Привет!
+--------------------
+[2024-01-18 02:06:08] @tinker:matrix.bestflowers247.online: не потерл меня? у меня тут адская жопа была - не мог выйти в сеть
+--------------------
+[2024-01-18 02:06:15] @tinker:matrix.bestflowers247.online: вот только смог
+--------------------
+[2024-01-18 07:48:21] @usernamegg:matrix.bestflowers247.online: потерял
+--------------------
+[2024-01-18 07:48:22] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2024-01-18 07:48:30] @usernamegg:matrix.bestflowers247.online: думал уже кого то еще искать )
+--------------------
+[2024-01-18 07:48:39] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2024-01-18 07:48:46] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-01-18 07:48:48] @usernamegg:matrix.bestflowers247.online: давайде
+--------------------
+[2024-01-18 07:48:58] @usernamegg:matrix.bestflowers247.online: ты тоже заболел?
+--------------------
+[2024-01-18 07:59:02] @usernamegg:matrix.bestflowers247.online: мы запускаемся вот вот
+--------------------
+[2024-01-18 07:59:07] @usernamegg:matrix.bestflowers247.online: как по объему таргетов ?
+--------------------
+[2024-01-18 10:36:49] @usernameugway:matrix.bestflowers247.online: я уже отошел
+--------------------
+[2024-01-18 10:36:59] @usernameugway:matrix.bestflowers247.online: ну долго держало что-то ппц
+--------------------
+[2024-01-18 12:10:12] @usernamenn:matrix.bestflowers247.online: > <@muaddib6:matrix.org> sent a file.
+
+на Сентинеле стучит минуту и потом погибает, не успеваю инжект кинуть. Связь по DNS.
+--------------------
+[2024-01-18 12:10:20] @usernamenn:matrix.bestflowers247.online: можно сделать рекрипт?
+--------------------
+[2024-01-18 12:12:15] @muaddib6:matrix.org: А исходник тот же?
+--------------------
+[2024-01-18 12:12:25] @usernamenn:matrix.bestflowers247.online: могу выдать другой
+--------------------
+[2024-01-18 12:12:46] @muaddib6:matrix.org: Лучше другой. так же х64
+--------------------
+[2024-01-18 12:12:58] @usernamenn:matrix.bestflowers247.online: Ok, минуту
+--------------------
+[2024-01-18 12:15:14] @usernamenn:matrix.bestflowers247.online: cob_32DNS_x64.bin
+--------------------
+[2024-01-18 12:15:45] @muaddib6:matrix.org: занимаюсь
+--------------------
+[2024-01-18 12:15:58] @usernamenn:matrix.bestflowers247.online: могу еще скинуть на другую кобу
+--------------------
+[2024-01-18 12:18:28] @lapa:matrix.bestflowers247.online: Можно попробывать что-то собрать и проверить чисто ли
+--------------------
+[2024-01-18 12:22:15] @muaddib6:matrix.org: давай
+--------------------
+[2024-01-18 12:25:59] @usernamenn:matrix.bestflowers247.online: cob33DNS_x64.bin
+--------------------
+[2024-01-18 12:26:15] @muaddib6:matrix.org: ++
+--------------------
+[2024-01-18 12:26:31] @usernamenn:matrix.bestflowers247.online: через сколько ориентировочно будет готово?
+--------------------
+[2024-01-18 12:26:40] @muaddib6:matrix.org: 1-2 xfcf
+--------------------
+[2024-01-18 12:26:48] @usernamenn:matrix.bestflowers247.online: Хорошо
+--------------------
+[2024-01-18 12:26:48] @muaddib6:matrix.org: 1-2 часа
+--------------------
+[2024-01-18 14:15:15] @tinker:matrix.bestflowers247.online: Да, извини, я тебе клянусь, не было возможности выйти в сеть
+--------------------
+[2024-01-18 14:20:19] @muaddib6:matrix.org: > <@usernamenn:matrix.bestflowers247.online> sent a file.
+
+Готово
+--------------------
+[2024-01-18 14:20:30] @muaddib6:matrix.org: 1.7z
+--------------------
+[2024-01-18 14:20:39] @muaddib6:matrix.org: rundll32 file.dll, GetDirectHelper
+--------------------
+[2024-01-18 14:28:07] @usernamenn:matrix.bestflowers247.online: Спасибо ща проверю
+--------------------
+[2024-01-18 14:28:15] @muaddib6:matrix.org: +
+--------------------
+[2024-01-18 18:49:38] @usernamegg:matrix.bestflowers247.online: давай завтра
+--------------------
+[2024-01-18 18:49:44] @usernamegg:matrix.bestflowers247.online: ок
+--------------------
+[2024-01-18 18:50:00] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2024-01-18 18:50:02] @usernamegg:matrix.bestflowers247.online: как ты ?
+--------------------
+[2024-01-18 19:19:07] @usernamenn:matrix.bestflowers247.online: Привет
+--------------------
+[2024-01-18 19:19:09] @usernamenn:matrix.bestflowers247.online: нормально
+--------------------
+[2024-01-18 19:19:15] @usernamenn:matrix.bestflowers247.online: а че такое?
+--------------------
+[2024-01-18 20:37:19] @usernamegg:matrix.bestflowers247.online: ничего
+--------------------
+[2024-01-18 20:37:21] @usernamegg:matrix.bestflowers247.online: отдыхаешь ?
+--------------------
+[2024-01-18 20:37:39] @usernamenn:matrix.bestflowers247.online: ну чутка отдыхал
+--------------------
+[2024-01-18 20:37:41] @usernamenn:matrix.bestflowers247.online: сегодня
+--------------------
+[2024-01-18 20:37:51] @usernamenn:matrix.bestflowers247.online: короче по FLYT все хуево
+--------------------
+[2024-01-18 20:38:03] @usernamenn:matrix.bestflowers247.online: там крипт сделали плохой где сент спалил его
+--------------------
+[2024-01-18 20:38:12] @usernamenn:matrix.bestflowers247.online: и сент спалил локального админа
+--------------------
+[2024-01-18 20:38:19] @usernamenn:matrix.bestflowers247.online: и сменил ему пасс и на всех тачках тоже
+--------------------
+[2024-01-18 20:38:30] @usernamenn:matrix.bestflowers247.online: пиздец короче
+--------------------
+[2024-01-18 20:40:28] @usernamenn:matrix.bestflowers247.online: осталось 2 живых тачки
+--------------------
+[2024-01-18 20:40:31] @usernamenn:matrix.bestflowers247.online: в домене
+--------------------
+[2024-01-18 20:40:50] @usernamenn:matrix.bestflowers247.online: если звать начинать все то уже нужно звать прям конкретно и ставить все качать и потом уже ставить
+--------------------
+[2024-01-18 20:40:52] @usernamenn:matrix.bestflowers247.online: только так
+--------------------
+[2024-01-18 20:41:05] @usernamenn:matrix.bestflowers247.online: если щас мне через доменного опять пытаться звать это опять палево и сто процентов выпил
+--------------------
+[2024-01-18 22:00:27] @usernamenn:matrix.bestflowers247.online: Все
+--------------------
+[2024-01-18 22:00:29] @usernamenn:matrix.bestflowers247.online: фулл все сдохло
+--------------------
+[2024-01-18 22:00:41] @usernamenn:matrix.bestflowers247.online: FLYT
+--------------------

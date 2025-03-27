@@ -1,0 +1,316 @@
+[2023-10-15 12:23:50] @usernameugway:matrix.bestflowers247.online: получится по тз сделать комбайн под тимсы или пока не до этого?
+--------------------
+[2023-10-15 14:34:57] @usernamegg:matrix.bestflowers247.online: > <@usernameugway:matrix.bestflowers247.online> ---------------------------
+>
+> профиль отправки
+> -рандомизируем юзерагент на N-кол-во отправок
+>
+> IP
+> -подключаем пул прокси
+> -или загружаем свои прокси
+> -чекер прокси,чтобы были только живые в работе и менялись если отлетают
+>
+> многопоточность
+> -сейчас отправляется крупная компания 1-2часа, как ускорить?
+>
+> Работа с письмами
+> -рандомизация классическая
+> -подставляем имена и название компании в текст (выбираем под это места)
+>
+> работа с нагрузкой
+> - кол-во успешных отправок на один файл
+>
+> аккаунты с которых будет идти отправка
+> - прогружаем
+> - при смерти аккаунта подставляем новый (акки называем универсально чтобы подходили под все компании)
+>
+> проверка ошибок, действия при одной из них
+> - отлетела прокси
+> - спален файл
+> - умер аккаунт
+>
+> ---------------------------------------------
+>
+> Сценарий работы.
+>
+> Создаем компанию на рассылку
+> Если это наша база, мы прогружаем контакты разбитые по компаниям. наприемр 100 тхт с разными компаниями
+> Добавляем нагрузку. например 100шт пдф
+> Выставляем условия по нагрузке,  например 1 успешная доставка = 1 нагрузка
+>
+> Настраиваем письмо/разводку
+> Текст, места где нужно добавлять компанию (домен компании) или обращение по имени к жертве
+>
+> Запускаем
+>
+> После открута рассылки, выдаем отчет.
+> отправлено всего
+> кол-во успешных доставок
+
+!
+--------------------
+[2023-10-15 14:35:15] @usernamegg:matrix.bestflowers247.online: ты про это ?
+--------------------
+[2023-10-15 14:35:31] @usernamegg:matrix.bestflowers247.online: ну все ты напсиал норм так это и работает
+--------------------
+[2023-10-15 14:52:59] @usernameugway:matrix.bestflowers247.online: у тебя есть кто-нибудь свободный,  кто может написать,  или пока не до этого?
+--------------------
+[2023-10-15 14:53:23] @usernameugway:matrix.bestflowers247.online: раста кстати сказал что через пару дней будет js  работать в качестве нагрузки в панеле
+--------------------
+[2023-10-15 15:07:07] @usernameugway:matrix.bestflowers247.online: -----
+--------------------
+[2023-10-15 15:07:08] @usernameugway:matrix.bestflowers247.online: https://www.hackergpt.chat/ru
+--------------------
+[2023-10-15 15:07:10] @usernameugway:matrix.bestflowers247.online: зацени)
+--------------------
+[2023-10-15 15:07:12] @usernameugway:matrix.bestflowers247.online: ----
+--------------------
+[2023-10-15 15:07:52] @usernamegg:matrix.bestflowers247.online: да ты что ) у меня все под завязку загруженны
+--------------------
+[2023-10-15 15:07:58] @usernamegg:matrix.bestflowers247.online: ты бы знал как они ждут пятницу
+--------------------
+[2023-10-15 15:08:18] @usernamegg:matrix.bestflowers247.online: выходные для них как праздник сейчас
+--------------------
+[2023-10-15 15:08:39] @usernameugway:matrix.bestflowers247.online: все понял)
+--------------------
+[2023-10-15 15:08:46] @usernamegg:matrix.bestflowers247.online: 
+https://www.hackergpt.chat/ru
+--------------------
+[2023-10-15 15:08:47] @usernamegg:matrix.bestflowers247.online: 
+https://www.hackergpt.chat/ru
+--------------------
+[2023-10-15 15:09:01] @usernamegg:matrix.bestflowers247.online: да да ) видел
+--------------------
+[2023-10-15 15:09:07] @usernamegg:matrix.bestflowers247.online: а твои что ?
+--------------------
+[2023-10-15 15:09:12] @usernamegg:matrix.bestflowers247.online: они же подручные у тебя
+--------------------
+[2023-10-15 15:09:14] @usernamegg:matrix.bestflowers247.online: рядом сидят
+--------------------
+[2023-10-15 15:09:39] @usernameugway:matrix.bestflowers247.online: у меня он один)) пока что
+--------------------
+[2023-10-15 15:09:51] @usernameugway:matrix.bestflowers247.online: ладно я чтонибудь придумаю)
+--------------------
+[2023-10-15 15:10:25] @usernameugway:matrix.bestflowers247.online: бро схема с пдфками норм заходит? сайт в пдф
+--------------------
+[2023-10-15 15:10:34] @usernameugway:matrix.bestflowers247.online: то что слали по тимсам в тот раз
+--------------------
+[2023-10-15 15:10:49] @usernameugway:matrix.bestflowers247.online: или херня по итогу
+--------------------
+[2023-10-15 15:15:23] @usernamegg:matrix.bestflowers247.online: ничего не пришло с тимс
+--------------------
+[2023-10-15 15:15:34] @usernamegg:matrix.bestflowers247.online: сейчас видел по скайпу еще шлют
+--------------------
+[2023-10-15 15:15:41] @usernamegg:matrix.bestflowers247.online: может какие то другие еще месаджеры есть
+--------------------
+[2023-10-15 15:15:46] @usernamegg:matrix.bestflowers247.online: которые использую корп сети
+--------------------
+[2023-10-15 15:16:04] @usernameugway:matrix.bestflowers247.online: да, у меня есть пара идей на выходных накидал, в пнд попробуем
+--------------------
+[2023-10-15 15:16:11] @usernameugway:matrix.bestflowers247.online: а тимс превратим в конвеер
+--------------------
+[2023-10-15 15:16:15] @usernameugway:matrix.bestflowers247.online: думаю выхлоп будет на обьеме
+--------------------
+[2023-10-15 15:16:18] @usernameugway:matrix.bestflowers247.online: как у тебя с имейлов
+--------------------
+[2023-10-15 15:16:35] @usernameugway:matrix.bestflowers247.online: условно если прослать 1млн тиисов ,тоже нальет ботов
+--------------------
+[2023-10-15 15:16:39] @usernameugway:matrix.bestflowers247.online: очень надеюсь на это
+--------------------
+[2023-10-15 15:16:44] @usernameugway:matrix.bestflowers247.online: ---
+--------------------
+[2023-10-15 15:17:03] @usernameugway:matrix.bestflowers247.online: и выводы по рассылке внутри сети тоже будут в пнд
+--------------------
+[2023-10-15 15:17:09] @usernameugway:matrix.bestflowers247.online: тк панель упала в пт, мы не все прослали
+--------------------
+[2023-10-15 15:25:34] @usernamegg:matrix.bestflowers247.online: дак ничего не стучит с пятницы
+--------------------
+[2023-10-15 15:25:40] @usernamegg:matrix.bestflowers247.online: два бота у меня пришло вынх
+--------------------
+[2023-10-15 15:30:17] @usernameugway:matrix.bestflowers247.online: раста тебе не коментировал в чем проблема?
+--------------------
+[2023-10-15 16:34:25] @usernameff:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-15 16:34:29] @usernameff:matrix.bestflowers247.online: мы здесь
+--------------------
+[2023-10-15 16:35:43] @usernameff:matrix.bestflowers247.online: мы на месте
+--------------------
+[2023-10-15 16:36:16] @usernamegg:matrix.bestflowers247.online: так
+--------------------
+[2023-10-15 16:36:20] @usernamegg:matrix.bestflowers247.online: сейчас дам доступ к рдп
+--------------------
+[2023-10-15 16:36:30] @usernamegg:matrix.bestflowers247.online: и покажу как сгружать оттуда ботов
+--------------------
+[2023-10-15 16:36:33] @usernamegg:matrix.bestflowers247.online: на прочекать
+--------------------
+[2023-10-15 16:36:37] @usernamegg:matrix.bestflowers247.online: но кого то уже поставили
+--------------------
+[2023-10-15 16:36:42] @usernamegg:matrix.bestflowers247.online: у меня подписи слетеле
+--------------------
+[2023-10-15 16:36:47] @usernamegg:matrix.bestflowers247.online: надо прочекать всех кто онлайн
+--------------------
+[2023-10-15 16:37:03] @usernameff:matrix.bestflowers247.online: ок
+--------------------
+[2023-10-15 16:37:47] @usernamegg:matrix.bestflowers247.online: так вот подписываешь
+--------------------
+[2023-10-15 16:37:58] @usernamegg:matrix.bestflowers247.online: всех
+--------------------
+[2023-10-15 16:38:13] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 19.36.57.png
+--------------------
+[2023-10-15 16:38:49] @usernamegg:matrix.bestflowers247.online: что бы позвать в работу смотришь на эту коллонку
+--------------------
+[2023-10-15 16:39:34] @usernamegg:matrix.bestflowers247.online: там видно сразу кто онлай а кто нет
+--------------------
+[2023-10-15 16:39:36] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 19.37.31.png
+--------------------
+[2023-10-15 16:39:36] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 19.38.48.png
+--------------------
+[2023-10-15 16:39:51] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 19.37.39.png
+--------------------
+[2023-10-15 16:42:00] @usernameff:matrix.bestflowers247.online: ок вроде все понятно
+--------------------
+[2023-10-15 16:43:40] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 19.42.21.png
+--------------------
+[2023-10-15 16:43:49] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 19.42.32.png
+--------------------
+[2023-10-15 16:44:41] @usernamegg:matrix.bestflowers247.online: вот инжектить свой бин фаил в процесс
+--------------------
+[2023-10-15 16:44:54] @usernamegg:matrix.bestflowers247.online: потом просто выбиварешь процесс в какой
+--------------------
+[2023-10-15 16:45:12] @usernamegg:matrix.bestflowers247.online: выбираем папку temp
+--------------------
+[2023-10-15 16:45:24] @usernamegg:matrix.bestflowers247.online: там берет свой 2dns
+--------------------
+[2023-10-15 16:45:30] @usernameff:matrix.bestflowers247.online: ok
+--------------------
+[2023-10-15 16:45:47] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 19.42.32.png
+--------------------
+[2023-10-15 16:45:52] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 19.45.29.png
+--------------------
+[2023-10-15 16:46:34] @usernameff:matrix.bestflowers247.online: ну вроде все просто
+--------------------
+[2023-10-15 16:48:23] @usernamegg:matrix.bestflowers247.online: 
+162.33.179.65
+Admin
+qwertyuiopPOIUYTREWQ1234GG
+--------------------
+[2023-10-15 16:48:28] @usernamegg:matrix.bestflowers247.online: заходите
+--------------------
+[2023-10-15 16:48:30] @usernamegg:matrix.bestflowers247.online: рдп
+--------------------
+[2023-10-15 16:48:39] @usernameff:matrix.bestflowers247.online: сек
+--------------------
+[2023-10-15 16:50:21] @usernameff:matrix.bestflowers247.online: зашел, може начинать?
+--------------------
+[2023-10-15 16:50:43] @usernameff:matrix.bestflowers247.online: просто прочекать нужно?
+--------------------
+[2023-10-15 16:51:04] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-10-15 16:51:12] @usernamegg:matrix.bestflowers247.online: и звать в работу
+--------------------
+[2023-10-15 16:51:15] @usernamegg:matrix.bestflowers247.online: можешь
+--------------------
+[2023-10-15 16:51:28] @usernameff:matrix.bestflowers247.online: ок
+--------------------
+[2023-10-15 16:56:00] @usernameff:matrix.bestflowers247.online: а  где там  открывать внутри даркгейта строку чтоб прописать systeminfo чтоб сразу спалть воркгруп или нет
+--------------------
+[2023-10-15 16:56:52] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 19.56.29.png
+--------------------
+[2023-10-15 16:57:04] @usernameff:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-15 17:01:56] @usernameff:matrix.bestflowers247.online: image.png
+--------------------
+[2023-10-15 17:02:04] @usernameff:matrix.bestflowers247.online: а тут куда кликать после того как выбрал процесс
+--------------------
+[2023-10-15 17:03:09] @usernameff:matrix.bestflowers247.online: нашел
+--------------------
+[2023-10-15 17:03:33] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 19.41.47.png
+--------------------
+[2023-10-15 17:03:47] @usernameff:matrix.bestflowers247.online: все получлось, пошло дело
+--------------------
+[2023-10-15 17:05:14] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-15 17:05:20] @usernamegg:matrix.bestflowers247.online: какие то мы поставили уже
+--------------------
+[2023-10-15 17:05:24] @usernamegg:matrix.bestflowers247.online: какие то прочекали
+--------------------
+[2023-10-15 17:05:31] @usernamegg:matrix.bestflowers247.online: скидывай если что на согласование
+--------------------
+[2023-10-15 17:06:01] @usernameff:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-15 17:18:49] @usernamegg:matrix.bestflowers247.online: вопросы ?
+--------------------
+[2023-10-15 17:19:05] @usernamegg:matrix.bestflowers247.online: Снимок экрана 2023-10-15 в 20.18.58.png
+--------------------
+[2023-10-15 17:19:12] @usernamegg:matrix.bestflowers247.online: по комп ейму смотрите кто есть кто
+--------------------
+[2023-10-15 17:19:13] @usernameff:matrix.bestflowers247.online: в основном воркгруп, несколько в днс позвал, пробваем сидим, все понятно
+--------------------
+[2023-10-15 17:19:15] @usernamegg:matrix.bestflowers247.online: реверс или нет
+--------------------
+[2023-10-15 17:19:34] @usernameff:matrix.bestflowers247.online: ок
+--------------------
+[2023-10-15 17:20:53] @usernamegg:matrix.bestflowers247.online: я отойуду
+--------------------
+[2023-10-15 17:30:50] @usernameugway:matrix.bestflowers247.online: бро как базу имейлов валидировать?
+--------------------
+[2023-10-15 17:56:58] @usernamegg:matrix.bestflowers247.online: взяли что то ?
+--------------------
+[2023-10-15 17:57:47] @usernameff:matrix.bestflowers247.online: все прочекал, почт все  воркгруп, штук 6-7 в кобу позвал, пока все маленькие
+--------------------
+[2023-10-15 17:57:58] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-15 17:58:00] @usernameff:matrix.bestflowers247.online: еще 3 сетки пробить осталось
+--------------------
+[2023-10-15 17:58:07] @usernamegg:matrix.bestflowers247.online: ага
+--------------------
+[2023-10-15 18:20:12] @usernameff:matrix.bestflowers247.online: все пробили, либо мелочь либо воркгруп в общем
+--------------------
+[2023-10-15 18:25:10] @w:matrixtcFJHPDblmt2rg.network: Привет
+--------------------
+[2023-10-15 18:25:14] @w:matrixtcFJHPDblmt2rg.network: Как у вас там дела?
+--------------------
+[2023-10-15 18:25:15] @w:matrixtcFJHPDblmt2rg.network: все получилось?
+--------------------
+[2023-10-15 18:34:35] @w:matrixtcFJHPDblmt2rg.network: я завтар с утра если что уже буду
+--------------------
+[2023-10-15 18:34:53] @w:matrixtcFJHPDblmt2rg.network: уже вроде как все донастроил
+--------------------
+[2023-10-15 18:34:55] @w:matrixtcFJHPDblmt2rg.network: все четко
+--------------------
+[2023-10-15 18:36:16] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-10-15 18:37:23] @usernamegg:matrix.bestflowers247.online: давай
+--------------------
+[2023-10-15 18:37:24] @usernamegg:matrix.bestflowers247.online: отлично
+--------------------
+[2023-10-15 18:37:25] @usernamegg:matrix.bestflowers247.online: все поднял
+--------------------
+[2023-10-15 18:37:26] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-10-15 18:37:27] @usernamegg:matrix.bestflowers247.online: но мало пришло
+--------------------
+[2023-10-15 18:37:28] @usernamegg:matrix.bestflowers247.online: ты что донастроил ?
+--------------------
+[2023-10-15 18:37:29] @usernamegg:matrix.bestflowers247.online: заватра тебя слать будем ?
+--------------------
+[2023-10-15 18:37:30] @usernamegg:matrix.bestflowers247.online: а ты мочему не можешь сделать что было нагрузку vbs b js ?
+--------------------
+[2023-10-15 18:37:31] @usernamegg:matrix.bestflowers247.online: или
+--------------------
+[2023-10-15 19:03:45] @w:matrixtcFJHPDblmt2rg.network: > <@usernamegg:matrix.bestflowers247.online> а ты мочему не можешь сделать что было нагрузку vbs b js ?
+
+я могу это тоже сделать
+--------------------
+[2023-10-15 19:03:49] @w:matrixtcFJHPDblmt2rg.network: не проблема
+--------------------
+[2023-10-15 19:04:12] @w:matrixtcFJHPDblmt2rg.network: > <@usernamegg:matrix.bestflowers247.online> ты что донастроил ?
+
+чтобы четко работать мог
+--------------------
+[2023-10-15 19:04:24] @w:matrixtcFJHPDblmt2rg.network: > <@usernamegg:matrix.bestflowers247.online> заватра тебя слать будем ?
+
+завтра с утра спишемся, щас буду прокси добавлять
+--------------------
+[2023-10-15 19:04:28] @w:matrixtcFJHPDblmt2rg.network: и делать новые билды
+--------------------

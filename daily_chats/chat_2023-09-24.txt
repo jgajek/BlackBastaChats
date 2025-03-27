@@ -1,0 +1,32 @@
+[2023-09-24 05:21:53] @usernameugway:matrix.bestflowers247.online: час от часу не легче)
+--------------------
+[2023-09-24 08:05:51] @usernameyy:matrix.bestflowers247.online: давай
+--------------------
+[2023-09-24 09:12:53] @usernameyy:matrix.bestflowers247.online: cob5
+```
+>>> Coba PROXY <<<
+
+ssh -p10499 root@46.161.27.152
+DdRVWIcWT9UHf5bn1FMtmqG8z3RFMZrDcBn
+
+https://lkcagar.com (Ports: 80,443,8080,8888,7575,4444)
+----------------------------------------------------------------------------------------
+>>> Coba SERVER 4.8 TE <<<
+
+ssh -p47231 root@141.98.81.48
+l8jJPOfo2FJSu2WvPFm3r5mNAcLrktHQnuP
+
+COBA://141.98.81.48:38400
+Z8rg95rrEmgpEzuaMcRYOjZRSe7zfTwW4PS
+
+./teamserver 141.98.81.48 Z8rg95rrEmgpEzuaMcRYOjZRSe7zfTwW4PS ./xxxx.profile
+
+--------------------
+[2023-09-24 09:56:48] @usernameyy:matrix.bestflowers247.online: настроил там фаервол (тестовый режим), пропуск точно работает, насчет блока надо затестить, но по логам всё ок
+--------------------
+[2023-09-24 11:29:47] @usernameyy:matrix.bestflowers247.online: я пойду прогуляюсь
+--------------------
+[2023-09-24 16:27:33] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-09-24 18:13:49] @usernameyy:matrix.bestflowers247.online: ну что, ты так и не скинул)
+--------------------

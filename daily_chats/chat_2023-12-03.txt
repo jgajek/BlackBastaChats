@@ -1,0 +1,178 @@
+[2023-12-03 07:34:27] @usernameugway:matrix.bestflowers247.online: > https://www.humansecurity.com/learn/blog/human-satori-threat-intelligence-alert-account-takeover-attacks-use-scrubcrypt-to-deploy-redline-stealer-malware
+
+порегался на форумах везде он забанен,  не нашел актуальной ветки
+--------------------
+[2023-12-03 08:14:22] @cameron777:matrix.org: privet
+--------------------
+[2023-12-03 09:32:02] @usernamegg:matrix.bestflowers247.online: тут ?
+--------------------
+[2023-12-03 09:33:12] @usernamegg:matrix.bestflowers247.online: [10:53:53] adm: привет
+[10:53:55] adm: проблема
+[10:54:07] adm: чет билд который выдал не лочит
+[10:54:10] adm: ни екси
+[10:54:12] adm: ни винду
+[10:54:55] adm: [root@esxi8:/opt] ./encryptor
+-sh: ./encryptor: Operation not permitted
+
+[10:55:01] adm: вот так
+--------------------
+[2023-12-03 09:33:19] @usernamegg:matrix.bestflowers247.online: попросил сам билд
+--------------------
+[2023-12-03 09:35:13] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2023-12-03 09:35:24] @usernamegg:matrix.bestflowers247.online: есть кто Ю?
+--------------------
+[2023-12-03 09:35:29] @usernamegg:matrix.bestflowers247.online: * есть кто ?
+--------------------
+[2023-12-03 09:40:06] @usernameff:matrix.bestflowers247.online: да, пока тут, через минут 40 отьеду на пару часов
+--------------------
+[2023-12-03 09:41:11] @usernamegg:matrix.bestflowers247.online: [12:40:58] adm: -sh: ./encryptor: Operation not permitted
+--------------------
+[2023-12-03 09:41:45] @usernamegg:matrix.bestflowers247.online: 4e5a080a-1367-4df8-b81b-0fbbf21134d4linuxencrypt_ytvkcmxeaqv_.linux
+--------------------
+[2023-12-03 09:42:14] @usernamegg:matrix.bestflowers247.online: [12:41:07] adm: вот так выдает exsi
+[12:41:15] adm: права рут
+--------------------
+[2023-12-03 09:43:02] @usernameyy:matrix.bestflowers247.online: права пусть выдаст на исполнение файла
+--------------------
+[2023-12-03 09:43:19] @usernameyy:matrix.bestflowers247.online: image.png
+--------------------
+[2023-12-03 09:43:35] @cameron777:matrix.org: shas po traffu vozimsya
+esho 2 istochnika budut lit'
+uzhe progreli akki no nuzhna podderzhka
+ya vse chto zarobotal s bankinga za eti dni vlozhil v traff
+tak mozhesh poka podderzhat' ?
+nuzhno esho vlozhit' v traff poka pervie viplati poydut
+--------------------
+[2023-12-03 09:43:38] @usernamegg:matrix.bestflowers247.online: [12:43:32] adm: выдал
+--------------------
+[2023-12-03 09:44:01] @usernamegg:matrix.bestflowers247.online: [12:43:37] adm: 777 права
+--------------------
+[2023-12-03 09:45:15] @usernamegg:matrix.bestflowers247.online: да, конечно
+--------------------
+[2023-12-03 09:45:19] @usernamegg:matrix.bestflowers247.online: сколько нужно ?
+--------------------
+[2023-12-03 09:45:20] @usernameyy:matrix.bestflowers247.online: больше нечего добавить, локер не запускается даже, так что он не при чем
+--------------------
+[2023-12-03 09:45:28] @usernamegg:matrix.bestflowers247.online: молодец что сразу сказал
+--------------------
+[2023-12-03 09:45:34] @cameron777:matrix.org: dumayu 2k xvat'it poka chto
+--------------------
+[2023-12-03 09:45:37] @usernameyy:matrix.bestflowers247.online: может быть там esxi 8 защита, я хз, можно им нашу команду дать на ее отключение
+--------------------
+[2023-12-03 09:45:39] @usernamegg:matrix.bestflowers247.online: для этого и нужно партнерство
+--------------------
+[2023-12-03 09:45:48] @usernamegg:matrix.bestflowers247.online: я все думаю когда пойдет нормальный поток целей от тебя
+--------------------
+[2023-12-03 09:45:53] @usernamegg:matrix.bestflowers247.online: давай кошель
+--------------------
+[2023-12-03 09:46:40] @cameron777:matrix.org: shas cisco gruzhu
+tam xodyat celi no poka univeri
+no skoro esho budet + i citrix tozhe
+--------------------
+[2023-12-03 09:47:12] @usernamegg:matrix.bestflowers247.online: [12:45:25] adm: ну хз, может защита там какая стоит
+[12:45:32] adm: там серваки dell
+[12:45:48] adm: до этого всегда работало
+[12:45:52] adm: не первый раз же
+--------------------
+[2023-12-03 09:47:14] @usernamegg:matrix.bestflowers247.online: да
+--------------------
+[2023-12-03 09:47:18] @usernamegg:matrix.bestflowers247.online: команда ему нужно дать
+--------------------
+[2023-12-03 09:47:28] @usernameyy:matrix.bestflowers247.online: я ищу, пока не могу найти
+--------------------
+[2023-12-03 09:47:30] @cameron777:matrix.org: bc1qqx5sc30j87094h7lt4an44s2c9fsjlths756a3
+--------------------
+[2023-12-03 09:47:55] @cameron777:matrix.org: sps
+--------------------
+[2023-12-03 09:48:40] @usernamegg:matrix.bestflowers247.online: bd4952070e9349cd7a18225dd39a423adbf88b05c06cecfd7a0a317e81867e7d
+$2000
+--------------------
+[2023-12-03 09:48:41] @usernameyy:matrix.bestflowers247.online: ```
+esxcli system settings advanced set -o /User/execInstalledOnly -i 0
+--------------------
+[2023-12-03 09:48:54] @usernamegg:matrix.bestflowers247.online: в выходной день даже льют трафф ?
+--------------------
+[2023-12-03 09:49:14] @cameron777:matrix.org: da , no poka greyut akki
+--------------------
+[2023-12-03 09:49:31] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-03 09:49:46] @usernameyy:matrix.bestflowers247.online: https://www.reddit.com/r/vmware/comments/13febnx/upgrading_firmware_on_esxi_80u1_operation_not/
+--------------------
+[2023-12-03 09:49:49] @usernameyy:matrix.bestflowers247.online: взято отсюда
+--------------------
+[2023-12-03 09:50:21] @usernameyy:matrix.bestflowers247.online: оригинал https://docs.vmware.com/en/VMware-vSphere/8.0/vsphere-security/GUID-DF6A7974-62F9-47DB-A990-963F3B3AEA77.html
+--------------------
+[2023-12-03 09:50:36] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-03 09:51:44] @usernamegg:matrix.bestflowers247.online: с vv поговрил, в пн придет. посмотрим какой человек к вам вернется.
+--------------------
+[2023-12-03 09:53:10] @cameron777:matrix.org: tam tolko 2um trafferam vzyal adspect kloaku  tam po 500$ kazhdi
+ostalneo uxodit na traff i mat
+--------------------
+[2023-12-03 09:53:27] @cameron777:matrix.org: es't kto za svoi lyot
+--------------------
+[2023-12-03 09:53:40] @cameron777:matrix.org: * est' kto za svoi lyot
+--------------------
+[2023-12-03 09:54:18] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-03 09:54:47] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-03 09:54:52] @usernamegg:matrix.bestflowers247.online: JJ позови
+--------------------
+[2023-12-03 09:56:18] @usernamegg:matrix.bestflowers247.online: [12:50:57] adm: спс
+[12:55:56] adm: точняк
+[12:55:59] adm: запустилось
+--------------------
+[2023-12-03 09:56:39] @usernameyy:matrix.bestflowers247.online: класс👌
+--------------------
+[2023-12-03 10:03:59] @usernamejj:matrix.bestflowers247.online: здесь, понятно
+--------------------
+[2023-12-03 12:51:49] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
+[2023-12-03 14:57:06] @usernamenn:matrix.bestflowers247.online: никого нет)
+--------------------
+[2023-12-03 16:08:00] @w:matrixtcFJHPDblmt2rg.network: Привет как ты там?
+--------------------
+[2023-12-03 16:08:17] @w:matrixtcFJHPDblmt2rg.network: У меня если что завтра вечером, думаю к 21 по МСК уже все будет готово
+--------------------
+[2023-12-03 16:08:40] @w:matrixtcFJHPDblmt2rg.network: Ну полностью по билду + MSI, который надо будет подписать и все
+--------------------
+[2023-12-03 16:08:51] @w:matrixtcFJHPDblmt2rg.network: в MSI будет dll от пики
+--------------------
+[2023-12-03 16:09:00] @w:matrixtcFJHPDblmt2rg.network: ну длка криптованая будет
+--------------------
+[2023-12-03 16:09:13] @w:matrixtcFJHPDblmt2rg.network: на долго должно будет хватать такой связки
+--------------------
+[2023-12-03 16:09:16] @w:matrixtcFJHPDblmt2rg.network: билдеры почти все дописал
+--------------------
+[2023-12-03 16:09:30] @w:matrixtcFJHPDblmt2rg.network: билд вроде как чистый сам по себе, позже вечером сегодня проверю еще
+--------------------
+[2023-12-03 16:15:02] @usernameyy:matrix.bestflowers247.online: ко скольки завтра
+--------------------
+[2023-12-03 20:36:08] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2023-12-03 20:36:17] @usernamegg:matrix.bestflowers247.online: почему только завтра к вечеру ?
+--------------------
+[2023-12-03 20:36:20] @usernamegg:matrix.bestflowers247.online: раньше ни как ?
+--------------------
+[2023-12-03 20:36:25] @usernamegg:matrix.bestflowers247.online: у меня есть новая сборка
+--------------------
+[2023-12-03 20:36:27] @usernamegg:matrix.bestflowers247.online: мне нужен длл
+--------------------
+[2023-12-03 20:36:29] @usernamegg:matrix.bestflowers247.online: с утра
+--------------------
+[2023-12-03 20:36:41] @usernamegg:matrix.bestflowers247.online: я к 12 поеду
+--------------------
+[2023-12-03 20:37:07] @usernamegg:matrix.bestflowers247.online: ```
+Carol's\ Process\ Notes_Aug\ 5,\ 2023.docx
+20231005\ -\ Health\ Partners\ Clinical\ Refernce\ Laboratory\ (CRL)\ Test\ Panel\ &\ Cutoffs.pdf
+PO\ 30017\ INFINITY.xlsx
+Carol's Process Notes_Aug 5, 2023.docx
+PO 30017 INFINITY.xlsx
+```
+--------------------
+[2023-12-03 20:37:13] @usernamegg:matrix.bestflowers247.online: ictower.com
+--------------------
+[2023-12-03 20:37:20] @usernamegg:matrix.bestflowers247.online: по ним нужно собрать
+--------------------

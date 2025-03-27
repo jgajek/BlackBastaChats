@@ -1,0 +1,49 @@
+[2024-03-09 06:06:36] @usernameboy:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> `LAG-CHIDC2$::LAGUNITAS2:467E7D4E2E32D8B300000000000000000000000000000000:DA457B94AED8BAFFE4669662C7D0879712300361BDCDE078:1122334455667788`
+
+`NTLM 52f4bb1f53c9471353e03886075d0b7e`
+--------------------
+[2024-03-09 13:08:29] @usernamenn:matrix.bestflowers247.online: Есть кто?
+--------------------
+[2024-03-09 13:08:35] @usernamenn:matrix.bestflowers247.online: нужен подписанный крипт
+--------------------
+[2024-03-09 13:15:44] @burito:matrix.bestflowers247.online: Давай
+--------------------
+[2024-03-09 13:16:01] @burito:matrix.bestflowers247.online: Но подпись палится нодом
+--------------------
+[2024-03-09 13:17:26] @usernamenn:matrix.bestflowers247.online: нужно что бы не палило Crowd Strike и Trellix
+--------------------
+[2024-03-09 13:17:33] @usernamenn:matrix.bestflowers247.online: тот же вчерашний bin 12 DNS
+--------------------
+[2024-03-09 13:17:59] @usernamenn:matrix.bestflowers247.online: cob12DNS_x64.bin
+--------------------
+[2024-03-09 13:20:27] @usernamenn:matrix.bestflowers247.online: burrito: такос такос
+--------------------
+[2024-03-09 13:20:32] @usernamenn:matrix.bestflowers247.online: нужно срочно)
+--------------------
+[2024-03-09 14:03:10] @burito:matrix.bestflowers247.online: да да
+--------------------
+[2024-03-09 14:03:11] @burito:matrix.bestflowers247.online: щас
+--------------------
+[2024-03-09 14:19:55] @burito:matrix.bestflowers247.online: > <@usernamenn:matrix.bestflowers247.online> cob12DNS_x64.bin
+
+rundll32.exe dll.dll,SelectItem
+строка gdndfgmghnhgfmhng
+--------------------
+[2024-03-09 14:19:55] @burito:matrix.bestflowers247.online: cob12DNS_x64.zip
+--------------------
+[2024-03-09 14:37:58] @burito:matrix.bestflowers247.online: отойду
+--------------------
+[2024-03-09 22:00:02] @usernamenn:matrix.bestflowers247.online: ```
+545fe80183e4d1ed77dce0c748b2394a:cbae5cbfaf9eaaf2c23f21d748c9d0f2
+6e41df043e7128120f40fa1483b47c88:d1e2efabb799152f76f857f9733bd00d
+7810b9f78dd564c08633ea0d35e0ec91:31c59a26b142d03ff834a4d7d4c42cd2
+```
+--------------------
+[2024-03-09 22:00:12] @usernamenn:matrix.bestflowers247.online: LM:NTLM
+--------------------
+[2024-03-09 22:05:20] @usernamenn:matrix.bestflowers247.online: * ```
+a8ca76ade85ad1fd85ae7fdae53fbce9:790753940d9b667f33bf8021342b1cce
+6e41df043e7128120f40fa1483b47c88:d1e2efabb799152f76f857f9733bd00d
+7810b9f78dd564c08633ea0d35e0ec91:31c59a26b142d03ff834a4d7d4c42cd2
+```
+--------------------

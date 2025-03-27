@@ -1,0 +1,110 @@
+[2023-10-22 07:15:46] @w:matrixtcFJHPDblmt2rg.network: Привет, я вот как раз готовлю все
+--------------------
+[2023-10-22 07:15:50] @w:matrixtcFJHPDblmt2rg.network: вчера настраивал тдску
+--------------------
+[2023-10-22 07:16:00] @w:matrixtcFJHPDblmt2rg.network: я с трафиком разберусь
+--------------------
+[2023-10-22 07:16:10] @w:matrixtcFJHPDblmt2rg.network: щас ищу акки гугла просто, чтобы уже с билом были VCC
+--------------------
+[2023-10-22 07:16:18] @w:matrixtcFJHPDblmt2rg.network: чтобы могли туда с BTC сразу баланс пополнять
+--------------------
+[2023-10-22 07:16:28] @w:matrixtcFJHPDblmt2rg.network: чтобы с акка 1к смогли отливать
+--------------------
+[2023-10-22 07:16:31] @w:matrixtcFJHPDblmt2rg.network: 1-1.5
+--------------------
+[2023-10-22 07:16:34] @w:matrixtcFJHPDblmt2rg.network: и будет вообще отлично
+--------------------
+[2023-10-22 07:16:37] @w:matrixtcFJHPDblmt2rg.network: много кликов будет
+--------------------
+[2023-10-22 15:15:47] @usernamegg:matrix.bestflowers247.online: привет
+--------------------
+[2023-10-22 15:16:14] @usernamegg:matrix.bestflowers247.online: ты тут ?
+--------------------
+[2023-10-22 15:16:26] @usernamegg:matrix.bestflowers247.online: давай найдем на экспе кто акки эти продает
+--------------------
+[2023-10-22 15:16:39] @usernamegg:matrix.bestflowers247.online: а трафик то какой они будут отливать ?
+--------------------
+[2023-10-22 15:17:07] @usernamegg:matrix.bestflowers247.online: > Note - some people get this issue when trying to start Brute Ratel.
+>
+>
+>
+> The reason for this issue is that the xmodlib.bin file (which is present in the archive I gave you) got deleted by your system. So if you get this issue just ensure that the xmodlib.bin file is in the directory and that your system does not delete it.
+Read this!
+--------------------
+[2023-10-22 15:40:20] @w:matrixtcFJHPDblmt2rg.network: привет
+--------------------
+[2023-10-22 15:40:23] @w:matrixtcFJHPDblmt2rg.network: тут
+--------------------
+[2023-10-22 15:40:26] @w:matrixtcFJHPDblmt2rg.network: кто отливать?
+--------------------
+[2023-10-22 15:40:32] @w:matrixtcFJHPDblmt2rg.network: не понял
+--------------------
+[2023-10-22 15:41:13] @w:matrixtcFJHPDblmt2rg.network: смотри, ты просто заходишь на акк, создаешь там кампанию гугл контекста, чтобы в серче по определенным ключам мы показывались сверху
+--------------------
+[2023-10-22 15:41:21] @w:matrixtcFJHPDblmt2rg.network: там будет наш домен, ссылка на наш домен
+--------------------
+[2023-10-22 15:42:30] @w:matrixtcFJHPDblmt2rg.network: на этом домене будет стоять клоака, которая модераторам будет показывать вайт ( тот, который может пройти модерацию, белый сайт карчое ), а для обычных юзеров - блек, там уже будет наш лендос, на котором юзер будет скачивать сам билд ( exe, msi и что угодно )
+--------------------
+[2023-10-22 15:43:01] @w:matrixtcFJHPDblmt2rg.network: Осталось только сделать лендос под зум, или я помню ты говорил, что у тебя есть уже
+--------------------
+[2023-10-22 15:44:24] @w:matrixtcFJHPDblmt2rg.network: и по сути 1 акк, на котором/ых мы будем запускать наши кампании
+--------------------
+[2023-10-22 15:47:08] @w:matrixtcFJHPDblmt2rg.network: я уже нашел где акки брать, жду пока ответят
+--------------------
+[2023-10-22 15:47:10] @w:matrixtcFJHPDblmt2rg.network: на выходные ушли
+--------------------
+[2023-10-22 15:54:36] @w:matrixtcFJHPDblmt2rg.network: самое главное в таких акках чтобы там уже был VCC, который можно пополнять и акк не имел заблоченых компаний, спорных моментов и так далее
+--------------------
+[2023-10-22 15:56:16] @w:matrixtcFJHPDblmt2rg.network: а самое сложное в трафике - это пройти модерку по спецефическим ключам, которые в блоке можн осказать
+--------------------
+[2023-10-22 15:56:20] @w:matrixtcFJHPDblmt2rg.network: и тематика
+--------------------
+[2023-10-22 15:57:45] @usernamegg:matrix.bestflowers247.online: > <@w:matrixtcFJHPDblmt2rg.network> я уже нашел где акки брать, жду пока ответят
+
+ок, сообщи
+--------------------
+[2023-10-22 15:57:50] @usernamegg:matrix.bestflowers247.online: по счет ленда я отписал да
+--------------------
+[2023-10-22 15:58:06] @usernamegg:matrix.bestflowers247.online: завтра с тура от пики билды будут ?
+--------------------
+[2023-10-22 15:58:18] @usernamegg:matrix.bestflowers247.online: все ок , прошлем европпу и юсу ?
+--------------------
+[2023-10-22 15:59:23] @w:matrixtcFJHPDblmt2rg.network: да
+--------------------
+[2023-10-22 15:59:29] @w:matrixtcFJHPDblmt2rg.network: у меня уже все готово
+--------------------
+[2023-10-22 15:59:39] @w:matrixtcFJHPDblmt2rg.network: можешь и тот, который пятницу скидывал
+--------------------
+[2023-10-22 15:59:55] @w:matrixtcFJHPDblmt2rg.network: но с утра все равно выдам, я доп инфру буду ставить еще
+--------------------
+[2023-10-22 16:00:01] @w:matrixtcFJHPDblmt2rg.network: чтобы больше IP было
+--------------------
+[2023-10-22 17:33:38] @usernamegg:matrix.bestflowers247.online: ftp7 main
+--------------------
+[2023-10-22 17:33:41] @usernamegg:matrix.bestflowers247.online: пасс какой ?
+--------------------
+[2023-10-22 18:45:20] @usernameyy:matrix.bestflowers247.online: ```
+main ftp7:
+
+135.181.133.33
+root
+G9f239&'eoEL\-jaH£cln]n,&'DBf
+
+
+ftp7_middle:
+
+Main IP: 185.243.112.107
+Root Password: cK0K#9}5*'+ECs0IQEKA?\4-fguIs
+
+ftp_white
+VGEdAc3fwwSAVaDr%qVtFVWTQZeWw#e!qEaXVVG@
+
+[ftp_white]
+type = ftp
+host = 185.243.112.107
+user = ftp_white
+port = 21
+pass = AwIqLAjQaxU6lkNrp2tA9Eag57iK0D9-w_Au8kx7IuVViIJwzbYyZRTzLSDiNM-JTZWO2F1Da_o
+--------------------
+[2023-10-22 19:06:09] @usernamegg:matrix.bestflowers247.online: ++
+--------------------
